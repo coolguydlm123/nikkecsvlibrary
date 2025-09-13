@@ -1,0 +1,879 @@
+Key,Value
+tuto01_00_description,"Take care, Commander!"
+tuto01_01_title,ATTACKING ENEMIES
+tuto01_01_description,"Tap inside the indicated area and <color=#00AEFF>drag</color> to move the crosshair.
+Try moving the crosshair and shooting on your own."
+tuto01_02_title,ATTACK SIGNAL
+tuto01_02_description,"Did you see? Raptures send <color=#00AEFF>attack signals</color> before attacking. After the attack signals gather in the core of the Rapture, they'll start to attack."
+tuto01_03_title,ATTACK SIGNAL
+tuto01_03_description,"If we take down the Raptures before the attack signals stabilize, we can avoid being attacked. Shoot the Raptures down now."
+tuto01_04_title,ATTACK SIGNAL
+tuto01_04_description,Additional Raptures identified.
+tuto01_05_title,ATTACK SIGNAL
+tuto01_05_description,Raptures are preparing to attack. Please pay attention.
+tuto03_01_title,RELOADING
+tuto03_01_description,"When a Nikke stops shooting or runs out of ammo, she will <color=#00AEFF>reload</color> automatically."
+tuto04_01_title,TARGET ENEMIES
+tuto04_01_description,"In your fight against Raptures, you will encounter high-ranking enemies that act as leaders. These are your <color=#00AEFF>targets</color>.
+<color=#00AEFF>Defeat</color> these targets to achieve <color=#00AEFF>victory</color>."
+tuto02_01_title,TAKING COVER
+tuto02_01_description,"When a Nikke is not shooting, she will take <color=#00AEFF>cover</color>.
+While taking cover, a Nikke is invulnerable to enemy fire."
+tuto02_02_title,DESTROYING COVER
+tuto02_02_description,"<color=#00AEFF>Cover</color> can be <color=#00AEFF>destroyed</color> if it sustains too much damage, so be careful!"
+tuto05_00_title,BURST SKILLS
+tuto05_00_description,"As the battle progresses, your squad will enter <color=#00AEFF>Burst</color> mode, and <color=#00AEFF>Burst skills</color> will become available."
+tuto05_01_title,BURST SKILLS
+tuto05_01_description,Be sure to <color=#00AEFF>use</color> your <color=#00AEFF>Burst skills</color> before Burst mode ends.
+tuto05_02_title,BURST SKILLS
+tuto05_02_description,Using Burst skills will not only deal damage to enemies but also trigger some unique effects.
+tuto05_03_title,CHIPSET
+tuto05_03_description,"Our Rapture friends possess something called a ""chipset."" Think of them as a power source, the engine behind the machine that is a Rapture."
+tuto05_04_title,CHIPSET
+tuto05_04_description,Did you see the target's core? You can determine the chipset model by checking the color of the core. Looks like our target is packing a fire chipset.
+tuto05_05_title,BURST SKILLS
+tuto05_05_description,"This chipset happens to be susceptible to my Burst skill.
+Try to <color=#00AEFF>use</color> the <color=#00AEFF>skill</color> before Burst mode is over!"
+tuto05_06_title,BLOWOUT
+tuto05_06_description,"The Burst skill landed and triggered a blowout!
+Hitting a target with a chipset susceptible to your Burst Skill will cause a blowout."
+tuto05_07_title,BLOWOUT
+tuto05_07_description,Targets will become vulnerable after a blowout. Let's destroy the target ahead of us.
+tuto06_01_title,CHANGING NIKKE
+tuto06_01_description,"Looks like there's a heavy concentration of Raptures up ahead.
+That means it's time to bust out the <color=#00AEFF>rocket launcher</color>!
+How about <color=#00AEFF>switching</color> your controlled <color=#00AEFF>Nikke</color> to me?"
+tuto06_02_title,WEAPON TYPE: ROCKET LAUNCHER
+tuto06_02_description,"Rocket launchers deal splash damage to enemies around the area of impact.
+Tap inside the indicated area, then drag to move the crosshair and attack!"
+tuto07_01_title,CHARGED SHOTS
+tuto07_01_description,"Well done, Commander!
+Weapons like rocket launchers or sniper rifles can be <color=#00AEFF>charged up</color> before firing.
+<color=#00AEFF>Release your finger after aiming</color> to unleash a charged shot!"
+tuto07_02_title,CHARGED SHOTS
+tuto07_02_description,"See the <color=#00AEFF>charge gauge</color> to the right of the crosshair?
+The longer you charge that gauge, the greater the damage will be."
+tuto07_03_title,FIRING
+tuto07_03_description,"Let's go get them!
+Hold your finger down to charge, then release to fire!"
+tuto08_01_title,BURST I
+tuto08_01_a_description,"We've entered <color=#00AEFF>Burst</color> mode, Commander!"
+tuto08_01_b_description,"Every Nikke has their own <color=#00AEFF>unique Burst skills</color>.
+Each Burst skill has <color=#00AEFF>different effects</color>. Use them wisely to succeed in your mission."
+tuto08_01_c_description,"We currently have 2 Nikkes that can use their Burst skills!
+Why not select me and try using my Burst skill?"
+tuto08_02_title,BURST II
+tuto08_02_a_description,"After using a Burst I skill, we will <color=#00AEFF>advance</color> to the <color=#00AEFF>Burst II</color> stage.
+There are <color=#00AEFF>3 Burst stages</color> in all. You can only use Burst skills that match the current stage."
+tuto08_02_description,"At the moment, only Nikkes with Burst II skills can use Burst skills now.
+How about we try Anis' Burst skill?"
+tuto08_03_title,TARGET AREA
+tuto08_03_description,"Some Burst skills, like Anis', require you to <color=#00AEFF>drag</color> and <color=#00AEFF>select</color> the <color=#00AEFF>target area</color> before they can be used."
+tuto08_04_title,BURST III
+tuto08_04_a_description,"Now we are at the <color=#00AEFF>Burst III</color> stage.
+Using a Burst III skill at this stage will cause you to <color=#00AEFF>advance</color> to <color=#00AEFF>Full Burst</color> mode!"
+tuto08_04_description,"Now, let's try using Rapi's Burst III skill."
+tuto08_05_title,FULL BURST
+tuto08_05_description,"We've entered <color=#00AEFF>Full Burst</color> mode! 
+Limiters have been temporarily removed to greatly <color=#00AEFF>increase attack power</color>!"
+tuto08_06_title,FULL BURST
+tuto08_06_description,"While in Full Burst, Nikkes will attack any target the Commander instructs them to.
+Decimate your enemies with <color=#00AEFF>a barrage of gunfire</color>!"
+tuto09_01_title,SNIPING
+tuto09_01_description,"The enemy is too far away.
+In this situation, using a Nikke with a sniper rifle is your best bet."
+tuto09_02_title,WEAPON TYPE: SNIPER RIFLE
+tuto09_02_description,"Sniper rifles are good at aiming from <color=#00AEFF>long distance</color> to hit <color=#00AEFF>enemy cores</color>.
+Attacking an enemy's core deals more damage than attacking other body parts."
+tuto09_03_title,MOVING THE CROSSHAIR
+tuto09_03_description,Tap and drag inside the indicated area to move your crosshair and snipe the enemy.
+tuto09_04_title,SPECIAL SIGNAL
+tuto09_04_description,"Commander, please look at the middle. That Rapture is acting a bit different."
+tuto09_05_title,SPECIAL SIGNAL
+tuto09_05_description,"When a Rapture is about to use a <color=#00AEFF>special skill</color>, it will send out a signal. When the signal gathers in the core, the Rapture will unleash the skill."
+tuto09_06_title,SPECIAL SIGNAL
+tuto09_06_description,The special skills of Raptures weaken Nikkes or make the battle more difficult.
+tuto09_07_title,SPECIAL SIGNAL
+tuto09_07_description,You can destroy Raptures before they cast a special skill to prevent an attack. Go ahead and take care of the Rapture ahead of us.
+tuto09_08_title,SPECIAL SIGNAL
+tuto09_08_description,Please pay attention to the Rapture in the middle. It seems to be preparing to do something.
+tuto09_09_title,LOCK-ON
+tuto09_09_description,Is that Rapture...
+tuto09_10_title,LOCK-ON
+tuto09_10_description,High energy reaction detected! A strong attack is being prepared!
+tuto09_11_title,LOCK-ON
+tuto09_11_description,"When a Rapture is preparing a strong attack, the <color=#00AEFF>target</color> of the Rapture will be marked."
+tuto09_12_title,LOCK-ON
+tuto09_12_description,Select and order the targeted Nikke to <color=#00AEFF>take cover</color> or <color=#00AEFF>defeat</color> the enemy ASAP!
+tuto10_01_title,SHOTGUN
+tuto10_01_description,"Watch out, Commander! The enemy is approaching!
+A Nikke with a shotgun should do the trick."
+tuto10_02_title,WEAPON TYPE: SHOTGUN
+tuto10_02_description,"Shotguns fire a large number of pellets at once. 
+Enemies within close range will take more damage.
+Use the shotgun to defeat the enemies!"
+tuto12_01_title,BARRIERS
+tuto12_01_description,Some Raptures will generate a <color=#00AEFF>barrier</color> that blocks attacks from Nikkes and protects other Raptures.
+tuto12_02_title,BARRIERS
+tuto12_02_description,"<color=#00AEFF>Barriers</color> are represented in <color=#00AEFF>blue</color> above the HP bar, and can be destroyed after taking enough damage. Concentrate firepower on it!"
+tuto11_01_title,WEAK POINTS
+tuto11_01_description,"When facing a Tyrant Class Rapture or above, attack their <color=#00AEFF>weak points</color> to <color=#00AEFF>destroy</color> their weapons. Raptures whose weapons have been destroyed can no longer use their most devastating attacks, and will be more vulnerable to damage."
+tuto11_02_title,SHOOTING DOWN PROJECTILES
+tuto11_02_description,"The Black Smith has launched some <color=#00AEFF>missiles</color>!
+Shoot them down!"
+tuto11_03_title,INTERRUPTION
+tuto11_03_description,"The Black Smith is preparing a special attack!
+<color=#00AEFF>Focus your fire</color> on the designated target to <color=#00AEFF>stop</color> the <color=#00AEFF>powerful attack</color>!"
+tuto11_04_title,SPECIAL ATTACK
+tuto11_04_description,The Black Smith is preparing a special attack!
+tuto11_05_title,ALL UNITS TAKE COVER
+tuto11_05_description,Order all Nikkes to <color=#00AEFF>take cover</color> and do their best to avoid the attack!
+tuto11_06_title,ALL UNITS TAKE COVER
+tuto11_06_description,"You managed to take cover and avoid the special attack!
+When all units are taking cover, stop shooting to <color=#00AEFF>keep</color> the units <color=#00AEFF>in cover</color>."
+tuto11_07_title,ALL UNITS TAKE COVER
+tuto11_07_description,"If you reselect a Nikke, they'll stop taking cover.
+Stop taking cover and continue the fight against the Black Smith."
+tuto11_08_title,INTERRUPTION
+tuto11_08_description,The Black Smith is preparing a special attack again!
+tuto11_09_title,INTERRUPTION
+tuto11_09_description,<color=#00AEFF>Focus fire</color> on the marked part to <color=#00AEFF>stop</color> the <color=#00AEFF>special attack</color>!
+tuto11_10_title,Counterattack
+tuto11_10_description,"Beware! If <color=#00AEFF>the part marked in white</color> is <color=#00AEFF>destroyed</color>, Black Smith will immediately <color=#00AEFF>cast</color> <color=#00AEFF>a special attack</color>!"
+tuto_auto_control_01_title,AUTO BATTLE
+tuto_auto_control_01_description,Here's a tip to help you fight efficiently!
+tuto_auto_control_02_title,AUTO BATTLE
+tuto_auto_control_02_description,Activating <color=#00AEFF>Auto Battle</color> in the top left will allow Nikkes to fight at their own discretion.
+tuto_auto_control_03_title,AUTO BATTLE
+tuto_auto_control_03_description,Activating the left button allows Nikkes to <color=#00AEFF>fire automatically</color>. Activating the right button allows them to use <color=#00AEFF>Burst Skills</color> automatically.
+tuto_auto_control_04_title,AUTO BATTLE
+tuto_auto_control_04_description,You can shoot at a target location manually even in Auto Battle mode!
+field_tuto01_01_title,BATTLEFIELD MOVEMENT
+field_tuto01_01_description,"Commander, let's proceed to the rendezvous point. <color=#00AEFF>Touch</color> the field to move."
+field_tuto01_02_title,STARTING A BATTLE
+field_tuto01_02_description,We've reached the Rendezvous Point. Tap <color=#00AEFF>Start Battle</color> when you're ready.
+field_tuto02_01_title,OBJECTIVE
+field_tuto02_01_description,"Commander, each battle has its own objective.
+Since each battle has a different objective, be sure to check before the battle starts."
+field_tuto02_02_title,OBJECTIVE
+field_tuto02_02_description,"You can also check the objective in the battlefield information.
+Be sure to check it out!"
+field_tuto02_03_title,ENTERING BATTLE
+field_tuto02_03_description,"Commander, this is the Rendezvous Point. Why not go take a look?"
+field_tuto_element_01_title,WEAKNESS
+field_tuto_element_01_description,Do you remember what you just learned about chipsets and blowouts?
+field_tuto_element_02_title,WEAKNESS
+field_tuto_element_02_description,Stage Info displays the chipset weakness of the stage.
+field_tuto_element_03_title,CHIPSET ELEMENT
+field_tuto_element_03_description,"All chipsets have elemental properties associated with them.
+If you hit a target with an element susceptible to either your normal attacks or skills, you can trigger a blowout."
+field_tuto_element_04_title,CHIPSET ELEMENT
+field_tuto_element_04_description,"In this case, any Nikke's skill effects that meet this condition will be applied to the target."
+field_tuto_element_05_title,CHIPSET ELEMENT
+field_tuto_element_05_description,"There are different ways of producing blowouts depending on the skills of each Nikke, so pay attention."
+field_mission_01_title,MISSION
+field_mission_01_description,We've completed our mission. Let's check the mission rewards!
+field_mission_02_title,MISSION
+field_mission_02_description,This is the Mission Log. You'll find many missions here waiting for you. Completing these missions could land you some <color=#00AEFF>rewards</color>.
+field_mission_03_title,MISSION TYPE
+field_mission_03_description,"Missions are classified into Daily, Weekly, Main, and Challenge.
+Each of these categories contains different types of missions."
+field_mission_04_title,MAIN MISSION
+field_mission_04_description,"If you want to claim rewards from the campaign, select the Main tab."
+field_mission_05_title,GETTING REWARDS
+field_mission_05_description,Please select <color=#00AEFF>Claim All</color> to obtain all the rewards of story missions that you have completed.
+field_mission_06_title,MISSION
+field_mission_06_description,"You may be compensated for completing missions, so don't forget to check on the Missions Tab once in a while to claim your rewards!"
+field_mission_07_title,MISSION
+field_mission_07_description,"All right, shall we keep moving?"
+field_tuto03_01_title,LOST RELICS
+field_tuto03_01_description,"Look, Commander! There's something over there!"
+field_tuto03_02_title,LOST RELICS
+field_tuto03_02_description,Could this have belonged to someone who used to live here?
+field_tuto03_03_title,LOST RELICS
+field_tuto03_03_description,Let's see what it is. Tap the <color=#00AEFF>magnifier</color>.
+field_tuto03_04_title,LOST RELICS
+field_tuto03_04_description,An ancient object once used by humans who lived on the surface... Definitely worth collecting!
+field_tuto03_05_title,LOST RELICS
+field_tuto03_05_description,"In this way, you can obtain various materials, collectable <color=#00AEFF>Lost Relics</color>, or even BGM tracks on the battlefield."
+field_tuto03_06_title,LOST RELICS
+field_tuto03_06_description,"It's said that if you collect Lost Relics and BGM tracks, you'll receive rewards from the Central Government. You'd do well to pay attention to the surrounding areas while moving."
+field_tuto_effective_range_01_title,SNIPER RIFLE
+field_tuto_effective_range_01_description,"In the previous battle, we controlled a Nikke who used a sniper rifle to decimate the enemy at a distance."
+field_tuto_effective_range_02_title,RANGE
+field_tuto_effective_range_02_description,The efficiency of a Nikke's weapon is affected by the range of the target.
+field_tuto_effective_range_03_title,EFFECTIVE RANGE
+field_tuto_effective_range_03_description,A weapon's effective range will differ according to the amount of Raptures present in each stage.
+field_tuto_effective_range_04_title,EFFECTIVE RANGE
+field_tuto_effective_range_04_description,"If a weapon hits an enemy while within its effective range, it will deal extra damage."
+field_tuto_effective_range_05_title,EFFECTIVE RANGE
+field_tuto_effective_range_05_description,"It is important to take into account how far away a Rapture is, and use Nikkes wielding weapons most suited to the range."
+field_tuto_effective_range_06_title,ENTERING BATTLE
+field_tuto_effective_range_06_description,"Most of the enemies are at close-range or mid-distance this time around, so we should choose our weapons accordingly."
+field_tuto_effective_range_07_title,ENTERING BATTLE
+field_tuto_effective_range_07_description,"After entering the battle, select a Nikke equipped with a shotgun, as they are well-suited for close-range combat."
+field_tuto04_01_title,LOBBY
+field_tuto04_01_description,The Raptures are growing more dangerous by the day!
+field_tuto04_02_title,LOBBY
+field_tuto04_02_description,"Next, let me briefly explain how to manage Nikkes."
+field_tuto05_01_title,LOBBY
+field_tuto05_01_description,"Now we are in the <color=#00AEFF>Lobby</color>.
+Well... you see, Commander...
+We lost a Nikke in the previous battle, so we need to recruit a new one."
+field_tuto05_02_title,RECRUITING
+field_tuto05_02_description,"Generally speaking, a Commander should keep more than one squad at the ready at all times...
+Let's get to it, shall we?"
+field_tuto05_03_title,RECRUITING
+field_tuto05_03_description,Please select Recruit 10.
+field_tuto06_00_title,RECRUITING
+field_tuto06_00_description,Recruitment complete.
+field_tuto06_01_title,RECRUITING
+field_tuto06_01_description,We've recruited some new members. Let's create a squad.
+field_tuto06_02_title,BUILDING A SQUAD
+field_tuto06_02_description,Tap <color=#00AEFF>Squad</color>.
+field_tuto06_03_title,BUILDING A SQUAD
+field_tuto06_03_description,"This is the <color=#00AEFF>squad</color> screen, where you can build a squad with the Nikkes you've recruited."
+field_tuto06_04_title,BUILDING A SQUAD
+field_tuto06_04_description,Building your squad around Burst stages is crucial.
+field_tuto06_05_title,BUILDING A SQUAD
+field_tuto06_05_description,"During battle, Burst stages progress in order from <color=#00AEFF>I, II, and III.</color> 
+<color=#00AEFF>Burst skills</color> can only be used during their corresponding stage.
+When a Burst III skill is used, the squad will enter Full Burst mode, allowing them to unleash maximum firepower."
+field_tuto06_06_title,BUILDING A SQUAD
+field_tuto06_06_description,"To achieve Full Burst in battle and ensure <color=#00AEFF>Burst skills</color> <color=#00AEFF>carry over</color> to the next stage, it's important to assign Nikkes into <color=#00AEFF>squads</color>."
+field_tuto06_07_title,BUILDING A SQUAD
+field_tuto06_07_description,"Let's build a squad now.
+Please select the second preset."
+field_tuto06_08_title,BUILDING A SQUAD
+field_tuto06_08_description,"Next, select a Nikke slot."
+field_tuto07_01_title,BUILDING A SQUAD
+field_tuto07_01_description,Here you can see all the Nikkes you have recruited.
+field_tuto07_02_title,BUILDING A SQUAD
+field_tuto07_02_description,Please select a Nikke to take part in missions.
+field_tuto07_03_title,BUILDING A SQUAD
+field_tuto07_03_description,"The selected Nikke has been added to the first slot.
+Nikkes will be <color=#00AEFF>added to a slot</color> in the <color=#00AEFF>order they were selected</color>."
+field_tuto07_04_title,BUILDING A SQUAD
+field_tuto07_04_description,"If you are not satisfied with the squad, you can tap the slot and assign another Nikke."
+field_tuto07_05_title,BUILDING A SQUAD
+field_tuto07_05_description,Let's try to form a squad!
+field_tuto07_06_title,AUTO FORMATION
+field_tuto07_06_description,"If you choose to use Auto Form Squad, the game will automatically form the most appropriate Squad with the Nikkes you have recruited."
+field_tuto07_07_title,SAVE SQUAD
+field_tuto07_07_description,"Now you have a Nikke in every slot!
+Tap the ""Save"" button to save the Squad you have formed."
+field_tuto07_08_title,SQUAD FORMATION
+field_tuto07_08_description,Squad formed!
+field_tuto07_09_title,SQUAD FORMATION
+field_tuto07_09_description,We've learned about creating a squad. Let's move on to powering up Nikkes.
+field_tuto07_10_title,ENTER LOBBY
+field_tuto07_10_description,"Now that we're ready, let's return to the Lobby!"
+tuto_team_setting_01_title,SQUAD FORMATION
+tuto_team_setting_01_description,"Here, you can form your squad as you like."
+tuto_team_setting_02_title,SQUAD FORMATION
+tuto_team_setting_02_description,Check the squad formation status in the slot above.
+tuto_team_setting_03_title,SQUAD FORMATION
+tuto_team_setting_03_description,You can find the Nikkes you own below.
+tuto_team_setting_04_title,SQUAD FORMATION
+tuto_team_setting_04_description,Form your squad by picking the Nikkes you want to include.
+tuto_team_setting_05_title,SQUAD FORMATION
+tuto_team_setting_05_description,"Now that you've formed your squad, try selecting a Nikke who's already part of a squad."
+tuto_team_setting_06_title,SQUAD FORMATION
+tuto_team_setting_06_description,You can remove a Nikke from the squad by selecting her.
+tuto_team_setting_07_title,SQUAD FORMATION
+tuto_team_setting_07_description,"If there's an empty slot, you can select a Nikke to join the squad.
+Please select a Nikke from below."
+tuto_cube_01_description,You can select a Cube to check its abilities and skills.
+tuto_cube_02_description,Selecting a Cube also lets you see who is wearing it.
+tuto_attractive_01_description,Advise a Nikke to improve your bond with her.
+tuto_attractive_02_description,Sending a gift to a Nikke can also improve your bond.
+tuto_attractive_03_description,You can see the attributes enhanced by improving your bond.
+tuto_attractive_04_description,You can mark the Nikkes you like best as a Special Nikke.
+tuto_dispatch_01_description,Shows the number of dispatch missions you've accepted as well as the max number that you can accept.
+tuto_dispatch_02_description,"This is the dispatch list, where you can view available dispatch missions."
+tuto_dispatch_03_description,This is how long until the dispatch list refreshes automatically. You can also refresh it manually.
+tuto_tower_01_description,You can select a stage by swiping up and down.
+tuto_tower_02_description,Tap a stage to view details.
+tuto_recycleroom_01_description,"Joint Research
+Increases the power of all Nikkes."
+tuto_recycleroom_02_description,"Class Research
+Increases the power of all Nikkes in the class you selected for the research."
+tuto_recycleroom_03_description,"Manufacturer Research
+Increases the power of all Nikkes from the manufacturer you selected for the research."
+tuto_campaign_hard_open_01_description,"Campaign Hard mode unlocked.
+In this mode, you will come across more powerful enemies."
+tuto_academy_01_description,The Academy offers various lessons.
+tuto_academy_02_description,Students must meet certain conditions in order to take a lesson.
+tuto_academy_03_description,Taking lessons can activate various effects.
+tuto_academy_04_description,You can check the class list and the progress of lessons.
+tuto_academy_05_description,You can check the status of each lesson.
+field_tuto08_00_title,NIKKES
+field_tuto08_00_description,We've learned about creating squads. Let's move on to powering up Nikkes.
+field_tuto08_01_title,LOBBY
+field_tuto08_01_description,"Commander! To fight against stronger enemies in the future, we need to get stronger as well.
+Let's go back to the Lobby."
+field_tuto08_02_title,NIKKES
+field_tuto08_02_description,Please tap the <color=#00AEFF>Nikke</color> button.
+field_tuto09_00_title,NIKKES
+field_tuto09_00_description,"You're already familiar with levelling them up, right? Next, let's learn about equipment."
+field_tuto09_01_title,NIKKE ROSTER
+field_tuto09_01_description,You can view all the Nikkes that you have here.
+field_tuto09_02_title,NIKKE ROSTER
+field_tuto09_02_description,"Let's help your Nikkes get stronger.
+Select a Nikke from the list."
+field_tuto09_03_title,NIKKE DETAILS
+field_tuto09_03_description,You can view the details of a Nikke on this page.
+field_tuto09_04_title,LEVELING UP NIKKES
+field_tuto09_04_description,Please tap the <color=#00AEFF>Upgrade</color> button.
+field_tuto09_05_title,LEVELING UP NIKKES
+field_tuto09_05_description,"Tap the Upgrade button to level up the Nikke.
+Tap and hold to continuously level up."
+tuto_level_up_01_title,LEVELING UP NIKKES
+tuto_level_up_01_description,Please select a Nikke from the Nikke Roster.
+tuto_level_up_02_title,LEVELING UP NIKKES
+tuto_level_up_02_description,"Here, you can enhance your Nikkes by leveling them up."
+tuto_level_up_03_title,LEVELING UP NIKKES
+tuto_level_up_03_description,"If you own the materials required for leveling up, they will be used to level up your Nikke."
+tuto_level_up_04_title,LEVELING UP NIKKES
+tuto_level_up_04_description,"After leveling up, Nikkes will have higher attributes.
+Make sure to level them up for smoother battles!"
+tuto_level_up_05_title,LEVELING UP NIKKES
+tuto_level_up_05_description,"When you find the battles challenging, it's time to level up.
+Keep that in mind, Commander!"
+field_tuto09_06_title,WEARING EQUIPMENT
+field_tuto09_06_description,"Well done!
+Now you can level up at your discretion."
+field_tuto10_00_title,WEARING EQUIPMENT
+field_tuto10_00_description,Well done! Let's put some equipment on Nikkes. Nikkes can only wear equipment from their own class.
+field_tuto10_01_title,QUICK EQUIP
+field_tuto10_01_description,<color=#00AEFF>Quick Equip</color> will automatically equip your Nikke. Tap Quick Equip now.
+field_tuto10_02_title,WEARING EQUIPMENT
+field_tuto10_02_description,"Equipped.
+The Nikke will now be able to take advantage of any special properties of the equipment."
+field_tuto10_03_title,WEARING EQUIPMENT
+field_tuto10_03_description,Now you can try making other Nikkes stronger by leveling them up and having them wear different pieces of equipment.
+tuto_easy_equip_01_title,PREPARATION
+tuto_easy_equip_01_description,"Commander, have you equipped the Nikkes with equipment?
+It's very important. You might need some preparations!"
+tuto_easy_equip_02_title,WEARING EQUIPMENT
+tuto_easy_equip_02_description,You can equip a Nikke in her details page.
+tuto_easy_equip_03_title,QUICK EQUIP
+tuto_easy_equip_03_description,Select <color=#00AEFF>Quick Equip</color> to instantly equip a Nikke with the available equipment.
+tuto_easy_equip_04_title,WEARING EQUIPMENT
+tuto_easy_equip_04_description,Take note that Nikkes of different classes have different equipment suitable for them.
+tuto_easy_equip_05_title,WEARING EQUIPMENT
+tuto_easy_equip_05_description,"Now, please try equipping your favorite Nikke with the equipment of your choice!"
+tuto_easy_equip_06_title,WEARING EQUIPMENT
+tuto_easy_equip_06_description,"Commander, the equipping tutorial is not yet over!
+Please select the Nikke Roster."
+tuto_outpost_01_title,OUTPOST
+tuto_outpost_01_description,This is the <color=#00AEFF>Outpost</color>. You'll live here with Nikkes.
+tuto_outpost_02_title,OUTPOST
+tuto_outpost_02_description,Let's learn about the Outpost.
+tuto_outpost_03_title,MAIN BUILDINGS
+tuto_outpost_03_description,The central part of the Outpost consists of <color=#00AEFF>main buildings</color>.
+tuto_outpost_04_title,MAIN BUILDINGS
+tuto_outpost_04_description,"Inside main buildings, you can <color=#00AEFF>improve</color> Nikkes or gain various <color=#00AEFF>advantages</color> in battle."
+tuto_outpost_05_title,ORDINARY BUILDINGS
+tuto_outpost_05_description,"Besides the main buildings, you can construct other buildings in the vacant lot. These include research institutes for conducting research and venues for events."
+tuto_outpost_06_title,OUTPOST
+tuto_outpost_06_description,"Next, let's learn about the menu of the Outpost."
+tuto_outpost_07_title,OUTPOST
+tuto_outpost_07_description,Shall we head to the Commander's Room now?
+tuto_outpost_08_title,OUTPOST
+tuto_outpost_08_description,"Commander, please proceed to the Commander's Room!"
+tuto_outpost_hud_decription_01,The Outpost. This is where the Commander lives together with Nikkes.
+tuto_outpost_hud_decription_02,This represents the number of events in the Outpost. Tap it to display the event list.
+tuto_outpost_hud_decription_03,The following menu lets you check the status of the main buildings at a glance. Selecting from the menu lets you quickly go to each main building.
+tuto_outpost_hud_decription_04,You can view the loot collected in the Outpost Defense Crate.
+tuto_outpost_hud_decription_05,"Sometimes, special events between you and Nikkes will happen in the Outpost."
+tuto_outpost_hud_decription_06,This number denotes your current stamina. Please note that you need to use stamina to proceed with an event.
+tuto_oupostbattle_01_title,OUTPOST DEFENSE
+tuto_oupostbattle_01_description,Outposts near the surface are often attacked by Raptures. Nikkes guarding the Outpost will store the loot they gather while fighting Raptures in the crate.
+tuto_oupostbattle_02_title,OUTPOST DEFENSE
+tuto_oupostbattle_02_description,Tap the crate button to see how much loot is inside.
+tuto_oupostbattle_03_01_description,More loot will accumulate every time the Outpost is attacked.
+tuto_oupostbattle_03_02_description,Tap the <color=#00AEFF>Claim</color> button to receive the accumulated rewards.
+tuto_oupostbattle_03_03_description,The Outpost defense level will increase and you will get more loot for every 5 stages you clear.
+tuto_oupostbattle_03_04_description,"As the Outpost's defense level increases, the amount and variety of loot acquired will also increase."
+tuto_oupostbattle_03_05_description,Tap <color=#00AEFF>Wipe Out</color> to receive rewards equivalent to two hours of Outpost Defense immediately.
+tuto_oupostbattle_04_title,OBTAINING LOOT
+tuto_oupostbattle_04_description,There's already so much loot! Tap the <color=#00AEFF>Claim</color> button to obtain it all.
+tuto_oupostbattle_05_title,OUTPOST DEFENSE
+tuto_oupostbattle_0_description,"Nikkes continue defending the Outpost even when you are offline.
+However, when the crate is full, no more loot will be accumulated."
+tuto_oupostbattle_0_01_description,"Even in the Commander's absence, the Outpost Defense continues."
+tuto_oupostbattle_0_02_description,"But when the storage reaches 100%, its accumulation efficiency decreases. So make sure to claim the accumulated rewards whenever you come back!"
+tuto_outpostbuilding_01_title,CONSTRUCTING BUILDINGS
+tuto_outpostbuilding_01_description,"In the Outpost, you can directly construct buildings with the building materials obtained from Outpost Defense. Shall we try constructing a building now?"
+tuto_outpostbuilding_02_title,SELECTING A BUILDING SITE
+tuto_outpostbuilding_02_description,"To construct a building, select an available building site."
+tuto_outpostbuilding_03_title,SELECTING A BUILDING
+tuto_outpostbuilding_03_description,Then tap the Construct button.
+tuto_outpostbuilding_04_title,SELECTING A BUILDING
+tuto_outpostbuilding_04_description,Tap the Confirm button.
+tuto_outpostbuilding_05_title,COMPLETING CONSTRUCTION
+tuto_outpostbuilding_05_description,"When the construction time is over, the state becomes Ready.
+Select the building in the Ready state to complete the building."
+tuto_outpostbuilding_06_title,CONSTRUCTING BUILDINGS
+tuto_outpostbuilding_06_description,"You can construct buildings on available areas at the Outpost.
+Have fun decorating your Outpost however you like!"
+field_tuto11_01_title,LOBBY
+field_tuto11_01_description,"Commander, I heard that you can log in to your Synchro Device from the Outpost. Let's give it a try! Go to the Outpost now."
+field_tuto11_02_title,SELECT THE OUTPOST
+field_tuto11_02_description,"First, select the Outpost and move to it."
+field_tuto12_01_title,SELECT THE BUILDING
+field_tuto12_01_description,Then select Synchro Device.
+field_tuto12_02_title,CONSTRUCT A BUILDING
+field_tuto12_02_description,Tap the Construct button.
+field_tuto12_03_title,CONSTRUCT A BUILDING
+field_tuto12_03_description,Tap the Confirm button.
+field_tuto12_04_title,COMPLETING CONSTRUCTION
+field_tuto12_04_description,Select the Synchro Device again to complete construction.
+field_tuto12_05_title,ENTERING THE DEVICE
+field_tuto12_05_description,Enter your Synchro Device and take a look.
+field_tuto12_06_title,SYNCHRO DEVICE
+field_tuto12_06_description,The <color=#00AEFF>Synchro Device</color> is a device through which you can synchronize the power of your main Nikkes with other Nikkes.
+tuto_synchrodevice_01_description,Your five highest-level Nikkes will be automatically selected. The lowest-level Nikke among them will determine the Synchro Level.
+tuto_synchrodevice_02_description,The <color=#00AEFF>Synchro Level</color> is the level that is <color=#00AEFF>synchronized</color> with other Nikkes.
+tuto_synchrodevice_03_description,The Nikke that is placed in the slot will be adjusted to the <color=#00AEFF>same level</color> as the Synchro Level.
+tuto_wishlist_01_title,WISHLIST UNLOCKED
+tuto_wishlist_01_description,"Commander, the wishlist has been unlocked!
+Let's go to set your wishlist."
+tuto_wishlist_02_title,WISHLIST
+tuto_wishlist_02_description,"Once you set a wishlist, you'll be much more likely to get one of your wishlist Nikkes whenever you recruit an SSR Nikke."
+tuto_wishlist_03_title,TIP
+tuto_wishlist_03_description,"You can add up to five Nikkes from the same manufacturer to your wishlist.
+You have to have at least 15 Nikkes on your wishlist, or it won't work. Don't forget!"
+tuto_wishlist_03_description_01,"You can add up to five Nikkes from each manufacturer and Pilgrims/Over-spec Nikkes to your wishlist, for a total of 20 Nikkes.
+You have to have at least 20 Nikkes on your wishlist, or it won't work. Don't forget!"
+tuto_lost_sector_field_01_title,LOST SECTOR
+tuto_lost_sector_field_01_description,"This is the interior of the sector. To explore it, you will need to create a squad for each area."
+tuto_lost_sector_field_02_title,SQUAD FORMATION
+tuto_lost_sector_field_02_description,"The number of squads you need to create is shown on top.
+After selecting a squad, you can move to wherever they are needed."
+tuto_lost_sector_field_03_title,SQUAD FORMATION
+tuto_lost_sector_field_03_description,"To create a squad, tap the Squad Formation button."
+tuto_lost_sector_field_04_title,SQUAD FORMATION
+tuto_lost_sector_field_04_description,"You can see the squads this sector needs, and the available Nikkes."
+tuto_lost_sector_field_05_title,SQUAD FORMATION
+tuto_lost_sector_field_05_description,"Any combination of Nikkes can be used when forming a squad.
+For now though, try using Auto Formation."
+tuto_lost_sector_field_06_title,SQUAD FORMATION
+tuto_lost_sector_field_06_description,"Once enough Nikkes are added to the squad, be sure to save it."
+tuto_lost_sector_field_07_title,START EXPLORATION
+tuto_lost_sector_field_07_description,"When all squads in the sector are complete, you are ready to explore the sector.
+Tap the Start Exploring button to begin."
+tuto_lost_sector_re_start_title,LOST SECTOR EXPLORATION
+tuto_lost_sector_re_start_description,You haven't completed the Lost Sector's exploration tutorial yet. Let's enter the Lost Sector again to explore.
+tuto_simulation_room_00_title,SIMULATION ROOM
+tuto_simulation_room_00_description,It's time to learn about the Simulation Room. Let's go.
+tuto_simulation_room_01_title,SIMULATION ROOM
+tuto_simulation_room_01_description,"This is the Simulation Room, a crowning Ark of technological achievement that brings virtual reality into the combat experience."
+tuto_simulation_room_02_title,SIMULATION ROOM
+tuto_simulation_room_02_description,"Although it is merely a virtual space, the combat experience feels incredibly life-like. Let's give it a try."
+tuto_simulation_room_03_title,DIFFICULTY
+tuto_simulation_room_03_description,"In the Simulation Room, you can choose the <color=#00AEFF>difficulty</color>."
+tuto_simulation_room_04_title,SECTOR
+tuto_simulation_room_04_description,<color=#00AEFF>Sectors</color> are categorized into different difficulty levels.
+tuto_simulation_room_05_title,STAGE
+tuto_simulation_room_05_description,Higher difficulty levels will mean more challenging stages but greater rewards as well.
+tuto_simulation_room_06_title,BEGIN SIMULATION
+tuto_simulation_room_06_description,Let's begin.
+tuto_simulation_room_07_title,OPTIONS
+tuto_simulation_room_07_description,You will have up to 3 different options for each stage. This is to recreate unexpected situations that can directly impact the battle.
+tuto_simulation_room_08_title,BATTLE SIMULATION
+tuto_simulation_room_08_description,"Select an option to obtain <color=#00AEFF>buffs</color>. While different buff combinations can strengthen your squad, you can only use them in the Simulation Room."
+tuto_simulation_room_09_title,BATTLE SIMULATION
+tuto_simulation_room_09_description,"Without further ado, let the battle begin!"
+tuto_simulation_room_11_title,SQUAD FORMATION
+tuto_simulation_room_11_description,First up is Squad Formation.
+tuto_simulation_room_12_title,AUTO FORMATION
+tuto_simulation_room_12_description,Select <color=#00AEFF>Auto</color> to automatically create a squad from your best Nikkes.
+tuto_simulation_room_13_title,SQUAD FORMATION
+tuto_simulation_room_13_description,Save the assembled squad now.
+tuto_simulation_room_14_title,QUICK BATTLE
+tuto_simulation_room_14_description,"In the Simulation Room, you can use Quick Battle to quickly test out your squads."
+tuto_simulation_room_15_title,QUICK BATTLE
+tuto_simulation_room_15_description,"Quick Battle is a time-saving alternative available when you are significantly stronger than your opponent, and the outcome is practically a forgone conclusion."
+tuto_simulation_room_16_title,QUICK BATTLE
+tuto_simulation_room_16_description,"Quick Battle unavailable in crucial battles and boss battles, so you must clear the stage yourself."
+tuto_simulation_room_17_title,OBTAINING BUFFS
+tuto_simulation_room_17_description,"You will get buffs after clearing combat.
+But of course, the buff will only take effect in the Simulation Room."
+tuto_simulation_room_18_title,OBTAINING BUFFS
+tuto_simulation_room_18_description,"Select the buff you want.
+Look at the effect descriptions and the makeup of your Squad to choose an appropriate buff."
+tuto_simulation_room_19_title,OBTAINING BUFFS
+tuto_simulation_room_19_description,Select your first buff.
+tuto_simulation_room_21_title,OPTIONS
+tuto_simulation_room_21_description,You can get help from random situations in the Simulation Room rather than obtain buffs in battle.
+tuto_simulation_room_22_title,OPTIONS
+tuto_simulation_room_22_description,Your Nikkes were badly injured in the battle. Select ICU to restore them.
+tuto_simulation_room_24_title,OPTIONS
+tuto_simulation_room_24_description,"In the ICU, you can restore Nikkes' HP or restore their ability to fight. Now, let's try restoring Nikkes' HP."
+tuto_simulation_room_27_title,BOSS BATTLE
+tuto_simulation_room_27_description,This is the last stage in the Simulation Room - Boss Battle. Defeat this big fella to clear the sector.
+tuto_simulation_room_28_title,BOSS BATTLE
+tuto_simulation_room_28_description,Try clearing the stage with your combat skills.
+tuto_simulation_room_29_title,BUFF CHAIN
+tuto_simulation_room_29_description,"All buffs have a Chain Type.
+Take a look at the Chain Type of the buff you obtained."
+tuto_simulation_room_30_title,BUFF CHAIN
+tuto_simulation_room_30_description,The Chain Type of the buff you just selected is added on.
+tuto_simulation_room_31_title,BUFF CHAIN
+tuto_simulation_room_31_description,"There are 4 kinds of Chain Types: △, □, ◇, and ○.
+If you have multiple buffs with the same Chain Type, the Chain Level will increase and the effect of all buffs will be enhanced."
+tuto_simulation_room_32_title,BUFF CHAIN
+tuto_simulation_room_32_description,Picking the right buff based on specific circumstances can even change the course of battle in a flash. Be on look out for it!
+tuto_simulation_room_33_title,SIMULATION ROOM
+tuto_simulation_room_33_description,It seems that you've passed Simulation Room.
+tuto_simulation_room_34_title,SIMULATION ROOM
+tuto_simulation_room_34_description,"After clearing all stages in all difficulties from your chosen sector, you'll be able to register a buff you own in the Buff Legacy."
+tuto_simulation_room_35_title,BUFF LEGACY
+tuto_simulation_room_35_description,The buff saved in the Buff Legacy can be applied in advance when entering Simulation Room in the future.
+tuto_simulation_room_36_title,BUFF LEGACY
+tuto_simulation_room_36_description,"You can only select buffs up to the SSR level at most in Buff Legacy. 
+Please select the first one."
+tuto_simulation_room_37_title,SIMULATION ROOM
+tuto_simulation_room_37_description,"Simulation Room battle has ended. Well done.
+Please return to the Lobby and stay on standby."
+tuto_simulation_room_38_title,CAMPAIGN
+tuto_simulation_room_38_description,"Commander, please proceed to the surface."
+tuto_simulation_room_39_title,CAMPAIGN
+tuto_simulation_room_39_description,"To go to the surface, you need to take the Elevator."
+tuto_simulation_room_40_title,CAMPAIGN
+tuto_simulation_room_40_description,"We've finally arrived on the surface.
+Commander, we're setting off."
+tuto_simulation_room_41_title,Simulation Room
+tuto_simulation_room_41_description,"The basic training for the Simulation Room has ended.
+Well done. Please use the Simulation Room to enhance your battle tactics in the future!"
+tuto_equip_levelup_01_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_01_description,You've obtained equipment from the battle just now. How about trying to enhance them?
+tuto_equip_levelup_02_title,WEARING EQUIPMENT
+tuto_equip_levelup_02_description,"First, equip your Nikke with the equipment."
+tuto_equip_levelup_03_title,EQUIPMENT SELECTION
+tuto_equip_levelup_03_description,Please select the equipment that is equipped.
+tuto_equip_levelup_06_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_06_description,Upgrading equipment is the same as upgrading Nikkes.
+tuto_equip_levelup_07_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_07_description,You can increase EXP by using equipment-exclusive EXP materials or EXP items.
+tuto_equip_levelup_08_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_08_description,"Auto Select is a feature that automatically selects items needed for the next level up. Tap ""Auto Select"" now."
+tuto_equip_levelup_09_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_09_description,You need to consume Credit to accumulate the Equipment EXP.
+tuto_equip_levelup_10_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_10_description,Tap Upgrade to enhance the selected equipment.
+tuto_equip_levelup_11_title,EQUIPMENT UPGRADE
+tuto_equip_levelup_11_description,Bravo. Please note that you can only upgrade equipment above tier 3.
+tuto_equip_levelup_12_title,EQUIPMENT ENHANCEMENT
+tuto_equip_levelup_12_description,You've obtained equipment from the battle just now.
+tuto_equip_levelup_13_title,EQUIPMENT ENHANCEMENT
+tuto_equip_levelup_13_description,Equipment above tier 3 can be <color=#00AEFF>upgraded</color>. And the equipment will have better attributes after being upgraded.
+tuto_equip_levelup_14_title,EQUIPMENT ENHANCEMENT
+tuto_equip_levelup_14_description,"If you fail a battle, you can try to enhance your equipment."
+tuto_skill_level_up_01_title,SKILL UPGRADE
+tuto_skill_level_up_01_description,Commander! Do you know how to enhance the unique skills of your Nikkes?
+tuto_skill_level_up_03_title,SKILL UPGRADE
+tuto_skill_level_up_03_description,Skills become more powerful after being enhanced.
+tuto_skill_level_up_04_title,SKILL UPGRADE
+tuto_skill_level_up_04_description,"The Simulation Room is the primary way of obtaining materials required for leveling up skills, so better keep an eye on it!"
+tuto_outpost_build_01_title,CONSTRUCTING BUILDINGS
+tuto_outpost_build_01_description,Looks like you are planning to build a new building in the Outpost.
+tuto_outpost_build_02_title,CONSTRUCTING BUILDINGS
+tuto_outpost_build_02_description,You can construct new buildings in the unlocked areas.
+tuto_outpost_build_03_title,CONSTRUCTING BUILDINGS
+tuto_outpost_build_03_description,New buildings will unlock more lessons in the Tactic Academy and may also trigger unexpected events with certain Nikkes!
+tuto_outpost_build_04_title,CONSTRUCTING BUILDINGS
+tuto_outpost_build_04_description,"Before constructing a building, you need to meet all the construction conditions.
+Building materials are also essential to construction."
+tuto_outpost_build_05_title,CONSTRUCTING BUILDINGS
+tuto_outpost_build_05_description,"Building materials can be found as Lost Relics.
+Tap the icon to check the chapters where they can be found."
+tuto_outpost_build_06_title,CONSTRUCTING BUILDINGS
+tuto_outpost_build_06_description,"Cleared chapters may contain Lost Relics as well.
+Make sure you have checked everything!"
+tuto_next_mission_01_title,TARGET
+tuto_next_mission_01_description,"Did you learn something during the preparation?
+Let's get started on the next mission!"
+tuto_next_mission_02_title,TARGET
+tuto_next_mission_02_description,You can take a look at the next mission in the Mission Tab!
+tuto_next_mission_03_title,TARGET
+tuto_next_mission_03_description,Tap the Mission Tab button to move to the location of the next mission.
+tuto_next_mission_04_title,TARGET
+tuto_next_mission_04_description,"If you lose track of the next target, you can just check the Mission Tab
+and use the move-to feature."
+tuto_next_mission_05_title,TARGET
+tuto_next_mission_05_description,Am I talking too much? Let's head for the next mission then!
+tuto_next_mission_06_title,TARGET
+tuto_next_mission_06_description,"Commander, the Deputy Chief's Room is this way."
+tuto_next_mission_07_title,TARGET
+tuto_next_mission_07_description,"Commander, it's time to head to the Deputy Chief's Room."
+tuto_next_mission_08_title,TARGET
+tuto_next_mission_08_description,The Simulation Room is this way.
+tuto_base_defence_type1_01_title,TEARS
+tuto_base_defence_type1_01_description,"The special unit Tears appears!
+Eliminating a member of Tears will <color=#00AEFF>temporarily</color> render surrounding enemies <color=#00AEFF>immobile</color>."
+tuto_base_defence_type1_02_title,TEARS
+tuto_base_defence_type1_02_description,"Tears cannot be targeted using auto-aim.
+Order your Nikkes to direct their aim!"
+tuto_base_defence_type2_01_title,TIARA
+tuto_base_defence_type2_01_description,"Special target Tiara detected ahead.
+Defeating Tiara will cause a magnetic zone to form."
+tuto_base_defence_type2_02_title,TIARA
+tuto_base_defence_type2_02_description,"Raptures within a certain range will be drawn towards the zone.
+Strike it at <color=#00AEFF>the right moment</color> to knock it down and protect the base."
+tuto_rookie_arena_01_title,ROOKIE ARENA
+tuto_rookie_arena_01_description,"This is the Arena Stadium, where le combat spectaculaire awaits you."
+tuto_rookie_arena_02_title,ROOKIE ARENA
+tuto_rookie_arena_02_description,We also have just the arena for débutants such as yourselves. We call it the Rookie Arena.
+tuto_rookie_arena_03_title,ROOKIE ARENA
+tuto_rookie_arena_03_description,"This is the perfect battlefield to test your mettle, mon ami. Roookieee Areeenaaa!"
+tuto_rookie_arena_04_title,ROOKIE ARENA
+tuto_rookie_arena_04_description,"Before starting a battle, you must first assemble an attack squad and a defense squad."
+tuto_rookie_arena_05_title,ROOKIE ARENA
+tuto_rookie_arena_05_description,"When you send a battle request, you'll want to have an attack squad. When others send you a request, that's when you'll need a defense squad."
+tuto_rookie_arena_06_title,SQUAD FORMATION
+tuto_rookie_arena_06_description,What are you waiting for? Go and assemble your squads! Rapidement!
+tuto_rookie_arena_07_title,SQUAD FORMATION
+tuto_rookie_arena_07_description,Let's start with your attack squad.
+tuto_rookie_arena_08_title,SQUAD FORMATION
+tuto_rookie_arena_08_description,C'est bien! Next up is the defense squad.
+tuto_rookie_arena_09_title,ROOKIE ARENA
+tuto_rookie_arena_09_description,Voilà! I can see they're all raring to go.
+tuto_rookie_arena_10_title,ARENA BATTLE
+tuto_rookie_arena_10_description,Seems like everything is réalisé. Feel free to choose an opponent.
+tuto_rookie_arena_11_title,ARENA BATTLE
+tuto_rookie_arena_11_description,Free battle attempts are provided in Rookie Arena on a daily basis. C'est magnifique!
+tuto_rookie_arena_12_title,ARENA REWARD
+tuto_rookie_arena_12_description,"Winning battles will net you vouchers, which can be exchanged for très magnifique items in the Arena Shop."
+tuto_rookie_arena_13_title,ROOKIE ARENA
+tuto_rookie_arena_13_description,But that's enough parlé for now. Go and enjoy the thrill of battle! And don't forget the most important thing: entertainment!
+tuto_special_arena_01_title,SP ARENA
+tuto_special_arena_01_description,"This is the Arena Stadium, where le combat spectaculaire awaits you."
+tuto_special_arena_02_title,SP ARENA
+tuto_special_arena_02_description,"Formidable! You're a star, I tell you! I believe it's time you moved onto a bigger stage. We call it, the SP Arena."
+tuto_special_arena_03_title,SP ARENA
+tuto_special_arena_03_description,"Voilà, the SP Arena! Although it is petit difficile, this is a stage upon which you can truly shine."
+tuto_special_arena_04_title,PROCESS
+tuto_special_arena_04_description,Each battle consists of 3 rounds. Whoever wins 2 rounds is declared the winner.
+tuto_special_arena_05_title,PROCESS
+tuto_special_arena_05_description,"Therefore, it is necessary to assemble 3 attack squads and 3 defense squads."
+tuto_special_arena_06_title,MATCHING
+tuto_special_arena_06_description,Battling in the SP Arena will affect your ranking. You will be matched against three commanders who are at a higher tier than yourself.
+tuto_special_arena_07_title,MATCHING
+tuto_special_arena_07_description,"In order to refresh the opponents list, you must first assemble defense squads."
+tuto_special_arena_08_title,REWARD
+tuto_special_arena_08_description,"SP Arena awards accumulate over time.
+The amount is relative to what tier you are in the SP arena."
+tuto_special_arena_09_title,SP ARENA POINT
+tuto_special_arena_09_description,"If you accumulate enough SP arena points, we shall rendez-vous in the Champion Arena!
+I'm looking forward to that day!"
+tuto_cooperation_event_01_title,SPECIAL INTERRUPTION
+tuto_cooperation_event_01_description,"Commander, we have new information pertaining to pulling off interruptions."
+tuto_cooperation_event_02_title,SPECIAL INTERRUPTION
+tuto_cooperation_event_02_description,"To interrupt Raptures' attacks in this area, there is something special you need to pay attention to."
+tuto_cooperation_event_03_title,CANCEL RING
+tuto_cooperation_event_03_description,The Cancel Ring works the same way as ordinary interruptions. Focus your fire and destroy all the designated targets with a time limit to stop it.
+tuto_cooperation_event_04_title,COUNTER RING
+tuto_cooperation_event_04_description,"This white mark is the Counter Ring, which, if destroyed, will cause your interruption attempt to fail.
+Whatever you do, do not aim at the white targets."
+tuto_cooperation_event_05_title,SPECIAL INTERRUPTION
+tuto_cooperation_event_05_description,"It won't be easy, but I'm confident you'll pass with flying colors. Good luck, Commander."
+contents_tutorial_character_grade_desc_01,Limit Break <color=#00AEFF>Available</color>
+contents_tutorial_character_grade_desc_02,Limit Break <color=#00AEFF>Not Available</color>
+contents_tutorial_use_character_piece,Use Spare Body
+tuto_limit_level_01_title,MAXIMUM LEVEL CAP
+tuto_limit_level_01_description,"My goodness, Commander! Your Nikke has become so much stronger already!"
+tuto_limit_level_02_title,MAXIMUM LEVEL CAP
+tuto_limit_level_02_description,"A Limit Break will increase the Maximum Level a Nikke can reach.
+Nikkes who have not gone through a Limit Break can only be upgraded up to Lv. 80."
+tuto_limit_level_03_title,MAXIMUM LEVEL CAP
+tuto_limit_level_03_description,You can perform Limit Break on an SR or SSR Nikke when you have the corresponding Spare Body.
+tuto_limit_level_04_title,MAXIMUM LEVEL CAP
+tuto_limit_level_04_description,What's that? You can't upgrade any of your new Nikkes because you've already developed other Nikkes?
+tuto_limit_level_05_title,LEVEL RESET
+tuto_limit_level_05_description,"Never fear! With Level Reset, you can reset a developed Nikke to Lv. 1 and all the in-game materials used will be refunded. However, doing this will cost you 10 gems."
+tuto_limit_level_06_title,SYNCHRO LEVEL
+tuto_limit_level_06_description,"You can also develop a Nikke in the Outpost's research facility, known as the Synchro Device. A Nikke's Synchro Level is tied into their development (in other words, the Nikke's Maximum Level)."
+tuto_limit_level_07_title,SYNCHRO LEVEL
+tuto_limit_level_07_description,"Each time the Nikke in the Main Slot is upgraded, the Synchro Level (or shared level) will likewise increase."
+tuto_limit_level_08_title,SYNCHRO LEVEL
+tuto_limit_level_08_description,Nikkes who have not gone through a Limit Break and thus are limited in their development potential can be added to the Synchro Slots to enjoy Synchro Level benefits.
+tuto_limit_level_09_title,SYNCHRO LEVEL
+tuto_limit_level_09_description,It therefore stands to reason that taking a Nikke who has already gone through a Limit Break and putting them in the Main Slot can help better develop other Nikkes!
+tuto_limit_level_10_description,Did you know that Nikkes of different Rarities have different Max Levels?
+tuto_limit_level_11_description,"For R Nikkes, their Max Level is Lv.80, while SR and SSR Nikkes can be upgraded to Lv.160!"
+tuto_limit_level_12_description,"However, SSR Nikkes' Max Level can be increased to Lv. 200 after they go through Limit Break 3 times."
+tuto_limit_level_synchro_01_title,LEVEL CAP
+tuto_limit_level_synchro_01_description,"Commander! I saw you were working hard to develop your Nikkes.
+Have you realized that the Nikkes stopped developing when they reached their Maximum Level?"
+tuto_limit_level_synchro_02_title,LIMIT BREAK
+tuto_limit_level_synchro_02_description,"Remember what I told you? If a Nikke stops developing after reaching her Maximum Level, you can increase the Maximum Level Cap by performing a Limit Break."
+tuto_limit_level_synchro_03_title,SYNCHRO LEVEL
+tuto_limit_level_synchro_03_description,The Synchro Level (shared level) will increase as the Nikke in the Synchro Device's Main Slot levels up.
+tuto_limit_level_synchro_04_title,SYNCHRO LEVEL
+tuto_limit_level_synchro_04_description,"Therefore, taking a Nikke who has already gone through a Limit Break and putting them in the Main Slot can help better develop other Nikkes!"
+tuto_limit_level_synchro_05_title,SYNCHRO LEVEL
+tuto_limit_level_synchro_05_description,"Nikkes who have not gone through a Limit Break and thus are limited in their development potential can be added to the Synchro Slots to enjoy Synchro Level benefits. This feature can be a godsend, so be sure to try it out!"
+tuto_simulation_room_oc_01_title,Simulation Room Overclock
+tuto_simulation_room_oc_02_title,Overclock Mode Option
+tuto_simulation_room_oc_03_title,Overclock Mode Type
+tuto_simulation_room_oc_03_01_title,Overclock Mode Option Type
+tuto_simulation_room_oc_04_title,Overclock Option Level
+tuto_simulation_room_oc_05_title,Unable to Select Same-Type Option
+tuto_simulation_room_oc_06_title,Option Detail
+tuto_simulation_room_oc_07_title,Overclock Option Difficulty
+tuto_simulation_room_oc_08_title,Option Selection Completed
+tuto_simulation_room_oc_09_title,Save the Recently Selected Options
+tuto_simulation_room_oc_10_title,Load the Best Record Option
+tuto_simulation_room_oc_01_description,"Welcome to the Overclock mode.
+Getting a bit tired of the Simulation Room by now? That's why I've prepared the Overclock mode for you!"
+tuto_simulation_room_oc_02_description,"In Overclock Mode, you can set up and engage in battles of increased difficulty, far beyond those you experience in the normal Simulation Room."
+tuto_simulation_room_oc_03_description,The difficulty of the battles in Overclock Mode will be determined based on the options you choose.
+tuto_simulation_room_oc_04_description,"The higher the difficulty, the more rewarding the prizes. 
+However, clearing it will also be more challenging."
+tuto_simulation_room_oc_05_description,Let me provide a more detailed explanation of the options available in Overclock Mode.
+tuto_simulation_room_oc_06_description,"Firstly, in Overclock Mode, there are various types of options available."
+tuto_simulation_room_oc_07_description,"The types of options include strengthening Raptures, weakening Nikkes, imposing combat condition restrictions, and other factors designed to create challenges in simulated battles."
+tuto_simulation_room_oc_08_description,Options of the same type are also divided into multiple levels.
+tuto_simulation_room_oc_09_description,"The higher the level of an option, the more challenging it becomes."
+tuto_simulation_room_oc_10_description,The combined level of the options you choose here determines the overall difficulty of the Overclock Mode battle you will undertake.
+tuto_simulation_room_oc_11_description,"However, you can only choose one option per type."
+tuto_simulation_room_oc_12_description,Detailed explanations of the options can be viewed when selecting them.
+tuto_simulation_room_oc_13_description,"Once you've selected the options, you can proceed to start the battle in the Simulation Room."
+tuto_simulation_room_oc_14_description,"After that, the process will be the same as in the previous Simulation Room battles."
+tuto_simulation_room_oc_15_description,"Please take note of that when playing in Overclock Mode, the latest options selected will be automatically chosen the next time you play."
+tuto_simulation_room_oc_16_description,"You can load the selected options from the highest difficulty you've successfully cleared using the ""Load the Best Record Option"" option."
+tuto_simulation_room_oc_17_description,You're good to go! Would you like to join me in the Overclock Mode now?
+tuto_archive_01_title,Archives
+tuto_archive_02_title,Record
+tuto_archive_03_title,Unlock Record
+tuto_archive_04_title,Collectible Rewards
+tuto_archive_01_description,"Welcome, Commander."
+tuto_archive_02_description,"This is the Archives, where you can replay all past events."
+tuto_archive_03_description,These files are the Records.
+tuto_archive_04_description,They allow you to replay past events here in the Archives.
+tuto_archive_05_description,"You'll be able to relive not only the event stories, but also all gameplays in the events."
+tuto_archive_06_description,Event Records can be unlocked using Memory Films.
+tuto_archive_07_description,Complete ongoing or upcoming event missions to obtain Memory Films.
+tuto_archive_08_description,"If you play the events you've never experienced before, you'll get the rewards you weren't able to receive back then."
+tuto_archive_09_description,"Collectible rewards include BGM, Live Wallpaper, etc."
+tuto_archive_10_description,"More Records will be added to the Archives periodically in the future, so make sure to keep exploring!"
+tuto_choice_skill_01_title,Skill Choice Tutorial
+tuto_choice_skill_01_description,"Commander, there is one thing you must know before starting the battle."
+tuto_choice_skill_02_description,The Crystal Chamber will launch special attacks unlike that of other Raptures.
+tuto_choice_skill_03_description,"While you do battle against the Crystal Chamber, it will gear up for powerful special attacks."
+tuto_choice_skill_04_description,You can not interrupt all rings from attacking. Only one of the two can be interrupted.
+tuto_choice_skill_05_description,"When one of the special attacks is interrupted, the other ring not selected will proceed with the special attack."
+tuto_choice_skill_06_description,"Please note that if you fail to interrupt any ring, all rings will launch special attacks."
+tuto_choice_skill_07_description,"It won't be easy, but I'm confident you'll pass with flying colors. Good luck, Commander."
+tuto_spot_choice_skill_01_title,Choose Skill
+tuto_spot_choice_skill_01_description,Formidable energy detected from rings!
+tuto_spot_choice_skill_02_description,It seems like you cannot interrupt all rings!
+tuto_spot_choice_skill_03_description,Please interrupt one of the rings!
+tuto_spot_choice_skill_04_description,The rings you weren't able to interrupt will attack. Please hang in there and be careful!
+tuto_Multiple_Choice_Skill_title,Select Ring
+field_hint_ring_01_title,Lost Relics
+field_hint_ring_01_description,"Commander, unidentified objects detected in the vicinity!"
+field_hint_ring_02_description,"When there are objects nearby, the color of the ring will change while moving."
+field_hint_ring_03_description,It seems to be close by. Let's examine the surroundings while you move.
+tuto_temporary_01_title,Temporary Participation
+tuto_temporary_01_description,"Commander, before you enter the battle, let me share with you a handy feature, Temporary Participation!"
+tuto_temporary_02_description,Temporary Participation is a feature that allows some Nikkes to participate in battles.
+tuto_temporary_03_description,A flag icon and daily attempts will be displayed alongside temporarily participating Nikkes.
+tuto_temporary_04_description,Temporarily participating Nikkes can only join each gameplay a limited number of times.
+tuto_temporary_05_description,Keep an eye out for the flag icon that'll appear in the gameplay where the Temporary Participation feature is available.
+tuto_temporary_06_description,Tap this button to view all gameplay with the Temporary Participation feature and its daily attempts!
+tuto_temporary_07_description,"That's a wrap! Now, it's time to save your assembled squad!"
+tuto_temporary_08_description,"All right, the squad formation's done! Let's proceed with your mission."
+tuto_collection,Collection Item
+tuto_collection_select_title_02,Select Collection Item
+tuto_collection_select_title_03,Collection Item Types
+tuto_collection_select_title_04,Acquisition
+tuto_collection_select_01_description,"Greetings, Commander!
+This is where you maintain and give Collection Items to your Nikkes."
+tuto_collection_select_02_description,"Here, you can give Collection Items to your Nikkes."
+tuto_collection_select_03_description,Choose from the available Collection Items.
+tuto_collection_select_04_description,Each Collection Item is categorized into six distinct categories based on weapon types.
+tuto_collection_select_05_description,Collection Items and their Maintenance Kits can be acquired through Solo Raid and Dispatch missions.
+tuto_collection_select_06_description,"Should you possess any Collection Items, do consider gifting them to your Nikkes. They'll be delighted to receive them!"
+tuto_collection_info_title_01,Appearance and Rarity
+tuto_collection_info_title_02,Attribute and Info
+tuto_collection_info_title_03,Combine
+tuto_collection_info_title_04,Maintain
+tuto_collection_info_title_05,Change
+tuto_collection_info_title_06,Exchange
+tuto_collection_info_01_description,This is where you manage the Collection Items that have been given out.
+tuto_collection_info_02_description,"The upper section provides details on the Collection Item's appearance, current rarity, and upgrade prerequisites."
+tuto_collection_info_03_description,"The lower section displays the Collection Item's current attributes, skills, and additional relevant information."
+tuto_collection_info_04_description,You can combine your Collection Items to acquire new ones or Maintenance Kits.
+tuto_collection_info_05_description,The Maintain feature allows for the maintenance of Collection Items given out to Nikkes.
+tuto_collection_info_06_description,"You may also change given Collection Items here. 
+However, you can only change R Collection Items to SR Collection Items."
+tuto_collection_info_07_description,Make good use of these instructions to effectively manage the Collection Items for your Nikkes!
+tuto_collection_info_08_description,"In Exchange, you can exchange the maintenance materials of fully upgraded Favorite Items for that of other Favorite Items."
+tuto_collection_manager_title_01,Collection Item Maintenance
+tuto_collection_manager_title_02,Select Maintenance Material
+tuto_collection_manager_title_03,Success
+tuto_collection_manager_title_04,Super Success
+tuto_collection_manager_title_05,Changes during Collection Item Maintenance
+tuto_collection_manager_01_description,"Here, you can maintain the Collection Items that are given to your Nikkes."
+tuto_collection_manager_02_description,Select a maintenance method before undergoing Maintenance to develop and enhance Collection Items.
+tuto_collection_manager_03_description,"Firstly, choose a maintenance method. The selected method determines the accumulation of EXP and the probability of achieving success."
+tuto_collection_manager_04_description,Collection Item Maintenance will result in two outcomes: Success and Super Success. EXP will be accumulated based on the chosen method.
+tuto_collection_manager_05_description,Super Success Maintenance elevates the Collection Item to the maximum developmental stage achievable in its current phase.
+tuto_collection_manager_06_description,Displayed below are the variations in accumulated EXP and attribute modifications across different maintenance methods.
+tuto_collection_manager_07_description,"After selecting a preferred maintenance method, tap the Maintain button to commence."
+tuto_collection_manager_08_description,Required maintenance materials can be obtained through Solo Raid and Dispatch missions.
+tuto_collection_combine_title_01,Combine Collection Item
+tuto_collection_combine_title_02,Materials for Combining Collection Item
+tuto_collection_combine_01_description,Here is where you can combine Collection Items.
+tuto_collection_combine_02_description,"By combining Collection Items that you don't need, you may acquire higher-rarity Collection Items or Maintenance Kits."
+tuto_collection_combine_03_description,Please note that only R Collection Items can be used for synthesis.
+tuto_collection_combine_04_description,"Once a sufficient number of Collection Items is selected, you may start combining them."
+tuto_collection_combine_05_description,Combine unused Collection Items to secure new Collection Items or Maintenance Kits!
+tuto_collection_combine_02_01_description,"After combining Collection Items, you will get a Collection Item Selection Box or a random Collection Item/Maintenance Kit, depending on the level of the combined Collection Items."
+tuto_collection_combine_03_01_description,You can combine items of R and SR grades.
+tuto_collection_change_title_01,Change Collection Items
+tuto_collection_change_title_02,Methods of Changing
+tuto_collection_change_title_03,EXP Conversion
+tuto_collection_change_01_description,"Here, you can change the Collection Items given to your Nikkes."
+tuto_collection_change_02_description,You can only change R Collection Items to SR Collection Items.
+tuto_collection_change_03_description,"When replacing Collection Items, the accumulated EXP from R Collection Items will be converted and transferred to SR Collection Items."
+tuto_collection_change_04_description,"Please note that after changing, the previously equipped Collection Item can no longer be used."
+collection_weapon_type_RL,RL
+collection_weapon_type_SR,SR
+collection_weapon_type_AR,AR
+collection_weapon_type_SMG,SMG
+collection_weapon_type_SG,SG
+collection_weapon_type_MG,MG
+collection_reward_contents_soloraid,Solo Raid
+collection_reward_contents_dispatch_board,Bulletin Board
+collection_reward_contents_soloraid_desc,Collection Items and Maintenance Kits can be obtained through rewards from clearing stages.
+collection_reward_contents_dispatch_board_desc,"Upon completion of the Tactics Academy 5-4, you will unlock exclusive dispatch missions for Collection Items."
+collection_manage_grade_01,Stage 0-4
+collection_manage_grade_02,Stage 5-9
+collection_manage_grade_03,Stage 10-14
+collection_manage_grade_result_01,Up to Stage 5
+collection_manage_grade_result_02,Up to Stage 10
+collection_manage_grade_result_03,Up to Stage 15
+collection_manage_grade_max,Stage 15
+collection_manage_complete_great,Super Success
+collection_change_grade_R,R
+collection_change_grade_SR,SR
+collection_change,Change
+collection_change_exp_R,"Stage 6
+0 EXP"
+collection_change_exp_SR,"Stage 2
+0 EXP"
+tuto_campaign_quick_battle_title_01,Quick Battle
+tuto_campaign_quick_battle_description_01,"Commander, before you move, let me explain something."
+tuto_campaign_quick_battle_description_02,You can now use the Quick Battle feature on the surface.
+tuto_campaign_quick_battle_description_03,The Quick Battle feature is only available in specific chapters when <color=#00AEFF>My Power</color> is higher than <color=#00AEFF>Standard Power</color>.
+tuto_campaign_quick_battle_description_04,You can check whether Quick Battle is possible via the ring beneath the Rapture.
+tuto_campaign_quick_battle_description_05,"Let's keep moving now, Commander."
+tuto_campaign_quick_battle_description_00,"Commander, the Quick Battle tutorial isn't over yet.
+Let me continue!"
+campaign_quick_battle_true,Quick Battle available
+campaign_quick_battle_false,Quick Battle unavailable

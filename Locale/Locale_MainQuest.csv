@@ -1,0 +1,1259 @@
+Key,Value
+condition_ui_localkey_court,Courthouse
+condition_ui_localkey_andersen,Deputy Chief's Room
+condition_ui_localkey_datacenter,Data Center
+condition_ui_localkey_government,Central Government Command
+condition_ui_localkey_mmr,M.M.R.
+condition_ui_localkey_missilys,Missilis Headquarters
+condition_ui_localkey_hospital,Hospital
+condition_ui_localkey_enikk,Enikk's room
+condition_ui_localkey_outerrim,Outer Rim
+condition_ui_localkey_cityroad,Downtown Area
+condition_ui_localkey_briefingroom,Briefing Room
+condition_ui_localkey_missilyslaboratory,Missilis Laboratory
+condition_ui_localkey_elysion,Elysion Headquarters
+condition_ui_localkey_elysionlaboratory,Elysion Laboratory
+condition_ui_localkey_baddream,Ephialtes
+condition_ui_localkey_practiceroom,Practice Room
+condition_ui_localkey_tetraline,Tetra Line Headquarters
+condition_ui_localkey_hiddenroom,Hidden Room
+main_quest_name_localkey_1,Clear Stage 0-1
+main_quest_name_localkey_2,Clear Stage 0-2
+main_quest_name_localkey_3,Clear Stage 0-3
+main_quest_name_localkey_4,Clear Stage 1-1
+main_quest_name_localkey_5,Clear Stage 1-2
+main_quest_name_localkey_6,Clear Stage 1-3
+main_quest_name_localkey_7,Clear Stage 1-4
+main_quest_name_localkey_8,Go to the Ark
+main_quest_name_localkey_9,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_10,Go to the Simulation Room in the Ark
+main_quest_name_localkey_11,Back to the Lobby
+main_quest_name_localkey_12,Go to the Surface
+main_quest_name_localkey_13,Clear Stage 2-1
+main_quest_name_localkey_14,Clear Stage 2-3
+main_quest_name_localkey_15,Clear Stage 2-5
+main_quest_name_localkey_16,Clear Stage 2-6
+main_quest_name_localkey_17,Clear Stage 2-8
+main_quest_name_localkey_18,Clear Stage 2-9
+main_quest_name_localkey_19,Clear Stage 2-11
+main_quest_name_localkey_20,Clear Stage 2-12
+main_quest_name_localkey_21,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_22,Go to the Outpost
+main_quest_name_localkey_23,Go to the Command Center
+main_quest_name_localkey_24,Enter the Command Center
+main_quest_name_localkey_25,Go to the Outpost
+main_quest_name_localkey_26,Clear Stage 3-1
+main_quest_name_localkey_27,Clear Stage 3-5
+main_quest_name_localkey_28,Clear Stage 3-8
+main_quest_name_localkey_29,Clear Stage 3-11
+main_quest_name_localkey_30,Clear Stage 3-12
+main_quest_name_localkey_31,Clear Stage 3-14
+main_quest_name_localkey_32,Clear Stage 3-16
+main_quest_name_localkey_33,Clear Stage 4-1
+main_quest_name_localkey_34,Clear Stage 4-3
+main_quest_name_localkey_35,Clear Stage 4-4
+main_quest_name_localkey_36,Clear Stage 4-6
+main_quest_name_localkey_37,Clear Stage 4-9
+main_quest_name_localkey_38,Clear Stage 4-12
+main_quest_name_localkey_39,Clear Stage 4-15
+main_quest_name_localkey_40,Clear Stage 4-16
+main_quest_name_localkey_41,Clear Stage 4-18
+main_quest_name_localkey_42,Go to the Courthouse in the Ark
+main_quest_name_localkey_43,Go to the Command Center
+main_quest_name_localkey_44,Go to the Outpost
+main_quest_name_localkey_45,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_46,Go to the Command Center
+main_quest_name_localkey_47,Go to the Outpost
+main_quest_name_localkey_48,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_49,Go to the Surface
+main_quest_name_localkey_50,Clear Stage 5-1
+main_quest_name_localkey_51,Clear Stage 5-3
+main_quest_name_localkey_52,Clear Stage 5-4
+main_quest_name_localkey_53,Clear Stage 5-6
+main_quest_name_localkey_54,Clear Stage 5-7
+main_quest_name_localkey_55,Clear Stage 5-10
+main_quest_name_localkey_56,Clear Stage 5-12
+main_quest_name_localkey_57,Clear Stage 5-15
+main_quest_name_localkey_58,Clear Stage 5-18
+main_quest_name_localkey_59,Clear Stage 5-19
+main_quest_name_localkey_60,Clear Stage 5-20
+main_quest_name_localkey_61,Clear Stage 6-1
+main_quest_name_localkey_62,Clear Stage 6-4
+main_quest_name_localkey_63,Clear Stage 6-6
+main_quest_name_localkey_64,Clear Stage 6-9
+main_quest_name_localkey_65,Clear Stage 6-12
+main_quest_name_localkey_66,Clear Stage 6-15
+main_quest_name_localkey_67,Clear Stage 6-21
+main_quest_name_localkey_68,Clear Stage 6-24
+main_quest_name_localkey_69,Clear Stage 7-3
+main_quest_name_localkey_70,Clear Stage 7-9
+main_quest_name_localkey_71,Clear Stage 7-12
+main_quest_name_localkey_72,Clear Stage 7-18
+main_quest_name_localkey_73,Clear Stage 7-21
+main_quest_name_localkey_74,Clear Stage 7-24
+main_quest_name_localkey_75,Back to the Lobby
+main_quest_name_localkey_76,Go to the Outpost
+main_quest_name_localkey_77,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_78,Go to the Outpost
+main_quest_name_localkey_79,Go to the Data Center in the Ark
+main_quest_name_localkey_80,Clear Stage 8-1
+main_quest_name_localkey_81,Clear Stage 8-6
+main_quest_name_localkey_82,Clear Stage 8-9
+main_quest_name_localkey_83,Clear Stage 8-12
+main_quest_name_localkey_84,Clear Stage 8-18
+main_quest_name_localkey_85,Clear Stage 8-21
+main_quest_name_localkey_86,Clear Stage 8-27
+main_quest_name_localkey_87,Clear Stage 9-1
+main_quest_name_localkey_88,Clear Stage 9-6
+main_quest_name_localkey_89,Clear Stage 9-12
+main_quest_name_localkey_90,Clear Stage 9-15
+main_quest_name_localkey_91,Clear Stage 9-21
+main_quest_name_localkey_92,Clear Stage 9-27
+main_quest_name_localkey_93,Back to Lobby
+main_quest_name_localkey_94,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_95,Go to the Outpost
+main_quest_name_localkey_96,Go to the Command Center
+main_quest_name_localkey_97,Go to the Data Center in the Ark
+main_quest_name_localkey_98,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_99,Clear Stage 10-1
+main_quest_name_localkey_100,Clear Stage 10-4
+main_quest_name_localkey_101,Clear Stage 10-10
+main_quest_name_localkey_102,Clear Stage 10-16
+main_quest_name_localkey_103,Clear Stage 10-19
+main_quest_name_localkey_104,Clear Stage 10-25
+main_quest_name_localkey_105,Clear Stage 11-1
+main_quest_name_localkey_106,Clear Stage 11-6
+main_quest_name_localkey_107,Clear Stage 11-9
+main_quest_name_localkey_108,Clear Stage 11-15
+main_quest_name_localkey_109,Clear Stage 11-21
+main_quest_name_localkey_110,Clear Stage 11-27
+main_quest_name_localkey_111,Clear Stage 12-1
+main_quest_name_localkey_112,Clear Stage 12-6
+main_quest_name_localkey_113,Clear Stage 12-12
+main_quest_name_localkey_114,Clear Stage 12-15
+main_quest_name_localkey_115,Clear Stage 12-18
+main_quest_name_localkey_116,Clear Stage 12-21
+main_quest_name_localkey_117,Clear Stage 12-24
+main_quest_name_localkey_118,Go to the Central Government Command in the Ark
+main_quest_name_localkey_119,Go to the Outpost
+main_quest_name_localkey_120,Go to the M.M.R. in the Ark
+main_quest_name_localkey_121,Go to the Central Government Command in the Ark
+main_quest_name_localkey_122,Go to the Command Center
+main_quest_name_localkey_123,Clear Stage 13-1
+main_quest_name_localkey_124,Clear Stage 13-6
+main_quest_name_localkey_125,Clear Stage 13-9
+main_quest_name_localkey_126,Clear Stage 13-12
+main_quest_name_localkey_127,Clear Stage 13-15
+main_quest_name_localkey_128,Clear Stage 13-18
+main_quest_name_localkey_129,Clear Stage 13-21
+main_quest_name_localkey_130,Clear Stage 13-24
+main_quest_name_localkey_131,Go to the Hospital in the Ark
+main_quest_name_localkey_132,Go to the M.M.R. in the Ark
+main_quest_name_localkey_133,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_134,Go to the Command Center
+main_quest_name_localkey_135,Enter the Command Center
+main_quest_name_localkey_136,Go to the Outpost
+main_quest_name_localkey_137,Go to the Elevator
+main_quest_name_localkey_138,Clear Stage 14-1
+main_quest_name_localkey_139,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_140,Go to the Command Center
+main_quest_name_localkey_141,Go to the Outpost
+main_quest_name_localkey_142,Clear Stage 14-9
+main_quest_name_localkey_143,Clear Stage 14-12
+main_quest_name_localkey_144,Clear Stage 14-15
+main_quest_name_localkey_145,Clear Stage 14-18
+main_quest_name_localkey_146,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_147,Go to the Outpost
+main_quest_name_localkey_148,Go to the Command Center
+main_quest_name_localkey_149,Enter the Command Center
+main_quest_name_localkey_150,Clear Stage 14-24
+main_quest_name_localkey_151,Clear Stage 14-30
+main_quest_name_localkey_152,Go to the Command Center
+main_quest_name_localkey_153,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_154,Go to the Enikk's room in the Ark
+main_quest_name_localkey_155,Go to the M.M.R. in the Ark
+main_quest_name_localkey_156,Clear Stage 15-1
+main_quest_name_localkey_157,Clear Stage 15-4
+main_quest_name_localkey_158,Clear Stage 15-9
+main_quest_name_localkey_159,Clear Stage 15-15
+main_quest_name_localkey_160,Clear Stage 15-24
+main_quest_name_localkey_161,Clear Stage 15-27
+main_quest_name_localkey_162,Clear Stage 15-30
+main_quest_name_localkey_163,Go to the Ark
+main_quest_name_localkey_164,Go to the Command Center
+main_quest_name_localkey_165,Enter the Command Center
+main_quest_name_localkey_166,Go to the Missilis Headquarters in the Ark
+main_quest_name_localkey_167,Go to the Command Center
+main_quest_name_localkey_168,Go to the Surface
+main_quest_name_localkey_169,Clear Stage 16-1
+main_quest_name_localkey_170,Clear Stage 16-2
+main_quest_name_localkey_171,Clear Stage 16-3
+main_quest_name_localkey_172,Clear Stage 16-7
+main_quest_name_localkey_173,Clear Stage 16-11
+main_quest_name_localkey_174,Clear Stage 16-12
+main_quest_name_localkey_175,Clear Stage 16-14
+main_quest_name_localkey_176,Clear Stage 16-17
+main_quest_name_localkey_177,Clear Stage 16-19
+main_quest_name_localkey_178,Clear Stage 16-20
+main_quest_name_localkey_179,Clear Stage 16-22
+main_quest_name_localkey_180,Clear Stage 16-25
+main_quest_name_localkey_181,Clear Stage 16-28
+main_quest_name_localkey_182,Go to the Ark
+main_quest_name_localkey_183,Go to the Missilis Headquarters in the Ark
+main_quest_name_localkey_184,Go to the Outer Rim of the Ark
+main_quest_name_localkey_185,Clear Stage 17-1
+main_quest_name_localkey_186,Clear Stage 17-6
+main_quest_name_localkey_187,Clear Stage 17-7
+main_quest_name_localkey_188,Clear Stage 17-12
+main_quest_name_localkey_189,Clear Stage 17-13
+main_quest_name_localkey_190,Clear Stage 17-18
+main_quest_name_localkey_191,Clear Stage 17-19
+main_quest_name_localkey_192,Clear Stage 17-24
+main_quest_name_localkey_193,Clear Stage 17-27
+main_quest_name_localkey_194,Clear Stage 17-28
+main_quest_name_localkey_195,Clear Stage 17-30
+main_quest_name_localkey_196,Clear Stage 17-33
+main_quest_name_localkey_197,Go to the Ark
+main_quest_name_localkey_198,Go to the Outpost
+main_quest_name_localkey_199,Go to the Command Center
+main_quest_name_localkey_200,Go to the Missilis Headquarters in the Ark
+main_quest_name_localkey_201,Clear Stage 18-1
+main_quest_name_localkey_202,Clear Stage 18-3
+main_quest_name_localkey_203,Clear Stage 18-6
+main_quest_name_localkey_204,Clear Stage 18-9
+main_quest_name_localkey_205,Clear Stage 18-12
+main_quest_name_localkey_206,Clear Stage 18-15
+main_quest_name_localkey_207,Clear Stage 18-18
+main_quest_name_localkey_208,Clear Stage 18-21
+main_quest_name_localkey_209,Clear Stage 18-24
+main_quest_name_localkey_210,Clear Stage 18-30
+main_quest_name_localkey_211,Clear Stage 18-31
+main_quest_name_localkey_212,Clear Stage 18-33
+main_quest_name_localkey_213,Go to the Central Government Command in the Ark
+main_quest_name_localkey_214,Go to the Command Center
+main_quest_name_localkey_215,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_216,Back to the Lobby
+main_quest_name_localkey_217,Go to the Command Center
+main_quest_name_localkey_218,Go to the Surface
+main_quest_name_localkey_219,Clear Stage 19-3
+main_quest_name_localkey_220,Clear Stage 19-9
+main_quest_name_localkey_221,Clear Stage 19-12
+main_quest_name_localkey_222,Clear Stage 19-15
+main_quest_name_localkey_223,Clear Stage 19-18
+main_quest_name_localkey_224,Clear Stage 19-21
+main_quest_name_localkey_225,Clear Stage 19-27
+main_quest_name_localkey_226,Clear Stage 19-30
+main_quest_name_localkey_227,Back to the Lobby
+main_quest_name_localkey_228,Go to the Surface
+main_quest_name_localkey_229,Clear Stage 20-1
+main_quest_name_localkey_230,Clear Stage 20-6
+main_quest_name_localkey_231,Clear Stage 20-9
+main_quest_name_localkey_232,Clear Stage 20-12
+main_quest_name_localkey_233,Clear Stage 20-15
+main_quest_name_localkey_234,Clear Stage 20-18
+main_quest_name_localkey_235,Clear Stage 20-21
+main_quest_name_localkey_236,Clear Stage 20-25
+main_quest_name_localkey_237,Clear Stage 20-28
+main_quest_name_localkey_238,Clear Stage 20-31
+main_quest_name_localkey_239,Back to the Lobby
+main_quest_name_localkey_240,Go to the Surface
+main_quest_name_localkey_241,Clear Stage 21-1
+main_quest_name_localkey_242,Clear Stage 21-6
+main_quest_name_localkey_243,Clear Stage 21-9
+main_quest_name_localkey_244,Clear Stage 21-12
+main_quest_name_localkey_245,Clear Stage 21-15
+main_quest_name_localkey_246,Clear Stage 21-18
+main_quest_name_localkey_247,Clear Stage 21-24
+main_quest_name_localkey_248,Clear Stage 21-27
+main_quest_name_localkey_249,Clear Stage 21-29
+main_quest_name_localkey_250,Clear Stage 21-32
+main_quest_name_localkey_251,Back to the Lobby
+main_quest_name_localkey_252,Go to the Outpost
+main_quest_name_localkey_253,Head out
+main_quest_name_localkey_254,Clear Stage 22-1
+main_quest_name_localkey_255,Clear Stage 22-3
+main_quest_name_localkey_256,Clear Stage 22-6
+main_quest_name_localkey_257,Clear Stage 22-9
+main_quest_name_localkey_258,Clear Stage 22-12
+main_quest_name_localkey_259,Clear Stage 22-15
+main_quest_name_localkey_260,Clear Stage 22-18
+main_quest_name_localkey_261,Clear Stage 22-21
+main_quest_name_localkey_262,Clear Stage 22-24
+main_quest_name_localkey_263,Clear Stage 22-27
+main_quest_name_localkey_264,Clear Stage 22-30
+main_quest_name_localkey_265,Clear Stage 22-33
+main_quest_name_localkey_266,Clear Stage 22-36
+main_quest_name_localkey_267,Clear Stage 23-3
+main_quest_name_localkey_268,Clear Stage 23-6
+main_quest_name_localkey_269,Clear Stage 23-11
+main_quest_name_localkey_270,Clear Stage 23-14
+main_quest_name_localkey_271,Clear Stage 23-16
+main_quest_name_localkey_272,Clear Stage 23-19
+main_quest_name_localkey_273,Clear Stage 23-21
+main_quest_name_localkey_274,Clear Stage 23-23
+main_quest_name_localkey_275,Clear Stage 23-26
+main_quest_name_localkey_276,Clear Stage 23-31
+main_quest_name_localkey_277,Clear Stage 23-34
+main_quest_name_localkey_278,Go to the Downtown Area in the Ark
+main_quest_name_localkey_279,Go to the Briefing Room of the Ark
+main_quest_name_localkey_280,Clear Stage 24-1
+main_quest_name_localkey_281,Clear Stage 24-4
+main_quest_name_localkey_282,Clear Stage 24-7
+main_quest_name_localkey_283,Clear Stage 24-13
+main_quest_name_localkey_284,Clear Stage 24-16
+main_quest_name_localkey_285,Clear Stage 24-19
+main_quest_name_localkey_286,Clear Stage 24-22
+main_quest_name_localkey_287,Clear Stage 24-24
+main_quest_name_localkey_288,Clear Stage 24-26
+main_quest_name_localkey_289,Clear Stage 24-27
+main_quest_name_localkey_290,Clear Stage 24-30
+main_quest_name_localkey_291,Clear Stage 24-34
+main_quest_name_localkey_292,Clear Stage 24-37
+main_quest_name_localkey_293,Clear Stage 24-38
+main_quest_name_localkey_294,Go to the Enikk's room in the Ark
+main_quest_name_localkey_295,Go to the Courthouse in the Ark
+main_quest_name_localkey_296,Back to the Lobby
+main_quest_name_localkey_297,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_298,Enter the Lobby
+main_quest_name_localkey_299,Go to the Surface
+main_quest_name_localkey_300,Clear Stage 25-3
+main_quest_name_localkey_301,Clear Stage 25-6
+main_quest_name_localkey_302,Clear Stage 25-12
+main_quest_name_localkey_303,Clear Stage 25-15
+main_quest_name_localkey_304,Clear Stage 25-18
+main_quest_name_localkey_305,Clear Stage 25-21
+main_quest_name_localkey_306,Clear Stage 25-27
+main_quest_name_localkey_307,Clear Stage 25-36
+main_quest_name_localkey_308,Clear Stage 26-3
+main_quest_name_localkey_309,Clear Stage 26-8
+main_quest_name_localkey_310,Clear Stage 26-15
+main_quest_name_localkey_311,Clear Stage 26-17
+main_quest_name_localkey_312,Clear Stage 26-20
+main_quest_name_localkey_313,Clear Stage 26-25
+main_quest_name_localkey_314,Clear Stage 26-31
+main_quest_name_localkey_315,Back to the Lobby
+main_quest_name_localkey_316,Go to the Central Government Command in the Ark
+main_quest_name_localkey_317,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_318,Go to the Surface
+main_quest_name_localkey_319,Clear Stage 26-34
+main_quest_name_localkey_320,Enter the Lobby
+main_quest_name_localkey_321,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_322,Go to the Surface
+main_quest_name_localkey_323,Clear Stage 27-3
+main_quest_name_localkey_324,Clear Stage 27-9
+main_quest_name_localkey_325,Clear Stage 27-12
+main_quest_name_localkey_326,Clear Stage 27-15
+main_quest_name_localkey_327,Clear Stage 27-18
+main_quest_name_localkey_328,Clear Stage 27-21
+main_quest_name_localkey_329,Clear Stage 27-24
+main_quest_name_localkey_330,Clear Stage 27-30
+main_quest_name_localkey_331,Clear Stage 27-36
+main_quest_name_localkey_332,Clear Stage 28-3
+main_quest_name_localkey_333,Clear Stage 28-9
+main_quest_name_localkey_334,Clear Stage 28-17
+main_quest_name_localkey_335,Clear Stage 28-25
+main_quest_name_localkey_336,Clear Stage 28-27
+main_quest_name_localkey_337,Clear Stage 28-28
+main_quest_name_localkey_338,Clear Stage 28-31
+main_quest_name_localkey_339,Clear Stage 28-35
+main_quest_name_localkey_340,Clear Stage 28-36
+main_quest_name_localkey_341,Clear Stage 28-38
+main_quest_name_localkey_342,Clear Stage 28-40
+main_quest_name_localkey_343,Enter the Lobby
+main_quest_name_localkey_344,Go to the Surface
+main_quest_name_localkey_345,Clear Stage 29-3
+main_quest_name_localkey_346,Clear Stage 29-6
+main_quest_name_localkey_347,Clear Stage 29-10
+main_quest_name_localkey_348,Clear Stage 29-14
+main_quest_name_localkey_349,Clear Stage 29-18
+main_quest_name_localkey_350,Clear Stage 29-21
+main_quest_name_localkey_351,Clear Stage 29-23
+main_quest_name_localkey_352,Clear Stage 29-29
+main_quest_name_localkey_353,Clear Stage 29-34
+main_quest_name_localkey_354,Clear Stage 30-6
+main_quest_name_localkey_355,Clear Stage 30-9
+main_quest_name_localkey_356,Clear Stage 30-12
+main_quest_name_localkey_357,Clear Stage 30-17
+main_quest_name_localkey_358,Clear Stage 30-20
+main_quest_name_localkey_359,Clear Stage 30-23
+main_quest_name_localkey_360,Clear Stage 30-26
+main_quest_name_localkey_361,Clear Stage 30-29
+main_quest_name_localkey_362,Clear Stage 30-34
+main_quest_name_localkey_363,Enter the Lobby
+main_quest_name_localkey_364,Go to the Ark
+main_quest_name_localkey_365,Enter the Lobby
+main_quest_name_localkey_366,Clear Stage 31-3
+main_quest_name_localkey_367,Clear Stage 31-6
+main_quest_name_localkey_368,Clear Stage 31-9
+main_quest_name_localkey_369,Clear Stage 31-12
+main_quest_name_localkey_370,Clear Stage 31-15
+main_quest_name_localkey_371,Clear Stage 31-18
+main_quest_name_localkey_372,Clear Stage 31-24
+main_quest_name_localkey_373,Clear Stage 31-27
+main_quest_name_localkey_374,Clear Stage 31-36
+main_quest_name_localkey_375,Clear Stage 32-3
+main_quest_name_localkey_376,Clear Stage 32-6
+main_quest_name_localkey_377,Clear Stage 32-12
+main_quest_name_localkey_378,Clear Stage 32-17
+main_quest_name_localkey_379,Clear Stage 32-20
+main_quest_name_localkey_380,Clear Stage 32-23
+main_quest_name_localkey_381,Clear Stage 32-26
+main_quest_name_localkey_382,Clear Stage 32-30
+main_quest_name_localkey_383,Clear Stage 32-33
+main_quest_name_localkey_384,Enter the Lobby
+main_quest_name_localkey_385,Go to the Surface
+main_quest_name_localkey_386,Clear Stage 33-5
+main_quest_name_localkey_387,Clear Stage 33-8
+main_quest_name_localkey_388,Clear Stage 33-11
+main_quest_name_localkey_389,Clear Stage 33-14
+main_quest_name_localkey_390,Clear Stage 33-17
+main_quest_name_localkey_391,Clear Stage 33-20
+main_quest_name_localkey_392,Clear Stage 33-23
+main_quest_name_localkey_393,Clear Stage 33-26
+main_quest_name_localkey_394,Clear Stage 33-31
+main_quest_name_localkey_395,Clear Stage 33-34
+main_quest_name_localkey_396,Clear Stage 34-3
+main_quest_name_localkey_397,Clear Stage 34-6
+main_quest_name_localkey_398,Clear Stage 34-9
+main_quest_name_localkey_399,Clear Stage 34-15
+main_quest_name_localkey_400,Clear Stage 34-18
+main_quest_name_localkey_401,Clear Stage 34-21
+main_quest_name_localkey_402,Clear Stage 34-27
+main_quest_name_localkey_403,Clear Stage 34-32
+main_quest_name_localkey_404,Clear Stage 34-38
+main_quest_name_localkey_405,Enter the Lobby
+main_quest_name_localkey_406,Go to the Ark
+main_quest_name_localkey_407,Go to the Elysion Headquarters in the Ark
+main_quest_name_localkey_408,Go to the Downtown Area in the Ark
+main_quest_name_localkey_409,Go to the Deputy Chief's room in the Ark
+main_quest_name_localkey_410,Go to the Elysion Laboratory in the Ark
+main_quest_name_localkey_411,Go to the Command Center in the Outpost
+main_quest_name_localkey_412,Go to the Elysion Laboratory in the Ark
+main_quest_name_localkey_413,Go to the Surface
+main_quest_name_localkey_414,Clear Stage 35-3
+main_quest_name_localkey_415,Clear Stage 35-6
+main_quest_name_localkey_416,Clear Stage 35-9
+main_quest_name_localkey_417,Clear Stage 35-15
+main_quest_name_localkey_418,Clear Stage 35-18
+main_quest_name_localkey_419,Clear Stage 35-24
+main_quest_name_localkey_420,Clear Stage 35-27
+main_quest_name_localkey_421,Clear Stage 35-30
+main_quest_name_localkey_422,Clear Stage 35-36
+main_quest_name_localkey_423,Clear Stage 36-3
+main_quest_name_localkey_424,Clear Stage 36-7
+main_quest_name_localkey_425,Clear Stage 36-12
+main_quest_name_localkey_426,Clear Stage 36-15
+main_quest_name_localkey_427,Clear Stage 36-18
+main_quest_name_localkey_428,Clear Stage 36-23
+main_quest_name_localkey_429,Clear Stage 36-28
+main_quest_name_localkey_430,Clear Stage 36-34
+main_quest_name_localkey_431,Clear Stage 36-37
+main_quest_name_localkey_432,Clear Stage 37-5
+main_quest_name_localkey_433,Clear Stage 37-7
+main_quest_name_localkey_434,Clear Stage 37-10
+main_quest_name_localkey_435,Clear Stage 37-13
+main_quest_name_localkey_436,Clear Stage 37-16
+main_quest_name_localkey_437,Clear Stage 37-19
+main_quest_name_localkey_438,Clear Stage 37-30
+main_quest_name_localkey_439,Clear Stage 37-36
+main_quest_name_localkey_440,Clear Stage 38-3
+main_quest_name_localkey_441,Clear Stage 38-6
+main_quest_name_localkey_442,Clear Stage 38-9
+main_quest_name_localkey_443,Clear Stage 38-14
+main_quest_name_localkey_444,Clear Stage 38-19
+main_quest_name_localkey_445,Clear Stage 38-24
+main_quest_name_localkey_446,Clear Stage 38-29
+main_quest_name_localkey_447,Clear Stage 38-32
+main_quest_name_localkey_448,Clear Stage 38-37
+main_quest_name_localkey_449,Clear Stage 39-3
+main_quest_name_localkey_450,Clear Stage 39-8
+main_quest_name_localkey_451,Clear Stage 39-10
+main_quest_name_localkey_452,Clear Stage 39-13
+main_quest_name_localkey_453,Clear Stage 39-17
+main_quest_name_localkey_454,Clear Stage 39-19
+main_quest_name_localkey_455,Clear Stage 39-22
+main_quest_name_localkey_456,Clear Stage 39-25
+main_quest_name_localkey_457,Clear Stage 39-30
+main_quest_name_localkey_458,Clear Stage 39-33
+main_quest_name_localkey_459,Clear Stage 39-36
+main_quest_name_localkey_460,Enter the Lobby
+main_quest_name_localkey_461,Go to the Ark
+main_quest_name_localkey_462,Go to the Outer Rim of the Ark
+main_quest_name_localkey_463,Go to the Ephialtes in the Ark
+main_quest_name_localkey_464,Go to the Practice Room in the Ark
+main_quest_name_localkey_465,Go to the Hospital in the Ark
+main_quest_name_localkey_466,Go to the Tetra Line Headquarters in the Ark
+main_quest_name_localkey_467,Go to the Outpost
+main_quest_name_localkey_468,Clear Stage 40-3
+main_quest_name_localkey_469,Clear Stage 40-6
+main_quest_name_localkey_470,Clear Stage 40-9
+main_quest_name_localkey_471,Clear Stage 40-14
+main_quest_name_localkey_472,Clear Stage 40-19
+main_quest_name_localkey_473,Clear Stage 40-22
+main_quest_name_localkey_474,Clear Stage 40-25
+main_quest_name_localkey_475,Clear Stage 40-28
+main_quest_name_localkey_476,Clear Stage 40-31
+main_quest_name_localkey_477,Clear Stage 40-33
+main_quest_name_localkey_478,Clear Stage 40-36
+main_quest_name_localkey_479,Enter the Lobby
+main_quest_name_localkey_480,Go to the Ephialtes in the Ark
+main_quest_name_localkey_481,Go to the Hidden Room in the Ark
+main_quest_name_localkey_482,Go to the Outer Rim of the Ark
+main_quest_name_localkey_483,Go to the Tetra Line Headquarters in the Ark
+main_quest_name_localkey_484,Go to the Outpost
+main_quest_name_localkey_485,Go to the Practice Room in the Ark
+main_quest_name_localkey_486,Go to the Lobby
+main_quest_name_localkey_9999,To Be Next Time
+main_quest_description_localkey_1,First Contact
+main_quest_description_localkey_1_a,First Contact: A
+main_quest_description_localkey_1_b,First Contact: B
+main_quest_description_localkey_2,Two Martyrs
+main_quest_description_localkey_3,Joining In
+main_quest_description_localkey_3_a,Joining In: A
+main_quest_description_localkey_3_b,Joining In: B
+main_quest_description_localkey_4,Conflict
+main_quest_description_localkey_4_a,Conflict: A
+main_quest_description_localkey_4_b,Conflict: B
+main_quest_description_localkey_5,Shifty
+main_quest_description_localkey_6,Bandage
+main_quest_description_localkey_6_a,Bandage: A
+main_quest_description_localkey_6_b,Bandage: B
+main_quest_description_localkey_7,Red Eye
+main_quest_description_localkey_7_a,Red Eye: A
+main_quest_description_localkey_7_b,Red Eye: B
+main_quest_description_localkey_8,Return to the Ark
+main_quest_description_localkey_9,Deputy Chief
+main_quest_description_localkey_10,Her Space
+main_quest_description_localkey_11,The Trial
+main_quest_description_localkey_12,To the Surface
+main_quest_description_localkey_13,Investigate the Power Station
+main_quest_description_localkey_14,Do Not Use When Alone
+main_quest_description_localkey_15,Command Center
+main_quest_description_localkey_16,Long Live Firepower
+main_quest_description_localkey_17,Into the Power Station
+main_quest_description_localkey_18,A Messy Entrance
+main_quest_description_localkey_19,"Dark, Damp, and Stinky"
+main_quest_description_localkey_20,Dropped It
+main_quest_description_localkey_20_a,Dropped It: A
+main_quest_description_localkey_20_b,Dropped It: B
+main_quest_description_localkey_21,Responsibility
+main_quest_description_localkey_22,Outpost
+main_quest_description_localkey_23,Dormitory
+main_quest_description_localkey_24,Command Center
+main_quest_description_localkey_25,Humans and Monsters
+main_quest_description_localkey_26,Secret Operation
+main_quest_description_localkey_27,Favorite
+main_quest_description_localkey_28,Codename Chatterbox
+main_quest_description_localkey_29,Reward
+main_quest_description_localkey_30,Ambush
+main_quest_description_localkey_31,Ruler of Senses
+main_quest_description_localkey_32,Broken Traces
+main_quest_description_localkey_33,Twisted Gears
+main_quest_description_localkey_34,Warm Hands
+main_quest_description_localkey_35,The Ties That Bind Briefly
+main_quest_description_localkey_35_a,The Ties That Bind Briefly: A
+main_quest_description_localkey_35_b,The Ties That Bind Briefly: B
+main_quest_description_localkey_36,Garrulous Talker
+main_quest_description_localkey_36_a,Garrulous Talker: A
+main_quest_description_localkey_36_b,Garrulous Talker: B
+main_quest_description_localkey_37,The Wounded
+main_quest_description_localkey_38,The Unknown
+main_quest_description_localkey_39,Meaning of Existence
+main_quest_description_localkey_40,Threat
+main_quest_description_localkey_41,Absolute
+main_quest_description_localkey_41_a,Absolute: A
+main_quest_description_localkey_41_b,Absolute: B
+main_quest_description_localkey_42,Judgment
+main_quest_description_localkey_43,Imitate Mankind
+main_quest_description_localkey_44,Farewell
+main_quest_description_localkey_45,Floral Tribute
+main_quest_description_localkey_46,Commander's Order
+main_quest_description_localkey_47,A Touch of Vengeance
+main_quest_description_localkey_48,Up North
+main_quest_description_localkey_49,En-tertainment!
+main_quest_description_localkey_50,Snow Land
+main_quest_description_localkey_51,Replacements
+main_quest_description_localkey_52,Snowstorm
+main_quest_description_localkey_53,Frozen World
+main_quest_description_localkey_53_a,Frozen World: A
+main_quest_description_localkey_53_b,Frozen World: B
+main_quest_description_localkey_54,The Rescue
+main_quest_description_localkey_55,Rabbity
+main_quest_description_localkey_56,Unlimited
+main_quest_description_localkey_57,Reunited
+main_quest_description_localkey_57_a,Reunited: A
+main_quest_description_localkey_57_b,Reunited: B
+main_quest_description_localkey_58,The Legendary Weapon
+main_quest_description_localkey_59,Research Institute
+main_quest_description_localkey_60,Big and Sturdy
+main_quest_description_localkey_60_a,Big and Sturdy: A
+main_quest_description_localkey_60_b,Big and Sturdy: B
+main_quest_description_localkey_61,Marvelous Dance
+main_quest_description_localkey_62,Codename Snow White
+main_quest_description_localkey_63,Cozy Rest
+main_quest_description_localkey_64,Sleeping Princesses
+main_quest_description_localkey_65,In Pursuit of the Pilgrim
+main_quest_description_localkey_66,A Familiar Smile
+main_quest_description_localkey_67,Meeting
+main_quest_description_localkey_68,The Pilgrim
+main_quest_description_localkey_68_a,The Pilgrim: A
+main_quest_description_localkey_68_b,The Pilgrim: B
+main_quest_description_localkey_69,Tracking
+main_quest_description_localkey_70,Decades of Wandering
+main_quest_description_localkey_71,Traitor
+main_quest_description_localkey_72,Motivation
+main_quest_description_localkey_73,Reason for Wandering
+main_quest_description_localkey_74,Modernia
+main_quest_description_localkey_74_a,Modernia: A
+main_quest_description_localkey_74_b,Modernia: B
+main_quest_description_localkey_75,The End of a Snowstorm
+main_quest_description_localkey_76,Do Not Destroy the World
+main_quest_description_localkey_77,Special Commandos
+main_quest_description_localkey_78,Things That Must Be Done
+main_quest_description_localkey_79,To the Data Center
+main_quest_description_localkey_80,Two Spies?
+main_quest_description_localkey_81,A Budding Suspicion
+main_quest_description_localkey_82,Bickering Duo
+main_quest_description_localkey_83,Secret Sharing
+main_quest_description_localkey_84,Laissez-faire
+main_quest_description_localkey_85,Two Operators
+main_quest_description_localkey_86,Joining Hands
+main_quest_description_localkey_86_a,Joining Hands: A
+main_quest_description_localkey_86_b,Joining Hands: B
+main_quest_description_localkey_87,Education
+main_quest_description_localkey_88,Vapaus
+main_quest_description_localkey_88_a,Vapaus: A
+main_quest_description_localkey_88_b,Vapaus: B
+main_quest_description_localkey_89,Hacking Begins
+main_quest_description_localkey_90,Red Screen
+main_quest_description_localkey_91,The Perilous Return
+main_quest_description_localkey_91_a,The Perilous Return: A
+main_quest_description_localkey_91_b,The Perilous Return: B
+main_quest_description_localkey_92,A Bad Joke
+main_quest_description_localkey_92_a,A Bad Joke: A
+main_quest_description_localkey_92_b,A Bad Joke: B
+main_quest_description_localkey_93,Restraint
+main_quest_description_localkey_94,An Unspeakable Fact
+main_quest_description_localkey_95,The Detective
+main_quest_description_localkey_96,The Detective's Reasoning
+main_quest_description_localkey_97,NIMPH
+main_quest_description_localkey_98,The Backer
+main_quest_description_localkey_99,Joint Operation
+main_quest_description_localkey_100,Who is Stronger?
+main_quest_description_localkey_101,Anis and Vesti
+main_quest_description_localkey_101_a,Anis and Vesti: A
+main_quest_description_localkey_101_b,Anis and Vesti: B
+main_quest_description_localkey_102,Neon and Emma
+main_quest_description_localkey_103,A Catch-Up
+main_quest_description_localkey_104,Beloved Comrade
+main_quest_description_localkey_105,Matis
+main_quest_description_localkey_106,Who Is First?
+main_quest_description_localkey_107,Your Fault
+main_quest_description_localkey_108,High-Quality Toy
+main_quest_description_localkey_109,Comrade-In-Arms
+main_quest_description_localkey_110,Going Down
+main_quest_description_localkey_110_a,Going Down: A
+main_quest_description_localkey_110_b,Going Down: B
+main_quest_description_localkey_111,The Meaning of the Strongest
+main_quest_description_localkey_112,Rendezvous In The Dark
+main_quest_description_localkey_112_a,Rendezvous In The Dark: A
+main_quest_description_localkey_112_b,Rendezvous In The Dark: B
+main_quest_description_localkey_113,A Bad Feeling
+main_quest_description_localkey_114,Standing Still
+main_quest_description_localkey_115,In The Belly Of The Beast
+main_quest_description_localkey_116,Ominous Certainty
+main_quest_description_localkey_117,Her Will
+main_quest_description_localkey_117_a,Her Will: A
+main_quest_description_localkey_117_b,Her Will: B
+main_quest_description_localkey_118,Incorruptible
+main_quest_description_localkey_119,Envy
+main_quest_description_localkey_120,Material H
+main_quest_description_localkey_121,Operation: Destroy the Heretics
+main_quest_description_localkey_122,End It
+main_quest_description_localkey_123,Operation Start
+main_quest_description_localkey_124,Biding Our Time
+main_quest_description_localkey_125,The Fight Begins
+main_quest_description_localkey_126,Here Comes the Train
+main_quest_description_localkey_127,AZX
+main_quest_description_localkey_127_a,AZX: A
+main_quest_description_localkey_127_b,AZX: B
+main_quest_description_localkey_128,Terrifying Reunion
+main_quest_description_localkey_128_a,Terrifying Reunion: A
+main_quest_description_localkey_128_b,Terrifying Reunion: B
+main_quest_description_localkey_129,Dangerous Gamble
+main_quest_description_localkey_130,Back to the Beginning
+main_quest_description_localkey_130_a,Back to the Beginning: A
+main_quest_description_localkey_130_b,Back to the Beginning: B
+main_quest_description_localkey_131,Valuable Blood
+main_quest_description_localkey_132,Sign
+main_quest_description_localkey_133,Successful Operation
+main_quest_description_localkey_134,Fatigue
+main_quest_description_localkey_135,Small Comfort
+main_quest_description_localkey_136,That Which is Remembered
+main_quest_description_localkey_137,Red Hood
+main_quest_description_localkey_138,Discount!
+main_quest_description_localkey_138_a,Discount!: A
+main_quest_description_localkey_138_b,Discount!: B
+main_quest_description_localkey_139,Ominous Behavior
+main_quest_description_localkey_140,Bang
+main_quest_description_localkey_141,Triangle
+main_quest_description_localkey_142,Isolation
+main_quest_description_localkey_143,Booby Trap
+main_quest_description_localkey_144,Bait
+main_quest_description_localkey_145,Face-To-Face
+main_quest_description_localkey_146,Burningum
+main_quest_description_localkey_147,With Power Comes Envy
+main_quest_description_localkey_148,Dissemination
+main_quest_description_localkey_149,Time to Make a Choice
+main_quest_description_localkey_150,New Friend
+main_quest_description_localkey_151,Another Meeting
+main_quest_description_localkey_152,The End is Nigh
+main_quest_description_localkey_153,Unexpected Calling
+main_quest_description_localkey_154,Enikk
+main_quest_description_localkey_155,Lost Bullet
+main_quest_description_localkey_156,Talentum
+main_quest_description_localkey_157,Shopaholic ☆
+main_quest_description_localkey_158,The Color of Money
+main_quest_description_localkey_159,Freefall
+main_quest_description_localkey_160,Risky Investment
+main_quest_description_localkey_161,Need A Shower Room
+main_quest_description_localkey_162,Jackpot?
+main_quest_description_localkey_162_a,Jackpot?: A
+main_quest_description_localkey_162_b,Jackpot?: B
+main_quest_description_localkey_163,Investment Results
+main_quest_description_localkey_164,Major Statement
+main_quest_description_localkey_165,Stolen Object
+main_quest_description_localkey_166,Antitrust
+main_quest_description_localkey_167,Proposal
+main_quest_description_localkey_168,The End of the Nightmare
+main_quest_description_localkey_169,Exotic
+main_quest_description_localkey_170,Terrorist
+main_quest_description_localkey_171,Punishment for Inaction
+main_quest_description_localkey_172,Comrade's Justice
+main_quest_description_localkey_173,High and Low
+main_quest_description_localkey_173_a,High and Low: A
+main_quest_description_localkey_173_b,High and Low: B
+main_quest_description_localkey_174,Outlaws
+main_quest_description_localkey_175,Confusion
+main_quest_description_localkey_176,Hot on the Trail
+main_quest_description_localkey_177,Brand And Prejudice
+main_quest_description_localkey_177_a,Brand And Prejudice: A
+main_quest_description_localkey_177_b,Brand And Prejudice: B
+main_quest_description_localkey_178,Conspiracy Theory
+main_quest_description_localkey_179,A Dream of Freedom
+main_quest_description_localkey_180,Lighthouse
+main_quest_description_localkey_181,United in Justice
+main_quest_description_localkey_181_a,United in Justice: A
+main_quest_description_localkey_181_b,United in Justice: B
+main_quest_description_localkey_182,Hero or Suspect?
+main_quest_description_localkey_183,Out Of Anger
+main_quest_description_localkey_184,Spectacular Fireworks
+main_quest_description_localkey_185,Golden Pilgrim
+main_quest_description_localkey_185_a,Golden Pilgrim: A
+main_quest_description_localkey_185_b,Golden Pilgrim: B
+main_quest_description_localkey_186,Under Wraps
+main_quest_description_localkey_187,Concern
+main_quest_description_localkey_187_a,Concern: A
+main_quest_description_localkey_187_b,Concern: B
+main_quest_description_localkey_188,Longing
+main_quest_description_localkey_189,New Moon
+main_quest_description_localkey_189_a,New Moon: A
+main_quest_description_localkey_189_b,New Moon: B
+main_quest_description_localkey_190,Sensitive Topic
+main_quest_description_localkey_191,The World You Choose
+main_quest_description_localkey_192,Truth
+main_quest_description_localkey_193,Separate Ways
+main_quest_description_localkey_194,Mutual Respect
+main_quest_description_localkey_195,Goddess
+main_quest_description_localkey_196,Purpose
+main_quest_description_localkey_197,Anti-Nikke Demonstration
+main_quest_description_localkey_198,Risky Proposition
+main_quest_description_localkey_199,Fair Price
+main_quest_description_localkey_200,Great Plan
+main_quest_description_localkey_201,Return Trip
+main_quest_description_localkey_202,Infatuation and Repulsion
+main_quest_description_localkey_203,Life as a Nikke
+main_quest_description_localkey_204,Barrier Institute
+main_quest_description_localkey_205,New Barriers
+main_quest_description_localkey_206,Side Effects
+main_quest_description_localkey_207,I'm No Hero
+main_quest_description_localkey_207_a,I'm No Hero: A
+main_quest_description_localkey_207_b,I'm No Hero: B
+main_quest_description_localkey_208,Exhausted Footsteps
+main_quest_description_localkey_209,Seeking Courage
+main_quest_description_localkey_210,Supervillain
+main_quest_description_localkey_211,The Matis Way
+main_quest_description_localkey_212,Hero
+main_quest_description_localkey_212_a,Hero: A
+main_quest_description_localkey_212_b,Hero: B
+main_quest_description_localkey_213,Justice Without Trial
+main_quest_description_localkey_214,Hospital Visit
+main_quest_description_localkey_215,Isolated Society
+main_quest_description_localkey_216,Wick
+main_quest_description_localkey_217,Supplies
+main_quest_description_localkey_218,Temptation
+main_quest_description_localkey_219,A Butterfly Chasing Bees
+main_quest_description_localkey_220,Shards for Mankind
+main_quest_description_localkey_221,Delicate
+main_quest_description_localkey_222,Cartridge Case Down the Sewage
+main_quest_description_localkey_223,Assault
+main_quest_description_localkey_224,Pilgrim in Eden
+main_quest_description_localkey_225,Reason of Birth
+main_quest_description_localkey_226,Trial of Eden
+main_quest_description_localkey_226_a,Trial of Eden: A
+main_quest_description_localkey_226_b,Trial of Eden: B
+main_quest_description_localkey_227,Eden
+main_quest_description_localkey_228,Operation: Fight off the Heretics
+main_quest_description_localkey_229,Proven Talent
+main_quest_description_localkey_230,Play Your Part
+main_quest_description_localkey_231,Qualification of a Commander
+main_quest_description_localkey_232,Command Ability Test
+main_quest_description_localkey_233,The Ark's Rising Star
+main_quest_description_localkey_234,Shield
+main_quest_description_localkey_234_a,Shield: A
+main_quest_description_localkey_234_b,Shield: B
+main_quest_description_localkey_235,Crimson Dragon
+main_quest_description_localkey_236,Black Box
+main_quest_description_localkey_236_a,Black Box: A
+main_quest_description_localkey_236_b,Black Box: B
+main_quest_description_localkey_237,Pride of Eden
+main_quest_description_localkey_238,Nihilister
+main_quest_description_localkey_238_a,Nihilister: A
+main_quest_description_localkey_238_b,Nihilister: B
+main_quest_description_localkey_239,Health Checkup
+main_quest_description_localkey_240,Omen
+main_quest_description_localkey_241,Whale in the Sky
+main_quest_description_localkey_241_a,Whale in the Sky: A
+main_quest_description_localkey_241_b,Whale in the Sky: B
+main_quest_description_localkey_242,New Hope
+main_quest_description_localkey_242_a,New Hope: A
+main_quest_description_localkey_242_b,New Hope: B
+main_quest_description_localkey_243,First Encounter with a Colleague
+main_quest_description_localkey_243_a,First Encounter with a Colleague: A
+main_quest_description_localkey_243_b,First Encounter with a Colleague: B
+main_quest_description_localkey_244,Secret and Truth
+main_quest_description_localkey_244_a,Secret and Truth: A
+main_quest_description_localkey_244_b,Secret and Truth: B
+main_quest_description_localkey_245,A Commander's Responsibility
+main_quest_description_localkey_246,Value of Treachery
+main_quest_description_localkey_246_a,Value of Treachery: A
+main_quest_description_localkey_246_b,Value of Treachery: B
+main_quest_description_localkey_247,Time Bomb in Brains
+main_quest_description_localkey_247_a,Time Bomb in Brains: A
+main_quest_description_localkey_247_b,Time Bomb in Brains: B
+main_quest_description_localkey_248,Aim for the Sky
+main_quest_description_localkey_248_a,Aim for the Sky: A
+main_quest_description_localkey_248_b,Aim for the Sky: B
+main_quest_description_localkey_249,Scramble on the Sky
+main_quest_description_localkey_249_a,Scramble on the Sky: A
+main_quest_description_localkey_249_b,Scramble on the Sky: B
+main_quest_description_localkey_250,My Strength
+main_quest_description_localkey_250_a,My Strength: A
+main_quest_description_localkey_250_b,My Strength: B
+main_quest_description_localkey_251,Trade in Eden
+main_quest_description_localkey_252,Ominous Premonition
+main_quest_description_localkey_253,What Should Have Happened Earlier
+main_quest_description_localkey_254,Cracked Ark
+main_quest_description_localkey_255,A.C.P.U.
+main_quest_description_localkey_256,Poli and Miranda
+main_quest_description_localkey_256_a,Poli and Miranda: A
+main_quest_description_localkey_256_b,Poli and Miranda: B
+main_quest_description_localkey_257,Guardian of the Ark
+main_quest_description_localkey_258,Beast in the Warren
+main_quest_description_localkey_258_a,Beast in the Warren: A
+main_quest_description_localkey_258_b,Beast in the Warren: B
+main_quest_description_localkey_259,Underworld Queen
+main_quest_description_localkey_259_a,Underworld Queen: A
+main_quest_description_localkey_259_b,Underworld Queen: B
+main_quest_description_localkey_260,Rosanna's Task
+main_quest_description_localkey_261,Sakura's Task
+main_quest_description_localkey_262,Moran's Task
+main_quest_description_localkey_263,E.H.
+main_quest_description_localkey_264,Covert Operatives
+main_quest_description_localkey_265,Gateway
+main_quest_description_localkey_266,Descend from the Sky
+main_quest_description_localkey_266_a,Descend from the Sky: A
+main_quest_description_localkey_266_b,Descend from the Sky: B
+main_quest_description_localkey_267,Chilly Reunion
+main_quest_description_localkey_267_a,Chilly Reunion: A
+main_quest_description_localkey_267_b,Chilly Reunion: B
+main_quest_description_localkey_268,Who Are Responsible?
+main_quest_description_localkey_268_a,Who Are Responsible?: A
+main_quest_description_localkey_268_b,Who Are Responsible?: B
+main_quest_description_localkey_269,Sight Behind the Wall
+main_quest_description_localkey_269_a,Sight Behind the Wall: A
+main_quest_description_localkey_269_b,Sight Behind the Wall: B
+main_quest_description_localkey_270,Hand Behind the Wall
+main_quest_description_localkey_271,Snake in the Grass
+main_quest_description_localkey_271_a,Snake in the Grass: A
+main_quest_description_localkey_271_b,Snake in the Grass: B
+main_quest_description_localkey_272,One-Sided Deal
+main_quest_description_localkey_272_a,One-Sided Deal: A
+main_quest_description_localkey_272_b,One-Sided Deal: B
+main_quest_description_localkey_273,Guardian of the Partition
+main_quest_description_localkey_273_a,Guardian of the Partition: A
+main_quest_description_localkey_273_b,Guardian of the Partition: B
+main_quest_description_localkey_274,The Ark's Decision
+main_quest_description_localkey_274_a,The Ark's Decision: A
+main_quest_description_localkey_274_b,The Ark's Decision: B
+main_quest_description_localkey_275,Prison
+main_quest_description_localkey_275_a,Prison: A
+main_quest_description_localkey_275_b,Prison: B
+main_quest_description_localkey_276,Lethal Eye
+main_quest_description_localkey_276_a,Lethal Eye: A
+main_quest_description_localkey_276_b,Lethal Eye: B
+main_quest_description_localkey_277,Present
+main_quest_description_localkey_277_a,Present: A
+main_quest_description_localkey_277_b,Present: B
+main_quest_description_localkey_278,The Forgotten Name
+main_quest_description_localkey_279,Abominable
+main_quest_description_localkey_280,Well Prepared
+main_quest_description_localkey_281,Right to Revenge
+main_quest_description_localkey_282,Real Plan
+main_quest_description_localkey_283,Queens
+main_quest_description_localkey_284,Released
+main_quest_description_localkey_284_a,Released: A
+main_quest_description_localkey_284_b,Released: B
+main_quest_description_localkey_285,Murderous Rage
+main_quest_description_localkey_285_a,Murderous Rage: A
+main_quest_description_localkey_285_b,Murderous Rage: B
+main_quest_description_localkey_286,Poison Fang
+main_quest_description_localkey_286_a,Poison Fang: A
+main_quest_description_localkey_286_b,Poison Fang: B
+main_quest_description_localkey_287,The Fall
+main_quest_description_localkey_287_a,The Fall: A
+main_quest_description_localkey_287_b,The Fall: B
+main_quest_description_localkey_288,Afterwards
+main_quest_description_localkey_289,Atonement
+main_quest_description_localkey_290,Mediator
+main_quest_description_localkey_291,Apprehension
+main_quest_description_localkey_292,Threat From Within
+main_quest_description_localkey_293,Ejection
+main_quest_description_localkey_293_a,Ejection: A
+main_quest_description_localkey_293_b,Ejection: B
+main_quest_description_localkey_294,Bring Her Back
+main_quest_description_localkey_295,Reasonable Judgement
+main_quest_description_localkey_296,New Power
+main_quest_description_localkey_297,Long-Awaited Command
+main_quest_description_localkey_298,Aftereffects
+main_quest_description_localkey_299,Lie
+main_quest_description_localkey_300,Reckless Marching
+main_quest_description_localkey_301,Solemn Request
+main_quest_description_localkey_301_a,Solemn Request: A
+main_quest_description_localkey_301_b,Solemn Request: B
+main_quest_description_localkey_302,The Fallen Fire Dragon
+main_quest_description_localkey_302_a,The Fallen Fire Dragon: A
+main_quest_description_localkey_303_b,The Fallen Fire Dragon: B
+main_quest_description_localkey_303,Fearful Man
+main_quest_description_localkey_304,Holding Back
+main_quest_description_localkey_304_a,Holding Back: A
+main_quest_description_localkey_304_b,Holding Back: B
+main_quest_description_localkey_305,Only Did My Best
+main_quest_description_localkey_306,Gratitude
+main_quest_description_localkey_306_a,Gratitude: A
+main_quest_description_localkey_306_b,Gratitude: B
+main_quest_description_localkey_307,Red Mark
+main_quest_description_localkey_307_a,Red Mark: A
+main_quest_description_localkey_307_b,Red Mark: B
+main_quest_description_localkey_308,Back Home
+main_quest_description_localkey_308_a,Back Home: A
+main_quest_description_localkey_308_b,Back Home: B
+main_quest_description_localkey_309,From Past to Present
+main_quest_description_localkey_309_a,From Past to Present: A
+main_quest_description_localkey_309_b,From Past to Present: B
+main_quest_description_localkey_310,White Knight
+main_quest_description_localkey_310_a,White Knight: A
+main_quest_description_localkey_310_b,White Knight: B
+main_quest_description_localkey_311,Important Person
+main_quest_description_localkey_312,Determination
+main_quest_description_localkey_312_a,Determination: A
+main_quest_description_localkey_312_b,Determination: B
+main_quest_description_localkey_313,Faraway Hometown
+main_quest_description_localkey_314,Desire to Return Again
+main_quest_description_localkey_314_a,Desire to Return Again: A
+main_quest_description_localkey_314_b,Desire to Return Again: B
+main_quest_description_localkey_315,Memories Remain
+main_quest_description_localkey_316,Formal Transaction
+main_quest_description_localkey_317,The First Place Reclaimed
+main_quest_description_localkey_318,What Will Become My Strength
+main_quest_description_localkey_319,Reunion with the Unknown
+main_quest_description_localkey_319_a,Reunion with the Unknown: A
+main_quest_description_localkey_319_b,Reunion with the Unknown: B
+main_quest_description_localkey_320,Reclamation Site 01
+main_quest_description_localkey_321,Worthy of Praise
+main_quest_description_localkey_322,Newcomer
+main_quest_description_localkey_323,"Pathfinder, Miner, Electrician"
+main_quest_description_localkey_323_a,"Pathfinder, Miner, Electrician: A"
+main_quest_description_localkey_323_b,"Pathfinder, Miner, Electrician: B"
+main_quest_description_localkey_324,Moving on Together
+main_quest_description_localkey_325,Circumstances All Their Own
+main_quest_description_localkey_325_a,Circumstances All Their Own: A
+main_quest_description_localkey_325_b,Circumstances All Their Own: B
+main_quest_description_localkey_326,Crystal in the Desert
+main_quest_description_localkey_326_a,Crystal in the Desert: A
+main_quest_description_localkey_326_b,Crystal in the Desert: B
+main_quest_description_localkey_327,Growing Crystal
+main_quest_description_localkey_328,Clear Purpose
+main_quest_description_localkey_329,BOOM
+main_quest_description_localkey_330,Take the Hard Path
+main_quest_description_localkey_331,Parasitic
+main_quest_description_localkey_331_a,Parasitic: A
+main_quest_description_localkey_331_b,Parasitic: B
+main_quest_description_localkey_332,Eroded City
+main_quest_description_localkey_332_a,Eroded City: A
+main_quest_description_localkey_332_b,Eroded City: B
+main_quest_description_localkey_333,A Little Further
+main_quest_description_localkey_334,A Small Change
+main_quest_description_localkey_335,Exploration
+main_quest_description_localkey_335_a,Exploration: A
+main_quest_description_localkey_335_b,Exploration: B
+main_quest_description_localkey_336,Super Vision
+main_quest_description_localkey_336_a,Super Vision: A
+main_quest_description_localkey_336_b,Super Vision: B
+main_quest_description_localkey_337,The End of a Dangerous Road
+main_quest_description_localkey_338,The Other End of the Door
+main_quest_description_localkey_338_a,The Other End of the Door: A
+main_quest_description_localkey_338_b,The Other End of the Door: B
+main_quest_description_localkey_339,The Coffin Carrier
+main_quest_description_localkey_339_a,The Coffin Carrier: A
+main_quest_description_localkey_339_b,The Coffin Carrier: B
+main_quest_description_localkey_340,The Changed Road
+main_quest_description_localkey_340_a,The Changed Road: A
+main_quest_description_localkey_340_b,The Changed Road: B
+main_quest_description_localkey_341,The Isolated Duo
+main_quest_description_localkey_342,Meet the Unknown
+main_quest_description_localkey_342_a,Meet the Unknown: A
+main_quest_description_localkey_342_b,Meet the Unknown: B
+main_quest_description_localkey_343,Those Left Behind
+main_quest_description_localkey_344,Rescue Begins
+main_quest_description_localkey_345,Companions Left Behind
+main_quest_description_localkey_345_a,Companions Left Behind: A
+main_quest_description_localkey_345_b,Companions Left Behind: B
+main_quest_description_localkey_346,Those Traces
+main_quest_description_localkey_346_a,Those Traces: A
+main_quest_description_localkey_346_b,Those Traces: B
+main_quest_description_localkey_347,Ominous Traces
+main_quest_description_localkey_347_a,Ominous Traces: A
+main_quest_description_localkey_347_b,Ominous Traces: B
+main_quest_description_localkey_348,BOOM Signal
+main_quest_description_localkey_348_a,BOOM Signal: A
+main_quest_description_localkey_348_b,BOOM Signal: B
+main_quest_description_localkey_349,The Vanguard's Plight
+main_quest_description_localkey_349_a,The Vanguard's Plight: A
+main_quest_description_localkey_349_b,The Vanguard's Plight: B
+main_quest_description_localkey_350,Tattered Clothes
+main_quest_description_localkey_350_a,Tattered Clothes: A
+main_quest_description_localkey_350_b,Tattered Clothes: B
+main_quest_description_localkey_351,Words of Longing
+main_quest_description_localkey_351_a,Words of Longing: A
+main_quest_description_localkey_351_b,Words of Longing: B
+main_quest_description_localkey_352,Dignified
+main_quest_description_localkey_352_a,Dignified: A
+main_quest_description_localkey_352_b,Dignified: B
+main_quest_description_localkey_353,Suspicious Duo
+main_quest_description_localkey_353_a,Suspicious Duo: A
+main_quest_description_localkey_353_b,Suspicious Duo: B
+main_quest_description_localkey_354,White Building
+main_quest_description_localkey_354_a,White Building: A
+main_quest_description_localkey_354_b,White Building: B
+main_quest_description_localkey_355,Sixo
+main_quest_description_localkey_356,Emptiness
+main_quest_description_localkey_356_a,Emptiness: A
+main_quest_description_localkey_356_b,Emptiness: B
+main_quest_description_localkey_357,At the Grave
+main_quest_description_localkey_358,For Proof
+main_quest_description_localkey_359,Human's Standard
+main_quest_description_localkey_359_a,Human's Standard: A
+main_quest_description_localkey_359_b,Human's Standard: B
+main_quest_description_localkey_360,Princess in the Coffin
+main_quest_description_localkey_360_a,Princess in the Coffin: A
+main_quest_description_localkey_360_b,Princess in the Coffin: B
+main_quest_description_localkey_361,Until the End
+main_quest_description_localkey_361_a,Until the End: A
+main_quest_description_localkey_361_b,Until the End: B
+main_quest_description_localkey_362,Running Figure
+main_quest_description_localkey_362_a,Running Figure: A
+main_quest_description_localkey_362_b,Running Figure: B
+main_quest_description_localkey_363,What Comes After
+main_quest_description_localkey_364,Outreached Hand
+main_quest_description_localkey_365,Inescapable
+main_quest_description_localkey_366,Memories of the Past
+main_quest_description_localkey_366_a,Memories of the Past: A
+main_quest_description_localkey_366_b,Memories of the Past: B
+main_quest_description_localkey_367,Peculiar Reunion
+main_quest_description_localkey_367_a,Peculiar Reunion: A
+main_quest_description_localkey_367_b,Peculiar Reunion: B
+main_quest_description_localkey_368,A Pillar
+main_quest_description_localkey_369,Change of Position
+main_quest_description_localkey_369_a,Change of Position: A
+main_quest_description_localkey_369_b,Change of Position: B
+main_quest_description_localkey_370,Coward
+main_quest_description_localkey_371,Mabeast
+main_quest_description_localkey_372,What's Being Done
+main_quest_description_localkey_373,Behemoth
+main_quest_description_localkey_374,"Blind, Yet Naïve"
+main_quest_description_localkey_374_a,"Blind, Yet Naïve: A"
+main_quest_description_localkey_374_b,"Blind, Yet Naïve: B"
+main_quest_description_localkey_375,Entrusting the Future
+main_quest_description_localkey_376,Apology and Forgiveness
+main_quest_description_localkey_376_a,Apology and Forgiveness: A
+main_quest_description_localkey_376_b,Apology and Forgiveness: B
+main_quest_description_localkey_377,Glass Slippers
+main_quest_description_localkey_378,Cessation
+main_quest_description_localkey_379,Mabeast Ambush
+main_quest_description_localkey_380,Mabeast Hunt
+main_quest_description_localkey_380_a,Mabeast Hunt: A
+main_quest_description_localkey_380_b,Mabeast Hunt: B
+main_quest_description_localkey_381,Confidence For Two
+main_quest_description_localkey_382,Avenging Battle
+main_quest_description_localkey_382_a,Avenging Battle: A
+main_quest_description_localkey_382_b,Avenging Battle: B
+main_quest_description_localkey_383,Hope of Regaining
+main_quest_description_localkey_383_a,Hope of Regaining: A
+main_quest_description_localkey_383_b,Hope of Regaining: B
+main_quest_description_localkey_384,Mirror and Prince
+main_quest_description_localkey_385,Once More Into the Fray
+main_quest_description_localkey_386,Destroy the Crystal Region
+main_quest_description_localkey_387,Tête-à-Tête
+main_quest_description_localkey_387_a,Tête-à-Tête: A
+main_quest_description_localkey_387_b,Tête-à-Tête: B
+main_quest_description_localkey_388,My Master
+main_quest_description_localkey_389,Beautiful Figure
+main_quest_description_localkey_390,Black Water
+main_quest_description_localkey_390_a,Black Water: A
+main_quest_description_localkey_390_b,Black Water: B
+main_quest_description_localkey_391,Leviathan
+main_quest_description_localkey_392,Scouting Battle
+main_quest_description_localkey_393,The Offsprings
+main_quest_description_localkey_394,Black Wave
+main_quest_description_localkey_395,Second Generation Grimms Model
+main_quest_description_localkey_395_a,Second Generation Grimms Model: A
+main_quest_description_localkey_395_b,Second Generation Grimms Model: B
+main_quest_description_localkey_396,Pride
+main_quest_description_localkey_396_a,Pride: A
+main_quest_description_localkey_396_b,Pride: B
+main_quest_description_localkey_397,Nothing
+main_quest_description_localkey_398,Far Away
+main_quest_description_localkey_399,Hunting Plan
+main_quest_description_localkey_400,Meaning of Inheritance
+main_quest_description_localkey_401,Plot Spoiler
+main_quest_description_localkey_401_a,Plot Spoiler: A
+main_quest_description_localkey_401_b,Plot Spoiler: B
+main_quest_description_localkey_402,Another Clash
+main_quest_description_localkey_402_a,Another Clash: A
+main_quest_description_localkey_402_b,Another Clash: B
+main_quest_description_localkey_403,I Will Protect
+main_quest_description_localkey_404,Power of Inheritance
+main_quest_description_localkey_404_a,Power of Inheritance: A
+main_quest_description_localkey_404_b,Power of Inheritance: B
+main_quest_description_localkey_405,The Next Story
+main_quest_description_localkey_406,Not a Farewell
+main_quest_description_localkey_407,I Am Me
+main_quest_description_localkey_408,A Sense of Euphoria
+main_quest_description_localkey_409,Compelling Words
+main_quest_description_localkey_410,Halftime
+main_quest_description_localkey_411,Because We Are Comrades
+main_quest_description_localkey_412,Several Mistakes
+main_quest_description_localkey_413,Reliable Reinforcements?
+main_quest_description_localkey_414,Black Sea
+main_quest_description_localkey_415,Those Who Return
+main_quest_description_localkey_416,What Has Changed?
+main_quest_description_localkey_417,Farewell Performance Announcement
+main_quest_description_localkey_418,Bubble
+main_quest_description_localkey_418_a,Bubble: A
+main_quest_description_localkey_418_b,Bubble: B
+main_quest_description_localkey_419,Lonesome Monologues
+main_quest_description_localkey_420,Concerns
+main_quest_description_localkey_421,Inside the Egg
+main_quest_description_localkey_421_a,Inside the Egg: A
+main_quest_description_localkey_421_b,Inside the Egg: B
+main_quest_description_localkey_422,Trying to Talk
+main_quest_description_localkey_422_a,Trying to Talk: A
+main_quest_description_localkey_422_b,Trying to Talk: B
+main_quest_description_localkey_423,Temporary Mate
+main_quest_description_localkey_424,Q&A
+main_quest_description_localkey_425,Defibrillator
+main_quest_description_localkey_425_a,Defibrillator: A
+main_quest_description_localkey_425_b,Defibrillator: B
+main_quest_description_localkey_426,Indirect Help
+main_quest_description_localkey_427,Long-Term Plan
+main_quest_description_localkey_428,Food Preferences
+main_quest_description_localkey_429,In Search of Comrades
+main_quest_description_localkey_429_a,In Search of Comrades: A
+main_quest_description_localkey_429_b,In Search of Comrades: B
+main_quest_description_localkey_430,Inspection Unit
+main_quest_description_localkey_430_a,Inspection Unit: A
+main_quest_description_localkey_430_b,Inspection Unit: B
+main_quest_description_localkey_431,Tug of War
+main_quest_description_localkey_431_a,Tug of War: A
+main_quest_description_localkey_431_b,Tug of War: B
+main_quest_description_localkey_432,Treated Like a Fool
+main_quest_description_localkey_433,The Admire
+main_quest_description_localkey_433_a,The Admire: A
+main_quest_description_localkey_433_b,The Admire: B
+main_quest_description_localkey_434,Devastating Numbers
+main_quest_description_localkey_435,Spectacles Alliance
+main_quest_description_localkey_436,Top Contributor
+main_quest_description_localkey_437,Experimental Area
+main_quest_description_localkey_437_a,Experimental Area: A
+main_quest_description_localkey_437_b,Experimental Area: B
+main_quest_description_localkey_438,Whispers
+main_quest_description_localkey_439,Ziz
+main_quest_description_localkey_439_a,Ziz: A
+main_quest_description_localkey_439_b,Ziz: B
+main_quest_description_localkey_440,Faith and Glory
+main_quest_description_localkey_440_a,Faith and Glory: A
+main_quest_description_localkey_440_b,Faith and Glory: B
+main_quest_description_localkey_441,Precious Things
+main_quest_description_localkey_442,Silver Liquid
+main_quest_description_localkey_443,Quintessential Vengeance
+main_quest_description_localkey_444,Old Group
+main_quest_description_localkey_444_a,Old Group: A
+main_quest_description_localkey_444_b,Old Group: B
+main_quest_description_localkey_445,How They Live Now
+main_quest_description_localkey_446,Glowing
+main_quest_description_localkey_446_a,Glowing: A
+main_quest_description_localkey_446_b,Glowing: B
+main_quest_description_localkey_447,"Super Hero, Great Villain"
+main_quest_description_localkey_448,Gaping Maw
+main_quest_description_localkey_448_a,Gaping Maw: A
+main_quest_description_localkey_448_b,Gaping Maw: B
+main_quest_description_localkey_449,Rapture Enthusiast
+main_quest_description_localkey_450,Conditions for Conversation
+main_quest_description_localkey_451,Heading for the Whale
+main_quest_description_localkey_452,Whale Exploration
+main_quest_description_localkey_453,Monk in the Sky
+main_quest_description_localkey_454,The Fourth Member
+main_quest_description_localkey_455,The Profound
+main_quest_description_localkey_456,The Way to Harmony
+main_quest_description_localkey_457,Going in Circles
+main_quest_description_localkey_458,Out of the Ordinary
+main_quest_description_localkey_459,Harbinger
+main_quest_description_localkey_460,Reconnected
+main_quest_description_localkey_461,Atonement and Punishment
+main_quest_description_localkey_462,The Watchers
+main_quest_description_localkey_463,Suspicious Movement
+main_quest_description_localkey_464,Anis' World
+main_quest_description_localkey_465,Suffocating
+main_quest_description_localkey_466,Ark's Star
+main_quest_description_localkey_467,The Light that Illuminates the Stars
+main_quest_description_localkey_468,No. 7
+main_quest_description_localkey_469,The Queen's Qualifications
+main_quest_description_localkey_470,The Splinter in the Depths
+main_quest_description_localkey_471,The Third Species
+main_quest_description_localkey_472,Fear
+main_quest_description_localkey_473,Quiet Shade
+main_quest_description_localkey_474,Gene Reaper
+main_quest_description_localkey_475,The Time to Decide
+main_quest_description_localkey_476,On Whose Side
+main_quest_description_localkey_477,A Hopeless Case
+main_quest_description_localkey_478,The White Place Faraway
+main_quest_description_localkey_479,Causing Trouble
+main_quest_description_localkey_480,Catching the Weak Spot
+main_quest_description_localkey_481,Mrs. Miss
+main_quest_description_localkey_482,P
+main_quest_description_localkey_483,Seekers of the Star
+main_quest_description_localkey_484,The Voices that Reach the Star
+main_quest_description_localkey_485,To Do It Right
+main_quest_description_localkey_486,Legendary Producer
+main_quest_description_localkey_9999,Coming soon...

@@ -1,0 +1,147 @@
+Key,Value
+bgm_theme_menu_01,After World
+bgm_theme_saga_01,First Affection
+bgm_theme_story_01,Folk Tales
+bgm_theme_event_01,Events
+bgm_theme_lostsector_01,Lost Sector
+bgm_theme_field_01,Sleeping Forest
+bgm_theme_field_02,Living Land
+bgm_theme_field_03,Wandering Soul
+bgm_theme_field_04,Wonderland
+bgm_theme_field_05,White Snow
+bgm_theme_field_06,Hand On Hand
+bgm_theme_field_07,Two Top
+bgm_theme_field_08,"Red Eye, Smile"
+bgm_theme_field_09,Sand Storm
+bgm_theme_field_10,Eternal Scar
+bgm_theme_field_11,Stand Alone
+bgm_theme_field_12,Morning Star
+bgm_theme_field_13,Invasion
+bgm_theme_field_14,Trace
+bgm_theme_field_15,Unknown
+bgm_theme_field_16,Succession
+bgm_theme_field_17,"From the Sky, From the Land"
+bgm_theme_special_01,Special Sound Track
+bgm_theme_overzone_01,Over Zone
+bgm_theme_bluewater_01,Blue Water Island
+bgm_theme_outerautomata_01,Outer Automata
+bgm_theme_redash_01,REDASH
+bgm_theme_neverland_01,NEVERLAND
+bgm_theme_recipe_01,Re:CIPE FOR YOU
+bgm_theme_lastkingdom_01,LAST KINGDOM
+bgm_theme_golden_01,GOLDEN COIN RUSH
+bgm_theme_beauty_01,BEAUTY FULL SHOT
+bgm_theme_ce004_01,You Can (Not) Evade.
+bgm_theme_oldtales_01,OLD TALES
+bgm_theme_icedragonsaga_01,ICE DRAGON SAGA
+bgm_theme_ce005_01,SECOND QUEST
+bgm_theme_unbreakablesphere_01,UNBREAKABLE SPHERE
+bgm_theme_ce006_01,MEMORIES TELLER
+bgm_theme_boomtheghost_01,BOOM! THE GHOST!
+bgm_theme_absolute_01,ABSOLUTE
+bgm_theme_menu_01_description,What remains of the world when the future arrives?
+bgm_theme_saga_01_description,"First encounter, first love, then first death."
+bgm_theme_story_01_description,It's not just their story. It's yours as well.
+bgm_theme_event_01_description,Reminisce about those halcyon days.
+bgm_theme_lostsector_01_description,Its loss has contributed to its value.
+bgm_theme_field_01_description,A forest city that fell into a deep slumber.
+bgm_theme_field_02_description,A place known as The Surface.
+bgm_theme_field_03_description,Two lost and forlorn souls.
+bgm_theme_field_04_description,A blue and white illusionary land.
+bgm_theme_field_05_description,"She is pure white, forever and always."
+bgm_theme_field_06_description,"Two hands, at long last, coming together."
+bgm_theme_field_07_description,Two who stand at the summit.
+bgm_theme_field_08_description,Where the muzzle flash is headed.
+bgm_theme_field_09_description,A turbulent sea of misery.
+bgm_theme_field_10_description,"Standing still for a long time, perhaps forever."
+bgm_theme_field_11_description,"Waiting, ever waiting."
+bgm_theme_field_12_description,"Burns bright, but destined to fall."
+bgm_theme_field_13_description,What should have happened earlier.
+bgm_theme_field_14_description,The companions. The past.
+bgm_theme_field_15_description,"Holding its breath for a long, long time."
+bgm_theme_field_16_description,"Bearing the inheritance of the past, we forge our own way."
+bgm_theme_field_17_description,"Descending from the sky, rising from the land."
+bgm_theme_special_01_description,NIKKE Special Sound Track
+bgm_theme_overzone_01_description,"One step forward, or backward."
+bgm_theme_bluewater_01_description,"A reminiscence, drifting in the azure sea."
+bgm_theme_outerautomata_01_description,NIKKE Original Music inspired by NieR:Automata
+bgm_theme_redash_01_description,The red trail has returned.
+bgm_theme_neverland_01_description,Nothing remains unchanged.
+bgm_theme_recpie_01_description,The one and only recipe in the world.
+bgm_theme_lastkingdom_01_description,The unconquerable last kingdom.
+bgm_theme_golden_01_description,"Gather around, girls! Shine bright, girls!"
+bgm_theme_beauty_01_description,A Picture Filled With Beauty
+bgm_theme_ce004_01_description,"It's time to face it, so don't evade."
+bgm_theme_oldtales_01_description,The tainted story of old.
+bgm_theme_icedragonsaga_01_description,Adventures are for people you connect with.
+bgm_theme_ce005_01_description,The second encounter. The second connection.
+bgm_theme_unbreakablesphere_description,"Our story, unbreakable forever."
+bgm_theme_ce006_01_description,May your memories live on... forever.
+bgm_theme_boomtheghost_01_description,Bless the lives of those still living.
+bgm_theme_absolute_01_description,Striving for greater perfection.
+bgm_Black Calories,Black Calories
+bgm_Black Sugars,Black Sugars
+bgm_Black Saturated Fat,Black Saturated Fat
+bgm_Black Fiber,Black Fiber
+bgm_Black Sodium,Black Sodium
+bgm_Black Protein,Black Protein
+bgm_Black Carbonhydrate,Black Carbohydrate
+bgm_Black Trans Fat,Black Trans Fat
+bgm_Black Cholesterol,Black Cholesterol
+bgm_White Sugars,White Sugars
+bgm_White Carbonhydrate,White Carbohydrate
+bgm_White Fiber,White Fiber
+bgm_White Trans Fat,White Trans Fat
+bgm_White Saturated Fat,White Saturated Fat
+bgm_White Cholesterol,White Cholesterol
+bgm_White Calories,White Calories
+bgm_White Protein,White Protein
+bgm_White Sodium,White Sodium
+bgm_prologue,Between Life and Death
+bgm_distress_a,Distress - a
+bgm_distress_b,Distress - b
+bgm_rest,Rest
+bgm_recognition,Recognition
+bgm_recognition_a,Recognition - a
+bgm_recognition_b,Recognition - b
+bgm_recognition_underworld,Recognition - Underworld
+bgm_risk_a,Risk - a
+bgm_risk_b,Risk - b
+bgm_secondhand,Second Hand
+bgm_secondhand_a,Second Hand - a
+bgm_secondhand_b,Second Hand - b
+bgm_GreyHaze,Gray Haze
+bgm_GreyHaze_a,Gray Haze - a
+bgm_GreyHaze_b,Gray Haze - b
+bgm_disaster,Disaster
+bgm_emergency,Emergency
+bgm_enemyclose,Enemy Close
+bgm_heart,Heart
+bgm_Hopeless,Hopeless
+bgm_mystery,Mystery
+bgm_spot_encounter,Encounter
+bgm_spot_counterattack,Counterattack
+bgm_spot_crumblingcity_a,Crumbling City - a
+bgm_spot_crumblingcity_b,Crumbling City - b
+bgm_spot_incomingrapture_a,Incoming Rapture - a
+bgm_spot_incomingrapture_b,Incoming Rapture - b
+bgm_spot_bulletstorm_a,Bullet Storm - a
+bgm_spot_bulletstorm_b,Bullet Storm - b
+bgm_spot_Silvermane_a,Silver Mane - a
+bgm_spot_Silvermane_b,Silver Mane - b
+bgm_spot_Labyrinth_a,Labyrinth - a
+bgm_spot_Labyrinth_b,Labyrinth - b
+bgm_spot_Scardi_a,Scardi - a
+bgm_spot_Scardi_b,Scardi - b
+bgm_spot_GoundZero_a,Gound Zero - a
+bgm_spot_GoundZero_b,Gound Zero - b
+bgm_spot_DestroyedSerenity_a,Destroyed Serenity - a
+bgm_spot_DestroyedSerenity_b,Destroyed Serenity - b
+bgm_spot_Risingfromash_a,Rising from Ash - a
+bgm_spot_Risingfromash_b,Rising from Ash - b
+bgm_boss_Mordernia._intro,Modernia
+bgm_boss_Mordernia._loop,Modernia
+bgm_boss_themovingfortress_intro,The Moving Fortress
+bgm_boss_themovingfortress_loop,The Moving Fortress
+bgm_boss_slaughterer_intro,Slaughterer
+bgm_boss_slaughterer_loop,Slaughterer
