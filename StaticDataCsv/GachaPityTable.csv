@@ -1,2 +1,0 @@
-id,gacha_type_id,pity_amount,need_gacha_count,pity_character_group,reward_amount,start_date,end_date,name_localkey,description_localkey,helptip_group_id,ui_banner_prefab,ui_popup_prefab
-101,1,6,100,101,1,2024-10-30 16:00:00,2025-12-31 14:59:59,Locale_System:SUMMON_PITY_NORMAL_SEASON_01_NAME,Locale_System:SUMMON_PITY_NORMAL_SEASON_01_DESC,1108001,base_gacha_type_pity_01,GachaPity01

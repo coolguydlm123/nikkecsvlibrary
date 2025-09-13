@@ -1,7 +1,0 @@
-id,reward_step_time,building_resource_id
-0,0,opobj_outpost_01
-1,20,opobj_RewardBox_01
-2,60,opobj_RewardBox_02
-3,1800,opobj_RewardBox_03
-4,3600,opobj_RewardBox_04
-5,10800,opobj_RewardBox_05

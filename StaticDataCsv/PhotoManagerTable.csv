@@ -1,3 +1,0 @@
-id,event_id,is_archive_event,use_spot_group_id,default_zoom_value,default_object_group_value,default_flash_value,mistake_photo_locale,change_character_model,change_character_effect,result_window_delay_time
-1,81401,False,1,100,People,Off,Locale_Event:ia_mistake_take_photo,field_npc_swim_suit_viper_001_var,fx_event_field_appear_smoke,0
-2,81401,True,2,100,People,Off,Locale_Event:ia_mistake_take_photo,field_npc_swim_suit_viper_001_var,fx_event_field_appear_smoke,0

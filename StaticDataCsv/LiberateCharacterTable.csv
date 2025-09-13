@@ -1,5 +1,0 @@
-id,type_group_id,character_name_code,mission_renew_type,mission_step_group,mission_max_clear_amount,scenario_id
-1,1000,5055,Daily,101,6,d_nikke_guilty_01
-2,1000,5078,Daily,201,6,d_nikke_quency_01
-3,1000,5059,Daily,301,6,d_nikke_sin_01
-4,2000,5056,Daily,401,6,d_nikke_nihilister_01
