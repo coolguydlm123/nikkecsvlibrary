@@ -1,0 +1,13 @@
+id,interactionobject_prefab,interaction_distance,change_state,is_passable,is_use_trigger,member_count,is_destroyable,is_hackable,is_hacking_on_load,is_pickupable,is_explosive,explosive_range,explosive_delay,is_respawn_object,respawn_time,is_hacking_trigger,hacked_time
+9900005,io_destroybox_soft_001_injected,150,None,False,False,0,Soft,False,False,,,,,,,,
+9900006,io_destroybox_hard_001_injected,300,None,False,False,0,Hard,False,False,,,,,,,,
+9900007,io_bomb_001_injected,150,Ignite,True,False,1,,False,False,True,True,700.0,3.0,True,5.0,,
+9900008,io_hackingspot_001_injected,175,Hacking,True,False,0,,True,False,,,,,,,True,
+9900009,io_pickupcube_001_injected,150,None,False,True,1,,False,False,True,,,,,,,
+9900010,io_hackingcube_normal_001_injected,150,Hacking,False,True,1,,True,False,True,,,,,,,
+9900011,io_hackingcube_normal_001_injected,150,Hacking,False,True,1,,True,False,True,,,,,,,10.0
+9900012,io_hackingspot_001_injected,150,None,True,False,0,,True,True,,,,,,,True,
+9900013,io_hackingcube_normal_001_injected,150,None,False,True,1,,True,True,True,,,,,,,
+9900014,io_bomb_001_injected,200,Ignite,True,False,1,,False,False,True,True,700.0,2.0,True,3.0,,
+9900015,io_hackingcube_normal_001_injected,150,Hacking,False,True,1,,True,False,True,,,,,,,5.0
+9900016,io_bomb_001_injected,150,Ignite,True,False,1,,False,False,True,True,700.0,2.0,,,,

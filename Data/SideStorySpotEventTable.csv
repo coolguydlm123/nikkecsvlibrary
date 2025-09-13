@@ -1,0 +1,13 @@
+id,spot_cut_id,step,state_effect_function_id,condition_type,condition_id,spot_dialog_group_id,condition_value,dialog_spot_pause
+10080201,100802,1,200202.0,UserBattleModeStart,100,,,
+10080202,100802,2,,SpotEventClear,900,s001_09_b1,10080201,True
+10080301,100803,1,200201.0,UserBattleModeStart,100,,,
+10080302,100803,2,,SpotEventClear,900,s001_09_b2,10080301,True
+10080401,100804,1,200201.0,UserBattleModeStart,100,,,
+10080402,100804,2,,TargetHPRatioFirst,1000,s001_09_b3,5000,True
+10130201,101302,1,200301.0,UserBattleModeStart,100,,,
+10130202,101302,2,,SpotEventClear,900,s001_14_b1,10130201,True
+10130401,101304,1,200301.0,UserBattleModeStart,100,,,
+10130402,101304,2,,SpotEventClear,900,s001_14_b2,10130401,True
+10130601,101306,1,200301.0,UserBattleModeStart,100,,,
+10130602,101306,2,,SpotEventClear,900,s001_14_b3,10130601,True

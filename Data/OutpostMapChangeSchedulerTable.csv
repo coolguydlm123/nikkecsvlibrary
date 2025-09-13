@@ -1,0 +1,4 @@
+id,resource_id,skin_group_id,is_default,desc,start_date,end_date
+0,OutPostMap,1000,True,,,
+1,OutpostAprilsFool_25,3000,False,25 만우절,2025-03-31T20:00:00,2025-04-03T19:59:59
+2,Outpost2.5thAnniversary,4000,False,25 2.5주년 축제,2025-04-23T16:00:00,2025-05-14T19:59:59

@@ -1,0 +1,7 @@
+id,open_condition_type,open_condition_value,name_localkey
+1,StageClear,6001004,Locale_System:SIMULATONROOM_DIFFICULTY_NO
+2,StageClear,6005001,Locale_System:SIMULATONROOM_DIFFICULTY_NO
+3,StageClear,6008006,Locale_System:SIMULATONROOM_DIFFICULTY_NO
+4,StageClear,6011007,Locale_System:SIMULATONROOM_DIFFICULTY_NO
+5,StageClear,6014003,Locale_System:SIMULATONROOM_DIFFICULTY_NO
+99999,StageClear,6001004,Locale_System:SIMULATONROOM_DIFFICULTY_NO
