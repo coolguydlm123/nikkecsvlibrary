@@ -1,0 +1,16 @@
+id,stage_id,start_condition_type,start_condition_value,start_delay,cinematic_type,cinematic_type_value,timeline_action_start_frame,timeline_action_end_frame,is_loop_action,tower_spawn_delay
+100101,100107,WaveStart,100110703,1200,TimeLineAction,timeline_tdbg_grassland_003_talkative_main,0.0,77.0,False,
+100102,100107,AfterCinematic,100101,0,TimeLineAction,timeline_tdbg_grassland_003_talkative_main,78.0,313.0,True,
+100103,100107,WaveStart,100110709,0,TimeLineAction,timeline_tdbg_grassland_003_talkative_main,314.0,380.0,False,
+100104,100107,AfterDialog,10010703,1300,SpawnTowerGroup,1,,,,50.0
+100105,100110,AfterDialog,10011003,0,TimeLineAction,timeline_tdbg_grassland_004_castlebreak_main,0.0,39.0,False,
+100106,100110,AfterDialog,10011004,0,TimeLineAction,timeline_tdbg_grassland_004_castlebreak_main,40.0,151.0,False,
+100107,100116,WaveStart,100111605,1800,TimeLineAction,timeline_tdbg_oldcastle_001_castlebreak_main,58.0,490.0,False,
+100201,100201,WaveStart,100210103,1000,TimeLineAction,mmshifty_cinematic_scene_01,30.0,2354.0,False,
+100204,100201,WaveStart,100210105,2000,TimeLineAction,mmshifty_cinematic_scene_02,1.0,155.0,False,
+100205,100201,WaveStart,100210106,1000,TimeLineAction,mmshifty_cinematic_scene_02,155.0,155.0,True,
+100206,100201,WaveStart,100210108,7500,TimeLineAction,mmshifty_cinematic_scene_03,1.0,178.0,False,
+100207,100201,WaveStart,100210109,1000,SpawnTowerGroup,2,,,,10.0
+100208,100201,AfterDialog,10020105,150,TimeLineAction,mmshifty_cinematic_scene_04,1.0,100.0,False,
+100209,100201,AfterDialog,10020106,0,TimeLineAction,mmshifty_cinematic_scene_04,101.0,381.0,False,
+100210,100201,AfterDialog,10020107,0,TimeLineAction,mmshifty_cinematic_scene_04,382.0,809.0,False,

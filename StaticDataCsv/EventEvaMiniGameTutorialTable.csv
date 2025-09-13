@@ -1,0 +1,4 @@
+id,Title,Description,ShowAsset,MinUnlockedLevel
+1,Locale_EvaSystem:YX002_HELP_TITLE_01,Locale_EvaSystem:YX002_HELP_DESC_01,MiniGameEVA/Tutorial/eva2minigame-help1.png,0
+2,Locale_EvaSystem:YX002_HELP_TITLE_02,Locale_EvaSystem:YX002_HELP_DESC_02,MiniGameEVA/Tutorial/eva2minigame-help2.png,0
+3,Locale_EvaSystem:YX002_HELP_TITLE_03,Locale_EvaSystem:YX002_HELP_DESC_03,MiniGameEVA/Tutorial/eva2minigame-help3.png,0

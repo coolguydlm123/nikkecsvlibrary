@@ -1,0 +1,10 @@
+id,class,rare,grade,character_level,attractive_level,equipment_list/0/equipment_id,equipment_list/0/equipment_level,equipment_list/1/equipment_id,equipment_list/1/equipment_level,equipment_list/2/equipment_id,equipment_list/2/equipment_level,equipment_list/3/equipment_id,equipment_list/3/equipment_level,skill_level_list/0/skill_level,skill_level_list/1/skill_level,skill_level_list/2/skill_level
+1001,Attacker,SSR,11,400,40,3110901,5,3210901,5,3310901,5,3410901,5,10,10,10
+1002,Attacker,SR,103,400,40,3110901,5,3210901,5,3310901,5,3410901,5,10,10,10
+1003,Attacker,R,201,400,40,3110901,5,3210901,5,3310901,5,3410901,5,10,10,10
+2001,Defender,SSR,11,400,40,3120901,5,3220901,5,3320901,5,3420901,5,10,10,10
+2002,Defender,SR,103,400,40,3120901,5,3220901,5,3320901,5,3420901,5,10,10,10
+2003,Defender,R,201,400,40,3120901,5,3220901,5,3320901,5,3420901,5,10,10,10
+3001,Supporter,SSR,11,400,40,3130901,5,3230901,5,3330901,5,3430901,5,10,10,10
+3002,Supporter,SR,103,400,40,3130901,5,3230901,5,3330901,5,3430901,5,10,10,10
+3003,Supporter,R,201,400,40,3130901,5,3230901,5,3330901,5,3430901,5,10,10,10

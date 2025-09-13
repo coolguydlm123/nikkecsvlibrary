@@ -1,0 +1,11 @@
+id,group,resource_id_01,resource_id_02
+101,1,dessert_rush_dessert_01,
+102,1,dessert_rush_dessert_02,
+103,1,dessert_rush_dessert_03,
+104,1,dessert_rush_dessert_special,
+201,2,dessert_rush_weapon_01,
+202,2,dessert_rush_weapon_02,
+203,2,dessert_rush_weapon_03,
+301,3,dessert_rush_dessert_01,dessert_rush_weapon_01
+302,3,dessert_rush_dessert_02,dessert_rush_weapon_02
+303,3,dessert_rush_dessert_03,dessert_rush_weapon_03

@@ -1,0 +1,5 @@
+id,banner_system_type,banner_system_sub_id,banner_visible_date,banner_start_date,banner_end_date,banner_disable_date,banner_thumbnail_resource_table,banner_thumbnail_resource_id,banner_resource_table,banner_resource_id,event_order,banner_print_type,banner_thumbnail_color
+1001,CampaignNormal,3,2099-01-03T20:15:00,2099-01-03T20:15:00,2099-01-10T20:15:00,2099-01-10T20:15:00,event_old,EVENT_BANNER_DAILY_LOGIN_01,event_old,EVENT_BANNER_DAILY_LOGIN_01_S,1999683,PrintEventTime,fa8072
+1002,CampaignHard,1,2099-01-03T20:15:00,2099-01-03T20:15:00,2099-01-10T20:15:00,2099-01-10T20:15:00,event_old,EVENT_BANNER_DAILY_LOGIN_02,event_old,EVENT_BANNER_DAILY_LOGIN_02_S,1999684,PrintEventTime,fa8072
+1003,InAppShop,30000,2023-02-21T16:00:00,2023-02-21T16:00:00,2023-05-03T19:59:59,2023-05-03T19:59:59,event_old,EVENT_BANNER_CASHSHOP_ALWAYS_01,event_old,EVENT_BANNER_CASHSHOP_ALWAYS_01_S,77987864,PrintNone,ff008a
+99999,MidasBuy,0,2025-06-11T16:00:00,2025-06-11T16:00:00,9999-06-30T14:59:59,9999-06-30T14:59:59,perm_shop,EVENT_BANNER_MIDAS_BUY_01,perm_shop,EVENT_BANNER_MIDAS_BUY_01_S,99999999,PrintNone,0A0E1E

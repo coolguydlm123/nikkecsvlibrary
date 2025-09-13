@@ -1,0 +1,4 @@
+id,field_type,is_use_state_change_condition,state_change_condition_stage,is_use_spawn_condition,spawn_condition_stage
+301601,Event,True,106110105.0,,
+302001,Event,True,107910112.0,,
+302002,Event,,,True,108010101.0

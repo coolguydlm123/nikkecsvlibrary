@@ -1,0 +1,4 @@
+preset_name,user_gain_point,enemy_gain_point_step1,enemy_gain_point_step2,thrash_point,minion_point,elite_point,centurion_point
+normal,200,160,320,50,100,750,3000
+hard,300,400,1000,25,50,250,3000
+easy,300,200,300,75,150,1000,3000

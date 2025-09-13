@@ -1,0 +1,7 @@
+id,stage_id,mode_type,mode_open_condition,character_lv,wave,monster_stage_lv,monster_stage_lv_change_group,dynamic_object_stage_lv,cover_stage_lv,spot_autocontrol
+1011,101,Challenge,0,400,6700103,390,905,400,1,True
+1012,101,NoLimit,1011013,0,6700104,250,1001,400,1,True
+1021,102,Challenge,0,400,6700203,390,905,400,1,True
+1022,102,NoLimit,1021013,0,6700204,400,1002,400,1,True
+1031,103,Challenge,0,400,6700703,390,905,400,1,True
+1032,103,NoLimit,1031013,0,6700704,550,1003,400,1,True

@@ -1,0 +1,5 @@
+id,group_id,tutorial_resource,tutorial_description_localkey
+1,1001,ce002_minigame_tutorial_01,Locale_Event:event_ce002minigame_tutorial_01
+2,1001,ce002_minigame_tutorial_02,Locale_Event:event_ce002minigame_tutorial_02
+3,1001,ce002_minigame_tutorial_03,Locale_Event:event_ce002minigame_tutorial_03
+4,1001,ce002_minigame_tutorial_04,Locale_Event:event_ce002minigame_tutorial_04

@@ -1,0 +1,16 @@
+id,timeline_type,use_eve_timeline,use_eve_animator_id,use_monster_timeline,use_monster_animator_id,timeline_start_character_location/0,timeline_start_character_location/1,timeline_play_time,eve_move_able_time
+1,Retribution,fx_ce006_c_gigas_retribution,900,fx_ce006_gigas_retribution,900,0.0,3.5,1050,750
+2,SkillRetribution,fx_ce006_c_gigas_retribution,900,fx_ce006_gigas_retribution_02,900,0.0,3.5,1050,750
+3,Finish,fx_ce006_c_gigas_finish,910,fx_ce006_gigas_finish,901,0.32,3.0,1100,1100
+4,Retribution,fx_ce006_c_abaddon_retribution,901,fx_ce006_abaddon_retribution,900,0.0,2.5,960,710
+5,SkillRetribution,fx_ce006_c_abaddon_retribution,901,fx_ce006_abaddon_retribution_02,900,0.0,2.5,960,710
+6,Finish,fx_ce006_c_abaddon_finish,911,fx_ce006_abaddon_finish,901,0.0,6.5,900,900
+7,Retribution,fx_ce006_c_stalker_retribution,902,fx_ce006_stalker_retribution,900,0.0,3.5,920,770
+8,SkillRetribution,fx_ce006_c_stalker_retribution,902,fx_ce006_stalker_retribution_02,900,0.0,3.5,920,770
+9,Finish,fx_ce006_c_stalker_finish,912,fx_ce006_stalker_finish,901,0.0,3.0,1200,1200
+10,Retribution,fx_ce006_c_behemoth_retribution,903,fx_ce006_behemoth_retribution,900,0.0,2.5,890,850
+11,SkillRetribution,fx_ce006_c_behemoth_retribution,903,fx_ce006_behemoth_retribution_02,900,0.0,2.5,890,850
+12,Finish,fx_ce006_c_behemoth_finish,913,fx_ce006_behemoth_finish,901,0.0,2.0,400,400
+13,Retribution,fx_ce006_c_brute_retribution,904,fx_ce006_brute_retribution,900,0.0,3.0,700,550
+14,SkillRetribution,fx_ce006_c_brute_retribution,904,fx_ce006_brute_retribution_02,900,0.0,3.0,700,550
+15,Finish,fx_ce006_c_brute_finish,914,fx_ce006_brute_finish,901,0.0,3.0,1150,1150

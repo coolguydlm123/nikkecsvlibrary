@@ -1,0 +1,9 @@
+id,pool_id,reward_type,reward_id,reward_cnt,weight,max_cnt,max_draw_cnt
+10001,1,Currency,99,100,10,99,
+10002,1,Currency,99,120,10,99,
+10003,1,Currency,99,150,10,99,
+10004,1,Currency,99,200,20,99,
+10005,1,Currency,99,220,20,99,
+10006,1,Currency,99,250,10,99,
+10007,1,Currency,99,300,10,99,21.0
+10008,1,Currency,99,320,10,99,15.0

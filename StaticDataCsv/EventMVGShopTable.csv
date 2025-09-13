@@ -1,0 +1,36 @@
+id,group_id,order,shopType,shopIcon,shopName,shopTxt,itemSlot,itemType,itemId,requireCurrency/0/requireCurrencyType,requireCurrency/0/requireCurrencyAmount,desc
+1001,1000,1,Normal,icn_mvg_memory_chapter_5,Locale_Event:EventMVG_shop_Name_01,Locale_Event:EventMVG_shop_Desc_01,1,Collectable,103,Gold,100,
+1002,1000,2,Normal,,,,2,Collectable,104,Gold,100,
+1003,1000,3,Normal,,,,3,Collectable,113,Gold,100,
+1004,1000,4,Normal,,,,4,Collectable,114,Gold,200,
+1005,1000,5,Normal,,,,5,Collectable,123,Gold,100,
+1006,1000,6,Normal,,,,6,Collectable,124,Gold,200,
+1007,1000,7,Normal,,,,7,Collectable,133,Gold,400,
+1008,1000,8,Normal,,,,8,Collectable,134,Gold,200,
+1009,1000,9,Normal,,,,9,Collectable,143,Gold,200,
+1010,1000,10,Normal,,,,10,Collectable,144,Gold,400,
+1011,1000,11,Normal,,,,11,Collectable,153,Gold,500,
+1012,1000,12,Normal,,,,12,Collectable,154,Gold,400,
+1013,1000,13,Normal,,,,13,Collectable,163,Gold,400,
+1014,1000,14,Normal,,,,14,Collectable,164,Gold,500,
+1015,1000,15,Normal,,,,15,Collectable,173,Gold,500,
+1016,1000,16,Normal,,,,16,Collectable,174,Gold,500,
+1017,1000,17,Normal,,,,17,Module,1001,Gold,400,흡수 모드 베터리 게이지 총량 증가
+1018,1000,18,Normal,,,,18,Module,1003,Gold,400,흡수 모드 베터리 게이지 회복 속도 증가
+1019,1000,19,Normal,,,,19,Module,1004,Gold,200,체력 회복량 증가
+1020,1000,20,Normal,,,,20,Module,1006,Gold,200,재화 획득량 증가
+1021,1000,21,Normal,,,,21,Module,2001,Gold,400,유리구두 A 투사체 속도 증가
+1022,1000,22,Normal,,,,22,Module,2002,Gold,800,유리구두 A 공격력 +1증가
+1023,1000,23,Normal,,,,23,Module,3001,Gold,400,유리구두 B 스킬 쿨타임 감소
+1024,1000,24,Normal,,,,24,Module,3002,Gold,1000,유리구두 B 공격력 증가
+1025,1000,25,Normal,,,,25,Module,3003,Gold,400,유리구두 B 다단히트 간격 감소
+1027,1000,26,Normal,,,,26,Module,3006,Gold,400,유리구두 B 투사체 속도 증가
+1028,1000,27,Normal,,,,27,Module,4001,Gold,400,유리구두 C 스킬 쿨타임 감소
+1029,1000,28,Normal,,,,28,Module,4002,Gold,1000,유리구두 C 레이저 범위 증가
+1030,1000,29,Normal,,,,29,Module,4003,Gold,200,유리구두 C 각도 조절 가능 기능
+1031,1000,30,Normal,,,,30,Module,4006,Gold,400,유리구두 C 사용 중 중단 가능(off 시 쿨타임)
+1032,1000,31,Normal,,,,31,Module,5001,Gold,400,유리구두 D 스킬 쿨타임 감소
+1034,1000,32,Normal,,,,32,Module,5003,Gold,800,유리구두 D 완전 유도 설정
+1035,1000,33,Normal,,,,33,Module,6002,Gold,1000,버스트 쿨타임 감소
+1036,1000,34,Normal,,,,34,Module,1005,Gold,1500,피격 후 무적 시간 증가
+1037,1000,35,Normal,,,,35,Module,1008,Gold,3000,대쉬 쿨타임 감소

@@ -1,0 +1,9 @@
+id,helptip_id,helptip_active_condition,helptip_active_condition_id,helptip_active_condition_value
+1,10024,NoDataEnter,0,0
+3,10033,GetCollectionMemoryFirst,0,1
+4,10034,GetCollectionKeyFirst,0,1
+5,10035,GetModuleFirst,0,1
+6,10025,EnterGuidePointFirst,100,1
+7,10036,ActiveChallengeMode,0,0
+8,10041,EnterGuidePointFirst,102,1
+9,10046,EnterGuidePointFirst,103,1

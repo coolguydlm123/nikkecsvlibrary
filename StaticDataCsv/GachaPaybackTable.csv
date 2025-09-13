@@ -1,0 +1,4 @@
+id,event_id,gacha_id,character_id,ui_prefab_main,ui_prefab_sub
+2,200002,10032,451301,base_gacha_type_event_benefit_c513,base_gacha_type_rb_01
+3,200003,10033,116201,base_gacha_type_event_benefit_c162,base_gacha_type_rb_01
+4,200004,10043,423401,base_gacha_type_event_benefit_c234,base_gacha_type_rb_01

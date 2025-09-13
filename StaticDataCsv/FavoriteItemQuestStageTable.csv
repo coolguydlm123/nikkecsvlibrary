@@ -1,0 +1,9 @@
+id,group_id,chapter_id,chapter_mod,name_code,spawn_condition_favoriteitem_quest_id,spawn_condition_campaign_stage_id,enter_condition_favoriteitem_quest_id,enter_condition_campaign_stage_id,name_localkey,stage_category,spot_autocontrol,monster_stage_lv,dynamic_object_stage_lv,standard_battle_power,stage_stat_increase_group_id,is_use_quick_battle,field_monster_id,spot_id,state_effect_function_id,reward_id,enter_scenario_type,enter_scenario,fixed_play_character_id,spawn_condition_favoriteitem_quest_stage_id,enter_condition_favoriteitem_quest_stage_id
+101001,1010,2,Normal,1010,101003,6003021,101003,6003021,Locale_Stage:6600102_name,Normal,True,15,18,1000,40000,False,32200501,5100101,200201.0,0,Dialog,treasurestory_laplace_04,14001,,
+101002,1010,2,Normal,1010,101003,6003021,101003,6003021,Locale_Stage:6600103_name,Normal,True,15,18,1100,40000,False,32200501,5100102,200201.0,0,,,14001,101001.0,101001.0
+101003,1010,2,Normal,1010,101003,6003021,101003,6003021,Locale_Stage:6600104_name,Normal,True,15,18,1200,40000,False,12100201,5100103,200201.0,0,,,14001,101001.0,101001.0
+101004,1010,2,Normal,1010,101003,6003021,101003,6003021,Locale_Stage:6600105_name,Hard,True,15,18,1300,40000,False,33100101,5100104,200201.0,0,,,14001,101001.0,101001.0
+501001,5010,2,Normal,5010,501005,6003021,501005,6003021,Locale_Stage:6600105_name,Normal,True,12,15,1000,40000,False,12200101,5100201,,0,Dialog,treasurestory_frima_06,14002,,
+506601,5066,2,Normal,5066,506604,6003021,506604,6003021,Locale_Stage:6600105_name,Normal,True,12,15,1000,40000,False,22200301,5100301,,0,Dialog,treasurestory_helm_05,14003,,
+502801,5028,2,Normal,5028,502804,6003021,502804,6003021,Locale_Stage:6600105_name,Normal,True,12,15,1000,40000,False,12100201,5100401,,0,Dialog,treasurestory_milk_05,14004,,
+508101,5081,4,Normal,5081,508104,6003021,508104,6003021,Locale_Stage:6600105_name,Normal,True,12,15,1000,40000,False,22100201,5100501,,0,Dialog,treasurestory_tove_05,14005,,

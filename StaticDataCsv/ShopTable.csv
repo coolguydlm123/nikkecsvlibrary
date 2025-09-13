@@ -1,0 +1,4 @@
+id,shop_type,shop_category,name_localkey,shop_open_level,bundle_id,bundle_value,renew_time_min,renew_price_type,renew_price_id,renew_price_value
+1,Main_Shop,Shop_Recommend,Locale_System:SHOP_CATE_RECOMMEND,1,1000,1,0,None,0,0
+2,Main_Shop,Shop_Cash,Locale_System:SHOP_CATE_CASH,1,2000,6,0,None,0,0
+3,Main_Shop,Shop_Package,Locale_System:SHOP_CATE_PACKAGE,1,3000,4,0,None,0,0

@@ -1,0 +1,9 @@
+id,group_id,tutorial_page_id,tutorial_output_type,tutorial_output_value,tutorial_title_localkey,is_opened
+1,1,10059,FirstEnterMainMenu,1,Locale_Event:ce006_tutorial_title_01,False
+2,1,10066,FirstEnterStageSelect,1,Locale_Event:ce006_tutorial_title_08,False
+3,1,10062,FirstEnterStage,1,Locale_Event:ce006_tutorial_title_04,False
+4,1,10063,FirstEnterStage,2,Locale_Event:ce006_tutorial_title_05,False
+5,1,10065,FirstEnterEquipment,1,Locale_Event:ce006_tutorial_title_07,False
+6,1,10060,FirstEnterSkillMenu,1,Locale_Event:ce006_tutorial_title_02,False
+7,1,10061,FirstEnterEnhance,1,Locale_Event:ce006_tutorial_title_03,False
+8,1,10064,FirstEnterUnionRanking,1,Locale_Event:ce006_tutorial_title_06,False

@@ -1,0 +1,7 @@
+id,zoom_value,object_group_value,flash_value
+1,50,Environment,On
+2,100,Animal,Off
+3,100,Environment,On
+4,50,Animal,Auto
+5,100,Environment,Off
+6,200,Animal,Off

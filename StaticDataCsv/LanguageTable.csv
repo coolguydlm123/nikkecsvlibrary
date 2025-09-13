@@ -1,0 +1,9 @@
+key,order,name_localkey
+en,1,Locale_BeforeInstall:LANGUAGE_NAME_EN
+ja,2,Locale_BeforeInstall:LANGUAGE_NAME_JA
+ko,3,Locale_BeforeInstall:LANGUAGE_NAME_KO
+zh-CN,4,Locale_BeforeInstall:LANGUAGE_NAME_ZH_CN
+zh-TW,5,Locale_BeforeInstall:LANGUAGE_NAME_ZH_TW
+de,6,Locale_BeforeInstall:LANGUAGE_NAME_DE
+th,7,Locale_BeforeInstall:LANGUAGE_NAME_TH
+fr,8,Locale_BeforeInstall:LANGUAGE_NAME_FR

@@ -1,0 +1,2 @@
+id,time_difficult_group,stage_resource_id,jump_y_power,gravity_value,default_object_speed,default_obtain_point,life,hit_immune_time_ms,auto_increase_difficulty_second
+1,1000,DUMMY,1.85,40.0,6.0,210,2,2000,5

@@ -1,0 +1,10 @@
+id,view_id,prefab_id,group_id,page_number,help_tip_title,help_tip_image,help_tip_description
+10001,1,0,101,1,Locale_Event:serving_help_tip_title_01,serving_tutorial_01,Locale_Event:serving_help_tip_desc_01
+10002,1,0,101,2,Locale_Event:serving_help_tip_title_02,serving_tutorial_02,Locale_Event:serving_help_tip_desc_02
+10003,1,0,101,3,Locale_Event:serving_help_tip_title_03,serving_tutorial_03,Locale_Event:serving_help_tip_desc_03
+10004,1,0,101,4,Locale_Event:serving_help_tip_title_04,serving_tutorial_04,Locale_Event:serving_help_tip_desc_04
+10005,1,0,101,5,Locale_Event:serving_help_tip_title_04_02,serving_tutorial_04_02,Locale_Event:serving_help_tip_desc_04_02
+10006,1,0,101,6,Locale_Event:serving_help_tip_title_05,serving_tutorial_05,Locale_Event:serving_help_tip_desc_05
+10007,1,0,101,7,Locale_Event:serving_help_tip_title_06,serving_tutorial_06,Locale_Event:serving_help_tip_desc_06
+10008,1,0,101,8,Locale_Event:serving_help_tip_title_07,serving_tutorial_07,Locale_Event:serving_help_tip_desc_07
+10009,1,0,101,9,Locale_Event:serving_help_tip_title_08,serving_tutorial_08,Locale_Event:serving_help_tip_desc_08

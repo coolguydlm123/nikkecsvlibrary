@@ -1,0 +1,2 @@
+id,stat_hp,stat_atk,maxAbsorbGauge,maxModuleSlot,skill_C_setSearchPointLength,defaultSkill_A_Lv,skill_A_idSet,skill_B_idSet,skill_C_idSet,skill_D_idSet,skill_Burst_A_idSet,skill_Burst_B_idSet,skill_Burst_C_idSet,skill_Burst_D_idSet,burstCharacterFx
+1,6,3,100,10,2000,1,800600,800700,800800,800900,900100,900101,900102,900103,fx_mvg_burst_invincibility

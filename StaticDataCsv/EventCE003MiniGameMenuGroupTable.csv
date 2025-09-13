@@ -1,0 +1,6 @@
+id,group_id,menu_id,is_event_game_active,order_ratio
+10101,101,11,False,2000
+10102,101,12,False,2000
+10103,101,13,False,2000
+10104,101,14,False,2000
+10201,102,10,True,10000

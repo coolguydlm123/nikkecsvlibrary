@@ -1,0 +1,2 @@
+id,time_difficult_group,life,resource,spawn_slot_count,point_limit,appear_hit_point,idle_hit_point,exit_hit_point,none_target_pass_point
+101,201,2,CoinRush_Dummy,9,999999,750,750,750,1500
