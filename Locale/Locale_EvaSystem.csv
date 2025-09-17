@@ -1,0 +1,443 @@
+Key,Value
+YX002_MAIN/PAUSE_BTN,Pause
+YX002_MAIN/GIVEUP_BTN,Quit
+YX002_MAIN/BACKGAME_BTN,Back to Home
+YX002_MAIN/RESTART_BTN,Continue
+YX002_MAIN/SCORING,Final score
+YX002_MAIN/GAME_OVER,Game Over
+YX002_MAIN/EXIT_GAME,Leave battle
+YX002_MAIN/PASS_GAME,Stage cleared
+YX002_MAIN/SCORING_REACHED,Final score obtained
+YX002_MAIN/SCORINGR_BASE,Basic score
+YX002_MAIN/SCORING_COLLECT,Collection score
+YX002_MAIN/TIMERE_MAINING,Remaining time
+YX002_MAIN/LIFE_REMAINING,Remaining HP
+YX002_MAIN/LIFE_TIME,Time survived
+YX002_MAIN/SCORING_FINAL,Final score
+YX002_MAIN/CLICK_CONTINUE,Tap to continue
+YX002_MAIN/CONTENT_REWARD,Rewards
+YX002_MAIN/FIRST_PASS,First
+YX002_MAIN/SCORE_REACH,Final score obtained
+YX002_MAIN/GAME_CONTINUE_CLICK,Tap to continue
+YX002_MAIN_INTERFACE_LOGO,"EVANGELION
+RedSea Scout"
+YX002_LEVEL_TAB_01,EASY
+YX002_LEVEL_TAB_02,HARD
+YX002_LEVEL_TAB_03,CHALLENGE
+YX002_MISSION_BUTTON_GET,Claim
+YX002_MISSION_BUTTON_INCOMPLETE,Uncompleted
+YX002_MISSION_BUTTON_COMPLETE,Claimed
+YX002_STAR_MISSION_DESC,Complete {0} stage mission(s) {1}/{0}
+YX002_STAR_MISSION_TIPS_1,Unable to claim reward.
+YX002_STAR_MISSION_TIPS_2,Not enough items. Unable to level up.
+YX002_LEVEL_LOCKED_TIPS,Unlock Condition
+YX002_LEVEL_LOCKED_TIME,Unlock Stage {0}
+YX002_LEVEL_LOCKED_PRELEVEL,Clear Stage {0}
+YX002_LEVEL_LOCKED_CLOSE,Stage ended
+YX002_TALENT_TREE_BTN,Part Upgrade
+YX002_BOOK_BTN,List
+YX002_START_BTN,Battle
+YX002_MISSION_BTN,Missions
+YX002_GUIDE_BTN,Help
+YX002_RANK_BTN,Search
+YX002_INFO_BTN,Info
+YX002_START_BTN_TIPS_01,EMERGENCY
+YX002_START_BTN_TIPS_02,NEW STAGE START
+YX002_BOOK_TAB_01,Collection Items
+YX002_BOOK_TAB_02,Mutant Raptures
+YX002_BOOK_COLLECTION_01,Collection Items
+YX002_BOOK_COLLECTION_02,Mutant Raptures Info
+YX002_BOOK_COLLECTION_REWARD_01,Collection Rewards
+YX002_BOOK_COLLECTION_REWARD_02,Collection Rewards
+YX002_BOOK_COLLECTION_REWARD_03,Collection Status
+YX002_BOOK_COLLECTION_REWARD_04,Rewards
+YX002_BOOK_COLLECTION_REWARD_BTN_01,Claim Rewards
+YX002_BOOK_COLLECTION_REWARD_BTN_02,Claimed
+YX002_BOOK_COLLECTION_REWARD_BTN_03,Uncompleted
+YX002_BOOK_ENEMY_UNLOCK,Unlock to view.
+YX002_BOOK_ENEMY_LEVEL_LOCK,Unlocks when Stage {0} is cleared
+YX002_BOOK_TIPS_01,{0}/{1} collected
+YX002_TALENT_TIPS_01,Select a part to upgrade
+YX002_TALENT_TIPS_02,Available for upgrade
+YX002_TALENT_TIPS_03,Evangelion
+YX002_TALENT_TIPS_04,Upgrade {0} to Lv. {1} first
+YX002_TALENT_TIPS_05,Max level reached
+YX002_TALENT_TIPS_06,{0} upgrade
+YX002_TALENT_TIPS_07,Current effects
+YX002_TALENT_TIPS_08,Upgraded effects
+YX002_MECHA_TIPS_01,Unlock new Ultimate Weapon
+YX002_MECHA_TIPS_02,Select Evangelion
+YX002_MECHA_TIPS_03,Tap the blank area to continue.
+YX002_MECHA_TIPS_04,Selecting
+YX002_MECHA_TIPS_05,Evangelion
+YX002_MECHA_TIPS_06,Extra Weapon
+YX002_BATTLE_BTN,Start
+YX002_DETAIL_STAR,Stage Mission
+YX002_DETAIL_REWARD,Clear Rewards
+YX002_TALENT_VIEW_BTN,Ultimate Weapon
+YX002_COLLECT_ITEM,Collection Items
+YX002_EVA_NAME_01,Mark.09
+YX002_EVA_NAME_02,Modified Unit Eight γ
+YX002_EVA_NAME_03,New Unit Two α
+YX002_EVA_DESC_01,"Excels in defense and close combat, though lacks focused firepower against single targets."
+YX002_EVA_DESC_02,Possesses pinpoint accuracy. Excels at precision strikes.
+YX002_EVA_DESC_03,Possesses exceptional firepower and devastating area-of-effect bombardment capabilities. Unstoppable against any foe.
+YX002_EVA_NETA_01,High resistance to all attacks. Specializes in A.T. Field defense.
+YX002_EVA_NETA_02,Master of light-speed projectiles and linear ballistics. Powerful sniper attacks are especially effective against large enemies.
+YX002_EVA_NETA_03,Rains a hail of machine gun bullets for battlefield dominance. Excels at close to mid-range combat.
+YX002_EVA_ATTACK_NAME_00,Basic Attack
+YX002_EVA_ATTACK_NAME_01,Radial Barrage
+YX002_EVA_ATTACK_NAME_02,Precise Shooting
+YX002_EVA_ATTACK_NAME_03,Firepower Suppression
+YX002_EVA_SKILL_NAME_01,A.T. Field
+YX002_EVA_SKILL_NAME_02,A.T. Field
+YX002_EVA_SKILL_NAME_03,A.T. Field
+YX002_EVA_WEAPON_01,Extra Weapon - Artillery Type
+YX002_EVA_WEAPON_02,Extra Weapon - Assault Type
+YX002_EVA_WEAPON_03,Extra Weapon - Sniper Type
+YX002_EVA_WEAPON_04,Extra Weapon - Bomb Type
+YX002_EVA_WEAPON_05,Extra Weapon - Ordinary Type
+YX002_WEAPON_DESC_01,Highly destructive but has a slow reload speed.
+YX002_WEAPON_DESC_02,"Stable and reliable, providing continuous fire support."
+YX002_WEAPON_DESC_03,Sweeps across the battlefield with merciless sniping skills.
+YX002_WEAPON_DESC_04,Bombards with intense firepower and is capable of dealing with multiple enemies.
+YX002_WEAPON_DESC_05,Has impeccable defense skills that come in handy when breaking through a besiegement.
+YX002_WEAPON_NETA_01,"With this, I can do whatever I want.
+- Excerpt from a CEO's review -"
+YX002_WEAPON_NETA_02,"It doesn't stop once it's activated... This is the epitome of firepower!
+- Excerpt from an anonymous firepower enthusiast's review -"
+YX002_WEAPON_NETA_03,"The firepower's explosion, the dramatic braking, l'élégance et précision! This is entertainment!
+- Excerpt from an anonymous man's review -"
+YX002_WEAPON_NETA_04,"This is the essence of firepower!
+- Excerpt from an anonymous female glasses wearer's review -"
+YX002_WEAPON_NETA_05,"Hmm... It might be useful as a door ornament. Better than those scrap metals, at least.
+- Excerpt from a CEO's review -"
+YX002_ENEMY_NAME_01,E-Cutter
+YX002_ENEMY_NAME_02,E-Arkanoid
+YX002_ENEMY_NAME_03,E-Tripod
+YX002_ENEMY_NAME_04,Mimicry - Massive Object Q
+YX002_ENEMY_NAME_05,Mimicry - Grave Digger
+YX002_ENEMY_NAME_06,Mimicry - Modernia
+YX002_ENEMY_NAME_07,Mimicry - Mother Whale
+YX002_ENEMY_NAME_08,Mimicry - Kraken
+YX002_ENEMY_NAME_09,Mimicry - Chatterbox
+YX002_ENEMY_NETA_01,Seems like a typical lackey.
+YX002_ENEMY_NETA_02,I feel like I could ride it and go anywhere!
+YX002_ENEMY_NETA_03,"It looks like a target mark?
+Hmm... Let me place the target in the center..."
+YX002_ENEMY_NETA_04,"Can that thing transform into a ship?
+If that's the case, I'll snatch it right now!"
+YX002_ENEMY_NETA_05,"A n-new killer! New killer!
+Be careful, you folks from another world!"
+YX002_ENEMY_NETA_06,"An armored girl!
+This is fun!"
+YX002_ENEMY_NETA_07,"A flying whale!
+L-let's ride on it!"
+YX002_ENEMY_NETA_08,"Huh, did I have too much rum?
+Why do I see an octopus flying?"
+YX002_ENEMY_NETA_09,"Anchor, what does a flying gorilla with clean teeth mean?"
+YX002_PIECE_UNLOCKED_NAME_01,Wisdom Fragment 01
+YX002_PIECE_UNLOCKED_NAME_02,Wisdom Fragment 02
+YX002_PIECE_UNLOCKED_NAME_03,Wisdom Fragment 03
+YX002_PIECE_UNLOCKED_NAME_04,Wisdom Fragment 04
+YX002_PIECE_LOCKED_NAME_01,Unanalyzed Record A
+YX002_PIECE_LOCKED_NAME_02,Unanalyzed Record B
+YX002_PIECE_LOCKED_NAME_03,Unanalyzed Record C
+YX002_PIECE_LOCKED_NAME_04,Unanalyzed Record D
+YX002_COLLECTION_UNLOCKED_NAME_01,Fruit of Wisdom α
+YX002_COLLECTION_UNLOCKED_NAME_02,Fruit of Wisdom β
+YX002_COLLECTION_UNLOCKED_NAME_03,Fruit of Wisdom γ
+YX002_COLLECTION_UNLOCKED_NAME_04,Fruit of Wisdom δ
+YX002_COLLECTION_UNLOCKED_NAME_05,Wisdom Fragment Ω
+YX002_COLLECTION_LOCKED_NAME_01,Unknown Knowledge α
+YX002_COLLECTION_LOCKED_NAME_02,Unknown Knowledge β
+YX002_COLLECTION_LOCKED_NAME_03,Unknown Knowledge γ
+YX002_COLLECTION_LOCKED_NAME_04,Unknown Knowledge δ
+YX002_COLLECTION_LOCKED_NAME_05,Unknown Knowledge Ω
+YX002_PIECE_UNLOCKED_DESC_01,"As we approached the combat area, we noticed a zero-gravity phenomenon occurring around us.
+
+There were fragments we've never seen before all around us, and these crimson substances left us short of breath."
+YX002_PIECE_UNLOCKED_DESC_02,"The crimson substances stuck to some of our comrades upon contact.
+Their physical abilities showed anomalies, and our communications were cut off.
+All we could do was hope the reinforcement squad would locate us through the messages we left."
+YX002_PIECE_UNLOCKED_DESC_03,"This area is filled with cross-shaped lights.
+I witnessed the crimson giants emerging from the ground.
+What in the world is happening?
+Thankfully, the reinforcement squad found us, and we managed to survive."
+YX002_PIECE_UNLOCKED_DESC_04,"As we retreated, I saw three giants fighting over the sea.
+Could those be Raptures? Or are they new life forms?
+The sky was suddenly painted crimson, and so did the sea and the land.
+We watched as twisted rays of light transform into giants...
+Fortunately, this nightmare ended not long after."
+YX002_PIECE_UNLOCKED_DESC_05,"As the crimson giants walked through the wreckage, their heads fell off.
+Beneath the helmet-like part, there was flesh underneath.
+I remember now. Humans contorted into those giants in the light.
+Ah... The world is becoming increasingly strange..."
+YX002_PIECE_UNLOCKED_DESC_06,"This is Eunhwa. There are too many Raptures here. It's difficult to break through.
+...The special combat team has arrived at the sea?
+Roger. Absolute will now provide rear support."
+YX002_PIECE_UNLOCKED_DESC_07,"This is Eunhwa. We found a transport squad that was unable to advance due to the Raptures.
+We've confirmed that the AZX, the squad members, and the resources are all in good condition.
+We will deal with the Raptures. It'll be quick."
+YX002_PIECE_UNLOCKED_DESC_08,"This is Eunhwa. The AZX has returned safely.
+We'll stay here to provide rear support."
+YX002_PIECE_UNLOCKED_DESC_09,"This is Eunhwa. The communications were cut off earlier.
+A giant Rapture's signal? Are you sure?
+... No, leave it to us.
+The special combat team has its own mission."
+YX002_PIECE_UNLOCKED_DESC_10,"This is Eunhwa. All Raptures on the route have retreated. What's the situation at the sea?
+So you were successful. That explains the clamor.
+Roger. We will recondition ourselves after returning.
+I've compiled all the reports for this mission."
+YX002_PIECE_UNLOCKED_DESC_11,"We couldn't fish along the way because of the Admire's speed.
+What? Anchor almost got poked by a spearfish?
+Gosh, this isn't the time to be fishing!"
+YX002_PIECE_UNLOCKED_DESC_12,"Since Helm is injured, I shall take on the great mission of conquering the sea!
+By the way, I think Raptures nearby are affected by the D-Wave. They look kinda strange."
+YX002_PIECE_UNLOCKED_DESC_13,"They seem to be wary of the sea area with restored sealing columns.
+Let's continue to observe and... What?!
+The sealing columns are under attack? I'm heading there right now!"
+YX002_PIECE_UNLOCKED_DESC_14,"Although I, Captain Mast, gained many things from the sea, I won't be attached to profits.
+I'll give all of these treasures to my friends!"
+YX002_PIECE_UNLOCKED_DESC_15,"What a thrilling and unforgettable experience.
+This is a monumental adventure worthy of being recorded in the history of Pirate Mast's merits!
+Listen up! From now on, refer to me as the legendary pirate and—mmph, mmph!"
+YX002_PIECE_UNLOCKED_DESC_16,"Heroic dispatch! On the way to rescue!
+... What? Absolute has already taken care of it?"
+YX002_PIECE_UNLOCKED_DESC_17,"Heroic dispatch! Charging to the beach!
+The path is getting redder!
+Communications have been cut off!
+Hero is in crisis!"
+YX002_PIECE_UNLOCKED_DESC_18,"Heroes from another world have appeared!
+We can now return!
+But the fact that we as heroes need to be rescued...
+is an utter disgrace!"
+YX002_PIECE_UNLOCKED_DESC_19,"Heroic dispatch!
+Setting off with high-performance navigation alongside heroes from another world!
+Heroic escort!"
+YX002_PIECE_UNLOCKED_DESC_20,"Enhanced Raptures keep appearing at the beach because of the D-Wave!
+They're called E-Raptures!
+Well then, we're the E-Heroes! Because the heroes from another world gave us the D-Wave!
+E-Heroic dispatch!"
+YX002_PIECE_UNLOCKED_DESC_21,"It's been 5 hours since I was sucked into the mysterious tunnel.
+I have no way to contact the Ark.
+Where has everyone gone? And where is this place?
+It's beautiful here, though.
+Is this really... the surface?
+It's peaceful, but so lonely."
+YX002_PIECE_UNLOCKED_DESC_22,"It's this unfamiliar ceiling again.
+I entered that twisted cave to escape, and then lost consciousness.
+Is it truly impossible for me to leave this place?
+I feel like I've forgotten something, but I find comfort in that.
+Because I no longer have to fight with all my might. Still, I feel empty."
+YX002_PIECE_UNLOCKED_DESC_23,"I decided to venture deeper.
+The deeper I went, the more desolate this world became.
+When I walked closer, there was a massive sphere covered in blood.
+Countless fragments of red giants scattered around, and a few of them even moved sometimes.
+My heart felt at peace as I stayed in the safe zone. Everything in this world obeyed my thoughts.
+But for some reason, I suddenly wanted to go back."
+YX002_PIECE_UNLOCKED_DESC_24,"There was a soundstage in the depths of the faded world.
+As someone who enjoys variety shows, I recognized it at a single glance.
+There, I encountered a beautiful girl.
+She seemed sad and told me the way to get out.
+She wished me luck. But... why did she ask me my reason for leaving?"
+YX002_PIECE_UNLOCKED_DESC_25,"The train arrived at the station, and people boarded it excitingly.
+I think I saw that girl again. She was smiling brightly.
+I sat on the platform, waiting for someone, though I didn't know who.
+Then, I saw them—people hugging each other tightly with happy faces.
+Yes, it's time for me to board as well. I should go back.
+Back to the person who'll embrace me closely."
+YX002_COLLECTION_UNLOCKED_DESC_01,"A password-protected data likely left behind by Nikkes from an unknown squad.
+They witnessed a puzzling phenomenon upon arrival."
+YX002_COLLECTION_UNLOCKED_DESC_02,"A password-protected data likely left behind by Nikkes from an unknown squad.
+Their comrades were injured because of this crimson object."
+YX002_COLLECTION_UNLOCKED_DESC_03,"A password-protected data likely left behind by Nikkes from an unknown squad.
+They were rescued by another squad."
+YX002_COLLECTION_UNLOCKED_DESC_04,"A password-protected data likely left behind by Nikkes from an unknown squad.
+The battle of the giants on the sea changed the world before them."
+YX002_COLLECTION_UNLOCKED_DESC_05,"This is the truth about the ""giants"" walking among the fragments..."
+YX002_COLLECTION_UNLOCKED_DESC_06,"A password-protected backup data likely left behind Absolute.
+Though they were nearby, they couldn't advance due to the large number of Raptures."
+YX002_COLLECTION_UNLOCKED_DESC_07,"A password-protected backup data likely left behind Absolute.
+They found the AZX and Infinity Rail that had been forced to a standstill."
+YX002_COLLECTION_UNLOCKED_DESC_08,"A password-protected backup data likely left behind Absolute.
+They volunteered to stay and provide subsequent support."
+YX002_COLLECTION_UNLOCKED_DESC_09,"A password-protected backup data likely left behind Absolute.
+The signal of a giant Rapture was detected nearby."
+YX002_COLLECTION_UNLOCKED_DESC_10,"After the sea battle, the battle on land has also ended."
+YX002_COLLECTION_UNLOCKED_DESC_11,"A password-protected voyage log by the great pirate, Mast.
+Set sail! Mast begins her adventure."
+YX002_COLLECTION_UNLOCKED_DESC_12,"A password-protected voyage log by the great pirate, Mast.
+Chapter 1: Pirate Mast conquers the sea!"
+YX002_COLLECTION_UNLOCKED_DESC_13,"A password-protected voyage log by the great pirate, Mast.
+Chapter 2: Pirate Mast turns the ship's bow toward the rear."
+YX002_COLLECTION_UNLOCKED_DESC_14,"A password-protected voyage log by the great pirate, Mast.
+Chapter 3: Pirate Mast obtains treasures!"
+YX002_COLLECTION_UNLOCKED_DESC_15,"A password-protected voyage log by the great pirate, Mast.
+Final Chapter: Pirate Mast's great journey!"
+YX002_COLLECTION_UNLOCKED_DESC_16,"A password-protected data most definitely left behind by Matis.
+Heroic dispatch!"
+YX002_COLLECTION_UNLOCKED_DESC_17,"A password-protected data most definitely left behind by Matis.
+Hero in crisis!"
+YX002_COLLECTION_UNLOCKED_DESC_18,"A password-protected data most definitely left behind by Matis.
+Heroic joining!"
+YX002_COLLECTION_UNLOCKED_DESC_19,"A password-protected data most definitely left behind by Matis.
+Heroic escort!"
+YX002_COLLECTION_UNLOCKED_DESC_20,"Even if E-Raptures are the target, E-Heroes will never fail!"
+YX002_COLLECTION_UNLOCKED_DESC_21,"A fragment from another world that seems to be a videotape.
+A Nikke enters an unfamiliar place by mistake."
+YX002_COLLECTION_UNLOCKED_DESC_22,"A fragment from another world that seems to be a videotape.
+She wakes up under an unfamiliar ceiling."
+YX002_COLLECTION_UNLOCKED_DESC_23,"A fragment from another world that seems to be a videotape.
+A deserted street with haphazardly destroyed skyscrapers."
+YX002_COLLECTION_UNLOCKED_DESC_24,"A fragment from another world that seems to be a videotape.
+A soundstage... and a pale girl with long hair."
+YX002_COLLECTION_UNLOCKED_DESC_25,"The Nikke who left the soundstage and boarded the train.
+She seems to have found the reason to go back."
+YX002_PIECE_LOCKED_DESC_01,"A fragment from another world that seems to be a videotape.
+A soundstage... and a pale girl with long hair."
+YX002_COLLECTION_LOCKED_DESC_01,"The Nikke who left the soundstage and boarded the train.
+She seems to have found the reason to go back."
+YX002_DANMAKU_NAME_01,Command: Lock On
+YX002_DANMAKU_NAME_02,Command: Bomb
+YX002_DANMAKU_NAME_03,Command: Suppress
+YX002_DANMAKU_NAME_04,Direct Attack
+YX002_DANMAKU_NAME_05,Auto Aim Shooting
+YX002_DANMAKU_NAME_06,Double Sniper Shot
+YX002_DANMAKU_NAME_07,Blazing Ray
+YX002_DANMAKU_NAME_08,Spiral Bullet
+YX002_DANMAKU_NAME_09,Barrage Explosion
+YX002_DANMAKU_NAME_10,High Beam Laser
+YX002_DANMAKU_NAME_11,Baptism of Mercy
+YX002_DANMAKU_NAME_12,Enemy's Resistance
+YX002_DANMAKU_NAME_13,Soul's Guidance
+YX002_DANMAKU_NAME_14,Adam's Summon
+YX002_DANMAKU_NAME_15,Mental Pollution
+YX002_DANMAKU_NAME_16,What's That??
+YX002_DANMAKU_NAME_17,Strongest Sniper Shot
+YX002_DANMAKU_NAME_18,The Last Judgment
+YX002_DANMAKU_NAME_19,Moving Barrage
+YX002_DANMAKU_NAME_20,Overload Sniper Shot
+YX002_DANMAKU_NAME_21,Error Code
+YX002_DANMAKU_NAME_22,Overload Burst
+YX002_DANMAKU_NAME_23,Incorrect Barrage
+YX002_DANMAKU_NAME_24,Bewitching Attack
+YX002_DANMAKU_NAME_25,Newbie's Welcome Ceremony
+YX002_DANMAKU_NAME_26,Judgment Day
+YX002_DANMAKU_NAME_27,Complete Eradication
+YX002_DANMAKU_NAME_28,Scattered Feathers
+YX002_DANMAKU_NAME_29,Piercing Feathers
+YX002_DANMAKU_NAME_30,Closed Wings
+YX002_DANMAKU_NAME_31,Expanded Wings
+YX002_DANMAKU_NAME_32,Chaotic Attack
+YX002_DANMAKU_NAME_33,True Colors?
+YX002_DANMAKU_NAME_34,Modernia
+YX002_DANMAKU_NAME_35,Genesis
+YX002_DANMAKU_NAME_36,Great Flood
+YX002_DANMAKU_NAME_37,Mass Extinction
+YX002_DANMAKU_NAME_38,Crisis of the World
+YX002_DANMAKU_NAME_39,Wave Expansion
+YX002_DANMAKU_NAME_40,Whale's Explosion Sound
+YX002_DANMAKU_NAME_41,Beluga's Attack
+YX002_DANMAKU_NAME_42,Mutual Destruction
+YX002_DANMAKU_NAME_43,Rest in Peace
+YX002_DANMAKU_NAME_44,Torpedoes?
+YX002_DANMAKU_NAME_45,Wild Tentacles
+YX002_DANMAKU_NAME_46,Massive Wave
+YX002_DANMAKU_NAME_47,Barrage Whirlpool
+YX002_DANMAKU_NAME_48,Attack of Waves
+YX002_DANMAKU_NAME_49,Wave Shot
+YX002_DANMAKU_NAME_50,Tentacle Barrage
+YX002_DANMAKU_NAME_51,Rhythm Missile
+YX002_DANMAKU_NAME_52,Area Bombardment
+YX002_DANMAKU_NAME_53,Shrieking Sniper Shot
+YX002_DANMAKU_NAME_54,Demonic Dance
+YX002_DANMAKU_NAME_55,Fury Burst
+YX002_DANMAKU_NAME_56,Deadly Rain
+YX002_DANMAKU_NAME_57,Ruthless
+YX002_BUFF_NAME_01,Extra Ammo
+YX002_BUFF_NAME_02,Armor Repair
+YX002_BUFF_NAME_03,Battlefield Recycling
+YX002_BUFF_NAME_04,Output Supplement
+YX002_TALENT_ITEM_NAME_01,Mighty Equipment Box
+YX002_TALENT_ITEM_NAME_02,Mighty Tools
+YX002_TALENT_ITEM_DESC_01,High-performance components salvaged from the battlefield that are immensely powerful. Deliver to the Mighty Tool Squad to enhance combat performance.
+YX002_TALENT_ITEM_DESC_02,"Versatile components salvaged from the battlefield that are simple, yet useful. Deliver to the Mighty Tool Squad to enhance combat performance."
+YX002_LEVEL_NAME_01,Q.S. 01
+YX002_LEVEL_NAME_02,Q.S. 02
+YX002_LEVEL_NAME_03,Q.S. 03
+YX002_LEVEL_NAME_04,Q.S. 04
+YX002_LEVEL_NAME_05,Q.S. 05
+YX002_LEVEL_NAME_06,Q.S. 06
+YX002_LEVEL_NAME_07,Q.S. 07
+YX002_LEVEL_NAME_08,Q.S. 08
+YX002_LEVEL_NAME_09,Q.S. 09
+YX002_LEVEL_NAME_10,Q.S. 10
+YX002_LEVEL_NAME_11,Q.S. 11
+YX002_LEVEL_NAME_12,Q.S. 12
+YX002_LEVEL_NAME_13,A.E. 01
+YX002_LEVEL_NAME_14,A.E. 02
+YX002_LEVEL_NAME_15,A.E. 03
+YX002_LEVEL_NAME_16,A.E. 04
+YX002_LEVEL_NAME_17,A.E. 05
+YX002_LEVEL_NAME_18,A.E. 06
+YX002_LEVEL_NAME_19,A.E. 07
+YX002_LEVEL_NAME_20,A.E. 08
+YX002_LEVEL_NAME_21,A.E. 09
+YX002_LEVEL_NAME_22,A.E. 10
+YX002_LEVEL_NAME_23,A.E. 11
+YX002_LEVEL_NAME_24,A.E. 12
+YX002_LEVEL_NAME_25,T.F.
+YX002_MISSION_DESC_01,Complete {0} stage mission(s)
+YX002_MISSION_DESC_02,Complete {0} stage mission(s)
+YX002_MISSION_DESC_03,Complete {0} stage mission(s)
+YX002_MISSION_DESC_04,Earn {0} point(s) in daily missions
+YX002_MISSION_DESC_05,Earn {0} point(s) in daily missions
+YX002_MISSION_DESC_06,Earn {0} point(s) in daily missions
+YX002_MISSION_DESC_07,Earn {0} point(s) in daily missions
+YX002_MISSION_DESC_08,Earn {0} point(s) in daily missions
+YX002_MISSION_DESC_09,Obtain buff {0} time(s)
+YX002_MISSION_DESC_10,Upgrade parts {0} time(s)
+YX002_MISSION_DESC_11,Clear any stage {0} time(s)
+YX002_MISSION_DESC_12,Complete {0} stage mission(s) in a battle
+YX002_MISSION_DESC_13,Clear any stage {0} time(s)
+YX002_MISSION_DESC_14,Obtain buff {0} time(s)
+YX002_MISSION_DESC_15,Upgrade parts {0} time(s)
+YX002_MISSION_DESC_16,Complete {0} Challenge mission(s)
+YX002_MISSION_DESC_17,Clear Easy stage {0} time(s)
+YX002_MISSION_DESC_18,Clear Hard stage {0} time(s)
+YX002_MISSION_DESC_19,Upgrade Type 1 skill tree to the maximum
+YX002_MISSION_DESC_20,Defeat {0} enemy unit(s)
+YX002_MISSION_DESC_21,Reach a final score of {0} in a battle
+YX002_MISSION_DESC_22,Obtain {0} extra weapon(s)
+YX002_MISSION_DESC_23,Obtain {0} Evangelion(s)
+YX002_MISSION_DESC_24,Use A.T. Field {0} time(s)
+YX002_MISSION_DESC_25,Use Evangelion {0} to clear stage {1} time(s)
+YX002_MISSION_DESC_26,Use {0} to clear stage {1} time(s)
+YX002_MISSION_DESC_27,Deal {0} damage to enemies
+YX002_MISSION_DESC_28,Obtain {0} collection item(s)
+YX002_MISSION_DESC_29,Clear Stage {0}
+YX002_TALENT_NAME_01,Portable Weapon
+YX002_TALENT_NAME_02,Armor Part
+YX002_TALENT_NAME_03,Recycling Efficiency
+YX002_TALENT_NAME_04,A.T. Field
+YX002_TALENT_NAME_05,Extra Weapon
+YX002_TALENT_DESC_01,Evangelion Basic ATK
+YX002_TALENT_DESC_02,Increases ATK of Evangelion
+YX002_TALENT_DESC_03,"Increases ATK of Evangelion
+Upgrades equipment"
+YX002_TALENT_DESC_04,Evangelion Basic HP
+YX002_TALENT_DESC_05,Increases HP of Evangelion
+YX002_TALENT_DESC_06,Basic Acquisition Range
+YX002_TALENT_DESC_07,Increases acquisition range
+YX002_TALENT_DESC_08,Basic A.T. Field
+YX002_TALENT_DESC_09,Enhances the effect of A.T. Field
+YX002_TALENT_DESC_10,Extra Weapon Basic ATK
+YX002_TALENT_DESC_11,Increases ATK of extra weapons
+YX002_HELP_TITLE_01,Movement Tutorial
+YX002_HELP_DESC_01,Tap and drag anywhere on the screen to move the Evangelion.
+YX002_HELP_TITLE_02,Damage Detection
+YX002_HELP_DESC_02,The pilot will be at risk if the Evangelion's cockpit takes direct hits.
+YX002_HELP_TITLE_03,Use A.T. Field
+YX002_HELP_DESC_03,"Dealing damage to the enemy will recharge energy. Once fully charged, the A.T. Field can be used.
+The effects of the A.T. Field vary depending on the type of Evangelion."

@@ -1,0 +1,3640 @@
+Key,Value
+11200101_name,Shank
+1120010111_name,Shank H.S.T.A.
+1120010121_name,Shank P.S.I.D.
+1120010131_name,Shank A.N.M.I.
+1120010141_name,Shank Z.E.U.S.
+1120010151_name,Shank D.M.T.R.
+11100101_name,Skimmer
+1110010111_name,Skimmer H.S.T.A.
+1110010121_name,Skimmer P.S.I.D.
+1110010131_name,Skimmer A.N.M.I.
+1110010141_name,Skimmer Z.E.U.S.
+1110010151_name,Skimmer D.M.T.R.
+12100101_name,Oculus
+1210010111_name,Oculus H.S.T.A.
+1210010121_name,Oculus P.S.I.D.
+1210010131_name,Oculus A.N.M.I.
+1210010141_name,Oculus Z.E.U.S.
+1210010151_name,Oculus D.M.T.R.
+1210010911_name,1011219863 H.S.T.A.
+1210010931_name,1011219863 A.N.M.I.
+12100201_name,Lure
+1210020111_name,Lure H.S.T.A.
+1210020121_name,Lure P.S.I.D.
+1210020131_name,Lure A.N.M.I.
+1210020141_name,Lure Z.E.U.S.
+1210020151_name,Lure D.M.T.R.
+12100301_name,Bullwhip
+1210030111_name,Bullwhip H.S.T.A.
+1210030121_name,Bullwhip P.S.I.D.
+1210030131_name,Bullwhip A.N.M.I.
+1210030141_name,Bullwhip Z.E.U.S.
+1210030151_name,Bullwhip D.M.T.R.
+12100401_name,Lentigo
+1210040111_name,Lentigo H.S.T.A.
+1210040121_name,Lentigo P.S.I.D.
+1210040131_name,Lentigo A.N.M.I.
+1210040141_name,Lentigo Z.E.U.S.
+1210040151_name,Lentigo D.M.T.R.
+12100501_name,Volleyball
+1210050111_name,Volleyball H.S.T.A.
+1210050121_name,Volleyball P.S.I.D.
+1210050131_name,Volleyball A.N.M.I.
+1210050141_name,Volleyball Z.E.U.S.
+1210050151_name,Volleyball D.M.T.R.
+12200101_name,Pelican
+1220010111_name,Pelican H.S.T.A.
+1220010121_name,Pelican P.S.I.D.
+1220010131_name,Pelican A.N.M.I.
+1220010141_name,Pelican Z.E.U.S.
+1220010151_name,Pelican D.M.T.R.
+12200201_name,Leech
+1220020111_name,Leech H.S.T.A.
+1220020121_name,Leech P.S.I.D.
+1220020131_name,Leech A.N.M.I.
+1220020141_name,Leech Z.E.U.S.
+1220020151_name,Leech D.M.T.R.
+12200301_name,Razer Fin
+1220030111_name,Razer Fin H.S.T.A.
+1220030121_name,Razer Fin P.S.I.D.
+1220030131_name,Razer Fin A.N.M.I.
+1220030141_name,Razer Fin Z.E.U.S.
+1220030151_name,Razer Fin D.M.T.R.
+12200401_name,Star Fish
+1220040111_name,Star Fish H.S.T.A.
+1220040121_name,Star Fish P.S.I.D.
+1220040131_name,Star Fish A.N.M.I.
+1220040141_name,Star Fish Z.E.U.S.
+1220040151_name,Star Fish D.M.T.R.
+12200501_name,Remnant
+1220050111_name,Remnant H.S.T.A.
+1220050121_name,Remnant P.S.I.D.
+1220050131_name,Remnant A.N.M.I.
+1220050141_name,Remnant Z.E.U.S.
+1220050151_name,Remnant D.M.T.R.
+1220060111_name,Thief H.S.T.A.
+1220060121_name,Thief P.S.I.D.
+1220060131_name,Thief A.N.M.I.
+1220060141_name,Thief Z.E.U.S.
+1220060151_name,Thief D.M.T.R.
+13100101_name,Tail Bone
+1310010111_name,Tail Bone H.S.T.A.
+1310010121_name,Tail Bone P.S.I.D.
+1310010131_name,Tail Bone A.N.M.I.
+1310010141_name,Tail Bone Z.E.U.S.
+1310010151_name,Tail Bone D.M.T.R.
+1310010911_name,1161059863 H.S.T.A.
+1310010931_name,1161059863 A.N.M.I.
+13100102_name,Elite Tail Bone
+1310010211_name,Elite Tail Bone H.S.T.A.
+1310010221_name,Elite Tail Bone P.S.I.D.
+1310010231_name,Elite Tail Bone A.N.M.I.
+1310010241_name,Elite Tail Bone Z.E.U.S.
+1310010251_name,Elite Tail Bone D.M.T.R.
+1310011011_name,99 1161059863 H.S.T.A.
+1310011031_name,99 1161059863 A.N.M.I.
+13100201_name,Cutter
+1310020111_name,Cutter H.S.T.A.
+1310020121_name,Cutter P.S.I.D.
+1310020131_name,Cutter A.N.M.I.
+1310020141_name,Cutter Z.E.U.S.
+1310020151_name,Cutter D.M.T.R.
+13100202_name,Elite Cutter
+1310020211_name,Elite Cutter H.S.T.A.
+1310020221_name,Elite Cutter P.S.I.D.
+1310020231_name,Elite Cutter A.N.M.I.
+1310020241_name,Elite Cutter Z.E.U.S.
+1310020251_name,Elite Cutter D.M.T.R.
+13100301_name,Perennial
+1310030111_name,Perennial H.S.T.A.
+1310030121_name,Perennial P.S.I.D.
+1310030131_name,Perennial A.N.M.I.
+1310030141_name,Perennial Z.E.U.S.
+1310030151_name,Perennial D.M.T.R.
+13100302_name,Elite Perennial
+1310030211_name,Elite Perennial H.S.T.A.
+1310030221_name,Elite Perennial P.S.I.D.
+1310030231_name,Elite Perennial A.N.M.I.
+1310030241_name,Elite Perennial Z.E.U.S.
+1310030251_name,Elite Perennial D.M.T.R.
+13100401_name,Petal
+1310040111_name,Petal H.S.T.A.
+1310040121_name,Petal P.S.I.D.
+1310040131_name,Petal A.N.M.I.
+1310040141_name,Petal Z.E.U.S.
+1310040151_name,Petal D.M.T.R.
+13100402_name,Elite Petal
+1310040211_name,Elite Petal H.S.T.A.
+1310040221_name,Elite Petal P.S.I.D.
+1310040231_name,Elite Petal A.N.M.I.
+1310040241_name,Elite Petal Z.E.U.S.
+1310040251_name,Elite Petal D.M.T.R.
+13200101_name,Veil
+1320010111_name,Veil H.S.T.A.
+1320010121_name,Veil P.S.I.D.
+1320010131_name,Veil A.N.M.I.
+1320010141_name,Veil Z.E.U.S.
+1320010151_name,Veil D.M.T.R.
+13200102_name,Elite Veil
+1320010211_name,Elite Veil H.S.T.A.
+1320010221_name,Elite Veil P.S.I.D.
+1320010231_name,Elite Veil A.N.M.I.
+1320010241_name,Elite Veil Z.E.U.S.
+1320010251_name,Elite Veil D.M.T.R.
+13200201_name,Riddler
+1320020111_name,Riddler H.S.T.A.
+1320020121_name,Riddler P.S.I.D.
+1320020131_name,Riddler A.N.M.I.
+1320020141_name,Riddler Z.E.U.S.
+1320020151_name,Riddler D.M.T.R.
+13200202_name,Elite Riddler
+1320020211_name,Elite Riddler H.S.T.A.
+1320020221_name,Elite Riddler P.S.I.D.
+1320020231_name,Elite Riddler A.N.M.I.
+1320020241_name,Elite Riddler Z.E.U.S.
+1320020251_name,Elite Riddler D.M.T.R.
+13200203_name,Riddler Practice
+1320020411_name,Riddler Practice H.S.T.A.
+1320020421_name,Riddler Practice P.S.I.D.
+1320020431_name,Riddler Practice A.N.M.I.
+1320020441_name,Riddler Practice Z.E.U.S.
+1320020451_name,Riddler Practice D.M.T.R.
+13200301_name,Capra
+1320030111_name,Capra H.S.T.A.
+1320030121_name,Capra P.S.I.D.
+1320030131_name,Capra A.N.M.I.
+1320030141_name,Capra Z.E.U.S.
+1320030151_name,Capra D.M.T.R.
+13200302_name,Elite Capra
+1320030211_name,Elite Capra H.S.T.A.
+1320030221_name,Elite Capra P.S.I.D.
+1320030231_name,Elite Capra A.N.M.I.
+1320030241_name,Elite Capra Z.E.U.S.
+1320030251_name,Elite Capra D.M.T.R.
+13200401_name,Mantis
+1320040111_name,Mantis H.S.T.A.
+1320040121_name,Mantis P.S.I.D.
+1320040131_name,Mantis A.N.M.I.
+1320040141_name,Mantis Z.E.U.S.
+1320040151_name,Mantis D.M.T.R.
+13200402_name,Elite Mantis
+1320040211_name,Elite Mantis H.S.T.A.
+1320040221_name,Elite Mantis P.S.I.D.
+1320040231_name,Elite Mantis A.N.M.I.
+1320040241_name,Elite Mantis Z.E.U.S.
+1320040251_name,Elite Mantis D.M.T.R.
+13200601_name,Bronchus
+1320060111_name,Bronchus H.S.T.A.
+1320060121_name,Bronchus P.S.I.D.
+1320060131_name,Bronchus A.N.M.I.
+1320060141_name,Bronchus Z.E.U.S.
+1320060151_name,Bronchus D.M.T.R.
+13200602_name,Elite Bronchus
+1320060211_name,Elite Bronchus H.S.T.A.
+1320060221_name,Elite Bronchus P.S.I.D.
+1320060231_name,Elite Bronchus A.N.M.I.
+1320060241_name,Elite Bronchus Z.E.U.S.
+1320060251_name,Elite Bronchus D.M.T.R.
+14100101_name,Cocytus
+14100201_name,Mace
+14200101_name,Cucumber
+14200201_name,Laitance
+14200301_name,Porter
+14200401_name,Scarf
+14200501_name,Sunbather
+15200101_name,Harvester
+15200201_name,Chatterbox
+15200301_name,Black Smith
+21100101_name,Daikon
+2110010111_name,Daikon H.S.T.A.
+2110010121_name,Daikon P.S.I.D.
+2110010131_name,Daikon A.N.M.I.
+2110010141_name,Daikon Z.E.U.S.
+2110010151_name,Daikon D.M.T.R.
+21200101_name,Striker
+2120010111_name,Striker H.S.T.A.
+2120010121_name,Striker P.S.I.D.
+2120010131_name,Striker A.N.M.I.
+2120010141_name,Striker Z.E.U.S.
+2120010151_name,Striker D.M.T.R.
+22100101_name,Clam
+2210010111_name,Clam H.S.T.A.
+2210010121_name,Clam P.S.I.D.
+2210010131_name,Clam A.N.M.I.
+2210010141_name,Clam Z.E.U.S.
+2210010151_name,Clam D.M.T.R.
+22100201_name,Squid
+2210020111_name,Squid H.S.T.A.
+2210020121_name,Squid P.S.I.D.
+2210020131_name,Squid A.N.M.I.
+2210020141_name,Squid Z.E.U.S.
+2210020151_name,Squid D.M.T.R.
+22100301_name,Sphere
+2210030111_name,Sphere H.S.T.A.
+2210030121_name,Sphere P.S.I.D.
+2210030131_name,Sphere A.N.M.I.
+2210030141_name,Sphere Z.E.U.S.
+2210030151_name,Sphere D.M.T.R.
+2210040111_name,Dagger H.S.T.A.
+2210040121_name,Dagger P.S.I.D.
+2210040131_name,Dagger A.N.M.I.
+2210040141_name,Dagger Z.E.U.S.
+2210040151_name,Dagger D.M.T.R.
+22200101_name,Mono Eye
+2220010111_name,Mono Eye H.S.T.A.
+2220010121_name,Mono Eye P.S.I.D.
+2220010131_name,Mono Eye A.N.M.I.
+2220010141_name,Mono Eye Z.E.U.S.
+2220010151_name,Mono Eye D.M.T.R.
+22200201_name,Blocker
+2220020111_name,Blocker H.S.T.A.
+2220020121_name,Blocker P.S.I.D.
+2220020131_name,Blocker A.N.M.I.
+2220020141_name,Blocker Z.E.U.S.
+2220020151_name,Blocker D.M.T.R.
+22200301_name,Cube
+2220030111_name,Cube H.S.T.A.
+2220030121_name,Cube P.S.I.D.
+2220030131_name,Cube A.N.M.I.
+2220030141_name,Cube Z.E.U.S.
+2220030151_name,Cube D.M.T.R.
+2220030911_name,999863 H.S.T.A.
+2220030931_name,999863 A.N.M.I.
+22200304_name,Cube Practice
+2220030411_name,Cube Practice H.S.T.A.
+2220030421_name,Cube Practice P.S.I.D.
+2220030431_name,Cube Practice A.N.M.I.
+2220030441_name,Cube Practice Z.E.U.S.
+2220030451_name,Cube Practice D.M.T.R.
+22200401_name,Scimitar
+2220040111_name,Scimitar H.S.T.A.
+2220040121_name,Scimitar P.S.I.D.
+2220040131_name,Scimitar A.N.M.I.
+2220040141_name,Scimitar Z.E.U.S.
+2220040151_name,Scimitar D.M.T.R.
+22200501_name,Waller
+2220050111_name,Waller H.S.T.A.
+2220050121_name,Waller P.S.I.D.
+2220050131_name,Waller A.N.M.I.
+2220050141_name,Waller Z.E.U.S.
+2220050151_name,Waller D.M.T.R.
+2220060111_name,Battery H.S.T.A.
+2220060121_name,Battery P.S.I.D.
+2220060131_name,Battery A.N.M.I.
+2220060141_name,Battery Z.E.U.S.
+2220060151_name,Battery D.M.T.R.
+23100101_name,Goblet
+2310010111_name,Goblet H.S.T.A.
+2310010121_name,Goblet P.S.I.D.
+2310010131_name,Goblet A.N.M.I.
+2310010141_name,Goblet Z.E.U.S.
+2310010151_name,Goblet D.M.T.R.
+23100102_name,Elite Goblet
+2310010211_name,Elite Goblet H.S.T.A.
+2310010221_name,Elite Goblet P.S.I.D.
+2310010231_name,Elite Goblet A.N.M.I.
+2310010241_name,Elite Goblet Z.E.U.S.
+2310010251_name,Elite Goblet D.M.T.R.
+23100201_name,Tripod
+2310020111_name,Tripod H.S.T.A.
+2310020121_name,Tripod P.S.I.D.
+2310020131_name,Tripod A.N.M.I.
+2310020141_name,Tripod Z.E.U.S.
+2310020151_name,Tripod D.M.T.R.
+23100202_name,Elite Tripod
+2310020211_name,Elite Tripod H.S.T.A.
+2310020221_name,Elite Tripod P.S.I.D.
+2310020231_name,Elite Tripod A.N.M.I.
+2310020241_name,Elite Tripod Z.E.U.S.
+2310020251_name,Elite Tripod D.M.T.R.
+23100301_name,Tears
+2310030111_name,Tears H.S.T.A.
+2310030121_name,Tears P.S.I.D.
+2310030131_name,Tears A.N.M.I.
+2310030141_name,Tears Z.E.U.S.
+2310030151_name,Tears D.M.T.R.
+23100302_name,Elite Tears
+2310030211_name,Elite Tears H.S.T.A.
+2310030221_name,Elite Tears P.S.I.D.
+2310030231_name,Elite Tears A.N.M.I.
+2310030241_name,Elite Tears Z.E.U.S.
+2310030251_name,Elite Tears D.M.T.R.
+2310040111_name,Jellyfish H.S.T.A.
+2310040121_name,Jellyfish P.S.I.D.
+2310040131_name,Jellyfish A.N.M.I.
+2310040141_name,Jellyfish Z.E.U.S.
+2310040151_name,Jellyfish D.M.T.R.
+2310040211_name,Elite Jellyfish H.S.T.A.
+2310040221_name,Elite Jellyfish P.S.I.D.
+2310040231_name,Elite Jellyfish A.N.M.I.
+2310040241_name,Elite Jellyfish Z.E.U.S.
+2310040251_name,Elite Jellyfish D.M.T.R.
+2310050111_name,Glasses H.S.T.A.
+2310050121_name,Glasses P.S.I.D.
+2310050131_name,Glasses A.N.M.I.
+2310050141_name,Glasses Z.E.U.S.
+2310050151_name,Glasses D.M.T.R.
+2310050211_name,Elite Glasses H.S.T.A.
+2310050221_name,Elite Glasses P.S.I.D.
+2310050231_name,Elite Glasses A.N.M.I.
+2310050241_name,Elite Glasses Z.E.U.S.
+2310050251_name,Elite Glasses D.M.T.R.
+2310060111_name,Shield H.S.T.A.
+2310060121_name,Shield P.S.I.D.
+2310060131_name,Shield A.N.M.I.
+2310060141_name,Shield Z.E.U.S.
+2310060151_name,Shield D.M.T.R.
+2310060211_name,Elite Shield H.S.T.A.
+2310060221_name,Elite Shield P.S.I.D.
+2310060231_name,Elite Shield A.N.M.I.
+2310060241_name,Elite Shield Z.E.U.S.
+2310060251_name,Elite Shield D.M.T.R.
+23200101_name,Peacock
+2320010111_name,Peacock H.S.T.A.
+2320010121_name,Peacock P.S.I.D.
+2320010131_name,Peacock A.N.M.I.
+2320010141_name,Peacock Z.E.U.S.
+2320010151_name,Peacock D.M.T.R.
+23200102_name,Elite Peacock
+2320010211_name,Elite Peacock H.S.T.A.
+2320010221_name,Elite Peacock P.S.I.D.
+2320010231_name,Elite Peacock A.N.M.I.
+2320010241_name,Elite Peacock Z.E.U.S.
+2320010251_name,Elite Peacock D.M.T.R.
+23200201_name,Bulwark
+2320020111_name,Bulwark H.S.T.A.
+2320020121_name,Bulwark P.S.I.D.
+2320020131_name,Bulwark A.N.M.I.
+2320020141_name,Bulwark Z.E.U.S.
+2320020151_name,Bulwark D.M.T.R.
+23200202_name,Elite Bulwark
+2320020211_name,Elite Bulwark H.S.T.A.
+2320020221_name,Elite Bulwark P.S.I.D.
+2320020231_name,Elite Bulwark A.N.M.I.
+2320020241_name,Elite Bulwark Z.E.U.S.
+2320020251_name,Elite Bulwark D.M.T.R.
+23200301_name,Sentry
+2320030111_name,Sentry H.S.T.A.
+2320030121_name,Sentry P.S.I.D.
+2320030131_name,Sentry A.N.M.I.
+2320030141_name,Sentry Z.E.U.S.
+2320030151_name,Sentry D.M.T.R.
+23200302_name,Elite Sentry
+2320030211_name,Elite Sentry H.S.T.A.
+2320030221_name,Elite Sentry P.S.I.D.
+2320030231_name,Elite Sentry A.N.M.I.
+2320030241_name,Elite Sentry Z.E.U.S.
+2320030251_name,Elite Sentry D.M.T.R.
+23200401_name,Tiara
+2320040111_name,Tiara H.S.T.A.
+2320040121_name,Tiara P.S.I.D.
+2320040131_name,Tiara A.N.M.I.
+2320040141_name,Tiara Z.E.U.S.
+2320040151_name,Tiara D.M.T.R.
+23200402_name,Elite Tiara
+2320040211_name,Elite Tiara H.S.T.A.
+2320040221_name,Elite Tiara P.S.I.D.
+2320040231_name,Elite Tiara A.N.M.I.
+2320040241_name,Elite Tiara Z.E.U.S.
+2320040251_name,Elite Tiara D.M.T.R.
+23200501_name,Screamer
+2320050111_name,Screamer H.S.T.A.
+2320050121_name,Screamer P.S.I.D.
+2320050131_name,Screamer A.N.M.I.
+2320050141_name,Screamer Z.E.U.S.
+2320050151_name,Screamer D.M.T.R.
+23200502_name,Elite Screamer
+2320050211_name,Elite Screamer H.S.T.A.
+2320050221_name,Elite Screamer P.S.I.D.
+2320050231_name,Elite Screamer A.N.M.I.
+2320050241_name,Elite Screamer Z.E.U.S.
+2320050251_name,Elite Screamer D.M.T.R.
+23200601_name,Barbell
+2320060111_name,Barbell H.S.T.A.
+2320060121_name,Barbell P.S.I.D.
+2320060131_name,Barbell A.N.M.I.
+2320060141_name,Barbell Z.E.U.S.
+2320060151_name,Barbell D.M.T.R.
+23200602_name,Elite Barbell
+2320060211_name,Elite Barbell H.S.T.A.
+2320060221_name,Elite Barbell P.S.I.D.
+2320060231_name,Elite Barbell A.N.M.I.
+2320060241_name,Elite Barbell Z.E.U.S.
+2320060251_name,Elite Barbell D.M.T.R.
+23200701_name,Needle
+2320070111_name,Needle H.S.T.A.
+2320070121_name,Needle P.S.I.D.
+2320070131_name,Needle A.N.M.I.
+2320070141_name,Needle Z.E.U.S.
+2320070151_name,Needle D.M.T.R.
+23200702_name,Elite Needle
+2320070211_name,Elite Needle H.S.T.A.
+2320070221_name,Elite Needle P.S.I.D.
+2320070231_name,Elite Needle A.N.M.I.
+2320070241_name,Elite Needle Z.E.U.S.
+2320070251_name,Elite Needle D.M.T.R.
+24100101_name,Obelisk
+24100201_name,Tombstone
+24200101_name,Loud Mouth
+24200201_name,Dual Ring
+24200301_name,Halo
+24200401_name,Armstrong
+24200501_name,Stout
+25100101_name,Storm Bringer
+25200101_name,Land Eater
+31200101_name,Abettor
+3120010111_name,Abettor H.S.T.A.
+3120010121_name,Abettor P.S.I.D.
+3120010131_name,Abettor A.N.M.I.
+3120010141_name,Abettor Z.E.U.S.
+3120010151_name,Abettor D.M.T.R.
+31100101_name,Salver
+3110010111_name,Salver H.S.T.A.
+3110010121_name,Salver P.S.I.D.
+3110010131_name,Salver A.N.M.I.
+3110010141_name,Salver Z.E.U.S.
+3110010151_name,Salver D.M.T.R.
+32100101_name,Hard Hat
+3210010111_name,Hard Hat H.S.T.A.
+3210010121_name,Hard Hat P.S.I.D.
+3210010131_name,Hard Hat A.N.M.I.
+3210010141_name,Hard Hat Z.E.U.S.
+3210010151_name,Hard Hat D.M.T.R.
+3210010911_name,9911810063 H.S.T.A.
+3210010931_name,9911810063 A.N.M.I.
+32100201_name,Frisbee
+3210020111_name,Frisbee H.S.T.A.
+3210020121_name,Frisbee P.S.I.D.
+3210020131_name,Frisbee A.N.M.I.
+3210020141_name,Frisbee Z.E.U.S.
+3210020151_name,Frisbee D.M.T.R.
+3210020911_name,1021141159863 H.S.T.A.
+3210020931_name,1021141159863 A.N.M.I.
+32100203_name,Frisbee Practice
+3210020411_name,Frisbee Practice H.S.T.A
+3210020421_name,Frisbee Practice P.S.I.D.
+3210020431_name,Frisbee Practice A.N.M.I
+3210020441_name,Frisbee Practice Z.E.U.S.
+3210020451_name,Frisbee Practice D.M.T.R.
+32100301_name,Disc
+3210030111_name,Disc H.S.T.A.
+3210030121_name,Disc P.S.I.D.
+3210030131_name,Disc A.N.M.I.
+3210030141_name,Disc Z.E.U.S.
+3210030151_name,Disc D.M.T.R.
+32100401_name,Glitter
+3210040111_name,Glitter H.S.T.A.
+3210040121_name,Glitter P.S.I.D.
+3210040131_name,Glitter A.N.M.I.
+3210040141_name,Glitter Z.E.U.S.
+3210040151_name,Glitter D.M.T.R.
+3210050111_name,Capsule H.S.T.A.
+3210050121_name,Capsule P.S.I.D.
+3210050131_name,Capsule A.N.M.I.
+3210050141_name,Capsule Z.E.U.S.
+3210050151_name,Capsule D.M.T.R.
+32200101_name,Runner
+3220010111_name,Runner H.S.T.A.
+3220010121_name,Runner P.S.I.D.
+3220010131_name,Runner A.N.M.I.
+3220010141_name,Runner Z.E.U.S.
+3220010151_name,Runner D.M.T.R.
+32200201_name,Sparrow
+3220020111_name,Sparrow H.S.T.A.
+3220020121_name,Sparrow P.S.I.D.
+3220020131_name,Sparrow A.N.M.I.
+3220020141_name,Sparrow Z.E.U.S.
+3220020151_name,Sparrow D.M.T.R.
+32200301_name,Beetle
+3220030111_name,Beetle H.S.T.A.
+3220030121_name,Beetle P.S.I.D.
+3220030131_name,Beetle A.N.M.I.
+3220030141_name,Beetle Z.E.U.S.
+3220030151_name,Beetle D.M.T.R.
+3220030911_name,9811663 H.S.T.A.
+3220030931_name,9811663 A.N.M.I.
+32200401_name,Fez
+3220040111_name,Fez H.S.T.A.
+3220040121_name,Fez P.S.I.D.
+3220040131_name,Fez A.N.M.I.
+3220040141_name,Fez Z.E.U.S.
+3220040151_name,Fez D.M.T.R.
+32200501_name,Crawler
+3220050111_name,Crawler H.S.T.A.
+3220050121_name,Crawler P.S.I.D.
+3220050131_name,Crawler A.N.M.I.
+3220050141_name,Crawler Z.E.U.S.
+3220050151_name,Crawler D.M.T.R.
+32200601_name,Vulcan
+3220060111_name,Vulcan H.S.T.A.
+3220060121_name,Vulcan P.S.I.D.
+3220060131_name,Vulcan A.N.M.I.
+3220060141_name,Vulcan Z.E.U.S.
+3220060151_name,Vulcan D.M.T.R.
+3220060911_name,1189963 H.S.T.A.
+3220060931_name,1189963 A.N.M.I.
+32200701_name,Cricket
+3220070111_name,Cricket H.S.T.A.
+3220070121_name,Cricket P.S.I.D.
+3220070131_name,Cricket A.N.M.I.
+3220070141_name,Cricket Z.E.U.S.
+3220070151_name,Cricket D.M.T.R.
+3220080111_name,Drifter H.S.T.A.
+3220080121_name,Drifter P.S.I.D.
+3220080131_name,Drifter A.N.M.I.
+3220080141_name,Drifter Z.E.U.S.
+3220080151_name,Drifter D.M.T.R.
+32200901_name,Peekaboo
+3220090111_name,Peekaboo H.S.T.A.
+3220090121_name,Peekaboo P.S.I.D.
+3220090131_name,Peekaboo A.N.M.I.
+3220090141_name,Peekaboo Z.E.U.S.
+3220090151_name,Peekaboo D.M.T.R.
+33100101_name,Penetrator
+3310010111_name,Penetrator H.S.T.A.
+3310010121_name,Penetrator P.S.I.D.
+3310010131_name,Penetrator A.N.M.I.
+3310010141_name,Penetrator Z.E.U.S.
+3310010151_name,Penetrator D.M.T.R.
+33100102_name,Elite Penetrator
+3310010211_name,Elite Penetrator H.S.T.A.
+3310010221_name,Elite Penetrator P.S.I.D.
+3310010231_name,Elite Penetrator A.N.M.I.
+3310010241_name,Elite Penetrator Z.E.U.S.
+3310010251_name,Elite Penetrator D.M.T.R.
+33100201_name,Arkanoid
+3310020111_name,Arkanoid H.S.T.A.
+3310020121_name,Arkanoid P.S.I.D.
+3310020131_name,Arkanoid A.N.M.I.
+3310020141_name,Arkanoid Z.E.U.S.
+3310020151_name,Arkanoid D.M.T.R.
+33100202_name,Elite Arkanoid
+3310020211_name,Elite Arkanoid H.S.T.A.
+3310020221_name,Elite Arkanoid P.S.I.D.
+3310020231_name,Elite Arkanoid A.N.M.I.
+3310020241_name,Elite Arkanoid Z.E.U.S.
+3310020251_name,Elite Arkanoid D.M.T.R.
+33100301_name,Watcher
+3310030111_name,Watcher H.S.T.A.
+3310030121_name,Watcher P.S.I.D.
+3310030131_name,Watcher A.N.M.I.
+3310030141_name,Watcher Z.E.U.S.
+3310030151_name,Watcher D.M.T.R.
+3310030911_name,1199963 H.S.T.A.
+3310030931_name,1199963 A.N.M.I.
+33100302_name,Elite Watcher
+3310030211_name,Elite Watcher H.S.T.A.
+3310030221_name,Elite Watcher P.S.I.D.
+3310030231_name,Elite Watcher A.N.M.I.
+3310030241_name,Elite Watcher Z.E.U.S.
+3310030251_name,Elite Watcher D.M.T.R.
+3310031011_name,99 1199963 H.S.T.A.
+3310031031_name,99 1199963 A.N.M.I.
+3310040111_name,Satellite H.S.T.A.
+3310040121_name,Satellite P.S.I.D.
+3310040131_name,Satellite A.N.M.I.
+3310040141_name,Satellite Z.E.U.S.
+3310040151_name,Satellite D.M.T.R.
+3310040911_name,11511611410511663 H.S.T.A.
+3310040931_name,11511611410511663 A.N.M.I.
+3310040211_name,Elite Satellite H.S.T.A.
+3310040221_name,Elite Satellite P.S.I.D.
+3310040231_name,Elite Satellite A.N.M.I.
+3310040241_name,Elite Satellite Z.E.U.S.
+3310040251_name,Elite Satellite D.M.T.R.
+3310041011_name,99 11511611410511663 H.S.T.A.
+3310041031_name,99 11511611410511663 A.N.M.I.
+3310050111_name,Joint H.S.T.A.
+3310050121_name,Joint P.S.I.D.
+3310050131_name,Joint A.N.M.I.
+3310050141_name,Joint Z.E.U.S.
+3310050151_name,Joint D.M.T.R.
+3310050211_name,Elite Joint H.S.T.A.
+3310050221_name,Elite Joint P.S.I.D.
+3310050231_name,Elite Joint A.N.M.I.
+3310050241_name,Elite Joint Z.E.U.S.
+3310050251_name,Elite Joint D.M.T.R.
+33200101_name,Hexagon
+3320010111_name,Hexagon H.S.T.A.
+3320010121_name,Hexagon P.S.I.D.
+3320010131_name,Hexagon A.N.M.I.
+3320010141_name,Hexagon Z.E.U.S.
+3320010151_name,Hexagon D.M.T.R.
+33200102_name,Elite Hexagon
+3320010211_name,Elite Hexagon H.S.T.A.
+3320010221_name,Elite Hexagon P.S.I.D.
+3320010231_name,Elite Hexagon A.N.M.I.
+3320010241_name,Elite Hexagon Z.E.U.S.
+3320010251_name,Elite Hexagon D.M.T.R.
+33200201_name,Driver
+3320020111_name,Driver H.S.T.A.
+3320020121_name,Driver P.S.I.D.
+3320020131_name,Driver A.N.M.I.
+3320020141_name,Driver Z.E.U.S.
+3320020151_name,Driver D.M.T.R.
+33200202_name,Elite Driver
+3320020211_name,Elite Driver H.S.T.A.
+3320020221_name,Elite Driver P.S.I.D.
+3320020231_name,Elite Driver A.N.M.I.
+3320020241_name,Elite Driver Z.E.U.S.
+3320020251_name,Elite Driver D.M.T.R.
+33200301_name,Knight
+3320030111_name,Knight H.S.T.A.
+3320030121_name,Knight P.S.I.D.
+3320030131_name,Knight A.N.M.I.
+3320030141_name,Knight Z.E.U.S.
+3320030151_name,Knight D.M.T.R.
+3320030911_name,10710511663 H.S.T.A.
+3320030931_name,10710511663 A.N.M.I.
+33200302_name,Elite Knight
+3320030211_name,Elite Knight H.S.T.A.
+3320030221_name,Elite Knight P.S.I.D.
+3320030231_name,Elite Knight A.N.M.I.
+3320030241_name,Elite Knight Z.E.U.S.
+3320030251_name,Elite Knight D.M.T.R.
+3320031011_name,99 10710511663 H.S.T.A.
+3320031031_name,99 10710511663 A.N.M.I.
+33200401_name,Ponytail
+3320040111_name,Ponytail H.S.T.A.
+3320040121_name,Ponytail P.S.I.D.
+3320040131_name,Ponytail A.N.M.I.
+3320040141_name,Ponytail Z.E.U.S.
+3320040151_name,Ponytail D.M.T.R.
+33200402_name,Elite Ponytail
+3320040211_name,Elite Ponytail H.S.T.A.
+3320040221_name,Elite Ponytail P.S.I.D.
+3320040231_name,Elite Ponytail A.N.M.I.
+3320040241_name,Elite Ponytail Z.E.U.S.
+3320040251_name,Elite Ponytail D.M.T.R.
+33200501_name,Hammer
+3320050111_name,Hammer H.S.T.A.
+3320050121_name,Hammer P.S.I.D.
+3320050131_name,Hammer A.N.M.I.
+3320050141_name,Hammer Z.E.U.S.
+3320050151_name,Hammer D.M.T.R.
+33200502_name,Elite Hammer
+3320050211_name,Elite Hammer H.S.T.A.
+3320050221_name,Elite Hammer P.S.I.D.
+3320050231_name,Elite Hammer A.N.M.I.
+3320050241_name,Elite Hammer Z.E.U.S.
+3320050251_name,Elite Hammer D.M.T.R.
+33200601_name,Twin Tail
+3320060111_name,Twin Tail H.S.T.A.
+3320060121_name,Twin Tail P.S.I.D.
+3320060131_name,Twin Tail A.N.M.I.
+3320060141_name,Twin Tail Z.E.U.S.
+3320060151_name,Twin Tail D.M.T.R.
+3320060911_name,11611911610563 H.S.T.A.
+3320060931_name,11611911610563 A.N.M.I.
+33200602_name,Elite Twin Tail
+3320060211_name,Elite Twin Tail H.S.T.A.
+3320060221_name,Elite Twin Tail P.S.I.D.
+3320060231_name,Elite Twin Tail A.N.M.I.
+3320060241_name,Elite Twin Tail Z.E.U.S.
+3320060251_name,Elite Twin Tail D.M.T.R.
+3320061011_name,99 11611911610563 H.S.T.A.
+3320061031_name,99 11611911610563 A.N.M.I.
+33200701_name,Orchestrion
+3320070111_name,Orchestrion H.S.T.A.
+3320070121_name,Orchestrion P.S.I.D.
+3320070131_name,Orchestrion A.N.M.I.
+3320070141_name,Orchestrion Z.E.U.S.
+3320070151_name,Orchestrion D.M.T.R.
+3320070911_name,1041091109963 H.S.T.A.
+3320070931_name,1041091109963 A.N.M.I.
+33200702_name,Elite Orchestrion
+3320070211_name,Elite Orchestrion H.S.T.A.
+3320070221_name,Elite Orchestrion P.S.I.D.
+3320070231_name,Elite Orchestrion A.N.M.I.
+3320070241_name,Elite Orchestrion Z.E.U.S.
+3320070251_name,Elite Orchestrion D.M.T.R.
+3320071011_name,99 1041091109963 H.S.T.A.
+3320071031_name,99 1041091109963 A.N.M.I.
+3320080111_name,Launcher H.S.T.A.
+3320080121_name,Launcher P.S.I.D.
+3320080131_name,Launcher A.N.M.I.
+3320080141_name,Launcher Z.E.U.S.
+3320080151_name,Launcher D.M.T.R.
+3320080211_name,Elite Launcher H.S.T.A.
+3320080221_name,Elite Launcher P.S.I.D.
+3320080231_name,Elite Launcher A.N.M.I.
+3320080241_name,Elite Launcher Z.E.U.S.
+3320080251_name,Elite Launcher D.M.T.R.
+34100101_name,Sinister
+34100201_name,Bow Tie
+34200101_name,Spook
+34200201_name,Thermite
+34200301_name,Thermite β
+34200401_name,Vulcan R
+34200501_name,Doctor
+35200101_name,Alteisen
+35200201_name,Grave Digger
+35200401_name,Modernia
+25200201_name,Material H
+1410010111_name,Cocytus H.S.T.A.
+1410010131_name,Cocytus A.N.M.I.
+1410020111_name,Mace H.S.T.A.
+1410020121_name,Mace P.S.I.D.
+1410020131_name,Mace A.N.M.I.
+1410020141_name,Mace Z.E.U.S.
+1410020151_name,Mace D.M.T.R.
+1420010111_name,Cucumber H.S.T.A.
+1421010111_name,Rebuild Cucumber H.S.T.A.
+1421010134_name,Rebuild Cucumber A.N.M.I.
+1420020111_name,Laitance H.S.T.A.
+1420020121_name,Laitance P.S.I.D.
+1420020131_name,Laitance A.N.M.I.
+1420020151_name,Laitance D.M.T.R.
+1420020244_name,Laitance Z.E.U.S.
+1420030141_name,Porter Z.E.U.S.
+1420030114_name,Porter H.S.T.A.
+1421030141_name,Rebuild Porter Z.E.U.S.
+1420040131_name,Scarf A.N.M.I.
+1420050121_name,Sunbather P.S.I.D.
+1420050244_name,Sunbather Z.E.U.S.
+1520010111_name,Harvester H.S.T.A.
+1510010121_name,Mother Whale P.S.I.D.
+1510010141_name,Mother Whale Z.E.U.S.
+1520020111_name,Chatterbox H.S.T.A.
+1520020121_name,Chatterbox P.S.I.D.
+1520020131_name,Chatterbox A.N.M.I.
+1520030111_name,Black Smith H.S.T.A.
+1520030131_name,9810811510911663 A.N.M.I.
+2410010111_name,Obelisk H.S.T.A.
+2410010121_name,Obelisk P.S.I.D.
+2410010131_name,Obelisk A.N.M.I.
+2410010141_name,Obelisk Z.E.U.S.
+2410010151_name,Obelisk D.M.T.R.
+2411010111_name,Rebuild Obelisk H.S.T.A.
+2411010121_name,Rebuild Obelisk P.S.I.D.
+2411010131_name,Rebuild Obelisk A.N.M.I.
+2411010141_name,Rebuild Obelisk Z.E.U.S.
+2411010151_name,Rebuild Obelisk D.M.T.R.
+2410020111_name,Tombstone H.S.T.A.
+2410020121_name,Tombstone P.S.I.D.
+2410020131_name,Tombstone A.N.M.I.
+2410020141_name,Tombstone Z.E.U.S.
+2410020151_name,Tombstone D.M.T.R.
+2410030111_name,Plate H.S.T.A.
+2410030234_name,Plate A.N.M.I.
+2420010141_name,Loud Mouth Z.E.U.S.
+2420020111_name,Dual Ring H.S.T.A.
+2420020141_name,Dual Ring Z.E.U.S.
+2420030111_name,Halo H.S.T.A.
+2420030224_name,Halo P.S.I.D.
+2420030137_name,Halo A.N.M.I.
+2420030147_name,Halo Z.E.U.S.
+2420030157_name,Halo D.M.T.R.
+2420040111_name,Armstrong H.S.T.A.
+2420040422_name,Armstrong P.S.I.D.
+2420040432_name,Armstrong A.N.M.I.
+2420040442_name,Armstrong Z.E.U.S.
+2420040452_name,Armstrong D.M.T.R.
+2421040111_name,Rebuild Armstrong H.S.T.A.
+2421040121_name,Rebuild Armstrong P.S.I.D.
+2421040131_name,Rebuild Armstrong A.N.M.I.
+2421040141_name,Rebuild Armstrong Z.E.U.S.
+2421040151_name,Rebuild Armstrong D.M.T.R.
+2420050121_name,Stout P.S.I.D.
+2420050141_name,Stout Z.E.U.S.
+2421050111_name,Rebuild Stout H.S.T.A.
+2421050121_name,Rebuild Stout P.S.I.D.
+2421050131_name,Rebuild Stout A.N.M.I.
+2421050141_name,Rebuild Stout Z.E.U.S.
+2421050151_name,Rebuild Stout D.M.T.R.
+2420060111_name,Spread H.S.T.A.
+2420060121_name,Spread P.S.I.D.
+2420060131_name,Spread A.N.M.I.
+2420060141_name,Spread Z.E.U.S.
+2420060151_name,Spread D.M.T.R.
+2510010141_name,Storm Bringer Z.E.U.S.
+2510010135_name,Storm Bringer A.N.M.I.
+2520010121_name,Land Eater P.S.I.D.
+2520020141_name,Material H Z.E.U.S.
+2520120141_name,Material H D.M.T.R.
+2520220115_name,Material H H.S.T.A.
+3410010131_name,Sinister A.N.M.I.
+3410010144_name,Sinister Z.E.U.S.
+3410020131_name,Bow Tie A.N.M.I.
+3410030141_name,Fingers Z.E.U.S.
+3410030154_name,Fingers D.M.T.R.
+3411030111_name,Rebuild Fingers H.S.T.A.
+3411030121_name,Rebuild Fingers P.S.I.D.
+3411030131_name,Rebuild Fingers A.N.M.I.
+3411030141_name,Rebuild Fingers Z.E.U.S.
+3411030151_name,Rebuild Fingers D.M.T.R.
+3420010151_name,Spook D.M.T.R.
+3421010111_name,Rebuild Spook H.S.T.A.
+3421010151_name,Rebuild Spook D.M.T.R
+3420020111_name,Thermite H.S.T.A.
+3420020224_name,Thermite P.S.I.D.
+3420030121_name,Thermite B P.S.I.D.
+3420030151_name,Thermite β D.M.T.R.
+3420040121_name,Vulcan R P.S.I.D.
+3420040134_name,Vulcan R A.N.M.I.
+3420041031_name,1189911463 A.N.M.I.
+3421040117_name,Rebuild Vulcan R H.S.T.A.
+3421040127_name,Rebuild Vulcan R P.S.I.D.
+3421040137_name,Rebuild Vulcan R A.N.M.I.
+3421040147_name,Rebuild Vulcan R Z.E.U.S.
+3421040151_name,Rebuild Vulcan R D.M.T.R.
+3420050141_name,Doctor Z.E.U.S.
+3420050224_name,Doctor P.S.I.D.
+3420060141_name,Heavy Metal Z.E.U.S.
+3420060151_name,Heavy Metal D.M.T.R.
+3420070121_name,Replica Red Shoes P.S.I.D.
+3420070154_name,Replica Red Shoes D.M.T.R.
+3520010111_name,Alteisen H.S.T.A.
+3520010121_name,Alteisen P.S.I.D.
+3520010131_name,Alteisen A.N.M.I.
+3520020141_name,Grave Digger Z.E.U.S.
+3520020151_name,Grave Digger D.M.T.R.
+3520040151_name,Modernia D.M.T.R.
+3520040131_name,Modernia A.N.M.I.
+3520020111_name,Nihilister H.S.T.A.
+2510030111_name,Gatekeeper H.S.T.A.
+2510030121_name,Gatekeeper P.S.I.D.
+2510030131_name,Gatekeeper A.N.M.I.
+2510030141_name,Gatekeeper Z.E.U.S.
+2510030151_name,Gatekeeper D.M.T.R.
+1520040121_name,Kraken I
+1520040141_name,Kraken II
+1520040151_name,Kraken III
+1520040121_name_1,Kraken P.S.I.D.
+1520040141_name_1,Kraken Z.E.U.S.
+1520040151_name_1,Kraken D.M.T.R.
+1520060141_name,Ultra Z.E.U.S.
+3420020137_name,Thermite A.N.M.I.
+3420010157_name,Spook A.N.M.I.
+1520040124_name,Kraken P.S.I.D.
+1420040254_name,Scarf D.M.T.R.
+4420010111_name,Unknown Crystal H.S.T.A.
+4420010121_name,Unknown Crystal P.S.I.D.
+4420010131_name,Unknown Crystal A.N.M.I.
+4420010141_name,Unknown Crystal Z.E.U.S.
+4420010151_name,Unknown Crystal D.M.T.R.
+4420020121_name,Crystal Armor P.S.I.D.
+4520010121_name,Crystal Chamber P.S.I.D.
+2420070111_name,RunWay H.S.T.A.
+2420070121_name,RunWay P.S.I.D.
+2420070131_name,RunWay A.N.M.I.
+2420070141_name,RunWay Z.E.U.S.
+2420070151_name,RunWay D.M.T.R.
+2210050111_name,Bird H.S.T.A.
+2210050121_name,Bird P.S.I.D.
+2210050131_name,Bird A.N.M.I.
+2210050141_name,Bird Z.E.U.S.
+2210050151_name,Bird D.M.T.R.
+2220070111_name,Ant H.S.T.A.
+2220070121_name,Ant P.S.I.D.
+2220070131_name,Ant A.N.M.I.
+2220070141_name,Ant Z.E.U.S.
+2220070151_name,Ant D.M.T.R.
+2520030141_name,Indivilia Z.E.U.S.
+1520340151_name,Golden Kraken D.M.T.R.
+4510010121_name,Mirror Container P.S.I.D.
+2520130133_name,Indivilia A.N.M.I.
+2510040131_name,Massive Object A.N.M.I.
+2510040151_name,Massive Object Q D.M.T.R.
+2520110115_name,Land Eater H.S.T.A.
+3510030125_name,Behemoth P.S.I.D.
+3520220121_name,White Ice Dragon P.S.I.D.
+1520080111_name,Black Snake H.S.T.A.
+1410030111_name,Scarab H.S.T.A.
+1510090131_name,Gluttony A.N.M.I.
+1420060131_name,Leviathan A.N.M.I.
+4520020141_name,Providence Z.E.U.S.
+1520540111_name,Hologram Kraken H.S.T.A.
+2510050131_name,Ziz A.N.M.I.
+2220080111_name,Snowball H.S.T.A.
+2220080121_name,Snowball P.S.I.D.
+2220080131_name,Snowball A.N.M.I.
+2220080141_name,Snowball Z.E.U.S.
+2220080151_name,Snowball D.M.T.R.
+1210060111_name,Lotus H.S.T.A.
+1210060121_name,Lotus P.S.I.D.
+1210060131_name,Lotus A.N.M.I.
+1210060141_name,Lotus Z.E.U.S.
+1210060151_name,Lotus D.M.T.R.
+2310070111_name,Wheel H.S.T.A.
+2310070121_name,Wheel P.S.I.D.
+2310070131_name,Wheel A.N.M.I.
+2310070141_name,Wheel Z.E.U.S.
+2310070151_name,Wheel D.M.T.R.
+2310070211_name,Elite Wheel H.S.T.A.
+2310070221_name,Elite Wheel P.S.I.D.
+2310070231_name,Elite Wheel A.N.M.I.
+2310070241_name,Elite Wheel Z.E.U.S.
+2310070251_name,Elite Wheel D.M.T.R.
+11200101_appearance_name,Shank
+11100101_appearance_name,Skimmer
+12100101_appearance_name,Oculus
+12100201_appearance_name,Lure
+12100301_appearance_name,Bullwhip
+12100401_appearance_name,Lentigo
+12100501_appearance_name,Volleyball
+12200101_appearance_name,Pelican
+12200201_appearance_name,Leech
+12200301_appearance_name,Razer Fin
+12200401_appearance_name,Star Fish
+12200501_appearance_name,Remnant
+13100101_appearance_name,Tail Bone
+13100102_appearance_name,Elite Tail Bone
+13100201_appearance_name,Cutter
+13100202_appearance_name,Elite Cutter
+13100301_appearance_name,Perennial
+13100302_appearance_name,Elite Perennial
+13100401_appearance_name,Petal
+13100402_appearance_name,Elite Petal
+13200101_appearance_name,Veil
+13200102_appearance_name,Elite Veil
+13200201_appearance_name,Riddler
+13200202_appearance_name,Elite Riddler
+13200301_appearance_name,Capra
+13200302_appearance_name,Elite Capra
+13200401_appearance_name,Mantis
+13200402_appearance_name,Elite Mantis
+13200601_appearance_name,Bronchus
+13200602_appearance_name,Elite Bronchus
+14100101_appearance_name,Cocytus
+14100201_appearance_name,Mace
+14200101_appearance_name,Cucumber
+14200201_appearance_name,Laitance
+14200301_appearance_name,Porter
+14200401_appearance_name,Scarf
+14200501_appearance_name,Sunbather
+15200101_appearance_name,Harvester
+15200201_appearance_name,Chatterbox
+15200301_appearance_name,Black Smith
+21100101_appearance_name,Daikon
+21200101_appearance_name,Striker
+22100101_appearance_name,Clam
+22100201_appearance_name,Squid
+22100301_appearance_name,Sphere
+22200101_appearance_name,Mono Eye
+22200201_appearance_name,Blocker
+22200301_appearance_name,Cube
+22200401_appearance_name,Scimitar
+22200501_appearance_name,Waller
+23100101_appearance_name,Goblet
+23100102_appearance_name,Elite Goblet
+23100201_appearance_name,Tripod
+23100202_appearance_name,Elite Tripod
+23100301_appearance_name,Tears
+23100302_appearance_name,Elite Tears
+23200101_appearance_name,Peacock
+23200102_appearance_name,Elite Peacock
+23200201_appearance_name,Bulwark
+23200202_appearance_name,Elite Bulwark
+23200301_appearance_name,Sentry
+23200302_appearance_name,Elite Sentry
+23200401_appearance_name,Elite Tiara
+23200402_appearance_name,Elite Tiara
+23200501_appearance_name,Screamer
+23200502_appearance_name,Elite Screamer
+23200601_appearance_name,Elite Barbell
+23200602_appearance_name,Elite Barbell
+23200701_appearance_name,Needle
+23200702_appearance_name,Elite Needle
+24100101_appearance_name,Obelisk
+24100201_appearance_name,Tombstone
+24200101_appearance_name,Loud Mouth
+24200201_appearance_name,Dual Ring
+24200301_appearance_name,Halo
+24200401_appearance_name,Armstrong
+24200501_appearance_name,Stout
+25100101_appearance_name,Storm Bringer
+25200101_appearance_name,Land Eater
+31200101_appearance_name,Abettor
+31100101_appearance_name,Salver
+32100101_appearance_name,Fez
+32100201_appearance_name,Frisbee
+32100301_appearance_name,Disc
+32100401_appearance_name,Glitter
+32200101_appearance_name,Runner
+32200201_appearance_name,Sparrow
+32200301_appearance_name,Beetle
+32200401_appearance_name,Fez W
+32200501_appearance_name,Crawler
+32200601_appearance_name,Vulcan
+32200701_appearance_name,Cricket
+33100101_appearance_name,Penetrator
+32200901_appearance_name,Peekaboo
+33100102_appearance_name,Elite Penetrator
+33100201_appearance_name,Arkanoid
+33100202_appearance_name,Elite Arkanoid
+33100301_appearance_name,Watcher
+33100302_appearance_name,Elite Watcher
+33200101_appearance_name,Hexagon
+33200102_appearance_name,Elite Hexagon
+33200201_appearance_name,Driver
+33200202_appearance_name,Elite Driver
+33200301_appearance_name,Knight
+33200302_appearance_name,Elite Knight
+33200401_appearance_name,Ponytail
+33200402_appearance_name,Elite Ponytail
+33200501_appearance_name,Hammer
+33200502_appearance_name,Elite Hammer
+33200601_appearance_name,Twin Tail
+33200602_appearance_name,Elite Twin Tail
+33200701_appearance_name,Orchestrion
+33200702_appearance_name,Elite Orchestrion
+34100101_appearance_name,Sinister
+34100201_appearance_name,Bow Tie
+34200101_appearance_name,Spook
+34200201_appearance_name,Thermite
+34200301_appearance_name,Thermite β
+34200401_appearance_name,Vulcan R
+34200501_appearance_name,Doctor
+35200101_appearance_name,Alteisen MK.VI
+35200201_appearance_name,Grave Digger
+35200401_appearance_name,Modernia
+25200201_appearance_name,Material H
+1520080111_appearance_name,Black Snake
+1510090131_appearance_name,Gluttony
+4520020141_appearance_name,Providence
+1520540111_appearance_name,Hologram Kraken
+2510050131_appearance_name,Ziz
+1120010111_appearance_name,Shank
+1120010121_appearance_name,Shank
+1120010131_appearance_name,Shank
+1120010141_appearance_name,Shank
+1120010151_appearance_name,Shank
+1110010111_appearance_name,Skimmer
+1110010121_appearance_name,Skimmer
+1110010131_appearance_name,Skimmer
+1110010141_appearance_name,Skimmer
+1110010151_appearance_name,Skimmer
+1210010111_appearance_name,Oculus
+1210010121_appearance_name,Oculus
+1210010131_appearance_name,Oculus
+1210010141_appearance_name,Oculus
+1210010151_appearance_name,Oculus
+1210010911_appearance_name,1011219863
+1210020111_appearance_name,Lure
+1210020121_appearance_name,Lure
+1210020131_appearance_name,Lure
+1210020141_appearance_name,Lure
+1210020151_appearance_name,Lure
+1210030111_appearance_name,Bullwhip
+1210030121_appearance_name,Bullwhip
+1210030131_appearance_name,Bullwhip
+1210030141_appearance_name,Bullwhip
+1210030151_appearance_name,Bullwhip
+1210040111_appearance_name,Lentigo
+1210040121_appearance_name,Lentigo
+1210040131_appearance_name,Lentigo
+1210040141_appearance_name,Lentigo
+1210040151_appearance_name,Lentigo
+1210050111_appearance_name,Volleyball
+1210050121_appearance_name,Volleyball
+1210050131_appearance_name,Volleyball
+1210050141_appearance_name,Volleyball
+1210050151_appearance_name,Volleyball
+1220010111_appearance_name,Pelican
+1220010121_appearance_name,Pelican
+1220010131_appearance_name,Pelican
+1220010141_appearance_name,Pelican
+1220010151_appearance_name,Pelican
+1220020111_appearance_name,Leech
+1220020121_appearance_name,Leech
+1220020131_appearance_name,Leech
+1220020141_appearance_name,Leech
+1220020151_appearance_name,Leech
+1220030111_appearance_name,Razer Fin
+1220030121_appearance_name,Razer Fin
+1220030131_appearance_name,Razer Fin
+1220030141_appearance_name,Razer Fin
+1220030151_appearance_name,Razer Fin
+1220040111_appearance_name,Star Fish
+1220040121_appearance_name,Star Fish
+1220040131_appearance_name,Star Fish
+1220040141_appearance_name,Star Fish
+1220040151_appearance_name,Star Fish
+1220050111_appearance_name,Remnant
+1220050121_appearance_name,Remnant
+1220050131_appearance_name,Remnant
+1220050141_appearance_name,Remnant
+1220050151_appearance_name,Remnant
+1220060111_appearance_name,Thief
+1220060121_appearance_name,Thief
+1220060131_appearance_name,Thief
+1220060141_appearance_name,Thief
+1220060151_appearance_name,Thief
+1310010111_appearance_name,Tail Bone
+1310010121_appearance_name,Tail Bone
+1310010131_appearance_name,Tail Bone
+1310010141_appearance_name,Tail Bone
+1310010151_appearance_name,Tail Bone
+1310010911_appearance_name,1161059863
+1310010211_appearance_name,Elite Tail Bone
+1310010221_appearance_name,Elite Tail Bone
+1310010231_appearance_name,Elite Tail Bone
+1310010241_appearance_name,Elite Tail Bone
+1310010251_appearance_name,Elite Tail Bone
+1310011011_appearance_name,99 1161059863
+1310020111_appearance_name,Cutter
+1310020121_appearance_name,Cutter
+1310020131_appearance_name,Cutter
+1310020141_appearance_name,Cutter
+1310020151_appearance_name,Cutter
+1310020211_appearance_name,Elite Cutter
+1310020221_appearance_name,Elite Cutter
+1310020231_appearance_name,Elite Cutter
+1310020241_appearance_name,Elite Cutter
+1310020251_appearance_name,Elite Cutter
+1310030111_appearance_name,Perennial
+1310030121_appearance_name,Perennial
+1310030131_appearance_name,Perennial
+1310030141_appearance_name,Perennial
+1310030151_appearance_name,Perennial
+1310030211_appearance_name,Elite Perennial
+1310030221_appearance_name,Elite Perennial
+1310030231_appearance_name,Elite Perennial
+1310030241_appearance_name,Elite Perennial
+1310030251_appearance_name,Elite Perennial
+1310040111_appearance_name,Petal
+1310040121_appearance_name,Petal
+1310040131_appearance_name,Petal
+1310040141_appearance_name,Petal
+1310040151_appearance_name,Petal
+1310040211_appearance_name,Elite Petal
+1310040221_appearance_name,Elite Petal
+1310040231_appearance_name,Elite Petal
+1310040241_appearance_name,Elite Petal
+1310040251_appearance_name,Elite Petal
+1320010111_appearance_name,Veil
+1320010121_appearance_name,Veil
+1320010131_appearance_name,Veil
+1320010141_appearance_name,Veil
+1320010151_appearance_name,Veil
+1320010211_appearance_name,Elite Veil
+1320010221_appearance_name,Elite Veil
+1320010231_appearance_name,Elite Veil
+1320010241_appearance_name,Elite Veil
+1320010251_appearance_name,Elite Veil
+1320020111_appearance_name,Riddler
+1320020121_appearance_name,Riddler
+1320020131_appearance_name,Riddler
+1320020141_appearance_name,Riddler
+1320020151_appearance_name,Riddler
+1320020211_appearance_name,Elite Riddler
+1320020221_appearance_name,Elite Riddler
+1320020231_appearance_name,Elite Riddler
+1320020241_appearance_name,Elite Riddler
+1320020251_appearance_name,Elite Riddler
+1320030111_appearance_name,Capra
+1320030121_appearance_name,Capra
+1320030131_appearance_name,Capra
+1320030141_appearance_name,Capra
+1320030151_appearance_name,Capra
+1320030211_appearance_name,Elite Capra
+1320030221_appearance_name,Elite Capra
+1320030231_appearance_name,Elite Capra
+1320030241_appearance_name,Elite Capra
+1320030251_appearance_name,Elite Capra
+1320040111_appearance_name,Mantis
+1320040121_appearance_name,Mantis
+1320040131_appearance_name,Mantis
+1320040141_appearance_name,Mantis
+1320040151_appearance_name,Mantis
+1320040211_appearance_name,Elite Mantis
+1320040221_appearance_name,Elite Mantis
+1320040231_appearance_name,Elite Mantis
+1320040241_appearance_name,Elite Mantis
+1320040251_appearance_name,Elite Mantis
+1320060111_appearance_name,Bronchus
+1320060121_appearance_name,Bronchus
+1320060131_appearance_name,Bronchus
+1320060141_appearance_name,Bronchus
+1320060151_appearance_name,Bronchus
+1320060211_appearance_name,Elite Bronchus
+1320060221_appearance_name,Elite Bronchus
+1320060231_appearance_name,Elite Bronchus
+1320060241_appearance_name,Elite Bronchus
+1320060251_appearance_name,Elite Bronchus
+2110010111_appearance_name,Daikon
+2110010121_appearance_name,Daikon
+2110010131_appearance_name,Daikon
+2110010141_appearance_name,Daikon
+2110010151_appearance_name,Daikon
+2120010111_appearance_name,Striker
+2120010121_appearance_name,Striker
+2120010131_appearance_name,Striker
+2120010141_appearance_name,Striker
+2120010151_appearance_name,Striker
+2210010111_appearance_name,Clam
+2210010121_appearance_name,Clam
+2210010131_appearance_name,Clam
+2210010141_appearance_name,Clam
+2210010151_appearance_name,Clam
+2210020111_appearance_name,Squid
+2210020121_appearance_name,Squid
+2210020131_appearance_name,Squid
+2210020141_appearance_name,Squid
+2210020151_appearance_name,Squid
+2210030111_appearance_name,Sphere
+2210030121_appearance_name,Sphere
+2210030131_appearance_name,Sphere
+2210030141_appearance_name,Sphere
+2210030151_appearance_name,Sphere
+2210040111_appearance_name,Dagger
+2210040121_appearance_name,Dagger
+2210040131_appearance_name,Dagger
+2210040141_appearance_name,Dagger
+2210040151_appearance_name,Dagger
+2220010111_appearance_name,Mono Eye
+2220010121_appearance_name,Mono Eye
+2220010131_appearance_name,Mono Eye
+2220010141_appearance_name,Mono Eye
+2220010151_appearance_name,Mono Eye
+2220020111_appearance_name,Blocker
+2220020121_appearance_name,Blocker
+2220020131_appearance_name,Blocker
+2220020141_appearance_name,Blocker
+2220020151_appearance_name,Blocker
+2220030111_appearance_name,Cube
+2220030121_appearance_name,Cube
+2220030131_appearance_name,Cube
+2220030141_appearance_name,Cube
+2220030151_appearance_name,Cube
+2220030911_appearance_name,999863
+2220040111_appearance_name,Scimitar
+2220040121_appearance_name,Scimitar
+2220040131_appearance_name,Scimitar
+2220040141_appearance_name,Scimitar
+2220040151_appearance_name,Scimitar
+2220050111_appearance_name,Waller
+2220050121_appearance_name,Waller
+2220050131_appearance_name,Waller
+2220050141_appearance_name,Waller
+2220050151_appearance_name,Waller
+2220060111_appearance_name,Battery
+2220060121_appearance_name,Battery
+2220060131_appearance_name,Battery
+2220060141_appearance_name,Battery
+2220060151_appearance_name,Battery
+2310010111_appearance_name,Goblet
+2310010121_appearance_name,Goblet
+2310010131_appearance_name,Goblet
+2310010141_appearance_name,Goblet
+2310010151_appearance_name,Goblet
+2310010211_appearance_name,Elite Goblet
+2310010221_appearance_name,Elite Goblet
+2310010231_appearance_name,Elite Goblet
+2310010241_appearance_name,Elite Goblet
+2310010251_appearance_name,Elite Goblet
+2310020111_appearance_name,Tripod
+2310020121_appearance_name,Tripod
+2310020131_appearance_name,Tripod
+2310020141_appearance_name,Tripod
+2310020151_appearance_name,Tripod
+2310020211_appearance_name,Elite Tripod
+2310020221_appearance_name,Elite Tripod
+2310020231_appearance_name,Elite Tripod
+2310020241_appearance_name,Elite Tripod
+2310020251_appearance_name,Elite Tripod
+2310030111_appearance_name,Tears
+2310030121_appearance_name,Tears
+2310030131_appearance_name,Tears
+2310030141_appearance_name,Tears
+2310030151_appearance_name,Tears
+2310030211_appearance_name,Elite Tears
+2310030221_appearance_name,Elite Tears
+2310030231_appearance_name,Elite Tears
+2310030241_appearance_name,Elite Tears
+2310030251_appearance_name,Elite Tears
+2310040111_appearance_name,Jellyfish
+2310040121_appearance_name,Jellyfish
+2310040131_appearance_name,Jellyfish
+2310040141_appearance_name,Jellyfish
+2310040151_appearance_name,Jellyfish
+2310040211_appearance_name,Elite Jellyfish
+2310040221_appearance_name,Elite Jellyfish
+2310040231_appearance_name,Elite Jellyfish
+2310040241_appearance_name,Elite Jellyfish
+2310040251_appearance_name,Elite Jellyfish
+2310050111_appearance_name,Glasses
+2310050121_appearance_name,Glasses
+2310050131_appearance_name,Glasses
+2310050141_appearance_name,Glasses
+2310050151_appearance_name,Glasses
+2310050211_appearance_name,Elite Glasses
+2310050221_appearance_name,Elite Glasses
+2310050231_appearance_name,Elite Glasses
+2310050241_appearance_name,Elite Glasses
+2310050251_appearance_name,Elite Glasses
+2310060111_appearance_name,Shield
+2310060121_appearance_name,Shield
+2310060131_appearance_name,Shield
+2310060141_appearance_name,Shield
+2310060151_appearance_name,Shield
+2310060211_appearance_name,Elite Shield
+2310060221_appearance_name,Elite Shield
+2310060231_appearance_name,Elite Shield
+2310060241_appearance_name,Elite Shield
+2310060251_appearance_name,Elite Shield
+2320010111_appearance_name,Peacock
+2320010121_appearance_name,Peacock
+2320010131_appearance_name,Peacock
+2320010141_appearance_name,Peacock
+2320010151_appearance_name,Peacock
+2320010211_appearance_name,Elite Peacock
+2320010221_appearance_name,Elite Peacock
+2320010231_appearance_name,Elite Peacock
+2320010241_appearance_name,Elite Peacock
+2320010251_appearance_name,Elite Peacock
+2320020111_appearance_name,Bulwark
+2320020121_appearance_name,Bulwark
+2320020131_appearance_name,Bulwark
+2320020141_appearance_name,Bulwark
+2320020151_appearance_name,Bulwark
+2320020211_appearance_name,Elite Bulwark
+2320020221_appearance_name,Elite Bulwark
+2320020231_appearance_name,Elite Bulwark
+2320020241_appearance_name,Elite Bulwark
+2320020251_appearance_name,Elite Bulwark
+2320030111_appearance_name,Sentry
+2320030121_appearance_name,Sentry
+2320030131_appearance_name,Sentry
+2320030141_appearance_name,Sentry
+2320030151_appearance_name,Sentry
+2320030211_appearance_name,Elite Sentry
+2320030221_appearance_name,Elite Sentry
+2320030231_appearance_name,Elite Sentry
+2320030241_appearance_name,Elite Sentry
+2320030251_appearance_name,Elite Sentry
+2320040111_appearance_name,Tiara
+2320040121_appearance_name,Tiara
+2320040131_appearance_name,Tiara
+2320040141_appearance_name,Tiara
+2320040151_appearance_name,Tiara
+2320040211_appearance_name,Elite Tiara
+2320040221_appearance_name,Elite Tiara
+2320040231_appearance_name,Elite Tiara
+2320040241_appearance_name,Elite Tiara
+2320040251_appearance_name,Elite Tiara
+2320050111_appearance_name,Screamer
+2320050121_appearance_name,Screamer
+2320050131_appearance_name,Screamer
+2320050141_appearance_name,Screamer
+2320050151_appearance_name,Screamer
+2320050211_appearance_name,Elite Screamer
+2320050221_appearance_name,Elite Screamer
+2320050231_appearance_name,Elite Screamer
+2320050241_appearance_name,Elite Screamer
+2320050251_appearance_name,Elite Screamer
+2320060111_appearance_name,Barbell
+2320060121_appearance_name,Barbell
+2320060131_appearance_name,Barbell
+2320060141_appearance_name,Barbell
+2320060151_appearance_name,Barbell
+2320060211_appearance_name,Elite Barbell
+2320060221_appearance_name,Elite Barbell
+2320060231_appearance_name,Elite Barbell
+2320060241_appearance_name,Elite Barbell
+2320060251_appearance_name,Elite Barbell
+2320070111_appearance_name,Needle
+2320070121_appearance_name,Needle
+2320070131_appearance_name,Needle
+2320070141_appearance_name,Needle
+2320070151_appearance_name,Needle
+2320070211_appearance_name,Elite Needle
+2320070221_appearance_name,Elite Needle
+2320070231_appearance_name,Elite Needle
+2320070241_appearance_name,Elite Needle
+2320070251_appearance_name,Elite Needle
+3120010111_appearance_name,Abettor
+3120010121_appearance_name,Abettor
+3120010131_appearance_name,Abettor
+3120010141_appearance_name,Abettor
+3120010151_appearance_name,Abettor
+3110010111_appearance_name,Salver
+3110010121_appearance_name,Salver
+3110010131_appearance_name,Salver
+3110010141_appearance_name,Salver
+3110010151_appearance_name,Salver
+3210010111_appearance_name,Hard Hat
+3210010121_appearance_name,Hard Hat
+3210010131_appearance_name,Hard Hat
+3210010141_appearance_name,Hard Hat
+3210010151_appearance_name,Hard Hat
+3210010911_appearance_name,9911810063
+3210020111_appearance_name,Frisbee
+3210020121_appearance_name,Frisbee
+3210020131_appearance_name,Frisbee
+3210020141_appearance_name,Frisbee
+3210020151_appearance_name,Frisbee
+3210020911_appearance_name,1021141159863
+3210030111_appearance_name,Disc
+3210030121_appearance_name,Disc
+3210030131_appearance_name,Disc
+3210030141_appearance_name,Disc
+3210030151_appearance_name,Disc
+3210040111_appearance_name,Glitter
+3210040121_appearance_name,Glitter
+3210040131_appearance_name,Glitter
+3210040141_appearance_name,Glitter
+3210040151_appearance_name,Glitter
+3210050111_appearance_name,Capsule
+3210050121_appearance_name,Capsule
+3210050131_appearance_name,Capsule
+3210050141_appearance_name,Capsule
+3210050151_appearance_name,Capsule
+3220010111_appearance_name,Runner
+3220010121_appearance_name,Runner
+3220010131_appearance_name,Runner
+3220010141_appearance_name,Runner
+3220010151_appearance_name,Runner
+3220020111_appearance_name,Sparrow
+3220020121_appearance_name,Sparrow
+3220020131_appearance_name,Sparrow
+3220020141_appearance_name,Sparrow
+3220020151_appearance_name,Sparrow
+3220030111_appearance_name,Beetle
+3220030121_appearance_name,Beetle
+3220030131_appearance_name,Beetle
+3220030141_appearance_name,Beetle
+3220030151_appearance_name,Beetle
+3220030911_appearance_name,9811663
+3220040111_appearance_name,Fez
+3220040121_appearance_name,Fez
+3220040131_appearance_name,Fez
+3220040141_appearance_name,Fez
+3220040151_appearance_name,Fez
+3220050111_appearance_name,Crawler
+3220050121_appearance_name,Crawler
+3220050131_appearance_name,Crawler
+3220050141_appearance_name,Crawler
+3220050151_appearance_name,Crawler
+3220060111_appearance_name,Vulcan
+3220060121_appearance_name,Vulcan
+3220060131_appearance_name,Vulcan
+3220060141_appearance_name,Vulcan
+3220060151_appearance_name,Vulcan
+3220060911_appearance_name,1189963
+3220070111_appearance_name,Cricket
+3220070121_appearance_name,Cricket
+3220070131_appearance_name,Cricket
+3220070141_appearance_name,Cricket
+3220070151_appearance_name,Cricket
+3220080111_appearance_name,Drifter
+3220080121_appearance_name,Drifter
+3220080131_appearance_name,Drifter
+3220080141_appearance_name,Drifter
+3220080151_appearance_name,Drifter
+3220090111_appearance_name,Peekaboo
+3220090121_appearance_name,Peekaboo
+3220090131_appearance_name,Peekaboo
+3220090141_appearance_name,Peekaboo
+3220090151_appearance_name,Peekaboo
+3310010111_appearance_name,Penetrator
+3310010121_appearance_name,Penetrator
+3310010131_appearance_name,Penetrator
+3310010141_appearance_name,Penetrator
+3310010151_appearance_name,Penetrator
+3310010211_appearance_name,Elite Penetrator
+3310010221_appearance_name,Elite Penetrator
+3310010231_appearance_name,Elite Penetrator
+3310010241_appearance_name,Elite Penetrator
+3310010251_appearance_name,Elite Penetrator
+3310020111_appearance_name,Arkanoid
+3310020121_appearance_name,Arkanoid
+3310020131_appearance_name,Arkanoid
+3310020141_appearance_name,Arkanoid
+3310020151_appearance_name,Arkanoid
+3310020211_appearance_name,Elite Arkanoid
+3310020221_appearance_name,Elite Arkanoid
+3310020231_appearance_name,Elite Arkanoid
+3310020241_appearance_name,Elite Arkanoid
+3310020251_appearance_name,Elite Arkanoid
+3310030111_appearance_name,Watcher
+3310030121_appearance_name,Watcher
+3310030131_appearance_name,Watcher
+3310030141_appearance_name,Watcher
+3310030151_appearance_name,Watcher
+3310030911_appearance_name,1199963
+3310030211_appearance_name,Elite Watcher
+3310030221_appearance_name,Elite Watcher
+3310030231_appearance_name,Elite Watcher
+3310030241_appearance_name,Elite Watcher
+3310030251_appearance_name,Elite Watcher
+3310031011_appearance_name,99 1199963
+3310040111_appearance_name,Satellite
+3310040121_appearance_name,Satellite
+3310040131_appearance_name,Satellite
+3310040141_appearance_name,Satellite
+3310040151_appearance_name,Satellite
+3310040911_appearance_name,11511611410511663
+3310040211_appearance_name,Elite Satellite
+3310040221_appearance_name,Elite Satellite
+3310040231_appearance_name,Elite Satellite
+3310040241_appearance_name,Elite Satellite
+3310040251_appearance_name,Elite Satellite
+3310041011_appearance_name,99 11511611410511663
+3310050111_appearance_name,Joint
+3310050121_appearance_name,Joint
+3310050131_appearance_name,Joint
+3310050141_appearance_name,Joint
+3310050151_appearance_name,Joint
+3310050211_appearance_name,Joint
+3310050221_appearance_name,Joint
+3310050231_appearance_name,Joint
+3310050241_appearance_name,Joint
+3310050251_appearance_name,Joint
+3320010111_appearance_name,Hexagon
+3320010121_appearance_name,Hexagon
+3320010131_appearance_name,Hexagon
+3320010141_appearance_name,Hexagon
+3320010151_appearance_name,Hexagon
+3320010211_appearance_name,Elite Hexagon
+3320010221_appearance_name,Elite Hexagon
+3320010231_appearance_name,Elite Hexagon
+3320010241_appearance_name,Elite Hexagon
+3320010251_appearance_name,Elite Hexagon
+3320020111_appearance_name,Driver
+3320020121_appearance_name,Driver
+3320020131_appearance_name,Driver
+3320020141_appearance_name,Driver
+3320020151_appearance_name,Driver
+3320020211_appearance_name,Elite Driver
+3320020221_appearance_name,Elite Driver
+3320020231_appearance_name,Elite Driver
+3320020241_appearance_name,Elite Driver
+3320020251_appearance_name,Elite Driver
+3320030111_appearance_name,Knight
+3320030121_appearance_name,Knight
+3320030131_appearance_name,Knight
+3320030141_appearance_name,Knight
+3320030151_appearance_name,Knight
+3320030911_appearance_name,10710511663
+3320030211_appearance_name,Elite Knight
+3320030221_appearance_name,Elite Knight
+3320030231_appearance_name,Elite Knight
+3320030241_appearance_name,Elite Knight
+3320030251_appearance_name,Elite Knight
+3320031011_appearance_name,99 10710511663
+3320040111_appearance_name,Ponytail
+3320040121_appearance_name,Ponytail
+3320040131_appearance_name,Ponytail
+3320040141_appearance_name,Ponytail
+3320040151_appearance_name,Ponytail
+3320040211_appearance_name,Elite Ponytail
+3320040221_appearance_name,Elite Ponytail
+3320040231_appearance_name,Elite Ponytail
+3320040241_appearance_name,Elite Ponytail
+3320040251_appearance_name,Elite Ponytail
+3320050111_appearance_name,Hammer
+3320050121_appearance_name,Hammer
+3320050131_appearance_name,Hammer
+3320050141_appearance_name,Hammer
+3320050151_appearance_name,Hammer
+3320050211_appearance_name,Elite Hammer
+3320050221_appearance_name,Elite Hammer
+3320050231_appearance_name,Elite Hammer
+3320050241_appearance_name,Elite Hammer
+3320050251_appearance_name,Elite Hammer
+3320060111_appearance_name,Twin Tail
+3320060121_appearance_name,Twin Tail
+3320060131_appearance_name,Twin Tail
+3320060141_appearance_name,Twin Tail
+3320060151_appearance_name,Twin Tail
+3320060911_appearance_name,11611911610563
+3320060211_appearance_name,Elite Twin Tail
+3320060221_appearance_name,Elite Twin Tail
+3320060231_appearance_name,Elite Twin Tail
+3320060241_appearance_name,Elite Twin Tail
+3320060251_appearance_name,Elite Twin Tail
+3320061011_appearance_name,99 11611911610563
+3320070111_appearance_name,Orchestrion
+3320070121_appearance_name,Orchestrion
+3320070131_appearance_name,Orchestrion
+3320070141_appearance_name,Orchestrion
+3320070151_appearance_name,Orchestrion
+3320070911_appearance_name,1041091109963
+3320070211_appearance_name,Elite Orchestrion
+3320070221_appearance_name,Elite Orchestrion
+3320070231_appearance_name,Elite Orchestrion
+3320070241_appearance_name,Elite Orchestrion
+3320070251_appearance_name,Elite Orchestrion
+3320071011_appearance_name,99 1041091109963
+3320080111_appearance_name,Launcher
+3320080121_appearance_name,Launcher
+3320080131_appearance_name,Launcher
+3320080141_appearance_name,Launcher
+3320080151_appearance_name,Launcher
+3320080211_appearance_name,Elite Launcher
+3320080221_appearance_name,Elite Launcher
+3320080231_appearance_name,Elite Launcher
+3320080241_appearance_name,Elite Launcher
+3320080251_appearance_name,Elite Launcher
+1410010131_appearance_name,Cocytus
+1410020121_appearance_name,Mace
+1420010111_appearance_name,Cucumber
+1421010111_appearance_name,Rebuild Cucumber
+1420020151_appearance_name,Laitance
+1420030141_appearance_name,Porter
+1421030141_appearance_name,Rebuild Porter
+1420040131_appearance_name,Scarf
+1420050121_appearance_name,Sunbather
+1520010111_appearance_name,Harvester
+1510010121_appearance_name,MotherWhale
+1520020111_appearance_name,Chatterbox
+1520020121_appearance_name,Chatterbox
+1520020131_appearance_name,Chatterbox
+1520030111_appearance_name,Black Smith
+1520030131_appearance_name,9810811510911663
+2410010131_appearance_name,Obelisk
+2411010131_appearance_name,Rebuild Obelisk
+2410020151_appearance_name,Tombstone
+2410030111_appearance_name,Plate
+2410030234_appearance_name,Plate
+2420010141_appearance_name,Loud Mouth
+2420020141_appearance_name,Dual Ring
+2420030111_appearance_name,Halo
+2420040111_appearance_name,Armstrong
+2421040111_appearance_name,Rebuild Armstrong
+2420050121_appearance_name,Stout
+2421050151_appearance_name,Rebuild Stout
+2420060121_appearance_name,Spread
+2510010141_appearance_name,Storm Bringer
+2520010121_appearance_name,Land Eater
+2520020141_appearance_name,Material H
+2520120141_appearance_name,Material H
+3410010131_appearance_name,Sinister
+3410010144_appearance_name,Sinister
+3410020131_appearance_name,Bow Tie
+3410030141_appearance_name,Fingers
+3420010151_appearance_name,Spook
+3421010111_appearance_name,Rebuild Spook
+3420020111_appearance_name,Thermite
+3420020224_appearance_name,Thermite
+3420030151_appearance_name,Thermite β
+3420040121_appearance_name,Vulcan R
+3420040134_appearance_name,Vulcan R
+3420041031_appearance_name,1189911463
+3421040151_appearance_name,Rebuild Vulcan R
+3420050141_appearance_name,Doctor
+3420050224_appearance_name,Doctor
+3420060151_appearance_name,Heavy Metal
+3420070121_appearance_name,Replica Red Shoes
+3420070154_appearance_name,Replica Red Shoes
+3520010111_appearance_name,Alteisen MK.VI
+3520010131_appearance_name,Alteisen MK.VI
+3520020141_appearance_name,Grave Digger
+3520020151_appearance_name,Grave Digger
+3520040151_appearance_name,Modernia
+3520020111_appearance_name,Nihilister
+2510030131_appearance_name,Gatekeeper
+1520040121_appearance_name,Kraken
+1520060141_appearance_name,Ultra
+4420010121_appearance_name,Unknown Crystal
+4420020121_appearance_name,Crystal Armor
+4520010121_appearance_name,Crystal Chamber
+2420070141_appearance_name,RunWay
+2210050111_appearance_name,Bird
+2220070111_appearance_name,Ant
+2520030141_appearance_name,Indivilia
+1520340151_appearance_name,Golden Kraken
+4510010121_appearance_name,Mirror Container
+2510040131_appearance_name,Massive Object
+2510040151_appearance_name,Massive Object Q
+3510030125_appearance_name,Behemoth
+3411030131_appearance_name,Rebuild Fingers
+3520220121_appearance_name,White Ice Dragon
+1410030111_appearance_name,Scarab
+2310070111_appearance_name,Wheel
+2310070211_appearance_name,Elite Wheel
+2220080111_appearance_name,Snowball
+1210060111_appearance_name,Lotus
+1420060131_appearance_name,Leviathan
+11200101_description,"Type: Bio
+Grade: Husk"
+11100101_description,"Type: Bio
+Grade: Husk"
+12100101_description,"Type: Bio
+Grade: Servant"
+12100201_description,"Type: Bio
+Grade: Servant"
+12100301_description,"Type: Bio
+Grade: Servant"
+12100401_description,"Type: Bio
+Grade: Servant"
+12100501_description,"Type: Bio
+Grade: Servant"
+12200101_description,"Type: Bio
+Grade: Servant"
+12200201_description,"Type: Bio
+Grade: Servant"
+12200301_description,"Type: Bio
+Grade: Servant"
+12200401_description,"Type: Bio
+Grade: Servant"
+12200501_description,"Type: Bio
+Grade: Servant"
+13100101_description,"Type: Bio
+Grade: Master"
+13100102_description,"TYPE: BIO
+GRADE: Elite"
+13100201_description,"Type: Bio
+Grade: Master"
+13100202_description,"Irregular
+Type: Bio
+Grade: Master"
+13100301_description,"Type: Bio
+Grade: Master"
+13100302_description,"Irregular
+Type: Bio
+Grade: Master"
+13100401_description,"Type: Bio
+Grade: Master"
+13100402_description,"Irregular
+Type: Bio
+Grade: Master"
+13200101_description,"Type: Bio
+Grade: Master"
+13200102_description,"Irregular
+Type: Bio
+Grade: Master"
+13200201_description,"Type: Bio
+Grade: Master"
+13200202_description,"Irregular
+Type: Bio
+Grade: Master"
+13200301_description,"Type: Bio
+Grade: Master"
+13200302_description,"Irregular
+Type: Bio
+Grade: Master"
+13200401_description,"Type: Bio
+Grade: Master"
+13200402_description,"Irregular
+Type: Bio
+Grade: Master"
+13200501_description,"Type: Bio
+Grade: Master"
+13200502_description,"Irregular
+Type: Bio
+Grade: Master"
+13200601_description,"Type: Bio
+Grade: Master"
+13200602_description,"Irregular
+Type: Bio
+Grade: Master"
+14100101_description,"Type: Bio
+Grade: Lord"
+14100201_description,"Type: Bio
+Grade: Lord"
+14200101_description,"Type: Bio
+Grade: Lord"
+14200201_description,"Type: Bio
+Grade: Lord"
+14200301_description,"Type: Bio
+Grade: Lord"
+14200401_description,"Type: Bio
+Grade: Lord"
+14200501_description,"Type: Bio
+Grade: Lord"
+15200101_description,"Type: Bio
+Grade: Tyrant"
+15200201_description,"Type: Bio
+Grade: Tyrant"
+15200301_description,"Type: Bio
+Grade: Tyrant"
+21100101_description,"Type: Energy
+Grade: Husk"
+21200101_description,"Type: Energy
+Grade: Husk"
+22100101_description,"Type: Energy
+Grade: Servant"
+22100201_description,"Type: Energy
+Grade: Servant"
+22100301_description,"Type: Energy
+Grade: Servant"
+22200101_description,"Type: Energy
+Grade: Servant"
+22200201_description,"Type: Energy
+Grade: Servant"
+22200301_description,"Type: Energy
+Grade: Servant"
+22200401_description,"Type: Energy
+Grade: Servant"
+22200501_description,"Type: Energy
+Grade: Servant"
+23100101_description,"Type: Energy
+Grade: Master"
+23100102_description,"Irregular
+Type: Energy
+Grade: Master"
+23100201_description,"Type: Energy
+Grade: Master"
+23100202_description,"Irregular
+Type: Energy
+Grade: Master"
+23100301_description,"Type: Energy
+Grade: Master"
+23100302_description,"Irregular
+Type: Energy
+Grade: Master"
+23200101_description,"Type: Energy
+Grade: Master"
+23200102_description,"Irregular
+Type: Energy
+Grade: Master"
+23200201_description,"Type: Energy
+Grade: Master"
+23200202_description,"Irregular
+Type: Energy
+Grade: Master"
+23200301_description,"Type: Energy
+Grade: Master"
+23200302_description,"Irregular
+Type: Energy
+Grade: Master"
+23200401_description,"Type: Energy
+Grade: Master"
+23200402_description,"Irregular
+Type: Energy
+Grade: Master"
+23200501_description,"Type: Energy
+Grade: Master"
+23200502_description,"Irregular
+Type: Energy
+Grade: Master"
+23200601_description,"Type: Energy
+Grade: Master"
+23200602_description,"Irregular
+Type: Energy
+Grade: Master"
+23200701_description,"Type: Energy
+Grade: Master"
+23200702_description,"Irregular
+Type: Energy
+Grade: Master"
+24100101_description,"Type: Energy
+Grade: Lord"
+24100201_description,"Type: Energy
+Grade: Lord"
+24200101_description,"Type: Energy
+Grade: Lord"
+24200201_description,"Type: Energy
+Grade: Lord"
+24200301_description,"Type: Energy
+Grade: Lord"
+24200401_description,"Type: Energy
+Grade: Lord"
+24200501_description,"Type: Energy
+Grade: Lord"
+25100101_description,"Type: Energy
+Grade: Tyrant"
+25200101_description,"Type: Energy
+Grade: Tyrant"
+31200101_description,"Type: Metal
+Grade: Husk"
+31100101_description,"Type: Metal
+Grade: Husk"
+32100101_description,"Type: Metal
+Grade: Servant"
+32100201_description,"Type: Metal
+Grade: Servant"
+32100301_description,"Type: Metal
+Grade: Servant"
+32100401_description,"Type: Metal
+Grade: Servant"
+32200101_description,"Type: Metal
+Grade: Servant"
+32200201_description,"Type: Metal
+Grade: Servant"
+32200301_description,"Type: Metal
+Grade: Servant"
+32200401_description,"Type: Metal
+Grade: Servant"
+32200501_description,"Type: Metal
+Grade: Servant"
+32200601_description,"Type: Metal
+Grade: Servant"
+32200701_description,"Type: Metal
+Grade: Servant"
+32200901_description,"Type: Metal
+Grade: Servant"
+33100101_description,"Type: Metal
+Grade: Master"
+33100102_description,"Irregular
+Type: Metal
+Grade: Master"
+33100201_description,"Type: Metal
+Grade: Master"
+33100202_description,"Irregular
+Type: Metal
+Grade: Master"
+33100301_description,"Type: Metal
+Grade: Master"
+33100302_description,"Irregular
+Type: Metal
+Grade: Master"
+33200101_description,"Type: Metal
+Grade: Master"
+33200102_description,"Irregular
+Type: Metal
+Grade: Master"
+33200201_description,"Type: Metal
+Grade: Master"
+33200202_description,"Irregular
+Type: Metal
+Grade: Master"
+33200301_description,"Type: Metal
+Grade: Master"
+33200302_description,"Irregular
+Type: Metal
+Grade: Master"
+33200401_description,"Type: Metal
+Grade: Master"
+33200402_description,"Irregular
+Type: Metal
+Grade: Master"
+33200501_description,"Type: Metal
+Grade: Master"
+33200502_description,"Irregular
+Type: Metal
+Grade: Master"
+33200601_description,"Type: Metal
+Grade: Master"
+33200602_description,"Irregular
+Type: Metal
+Grade: Master"
+33200701_description,"Type: Metal
+Grade: Master"
+33200702_description,"Irregular
+Type: Metal
+Grade: Master"
+34100101_description,"Type: Metal
+Grade: Lord"
+34100201_description,"Type: Metal
+Grade: Lord"
+34200101_description,"Type: Metal
+Grade: Lord"
+34200201_description,"Type: Metal
+Grade: Lord"
+34200301_description,"Type: Metal
+Grade: Lord"
+34200401_description,"Type: Metal
+Grade: Lord"
+34200501_description,"Type: Metal
+Grade: Lord"
+35200101_description,"Type: Metal
+Grade: Tyrant"
+35200201_description,"Type: Metal
+Grade: Tyrant"
+35200401_description,"Type: Metal
+Grade: Heretic"
+25200201_description,"Type: Energy
+Grade: Tyrant"
+1120010111_description,"Code: H.S.T.A.
+Grade: Husk"
+1120010121_description,"Code: P.S.I.D.
+Grade: Husk"
+1120010131_description,"Code: A.N.M.I.
+Grade: Husk"
+1120010141_description,"Code: Z.E.U.S.
+Grade: Husk"
+1120010151_description,"Code: D.M.T.R.
+Grade: Husk"
+1110010111_description,"Code: H.S.T.A.
+Grade: Husk"
+1110010121_description,"Code: P.S.I.D.
+Grade: Husk"
+1110010131_description,"Code: A.N.M.I.
+Grade: Husk"
+1110010141_description,"Code: Z.E.U.S.
+Grade: Husk"
+1110010151_description,"Code: D.M.T.R.
+Grade: Husk"
+1210010111_description,"Code: H.S.T.A.
+Grade: Servant"
+1210010121_description,"Code: P.S.I.D.
+Grade: Servant"
+1210010131_description,"Code: A.N.M.I.
+Grade: Servant"
+1210010141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1210010151_description,"Code: D.M.T.R.
+Grade: Servant"
+1210020111_description,"Code: H.S.T.A.
+Grade: Servant"
+1210020121_description,"Code: P.S.I.D.
+Grade: Servant"
+1210020131_description,"Code: A.N.M.I.
+Grade: Servant"
+1210020141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1210020151_description,"Code: D.M.T.R.
+Grade: Servant"
+1210030111_description,"Code: H.S.T.A.
+Grade: Servant"
+1210030121_description,"Code: P.S.I.D.
+Grade: Servant"
+1210030131_description,"Code: A.N.M.I.
+Grade: Servant"
+1210030141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1210030151_description,"Code: D.M.T.R.
+Grade: Servant"
+1210040111_description,"Code: H.S.T.A.
+Grade: Servant"
+1210040121_description,"Code: P.S.I.D.
+Grade: Servant"
+1210040131_description,"Code: A.N.M.I.
+Grade: Servant"
+1210040141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1210040151_description,"Code: D.M.T.R.
+Grade: Servant"
+1210050111_description,"Code: H.S.T.A.
+Grade: Servant"
+1210050121_description,"Code: P.S.I.D.
+Grade: Servant"
+1210050131_description,"Code: A.N.M.I.
+Grade: Servant"
+1210050141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1210050151_description,"Code: D.M.T.R.
+Grade: Servant"
+1220010111_description,"Code: H.S.T.A.
+Grade: Servant"
+1220010121_description,"Code: P.S.I.D.
+Grade: Servant"
+1220010131_description,"Code: A.N.M.I.
+Grade: Servant"
+1220010141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1220010151_description,"Code: D.M.T.R.
+Grade: Servant"
+1220020111_description,"Code: H.S.T.A.
+Grade: Servant"
+1220020121_description,"Code: P.S.I.D.
+Grade: Servant"
+1220020131_description,"Code: A.N.M.I.
+Grade: Servant"
+1220020141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1220020151_description,"Code: D.M.T.R.
+Grade: Servant"
+1220030111_description,"Code: H.S.T.A.
+Grade: Servant"
+1220030121_description,"Code: P.S.I.D.
+Grade: Servant"
+1220030131_description,"Code: A.N.M.I.
+Grade: Servant"
+1220030141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1220030151_description,"Code: D.M.T.R.
+Grade: Servant"
+1220040111_description,"Code: H.S.T.A.
+Grade: Servant"
+1220040121_description,"Code: P.S.I.D.
+Grade: Servant"
+1220040131_description,"Code: A.N.M.I.
+Grade: Servant"
+1220040141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1220040151_description,"Code: D.M.T.R.
+Grade: Servant"
+1220050111_description,"Code: H.S.T.A.
+Grade: Servant"
+1220050121_description,"Code: P.S.I.D.
+Grade: Servant"
+1220050131_description,"Code: A.N.M.I.
+Grade: Servant"
+1220050141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1220050151_description,"Code: D.M.T.R.
+Grade: Servant"
+1220060111_description,"Code: H.S.T.A.
+Grade: Servant"
+1220060121_description,"Code: P.S.I.D.
+Grade: Servant"
+1220060131_description,"Code: A.N.M.I.
+Grade: Servant"
+1220060141_description,"Code: Z.E.U.S.
+Grade: Servant"
+1220060151_description,"Code: D.M.T.R.
+Grade: Servant"
+1310010111_description,"Code: H.S.T.A.
+Grade: Master"
+1310010121_description,"Code: P.S.I.D.
+Grade: Master"
+1310010131_description,"Code: A.N.M.I.
+Grade: Master"
+1310010141_description,"Code: Z.E.U.S.
+Grade: Master"
+1310010151_description,"Code: D.M.T.R.
+Grade: Master"
+1310010211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1310010221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1310010231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1310010241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1310010251_description,"Code: D.M.T.R.
+Grade: Elite"
+1310020111_description,"Code: H.S.T.A.
+Grade: Master"
+1310020121_description,"Code: P.S.I.D.
+Grade: Master"
+1310020131_description,"Code: A.N.M.I.
+Grade: Master"
+1310020141_description,"Code: Z.E.U.S.
+Grade: Master"
+1310020151_description,"Code: D.M.T.R.
+Grade: Master"
+1310020211_description,"Code: H.S.T.A.
+Grade: Elite"
+1310020221_description,"Code: P.S.I.D.
+Grade: Elite"
+1310020231_description,"Code: A.N.M.I.
+Grade: Elite"
+1310020241_description,"Code: Z.E.U.S.
+Grade: Elite"
+1310020251_description,"Code: D.M.T.R.
+Grade: Elite"
+1310030111_description,"Code: H.S.T.A.
+Grade: Master"
+1310030121_description,"Code: P.S.I.D.
+Grade: Master"
+1310030131_description,"Code: A.N.M.I.
+Grade: Master"
+1310030141_description,"Code: Z.E.U.S.
+Grade: Master"
+1310030151_description,"Code: D.M.T.R.
+Grade: Master"
+1310030211_description,"Code: H.S.T.A.
+Grade: Elite"
+1310030221_description,"Code: P.S.I.D.
+Grade: Elite"
+1310030231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1310030241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1310030251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+1310040111_description,"Code: H.S.T.A.
+Grade: Master"
+1310040121_description,"Code: P.S.I.D.
+Grade: Master"
+1310040131_description,"Code: A.N.M.I.
+Grade: Master"
+1310040141_description,"Code: Z.E.U.S.
+Grade: Master"
+1310040151_description,"Code: D.M.T.R.
+Grade: Master"
+1310040211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1310040221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1310040231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1310040241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1310040251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+1320010111_description,"Code: H.S.T.A.
+Grade: Master"
+1320010121_description,"Code: P.S.I.D.
+Grade: Master"
+1320010131_description,"Code: A.N.M.I.
+Grade: Master"
+1320010141_description,"Code: Z.E.U.S.
+Grade: Master"
+1320010151_description,"Code: D.M.T.R.
+Grade: Master"
+1320010211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1320010221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1320010231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1320010241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1320010251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+1320020111_description,"Code: H.S.T.A.
+Grade: Master"
+1320020121_description,"Code: P.S.I.D.
+Grade: Master"
+1320020131_description,"Code: A.N.M.I.
+Grade: Master"
+1320020141_description,"Code: Z.E.U.S.
+Grade: Master"
+1320020151_description,"Code: D.M.T.R.
+Grade: Master"
+1320020211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1320020221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1320020231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1320020241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1320020251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+1320030111_description,"Code: H.S.T.A.
+Grade: Master"
+1320030121_description,"Code: P.S.I.D.
+Grade: Master"
+1320030131_description,"Code: A.N.M.I.
+Grade: Master"
+1320030141_description,"Code: Z.E.U.S.
+Grade: Master"
+1320030151_description,"Code: D.M.T.R.
+Grade: Master"
+1320030211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1320030221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1320030231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1320030241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1320030251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+1320040111_description,"Code: H.S.T.A.
+Grade: Master"
+1320040121_description,"Code: P.S.I.D.
+Grade: Master"
+1320040131_description,"Code: A.N.M.I.
+Grade: Master"
+1320040141_description,"Code: Z.E.U.S.
+Grade: Master"
+1320040151_description,"Code: D.M.T.R.
+Grade: Master"
+1320040211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1320040221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1320040231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1320040241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1320040251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+1320060111_description,"Code: H.S.T.A.
+Grade: Master"
+1320060121_description,"Code: P.S.I.D.
+Grade: Master"
+1320060131_description,"Code: A.N.M.I.
+Grade: Master"
+1320060141_description,"Code: Z.E.U.S.
+Grade: Master"
+1320060151_description,"Code: D.M.T.R.
+Grade: Master"
+1320060211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+1320060221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+1320060231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+1320060241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+1320060251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2110010111_description,"Code: H.S.T.A.
+Grade: Husk"
+2110010121_description,"Code: P.S.I.D.
+Grade: Husk"
+2110010131_description,"Code: A.N.M.I.
+Grade: Husk"
+2110010141_description,"Code: Z.E.U.S.
+Grade: Husk"
+2110010151_description,"Code: D.M.T.R.
+Grade: Husk"
+2120010111_description,"Code: H.S.T.A.
+Grade: Husk"
+2120010121_description,"Code: P.S.I.D.
+Grade: Husk"
+2120010131_description,"Code: A.N.M.I.
+Grade: Husk"
+2120010141_description,"Code: Z.E.U.S.
+Grade: Husk"
+2120010151_description,"Code: D.M.T.R.
+Grade: Husk"
+2210010111_description,"Code: H.S.T.A.
+Grade: Servant"
+2210010121_description,"Code: P.S.I.D.
+Grade: Servant"
+2210010131_description,"Code: A.N.M.I.
+Grade: Servant"
+2210010141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2210010151_description,"Code: D.M.T.R.
+Grade: Servant"
+2210020111_description,"Code: H.S.T.A.
+Grade: Servant"
+2210020121_description,"Code: P.S.I.D.
+Grade: Servant"
+2210020131_description,"Code: A.N.M.I.
+Grade: Servant"
+2210020141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2210020151_description,"Code: D.M.T.R.
+Grade: Servant"
+2210030111_description,"Code: H.S.T.A.
+Grade: Servant"
+2210030121_description,"Code: P.S.I.D.
+Grade: Servant"
+2210030131_description,"Code: A.N.M.I.
+Grade: Servant"
+2210030141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2210030151_description,"Code: D.M.T.R.
+Grade: Servant"
+2210040111_description,"Code: H.S.T.A.
+Grade: Servant"
+2210040121_description,"Code: P.S.I.D.
+Grade: Servant"
+2210040131_description,"Code: A.N.M.I.
+Grade: Servant"
+2210040141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2210040151_description,"Code: D.M.T.R.
+Grade: Servant"
+2220010111_description,"Code: H.S.T.A.
+Grade: Servant"
+2220010121_description,"Code: P.S.I.D.
+Grade: Servant"
+2220010131_description,"Code: A.N.M.I.
+Grade: Servant"
+2220010141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2220010151_description,"Code: D.M.T.R.
+Grade: Servant"
+2220020111_description,"Code: H.S.T.A.
+Grade: Servant"
+2220020121_description,"Code: P.S.I.D.
+Grade: Servant"
+2220020131_description,"Code: A.N.M.I.
+Grade: Servant"
+2220020141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2220020151_description,"Code: D.M.T.R.
+Grade: Servant"
+2220030111_description,"Code: H.S.T.A.
+Grade: Servant"
+2220030121_description,"Code: P.S.I.D.
+Grade: Servant"
+2220030131_description,"Code: A.N.M.I.
+Grade: Servant"
+2220030141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2220030151_description,"Code: D.M.T.R.
+Grade: Servant"
+2220040111_description,"Code: H.S.T.A.
+Grade: Servant"
+2220040121_description,"Code: P.S.I.D.
+Grade: Servant"
+2220040131_description,"Code: A.N.M.I.
+Grade: Servant"
+2220040141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2220040151_description,"Code: D.M.T.R.
+Grade: Servant"
+2220050111_description,"Code: H.S.T.A.
+Grade: Servant"
+2220050121_description,"Code: P.S.I.D.
+Grade: Servant"
+2220050131_description,"Code: A.N.M.I.
+Grade: Servant"
+2220050141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2220050151_description,"Code: D.M.T.R.
+Grade: Servant"
+2220060111_description,"Code: H.S.T.A.
+Grade: Servant"
+2220060121_description,"Code: P.S.I.D.
+Grade: Servant"
+2220060131_description,"Code: A.N.M.I.
+Grade: Servant"
+2220060141_description,"Code: Z.E.U.S.
+Grade: Servant"
+2220060151_description,"Code: D.M.T.R.
+Grade: Servant"
+2310010111_description,"Code: H.S.T.A.
+Grade: Master"
+2310010121_description,"Code: P.S.I.D.
+Grade: Master"
+2310010131_description,"Code: A.N.M.I.
+Grade: Master"
+2310010141_description,"Code: Z.E.U.S.
+Grade: Master"
+2310010151_description,"Code: D.M.T.R.
+Grade: Master"
+2310010211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2310010221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2310010231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2310010241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2310010251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2310020111_description,"Code: H.S.T.A.
+Grade: Master"
+2310020121_description,"Code: P.S.I.D.
+Grade: Master"
+2310020131_description,"Code: A.N.M.I.
+Grade: Master"
+2310020141_description,"Code: Z.E.U.S.
+Grade: Master"
+2310020151_description,"Code: D.M.T.R.
+Grade: Master"
+2310020211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2310020221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2310020231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2310020241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2310020251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2310030111_description,"Code: H.S.T.A.
+Grade: Master"
+2310030121_description,"Code: P.S.I.D.
+Grade: Master"
+2310030131_description,"Code: A.N.M.I.
+Grade: Master"
+2310030141_description,"Code: Z.E.U.S.
+Grade: Master"
+2310030151_description,"Code: D.M.T.R.
+Grade: Master"
+2310030211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2310030221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2310030231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2310030241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2310030251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2310040111_description,"Code: H.S.T.A.
+Grade: Master"
+2310040121_description,"Code: P.S.I.D.
+Grade: Master"
+2310040131_description,"Code: A.N.M.I.
+Grade: Master"
+2310040141_description,"Code: Z.E.U.S.
+Grade: Master"
+2310040151_description,"Code: D.M.T.R.
+Grade: Master"
+2310040211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2310040221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2310040231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2310040241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2310040251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2310050111_description,"Code: H.S.T.A.
+Grade: Master"
+2310050121_description,"Code: P.S.I.D.
+Grade: Master"
+2310050131_description,"Code: A.N.M.I.
+Grade: Master"
+2310050141_description,"Code: Z.E.U.S.
+Grade: Master"
+2310050151_description,"Code: D.M.T.R.
+Grade: Master"
+2310050211_description,"CODE: H.S.T.A.
+GRADE: ELITE"
+2310050221_description,"CODE: P.S.I.D.
+GRADE: ELITE"
+2310050231_description,"CODE: A.N.M.I.
+GRADE: ELITE"
+2310050241_description,"CODE: Z.E.U.S.
+GRADE: ELITE"
+2310050251_description,"CODE: D.M.T.R.
+GRADE: ELITE"
+2310060111_description,"Code: H.S.T.A.
+Grade: Master"
+2310060121_description,"Code: P.S.I.D.
+Grade: Master"
+2310060131_description,"Code: A.N.M.I.
+Grade: Master"
+2310060141_description,"Code: Z.E.U.S.
+Grade: Master"
+2310060151_description,"Code: D.M.T.R.
+Grade: Master"
+2310060211_description,"Code: H.S.T.A.
+GRADE: Elite"
+2310060221_description,"Code: P.S.I.D.
+Grade: Elite"
+2310060231_description,"Code: A.N.M.I.
+Grade: Elite"
+2310060241_description,"Code: Z.E.U.S.
+Grade: Elite"
+2310060251_description,"Code: D.M.T.R.
+Grade: Elite"
+2320010111_description,"Code: H.S.T.A.
+Grade: Master"
+2320010121_description,"Code: P.S.I.D.
+Grade: Master"
+2320010131_description,"Code: A.N.M.I.
+Grade: Master"
+2320010141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320010151_description,"Code: D.M.T.R.
+Grade: Master"
+2320010211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320010221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320010231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320010241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320010251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2320020111_description,"Code: H.S.T.A.
+Grade: Master"
+2320020121_description,"Code: P.S.I.D.
+Grade: Master"
+2320020131_description,"Code: A.N.M.I.
+Grade: Master"
+2320020141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320020151_description,"Code: D.M.T.R.
+Grade: Master"
+2320020211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320020221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320020231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320020241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320020251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2320030111_description,"Code: H.S.T.A.
+Grade: Master"
+2320030121_description,"Code: P.S.I.D.
+Grade: Master"
+2320030131_description,"Code: A.N.M.I.
+Grade: Master"
+2320030141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320030151_description,"Code: D.M.T.R.
+Grade: Master"
+2320030211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320030221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320030231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320030241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320030251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2320040111_description,"Code: H.S.T.A.
+Grade: Master"
+2320040121_description,"Code: P.S.I.D.
+Grade: Master"
+2320040131_description,"Code: A.N.M.I.
+Grade: Master"
+2320040141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320040151_description,"Code: D.M.T.R.
+Grade: Master"
+2320040211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320040221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320040231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320040241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320040251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2320050111_description,"Code: H.S.T.A.
+Grade: Master"
+2320050121_description,"Code: P.S.I.D.
+Grade: Master"
+2320050131_description,"Code: A.N.M.I.
+Grade: Master"
+2320050141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320050151_description,"Code: D.M.T.R.
+Grade: Master"
+2320050211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320050221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320050231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320050241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320050251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2320060111_description,"Code: H.S.T.A.
+Grade: Master"
+2320060121_description,"Code: P.S.I.D.
+Grade: Master"
+2320060131_description,"Code: A.N.M.I.
+Grade: Master"
+2320060141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320060151_description,"Code: D.M.T.R.
+Grade: Master"
+2320060211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320060221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320060231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320060241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320060251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+2320070111_description,"Code: H.S.T.A.
+Grade: Master"
+2320070121_description,"Code: P.S.I.D.
+Grade: Master"
+2320070131_description,"Code: A.N.M.I.
+Grade: Master"
+2320070141_description,"Code: Z.E.U.S.
+Grade: Master"
+2320070151_description,"Code: D.M.T.R.
+Grade: Master"
+2320070211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+2320070221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+2320070231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+2320070241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+2320070251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3120010111_description,"Code: H.S.T.A.
+Grade: Husk"
+3120010121_description,"Code: P.S.I.D.
+Grade: Husk"
+3120010131_description,"Code: A.N.M.I.
+Grade: Husk"
+3120010141_description,"Code: Z.E.U.S.
+Grade: Husk"
+3120010151_description,"Code: D.M.T.R.
+Grade: Husk"
+3110010111_description,"Code: H.S.T.A.
+Grade: Husk"
+3110010121_description,"Code: P.S.I.D.
+Grade: Husk"
+3110010131_description,"Code: A.N.M.I.
+Grade: Husk"
+3110010141_description,"Code: Z.E.U.S.
+Grade: Husk"
+3110010151_description,"Code: D.M.T.R.
+Grade: Husk"
+3210010111_description,"Code: H.S.T.A.
+Grade: Servant"
+3210010121_description,"Code: P.S.I.D.
+Grade: Servant"
+3210010131_description,"Code: A.N.M.I.
+Grade: Servant"
+3210010141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3210010151_description,"Code: D.M.T.R.
+Grade: Servant"
+3210020111_description,"Code: H.S.T.A.
+Grade: Servant"
+3210020121_description,"Code: P.S.I.D.
+Grade: Servant"
+3210020131_description,"Code: A.N.M.I.
+Grade: Servant"
+3210020141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3210020151_description,"Code: D.M.T.R.
+Grade: Servant"
+3210030111_description,"Code: H.S.T.A.
+Grade: Servant"
+3210030121_description,"Code: P.S.I.D.
+Grade: Servant"
+3210030131_description,"Code: A.N.M.I.
+Grade: Servant"
+3210030141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3210030151_description,"Code: D.M.T.R.
+Grade: Servant"
+3210040111_description,"Code: H.S.T.A.
+Grade: Servant"
+3210040121_description,"Code: P.S.I.D.
+Grade: Servant"
+3210040131_description,"Code: A.N.M.I.
+Grade: Servant"
+3210040141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3210040151_description,"Code: D.M.T.R.
+Grade: Servant"
+3210050111_description,"Code: H.S.T.A.
+Grade: Servant"
+3210050121_description,"Code: P.S.I.D.
+Grade: Servant"
+3210050131_description,"Code: A.N.M.I.
+Grade: Servant"
+3210050141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3210050151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220010111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220010121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220010131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220010141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220010151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220020111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220020121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220020131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220020141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220020151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220030111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220030121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220030131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220030141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220030151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220040111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220040121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220040131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220040141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220040151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220050111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220050121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220050131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220050141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220050151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220060111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220060121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220060131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220060141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220060151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220070111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220070121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220070131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220070141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220070151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220080111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220080121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220080131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220080141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220080151_description,"Code: D.M.T.R.
+Grade: Servant"
+3220090111_description,"Code: H.S.T.A.
+Grade: Servant"
+3220090121_description,"Code: P.S.I.D.
+Grade: Servant"
+3220090131_description,"Code: A.N.M.I.
+Grade: Servant"
+3220090141_description,"Code: Z.E.U.S.
+Grade: Servant"
+3220090151_description,"Code: D.M.T.R.
+Grade: Servant"
+3310010111_description,"Code: H.S.T.A.
+Grade: Master"
+3310010121_description,"Code: P.S.I.D.
+Grade: Master"
+3310010131_description,"Code: A.N.M.I.
+Grade: Master"
+3310010141_description,"Code: Z.E.U.S.
+Grade: Master"
+3310010151_description,"Code: D.M.T.R.
+Grade: Master"
+3310010211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3310010221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3310010231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3310010241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3310010251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3310020111_description,"Code: H.S.T.A.
+Grade: Master"
+3310020121_description,"Code: P.S.I.D.
+Grade: Master"
+3310020131_description,"Code: A.N.M.I.
+Grade: Master"
+3310020141_description,"Code: Z.E.U.S.
+Grade: Master"
+3310020151_description,"Code: D.M.T.R.
+Grade: Master"
+3310020211_description,"Code: H.S.T.A.
+Grade: Elite"
+3310020221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3310020231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3310020241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3310020251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3310030111_description,"Code: H.S.T.A.
+Grade: Master"
+3310030121_description,"Code: P.S.I.D.
+Grade: Master"
+3310030131_description,"Code: A.N.M.I.
+Grade: Master"
+3310030141_description,"Code: Z.E.U.S.
+Grade: Master"
+3310030151_description,"Code: D.M.T.R.
+Grade: Master"
+3310030211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3310030221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3310030231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3310030241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3310030251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3310040111_description,"CODE: H.S.T.A
+GRADE: MASTER"
+3310040121_description,"CODE: P.S.I.D
+GRADE: MASTER"
+3310040131_description,"CODE: A.N.M.I
+GRADE: MASTER"
+3310040141_description,"CODE: Z.E.U.S
+GRADE: MASTER"
+3310040151_description,"CODE: D.M.T.R
+GRADE: MASTER"
+3310040211_description,"Code: H.S.T.A.
+Grade: Elite"
+3310040221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3310040231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3310040241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3310040251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3310050111_description,"Code: H.S.T.A.
+Grade: Master"
+3310050121_description,"Code: P.S.I.D.
+Grade: Master"
+3310050131_description,"Code: A.N.M.I.
+Grade: Master"
+3310050141_description,"Code: Z.E.U.S.
+Grade: Master"
+3310050151_description,"Code: D.M.T.R.
+Grade: Master"
+3310050211_description,"Code: H.S.T.A.
+Grade: Elite"
+3310050221_description,"Code: P.S.I.D.
+GRADE: Elite"
+3310050231_description,"Code: A.N.M.I.
+Grade: Elite"
+3310050241_description,"Code: Z.E.U.S.
+Grade: Elite"
+3310050251_description,"Code: D.M.T.R.
+Grade: Elite"
+3320010111_description,"Code: H.S.T.A.
+Grade: Master"
+3320010121_description,"Code: P.S.I.D.
+Grade: Master"
+3320010131_description,"Code: A.N.M.I.
+Grade: Master"
+3320010141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320010151_description,"Code: D.M.T.R.
+Grade: Master"
+3320010211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320010221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320010231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320010241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320010251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320020111_description,"Code: H.S.T.A.
+Grade: Master"
+3320020121_description,"Code: P.S.I.D.
+Grade: Master"
+3320020131_description,"Code: A.N.M.I.
+Grade: Master"
+3320020141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320020151_description,"Code: D.M.T.R.
+Grade: Master"
+3320020211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320020221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320020231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320020241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320020251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320030111_description,"Code: H.S.T.A.
+Grade: Master"
+3320030121_description,"Code: P.S.I.D.
+Grade: Master"
+3320030131_description,"Code: A.N.M.I.
+Grade: Master"
+3320030141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320030151_description,"Code: D.M.T.R.
+Grade: Master"
+3320030211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320030221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320030231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320030241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320030251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320040111_description,"Code: H.S.T.A.
+Grade: Master"
+3320040121_description,"Code: P.S.I.D.
+Grade: Master"
+3320040131_description,"Code: A.N.M.I.
+Grade: Master"
+3320040141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320040151_description,"Code: D.M.T.R.
+Grade: Master"
+3320040211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320040221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320040231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320040241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320040251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320050111_description,"Code: H.S.T.A.
+Grade: Master"
+3320050121_description,"Code: P.S.I.D.
+Grade: Master"
+3320050131_description,"Code: A.N.M.I.
+Grade: Master"
+3320050141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320050151_description,"Code: D.M.T.R.
+Grade: Master"
+3320050211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320050221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320050231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320050241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320050251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320060111_description,"Code: H.S.T.A.
+Grade: Master"
+3320060121_description,"Code: P.S.I.D.
+Grade: Master"
+3320060131_description,"Code: A.N.M.I.
+Grade: Master"
+3320060141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320060151_description,"Code: D.M.T.R.
+Grade: Master"
+3320060211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320060221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320060231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320060241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320060251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320070111_description,"Code: H.S.T.A.
+Grade: Master"
+3320070121_description,"Code: P.S.I.D.
+Grade: Master"
+3320070131_description,"Code: A.N.M.I.
+Grade: Master"
+3320070141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320070151_description,"Code: D.M.T.R.
+Grade: Master"
+3320070211_description,"CODE: H.S.T.A.
+GRADE: Elite"
+3320070221_description,"CODE: P.S.I.D.
+GRADE: Elite"
+3320070231_description,"CODE: A.N.M.I.
+GRADE: Elite"
+3320070241_description,"CODE: Z.E.U.S.
+GRADE: Elite"
+3320070251_description,"CODE: D.M.T.R.
+GRADE: Elite"
+3320080111_description,"Code: H.S.T.A.
+Grade: Master"
+3320080121_description,"Code: P.S.I.D.
+Grade: Master"
+3320080131_description,"Code: A.N.M.I.
+Grade: Master"
+3320080141_description,"Code: Z.E.U.S.
+Grade: Master"
+3320080151_description,"Code: D.M.T.R.
+Grade: Master"
+3320080211_description,"Code: H.S.T.A.
+Grade: Elite"
+3320080221_description,"Code: P.S.I.D.
+Grade: Elite"
+3320080231_description,"Code: A.N.M.I.
+Grade: Elite"
+3320080241_description,"Code: Z.E.U.S.
+Grade: Elite"
+3320080251_description,"Code: D.M.T.R.
+Grade: Elite"
+1410010131_description,"Code: A.N.M.I.
+Grade: Lord"
+1410020121_description,"Code: P.S.I.D.
+Grade: Lord"
+1420010111_description,"Code: H.S.T.A.
+Grade: Lord"
+1421010111_description,"Code: H.S.T.A.
+Grade: Lord"
+1421010134_description,"Code: A.N.M.I.
+Grade: Lord"
+1420020111_description,"Code: H.S.T.A.
+Grade: Lord"
+1420020121_description,"Code: P.S.I.D.
+Grade: Lord"
+1420020131_description,"Code: A.N.M.I.
+Grade: Lord"
+1420020151_description,"Code: D.M.T.R.
+Grade: Lord"
+1420020244_description,"Code: Z.E.U.S.
+Grade: Lord"
+1420030141_description,"Code: Z.E.U.S.
+Grade: Lord"
+1420030114_description,"Code: H.S.T.A.
+Grade: Lord"
+1421030141_description,"CODE: Z.E.U.S
+GRADE: LORD"
+1420040131_description,"Code: A.N.M.I.
+Grade: Lord"
+1420050121_description,"Code: P.S.I.D.
+Grade: Lord"
+1520010111_description,"Code: H.S.T.A.
+Grade: Tyrant"
+1510010121_description,"CODE: P.S.I.D
+GRADE: TYRANT"
+1510010141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+1520020111_description,"Code: H.S.T.A.
+Grade: Tyrant"
+1520020131_description,"Code: A.N.M.I.
+Grade: Tyrant"
+1520030111_description,"Code: H.S.T.A.
+Grade: Tyrant"
+1520030131_description,"Code: A.N.M.I.
+Grade: Tyrant"
+2410010111_description,"Code: H.S.T.A.
+Grade: Lord"
+2410010121_description,"Code: P.S.I.D.
+Grade: LORD"
+2410010131_description,"Code: A.N.M.I.
+Grade: Lord"
+2410010141_description,"Code: Z.E.U.S.
+Grade: Lord"
+2410010151_description,"Code: D.M.T.R.
+Grade: Lord"
+2410020151_description,"Code: D.M.T.R.
+Grade: Lord"
+2410030111_description,"Code: H.S.T.A.
+Grade: Lord"
+2410030234_description,"Code: A.N.M.I.
+Grade: LORD"
+2420010141_description,"Code: Z.E.U.S.
+Grade: Lord"
+2420020141_description,"Code: Z.E.U.S.
+Grade: Lord"
+2420030111_description,"Code: H.S.T.A.
+Grade: Lord"
+2420040111_description,"Code: H.S.T.A.
+Grade: Lord"
+2420040422_description,"Code: P.S.I.D.
+Grade: Lord"
+2420040432_description,"Code: A.N.M.I.
+Grade: Lord"
+2420040442_description,"Code: Z.E.U.S.
+Grade: Lord"
+2420040452_description,"Code: D.M.T.R.
+Grade: Lord"
+2421040111_description,"Code: H.S.T.A.
+Grade: Lord"
+2421040121_description,"Code: P.S.I.D.
+Grade: Lord"
+2421040131_description,"Code: A.N.M.I.
+Grade: Lord"
+2421040141_description,"Code: Z.E.U.S.
+Grade: Lord"
+2421040151_description,"Code: D.M.T.R.
+Grade: Lord"
+2420050121_description,"Code: P.S.I.D.
+Grade: Lord"
+2420050141_description,"Code: Z.E.U.S
+Grade: LORD"
+2421050111_description,"Code: H.S.T.A.
+Grade: Lord"
+2421050121_description,"Code: P.S.I.D.
+Grade: Lord"
+2421050131_description,"Code: A.N.M.I.
+Grade: Lord"
+2421050141_description,"Code: Z.E.U.S.
+Grade: Lord"
+2421050151_description,"CODE: D.M.T.R
+GRADE: LORD"
+2420060121_description,"CODE: P.S.I.D
+GRADE: LORD"
+2510010141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+2510010135_description,"Code: A.N.M.I.
+Grade: Tyrant"
+2520010121_description,"Code: P.S.I.D.
+Grade: Tyrant"
+2520020141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+2520120141_description,"Code: D.M.T.R.
+Grade: Tyrant"
+3410010131_description,"Code: A.N.M.I.
+Grade: Lord"
+3410010144_description,"CODE : Z.E.U.S.
+GRADE : LORD"
+3410020131_description,"Code: A.N.M.I.
+Grade: Lord"
+3410030141_description,"Code: Z.E.U.S.
+Grade: Lord"
+3410030154_description,"Code: D.M.T.R.
+Grade: Lord"
+3420010151_description,"Code: D.M.T.R.
+Grade: Lord"
+3421010111_description,"CODE: H.S.T.A
+GRADE: LORD"
+3421010151_description,"Code: D.M.T.R.
+Grade: Lord"
+3420020111_description,"Code: H.S.T.A.
+Grade: Lord"
+3420020224_description,"Code: P.S.I.D.
+Grade: LORD"
+3420030151_description,"Code: D.M.T.R.
+Grade: Lord"
+3420040121_description,"Code: P.S.I.D.
+Grade: Lord"
+3420040134_description,"CODE: A.N.M.I
+GRADE: LORD"
+3421040117_description,"Code: H.S.T.A.
+Grade: Lord"
+3421040127_description,"Code: P.S.I.D.
+Grade: Lord"
+3421040137_description,"Code: A.N.M.I.
+Grade: Lord"
+3421040147_description,"Code: Z.E.U.S.
+Grade: Lord"
+3421040151_description,"Code: D.M.T.R.
+Grade: Lord"
+3420050141_description,"Code: Z.E.U.S.
+Grade: Lord"
+3420050224_description,"Code: P.S.I.D.
+Grade: Lord"
+3420060141_description,"Code: Z.E.U.S
+Grade: LORD"
+3420060151_description,"CODE: D.M.T.R
+GRADE: LORD"
+3420070121_description,"Code: P.S.I.D.
+Grade: Lord"
+3420070151_description,"Code: D.M.T.R.
+Grade: Lord"
+3520010111_description,"Code: H.S.T.A.
+Grade: Tyrant"
+3520010121_description,"Code: P.S.I.D
+Grade: Tyrant"
+3520010131_description,"Code: A.N.M.I.
+Grade: Tyrant"
+3520020141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+3520020151_description,"Code: D.M.T.R.
+Grade: Tyrant"
+3520040151_description,"Code: D.M.T.R.
+Grade: Heretic"
+3520040131_description,"Code: A.N.M.I.
+Grade: Heretic"
+3520020111_description,"Code: H.S.T.A.
+Grade: Heretic"
+2510030111_description,"CODE: H.S.T.A.
+GRADE: TYRANT"
+2510030121_description,"Code: P.S.I.D.
+Grade: Tyrant"
+2510030131_description,"CODE: A.N.M.I
+GRADE: TYRANT"
+2510030141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+2510030151_description,"CODE: D.M.T.R.
+GRADE: TYRANT"
+1520040121_description,"Code: P.S.I.D.
+Grade: Tyrant"
+1520040141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+1520040151_description,"Code: D.M.T.R.
+Grade: Tyrant"
+1520060141_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+1420040254_description,"Code: D.M.T.R.
+Grade: Lord"
+2420030224_description,"Code: P.S.I.D.
+Grade: Lord"
+3420010157_description,"Code: A.N.M.I.
+Grade: Lord"
+2520030141_description,"Code: Z.E.U.S.
+Grade: Heretic"
+1520340151_description,"Code: D.M.T.R.
+Grade: TYRANT"
+4420020121_description,"Code: P.S.I.D.
+Grade: Lord"
+4510010121_description,"Code: P.S.I.D
+Grade: Tyrant"
+2520130133_description,"Code: A.N.M.I.
+Grade: Heretic"
+2510040131_description,"Code: A.N.M.I.
+Grade: Tyrant"
+2520110115_description,"Code: H.S.T.A.
+Grade: TYRANT"
+3510030125_description,"Code: P.S.I.D.
+Grade: Heretic"
+3520220121_description,"Code: P.S.I.D.
+Grade: Tyrant"
+2420030137_description,"Code: A.N.M.I.
+Grade: Tyrant"
+2420030147_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+2420030157_description,"Code: D.M.T.R.
+Grade: Tyrant"
+hsta_exceed_description,"Code: H.S.T.A.
+Grade: Elite"
+hsta_lord_description,"Code: H.S.T.A.
+Grade: Lord"
+hsta_master_description,"Code: H.S.T.A.
+Grade: Master"
+hsta_selfless_description,"Code: H.S.T.A.
+Grade: Husk"
+hsta_servant_description,"Code: H.S.T.A.
+Grade: Servant"
+hsta_tyrant_description,"Code: H.S.T.A.
+Grade: Tyrant"
+hsta_heretic_description,"Code: H.S.T.A.
+Grade: Heretic"
+psid_exceed_description,"Code: P.S.I.D.
+Grade: Elite"
+psid_lord_description,"Code: P.S.I.D.
+Grade: Lord"
+psid_master_description,"Code: P.S.I.D.
+Grade: Master"
+psid_selfless_description,"Code: P.S.I.D.
+Grade: Husk"
+psid_servant_description,"Code: P.S.I.D.
+Grade: Servant"
+psid_tyrant_description,"Code: P.S.I.D
+Grade: Tyrant"
+psid_heretic_description,"Code: P.S.I.D.
+Grade: Heretic"
+anmi_exceed_description,"Code: A.N.M.I.
+Grade: Elite"
+anmi_lord_description,"Code: A.N.M.I.
+Grade: Lord"
+anmi_master_description,"Code: A.N.M.I.
+Grade: Master"
+anmi_selfless_description,"Code: A.N.M.I.
+Grade: Husk"
+anmi_servant_description,"Code: A.N.M.I.
+Grade: Servant"
+anmi_tyrant_description,"Code: A.N.M.I.
+Grade: Tyrant"
+anmi_heretic_description,"Code: A.N.M.I.
+Grade: Heretic"
+zeus_exceed_description,"Code: Z.E.U.S.
+Grade: Elite"
+zeus_lord_description,"Code: Z.E.U.S.
+Grade: Lord"
+zeus_master_description,"Code: Z.E.U.S.
+Grade: Master"
+zeus_selfless_description,"Code: Z.E.U.S.
+Grade: Husk"
+zeus_servant_description,"Code: Z.E.U.S.
+Grade: Servant"
+zeus_tyrant_description,"Code: Z.E.U.S.
+Grade: Tyrant"
+zeus_heretic_description,"Code: Z.E.U.S.
+Grade: Heretic"
+dmtr_exceed_description,"Code: D.M.T.R.
+Grade: Elite"
+dmtr_lord_description,"Code: D.M.T.R.
+Grade: Lord"
+dmtr_master_description,"Code: D.M.T.R.
+Grade: Master"
+dmtr_selfless_description,"Code: D.M.T.R.
+Grade: Husk"
+dmtr_servant_description,"Code: D.M.T.R.
+Grade: Servant"
+dmtr_tyrant_description,"Code: D.M.T.R.
+Grade: Tyrant"
+dmtr_heretic_description,"Code: D.M.T.R.
+Grade: Heretic"
+irregular_hsta_exceed_description,"Irregular
+Code: H.S.T.A.
+Grade: Elite"
+irregular_hsta_lord_description,"Irregular
+Code: H.S.T.A.
+Grade: Lord"
+irregular_hsta_master_description,"Irregular
+Code: H.S.T.A.
+Grade: Master"
+irregular_hsta_selfless_description,"Irregular
+Code: H.S.T.A.
+Grade: Husk"
+irregular_hsta_servant_description,"Irregular
+Code: H.S.T.A.
+Grade: Servant"
+irregular_hsta_tyrant_description,"Irregular
+Code: H.S.T.A.
+Grade: Tyrant"
+irregular_hsta_heretic_description,"Irregular
+Code: H.S.T.A.
+Grade: Heretic"
+irregular_psid_exceed_description,"Irregular
+Code: P.S.I.D.
+Grade: Elite"
+irregular_psid_lord_description,"Irregular
+Code: P.S.I.D.
+Grade: Lord"
+irregular_psid_master_description,"Irregular
+Code: P.S.I.D.
+Grade: Master"
+irregular_psid_selfless_description,"Irregular
+Code: P.S.I.D.
+Grade: Husk"
+irregular_psid_servant_description,"Irregular
+Code: P.S.I.D.
+Grade: Servant"
+irregular_psid_tyrant_description,"Irregular
+Code: P.S.I.D.
+Grade: Tyrant"
+irregular_psid_heretic_description,"Irregular
+Code: P.S.I.D.
+Grade: Heretic"
+irregular_anmi_exceed_description,"Irregular
+Code: A.N.M.I.
+Grade: Elite"
+irregular_anmi_lord_description,"Irregular
+Code: A.N.M.I.
+Grade: Lord"
+irregular_anmi_master_description,"Irregular
+Code: A.N.M.I.
+Grade: Master"
+irregular_anmi_selfless_description,"Irregular
+Code: A.N.M.I.
+Grade: Husk"
+irregular_anmi_servant_description,"Irregular
+Code: A.N.M.I.
+Grade: Servant"
+irregular_anmi_tyrant_description,"Irregular
+Code: A.N.M.I.
+Grade: Tyrant"
+irregular_anmi_heretic_description,"Irregular
+Code: A.N.M.I.
+Grade: Heretic"
+irregular_zeus_exceed_description,"Irregular
+Code: Z.E.U.S.
+Grade: Elite"
+irregular_zeus_lord_description,"Irregular
+Code: Z.E.U.S.
+Grade: Lord"
+irregular_zeus_master_description,"Irregular
+Code: Z.E.U.S.
+Grade: Master"
+irregular_zeus_selfless_description,"Irregular
+Code: Z.E.U.S.
+Grade: Husk"
+irregular_zeus_servant_description,"Irregular
+Code: Z.E.U.S.
+Grade: Servant"
+irregular_zeus_tyrant_description,"Irregular
+Code: Z.E.U.S.
+Grade: Tyrant"
+irregular_zeus_heretic_description,"Irregular
+Code: Z.E.U.S.
+Grade: Heretic"
+irregular_dmtr_exceed_description,"Irregular
+Code: D.M.T.R.
+Grade: Elite"
+irregular_dmtr_lord_description,"Irregular
+Code: D.M.T.R.
+Grade: Lord"
+irregular_dmtr_master_description,"Irregular
+Code: D.M.T.R.
+Grade: Master"
+irregular_dmtr_selfless_description,"Irregular
+Code: D.M.T.R.
+Grade: Husk"
+irregular_dmtr_servant_description,"Irregular
+Code: D.M.T.R.
+Grade: Servant"
+irregular_dmtr_tyrant_description,"Irregular
+Code: D.M.T.R.
+Grade: Tyrant"
+irregular_dmtr_heretic_description,"Irregular
+Code: D.M.T.R.
+Grade: Heretic"
+parts_name_arm_left,Large Caliber Rifle L
+parts_name_arm_right,Large Caliber Rifle R
+parts_name_head,Head
+parts_name_body_lower,Upper Body
+parts_name_body_upper,Lower Body
+parts_name_body,Torso
+parts_name_chest,Chest
+parts_name_belly,Abdomen
+parts_name_leg_front_left,Front Leg L
+parts_name_leg_front_right,Front Leg R
+parts_name_leg_back_left,Rear Leg L
+parts_name_leg_back_right,Rear Leg R
+parts_name_weapon_01,Turret I
+parts_name_weapon_02,Turret II
+parts_name_weapon_03,Turret III
+parts_name_weapon_04,Turret IV
+parts_name_weapon_05,Missile Launcher I
+parts_name_weapon_06,Missile Launcher II
+parts_name_weapon_07,Weapon 07
+parts_name_weapon_08,Weapon 08
+parts_name_weapon_09,Weapon 09
+parts_name_weapon_10,Weapon 10
+parts_name_LandEater01,Core R
+parts_name_LandEater02,Core L
+parts_name_LandEater03,Top
+parts_name_LandEater04,Runway
+parts_name_LandEater05,Defensive Wall R
+parts_name_LandEater06,Defensive Wall L
+parts_name_GraveDigger01,Rifle I
+parts_name_GraveDigger02,Rifle II
+parts_name_GraveDigger03,Rifle III
+parts_name_GraveDigger04,Rifle IV
+parts_name_GraveDigger05,Rifle V
+parts_name_GraveDigger06,Rifle VI
+parts_name_GraveDigger07,Rifle VII
+parts_name_GraveDigger08,Rifle VIII
+parts_name_GraveDigger09,Excavator R
+parts_name_GraveDigger10,Excavator L
+parts_name_GraveDigger11,Gear
+parts_name_GraveDigger12,Drill
+parts_name_Mordernia01,Missile Launcher I
+parts_name_Mordernia02,Missile Launcher II
+parts_name_Mordernia03,Core
+parts_name_Doctor01,Cylinder L
+parts_name_Doctor02,Cylinder R
+parts_name_RL01,Grenade Launcher L
+parts_name_RL02,Grenade Launcher R
+parts_name_MaterialH01,Rear Turret R
+parts_name_MaterialH02,Rear Turret L
+parts_name_MaterialH03,Front Turret R
+parts_name_MaterialH04,Front Turret L
+parts_name_MaterialH05,Front Tower R
+parts_name_MaterialH06,Front Tower L
+parts_name_MaterialH07,Front Tower C
+parts_name_MaterialH08,Material H Core
+parts_name_MaterialH09,Accessory
+parts_name_MaterialH10,Lower Arm L
+parts_name_MaterialH11,Lower Arm R
+parts_name_Nihilister01,Vulcan L
+parts_name_Nihilister02,Vulcan R
+parts_name_Nihilister03,Gear L
+parts_name_Nihilister04,Gear R
+parts_name_Nihilister05,Left Head
+parts_name_Nihilister06,Right Head
+parts_name_GateKeeper01,Mini Wormhole Gate I
+parts_name_GateKeeper02,Mini Wormhole Gate II
+parts_name_GateKeeper03,Mini Wormhole Gate III
+parts_name_GateKeeper04,Mini Wormhole Gate IV
+parts_name_motherwhale01,Summon Port L I
+parts_name_motherwhale02,Summon Port L II
+parts_name_motherwhale03,Summon Port L III
+parts_name_motherwhale04,Summon Port R I
+parts_name_motherwhale05,Summon Port R II
+parts_name_motherwhale06,Summon Port R III
+parts_name_motherwhale07,Container Hatch L
+parts_name_motherwhale08,Container Hatch R
+parts_name_motherwhale09,Core
+parts_name_kraken01,Tentacle L
+parts_name_kraken02,Giant Tentacle L
+parts_name_kraken03,Tentacle R
+parts_name_kraken04,Giant Tentacle R
+parts_name_blacksmith01,Container L
+parts_name_blacksmith02,Container R
+parts_name_shield01,Shield Generator I
+parts_name_shield02,Shield Generator II
+parts_name_shield03,Shield Generator III
+parts_name_shield04,Shield Generator IV
+parts_name_ultra01,Wing L
+parts_name_ultra02,Wing R
+parts_name_ultra03,Poison Chamber L
+parts_name_ultra04,Poison Chamber R
+parts_name_ultra05,Core
+parts_name_joint01,Skeleton I
+parts_name_joint02,Skeleton II
+parts_name_barrier_left,Crystal Horn L
+parts_name_barrier_right,Crystal Horn R
+parts_name_Indivila01,Pincer L
+parts_name_Indivila02,Pincer R
+parts_name_Indivila03,Tail
+parts_name_Indivila04,Blade
+parts_name_Indivila05,Core
+parts_name_armor_left,Crystal Glove L
+parts_name_armor_right,Crystal Glove R
+parts_name_MirrorContainer01,Replica Glass Slipper R I
+parts_name_MirrorContainer02,Replica Glass Slipper R II
+parts_name_MirrorContainer03,Replica Glass Slipper R III
+parts_name_MirrorContainer04,Replica Glass Slipper L I
+parts_name_MirrorContainer05,Replica Glass Slipper L II
+parts_name_MirrorContainer06,Replica Glass Slipper L III
+parts_name_MirrorContainer07,Glass Slipper I
+parts_name_MirrorContainer08,Glass Slipper II
+parts_name_MirrorContainer09,Glass Slipper III
+parts_name_MirrorContainer10,Glass Slipper IV
+parts_name_MirrorContainer11,Harmony Cube Shard
+parts_name_MassiveObject01,Unknown Core
+parts_name_Behemoth01,Giant Pincer R
+parts_name_Behemoth02,Giant Pincer L
+parts_name_Behemoth03,Machine Gun R
+parts_name_Behemoth04,Machine Gun L
+parts_name_Behemoth05,Gatling Gun
+parts_name_WhiteIceDragon01,Source of Coldness L
+parts_name_WhiteIceDragon02,Source of Coldness R
+parts_name_Mordernia04,Skirt L
+parts_name_Mordernia05,Skirt R
+parts_name_RebuildObelisk01,Reflector L
+parts_name_RebuildObelisk02,Reflector R
+parts_name_Laviathan_L,Left Arm
+parts_name_Laviathan_R,Right Arm
+parts_name_providence01,Vambrace L
+parts_name_providence02,Vambrace R
+parts_name_providence03,Pauldron L
+parts_name_providence04,Pauldron R
+parts_name_providence05,Greave L
+parts_name_providence06,Greave R
+parts_name_providence07,Expansion Parts
+parts_name_ziz01,Round Eye I
+parts_name_ziz02,Round Eye II
+parts_name_ziz03,Round Eye III
+parts_name_ziz04,Round Eye IV
