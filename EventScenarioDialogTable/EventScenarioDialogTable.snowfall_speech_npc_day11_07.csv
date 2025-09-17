@@ -1,0 +1,6 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day11_07_1,80903,snowfall_speech_npc_day11_07,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_07_1,False,WaterFall_s,1,10,1.0,amb_so_waterfall_2,event_bgm_neverland_snowflakes_sunset
+snowfall_speech_npc_day11_07_2,80903,snowfall_speech_npc_day11_07,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_07_2,False,,10,10,1.0,,
+snowfall_speech_npc_day11_07_3,80903,snowfall_speech_npc_day11_07,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_07_3,False,,10,10,1.0,,
+snowfall_speech_npc_day11_07_4,80903,snowfall_speech_npc_day11_07,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_07_4,False,,10,10,1.0,,
+snowfall_speech_npc_day11_07_5,80903,snowfall_speech_npc_day11_07,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_07_5,False,,black,black,1.0,,

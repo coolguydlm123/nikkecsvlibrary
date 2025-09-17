@@ -1,0 +1,3 @@
+id,event_id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,characters/0/set_char_position,characters/0/set_char_anim,characters/1/set_char_position,characters/1/set_char_anim,characters/2/set_char_position,characters/2/set_char_anim,set_start_camera,set_end_camera,set_camera_duration,play_movie
+event_ani_test_1,0,event_ani_test,Monologue,Monologue,Locale_SuddenStory:d_ex_seayouagain_21_44,False,1,sleep_02,3,idle,9,idle,black,black,1.0,
+event_ani_test_2,0,event_ani_test,,,Locale_SubScenario:none,False,,,,,,,1,1,1.0,ch22_end

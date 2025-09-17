@@ -1,0 +1,13 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_harran_12_1,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_1,True,harran,1,rage,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_harran_12_2,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_2,True,,1,rage,,10,10,1.0,,,
+d_counseling_harran_12_3,d_counseling_harran_12,Choice,120,harran,,Locale_Counseling:d_counseling_harran_12_3,False,,1,rage,,10,10,1.0,,d_counseling_harran_12_5,
+d_counseling_harran_12_4,d_counseling_harran_12,Choice,100,harran,,Locale_Counseling:d_counseling_harran_12_4,False,,1,rage,,10,10,1.0,,d_counseling_harran_12_8,
+d_counseling_harran_12_5,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_5,True,,1,idle,,10,100,1.0,,,
+d_counseling_harran_12_6,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_6,True,,1,idle,,100,100,1.0,,,
+d_counseling_harran_12_7,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_7,True,,1,idle,,100,100,1.0,,d_counseling_harran_12_12,
+d_counseling_harran_12_8,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_8,True,,1,rage,,10,100,1.0,,,
+d_counseling_harran_12_9,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_9,True,,1,rage,,100,100,1.0,,,
+d_counseling_harran_12_10,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_10,True,,1,idle,,100,100,1.0,,,
+d_counseling_harran_12_11,d_counseling_harran_12,Speech,0,harran,harran,Locale_Counseling:d_counseling_harran_12_11,True,,1,idle,,100,100,1.0,,,
+d_counseling_harran_12_12,d_counseling_harran_12,Narration,0,harran,,Locale_Counseling:d_counseling_harran_12_12,False,,1,idle,none,100,100,1.0,,,harran

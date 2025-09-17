@@ -1,0 +1,17 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_main_05_04_s_1,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_1,True,neon,3,idle,anis,1,void,rapi,13,idle,IceLand_02,130,130,1.0,bgm_secondhand
+d_main_05_04_s_2,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_2,True,,3,idle,,1,void,,13,idle,,130,130,1.0,
+d_main_05_04_s_3,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_3,False,,3,idle,,1,void,,13,idle,,130,1300,3.0,
+d_main_05_04_s_4,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_4,True,,3,idle,,1,void,,13,idle,,1300,130,1.0,
+d_main_05_04_s_5,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_5,True,,3,idle,,1,void,,13,idle,,130,130,1.0,
+d_main_05_04_s_6,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_6,True,,3,idle,,1,void,,13,idle,,130,100,1.0,
+d_main_05_04_s_7,d_main_05_04_s,Speech,neon,neon,Locale_MainScenario:d_main_05_04_s_7,True,,3,idle,,1,void,,13,idle,,100,31,1.0,
+d_main_05_04_s_8,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_8,True,,3,idle,,1,void,,13,idle,,31,31,1.0,
+d_main_05_04_s_9,d_main_05_04_s,Speech,neon,neon,Locale_MainScenario:d_main_05_04_s_9,False,,3,idle,,1,void,,13,idle,,31,31,1.0,
+d_main_05_04_s_10,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_10,True,,3,idle,,1,void,,13,idle,,31,1,1.0,
+d_main_05_04_s_11,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_11,False,,3,idle,,1,void,,13,idle,,1,1,1.0,
+d_main_05_04_s_12,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_12,False,,3,idle,,1,void,,13,idle,,1,10,1.0,
+d_main_05_04_s_13,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_13,True,,3,idle,,1,angry,,13,idle,,10,100,0.2,
+d_main_05_04_s_14,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_14,True,,3,idle,,1,angry,,13,angry,,130,1300,0.5,
+d_main_05_04_s_15,d_main_05_04_s,Speech,anis,anis,Locale_MainScenario:d_main_05_04_s_15,True,,3,idle,,1,angry,,13,angry,,10,100,0.5,
+d_main_05_04_s_16,d_main_05_04_s,Speech,rapi,rapi,Locale_MainScenario:d_main_05_04_s_16,True,,3,idle,,1,angry,,13,angry,,130,1300,0.5,

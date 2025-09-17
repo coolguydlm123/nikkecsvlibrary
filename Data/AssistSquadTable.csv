@@ -1,0 +1,15 @@
+id,assistsquad_type,assistsquad_distance,assistsquad_membercount,assistsquad_prefab,assistsquad_movetype,assistsquad_controltype,assistsquad_speed_ratio,marker_position
+1101,None,100,1,as_robot_001_var,Ground,None,100,1000
+1201,None,100,1,as_robot_pickup_001_var,Fly,None,100,1000
+1202,Pickup,50,1,as_robot_pickup_001_var,Fly,None,100,1000
+1102,Hammer,150,3,as_robot_destroy_001_var,Ground,None,100,1000
+1103,Fix,100,1,as_robot_repair_001_var,Ground,None,100,1000
+1104,Hacking,100,1,as_robot_hacking_001_var,Ground,None,100,1000
+1203,Transport,350,1,as_robot_transport_001,Fly,None,100,1300
+1105,Electric,100,1,as_robot_Electric_001_var,Ground_Electric,None,100,1000
+1106,Electric,100,2,as_robot_Electric_001_var,Ground_Electric,None,100,1000
+1107,Electric,100,3,as_robot_Electric_001_var,Ground_Electric,None,100,1000
+1108,Electric,100,4,as_robot_Electric_001_var,Ground_Electric,None,100,1000
+1109,Electric,100,5,as_robot_Electric_001_var,Ground_Electric,None,100,1000
+1110,ConvertGround,100,1,as_robot_convert_ground_001_var,Ground,None,100,1000
+1204,ConvertFly,100,1,as_robot_convert_fly_001_var,Fly,None,100,1000

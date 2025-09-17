@@ -1,0 +1,7 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day20_03_1,80903,snowfall_speech_npc_day20_03,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day20_03_1,True,ludmilla_w,1,idle,BambooForest_d,1,10,1.0,amb_so_bambooforest_1,event_bgm_neverland_snowflakes_day
+snowfall_speech_npc_day20_03_2,80903,snowfall_speech_npc_day20_03,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day20_03_2,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day20_03_3,80903,snowfall_speech_npc_day20_03,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day20_03_3,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day20_03_4,80903,snowfall_speech_npc_day20_03,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day20_03_4,True,,1,smile,,10,10,1.0,,
+snowfall_speech_npc_day20_03_5,80903,snowfall_speech_npc_day20_03,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day20_03_5,True,,1,smile,,10,10,1.0,,
+snowfall_speech_npc_day20_03_6,80903,snowfall_speech_npc_day20_03,Narration,,,Locale_SubScenario:snowfall_speech_npc_day20_03_6,False,,1,smile,,black,black,1.0,,

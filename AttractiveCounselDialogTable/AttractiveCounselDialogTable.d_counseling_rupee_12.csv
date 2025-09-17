@@ -1,0 +1,13 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_rupee_12_1,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_1,True,rupee,1,idle,CommanderRoom,L_10,L_10,1.0,bgm_story_backtonormal,,
+d_counseling_rupee_12_2,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_2,True,,1,idle,,L_10,L_10,1.0,,,
+d_counseling_rupee_12_3,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_3,True,,1,idle,,L_10,L_10,1.0,,,
+d_counseling_rupee_12_4,d_counseling_rupee_12,Choice,120,rupee,,Locale_Counseling:d_counseling_rupee_12_4,False,,1,idle,,L_10,L_10,1.0,,d_counseling_rupee_12_6,
+d_counseling_rupee_12_5,d_counseling_rupee_12,Choice,100,rupee,,Locale_Counseling:d_counseling_rupee_12_5,False,,1,idle,,L_10,L_10,1.0,,d_counseling_rupee_12_9,
+d_counseling_rupee_12_6,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_6,True,,1,surprise,,L_10,L_100,1.0,,,
+d_counseling_rupee_12_7,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_7,True,,1,idle,,L_100,L_100,1.0,,,
+d_counseling_rupee_12_8,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_8,True,,1,idle,,L_100,L_100,1.0,,d_counseling_rupee_12_12,
+d_counseling_rupee_12_9,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_9,True,,1,surprise,,L_10,L_100,1.0,,,
+d_counseling_rupee_12_10,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_10,True,,1,surprise,,L_100,L_100,1.0,,,
+d_counseling_rupee_12_11,d_counseling_rupee_12,Speech,0,rupee,rupee,Locale_Counseling:d_counseling_rupee_12_11,True,,1,sad,,L_100,L_100,1.0,,,
+d_counseling_rupee_12_12,d_counseling_rupee_12,Narration,0,rupee,,Locale_Counseling:d_counseling_rupee_12_12,False,,1,idle,none,L_100,L_100,1.0,,,rupee

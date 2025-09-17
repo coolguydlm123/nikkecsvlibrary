@@ -1,0 +1,7 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,fade
+d_test_fade_01,d_test_fade,Speech,privaty,privaty,Locale_SuddenStory:d_test_quest3_s_01,False,privaty,1,idle,Desert_01,1,10,3.0,none,
+d_test_fade_02,d_test_fade,Self,privaty,Self,Locale_SuddenStory:d_test_quest3_s_02,False,privaty,1,idle,,10,10,1.0,,black
+d_test_fade_03,d_test_fade,Speech,privaty,privaty,Locale_SuddenStory:d_test_quest3_s_03,True,privaty,1,idle,,10,10,1.0,,white
+d_test_fade_04,d_test_fade,Self,privaty,Self,Locale_SuddenStory:d_test_quest3_s_04,True,privaty,1,idle,,10,10,1.0,,black_without_dialogue
+d_test_fade_05,d_test_fade,Speech,privaty,privaty,Locale_SuddenStory:d_test_quest3_s_05,False,privaty,1,idle,,10,10,1.0,,white_without_dialogue
+d_test_fade_06,d_test_fade,Speech,privaty,privaty,Locale_SuddenStory:d_test_quest3_s_06,True,privaty,1,idle,,10,100,0.5,,

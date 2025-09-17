@@ -1,0 +1,10 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_belorta_14_1,d_counseling_belorta_14,Speech,0,belorta,belorta,Locale_Counseling:d_counseling_belorta_14_1,True,belorta,1,idle,CommanderRoom,XS_10,XS_10,1.0,bgm_story_backtonormal,,
+d_counseling_belorta_14_2,d_counseling_belorta_14,Choice,120,belorta,,Locale_Counseling:d_counseling_belorta_14_2,False,,1,idle,,XS_10,XS_10,1.0,,d_counseling_belorta_14_4,
+d_counseling_belorta_14_3,d_counseling_belorta_14,Choice,100,belorta,,Locale_Counseling:d_counseling_belorta_14_3,False,,1,idle,,XS_10,XS_10,1.0,,d_counseling_belorta_14_7,
+d_counseling_belorta_14_4,d_counseling_belorta_14,Speech,0,belorta,belorta,Locale_Counseling:d_counseling_belorta_14_4,True,,1,delight,,XS_10,XS_100,1.0,,,
+d_counseling_belorta_14_5,d_counseling_belorta_14,Speech,0,belorta,belorta,Locale_Counseling:d_counseling_belorta_14_5,True,,1,delight,,XS_100,XS_100,1.0,,,
+d_counseling_belorta_14_6,d_counseling_belorta_14,Speech,0,belorta,belorta,Locale_Counseling:d_counseling_belorta_14_6,True,,1,delight,,XS_100,XS_100,1.0,,d_counseling_belorta_14_9,
+d_counseling_belorta_14_7,d_counseling_belorta_14,Speech,0,belorta,belorta,Locale_Counseling:d_counseling_belorta_14_7,True,,1,idle,,XS_10,XS_100,1.0,,,
+d_counseling_belorta_14_8,d_counseling_belorta_14,Speech,0,belorta,belorta,Locale_Counseling:d_counseling_belorta_14_8,True,,1,idle,,XS_100,XS_100,1.0,,,
+d_counseling_belorta_14_9,d_counseling_belorta_14,Narration,0,belorta,,Locale_Counseling:d_counseling_belorta_14_9,False,,1,idle,none,XS_100,XS_100,1.0,,,belorta

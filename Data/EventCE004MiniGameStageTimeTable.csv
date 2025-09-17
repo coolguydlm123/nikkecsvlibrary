@@ -1,0 +1,13 @@
+id,group,repeat_type,battle_count_condition,hint_time_value,battle_time_value,burst_time_value
+30101,301,Next,5,1500,0,0
+30102,301,Next,5,1000,0,0
+30103,301,Next,10,800,0,0
+30104,301,Next,10,800,0,0
+30105,301,Repeat,10,0,0,0
+40101,401,Next,20,800,0,0
+40102,401,Next,20,800,0,0
+40103,401,Next,20,600,0,0
+40104,401,Next,20,600,0,0
+40105,401,Next,20,500,0,0
+40106,401,Next,10,300,0,0
+40107,401,Repeat,10,100,0,0

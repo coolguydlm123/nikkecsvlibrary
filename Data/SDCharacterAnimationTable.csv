@@ -1,0 +1,9 @@
+id,name_localkey,animation_name,voice_category
+101,Locale_System:SD_ANIMATION_NAME_IDLE,Idle,0
+201,Locale_System:SD_ANIMATION_NAME_IDLE_SPECIAL,IdleSpecial,0
+301,Locale_System:SD_ANIMATION_NAME_WALK,Walk,0
+401,Locale_System:SD_ANIMATION_NAME_SHOT,Shot,0
+501,Locale_System:SD_ANIMATION_NAME_COVER_RELOAD,CoverReload,0
+601,Locale_System:SD_ANIMATION_NAME_STUN,Stun,0
+701,Locale_System:SD_ANIMATION_NAME_TALK_0,Talk0,2
+801,Locale_System:SD_ANIMATION_NAME_TALK_1,Talk1,2

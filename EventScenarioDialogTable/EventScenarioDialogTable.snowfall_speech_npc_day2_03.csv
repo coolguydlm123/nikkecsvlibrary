@@ -1,0 +1,12 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day2_03_1,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_1,True,vesti,1,idle,HotSpringInnOut_s,1,XS_10,1.0,amb_so_inn_out_2,event_bgm_neverland_snowflakes_sunset
+snowfall_speech_npc_day2_03_2,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_2,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_3,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_3,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_4,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_4,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_5,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_5,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_6,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_6,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_7,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_7,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_8,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_8,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_9,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_9,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_10,80903,snowfall_speech_npc_day2_03,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day2_03_10,True,,1,sad,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day2_03_11,80903,snowfall_speech_npc_day2_03,Narration,,,Locale_SubScenario:snowfall_speech_npc_day2_03_11,False,,1,sad,,black,black,1.0,,

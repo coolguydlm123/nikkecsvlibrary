@@ -1,0 +1,3 @@
+id,start_date,end_date,special_lobby_change_count,special_lobby_background,character_resource_id,costume_index,special_lobby_bgm,lobby_disable_by_change
+1001,2024-03-31T20:00:00,2024-04-01T19:59:59,5,bg_lobby_missilis,901,0,bgm_story_kneeldownfools,True
+1002,2025-03-31T20:00:00,2025-04-01T19:59:59,0,2025FoolsDay,993,0,event_bgm_fortheking_mechashifty,False

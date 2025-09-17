@@ -1,0 +1,14 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/4/hide_char_id
+d_main_30_09_e_1,d_main_30_09_e,Speech,shifty,shifty,Locale_MainScenario:d_main_30_09_e_1,True,rapi,3,idle,anis,5,worry,neon,7,idle,fragile,1,think,shifty,OP_leftup,angry,HarmonyCube,6,4,2.0,bgm_chapter30_field_whitecity,
+d_main_30_09_e_2,d_main_30_09_e,Self,shifty,,Locale_MainScenario:d_main_30_09_e_2,False,,3,idle,,5,worry,,7,idle,,1,think,,OP_leftup,angry,,4,4,1.0,,
+d_main_30_09_e_3,d_main_30_09_e,Speech,shifty,shifty,Locale_MainScenario:d_main_30_09_e_3,True,,3,idle,,5,worry,,7,idle,,1,think,,OP_leftup,angry,,4,4,1.0,,
+d_main_30_09_e_4,d_main_30_09_e,Self,rapi,,Locale_MainScenario:d_main_30_09_e_4,False,,3,idle,,5,worry,,7,idle,,1,think,,OP_leftup,angry,,4,4,1.0,,shifty
+d_main_30_09_e_5,d_main_30_09_e,Self,rapi,,Locale_MainScenario:d_main_30_09_e_5,False,,3,idle,,5,worry,,7,idle,,1,think,,,,,4,4,1.0,,
+d_main_30_09_e_6,d_main_30_09_e,Speech,rapi,rapi,Locale_MainScenario:d_main_30_09_e_6,True,,3,idle,,5,worry,,7,idle,,1,think,,,,,4,30,1.0,,
+d_main_30_09_e_7,d_main_30_09_e,Self,rapi,,Locale_MainScenario:d_main_30_09_e_7,False,,3,idle,,5,worry,,7,idle,,1,think,,,,,30,S_10,1.0,,
+d_main_30_09_e_8,d_main_30_09_e,Self,rapi,,Locale_MainScenario:d_main_30_09_e_8,False,,3,idle,,5,worry,,7,idle,,1,think,,,,,S_10,S_10,1.0,,
+d_main_30_09_e_9,d_main_30_09_e,Speech,fragile,fragile,Locale_MainScenario:d_main_30_09_e_9,True,,3,idle,,5,worry,,7,idle,,1,think,,,,,S_10,S_10,1.0,,
+d_main_30_09_e_10,d_main_30_09_e,Self,fragile,,Locale_MainScenario:d_main_30_09_e_10,False,,3,idle,,5,worry,,7,idle,,1,think,,,,,S_10,S_10,1.0,,
+d_main_30_09_e_11,d_main_30_09_e,Self,fragile,,Locale_MainScenario:d_main_30_09_e_11,False,,3,idle,,5,worry,,7,idle,,1,think,,,,,S_10,S_10,1.0,,
+d_main_30_09_e_12,d_main_30_09_e,Speech,fragile,fragile,Locale_MainScenario:d_main_30_09_e_12,True,,3,idle,,5,worry,,7,idle,,1,think,,,,,S_10,S_10,1.0,,
+d_main_30_09_e_13,d_main_30_09_e,Speech,fragile,fragile,Locale_MainScenario:d_main_30_09_e_13,True,,3,idle,,5,worry,,7,idle,,1,sorry,,,,,S_10,S_100,1.0,,

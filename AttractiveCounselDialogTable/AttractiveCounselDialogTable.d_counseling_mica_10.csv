@@ -1,0 +1,12 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_mica_10_1,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_1,True,mica,1,worry,CommanderRoom,XS_10,XS_10,1.0,bgm_story_backtonormal,,
+d_counseling_mica_10_2,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_2,True,,1,worry,,XS_10,XS_10,1.0,,,
+d_counseling_mica_10_3,d_counseling_mica_10,Choice,120,mica,,Locale_Counseling:d_counseling_mica_10_3,False,,1,worry,,XS_10,XS_10,1.0,,d_counseling_mica_10_5,
+d_counseling_mica_10_4,d_counseling_mica_10,Choice,100,mica,,Locale_Counseling:d_counseling_mica_10_4,False,,1,worry,,XS_10,XS_10,1.0,,d_counseling_mica_10_8,
+d_counseling_mica_10_5,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_5,True,,1,idle,,XS_10,XS_100,1.0,,,
+d_counseling_mica_10_6,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_6,True,,1,idle,,XS_100,XS_100,1.0,,,
+d_counseling_mica_10_7,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_7,True,,1,delight,,XS_100,XS_100,1.0,,d_counseling_mica_10_11,
+d_counseling_mica_10_8,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_8,True,,1,worry,,XS_10,XS_100,1.0,,,
+d_counseling_mica_10_9,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_9,True,,1,worry,,XS_100,XS_100,1.0,,,
+d_counseling_mica_10_10,d_counseling_mica_10,Speech,0,mica,mica,Locale_Counseling:d_counseling_mica_10_10,True,,1,worry,,XS_100,XS_100,1.0,,,
+d_counseling_mica_10_11,d_counseling_mica_10,Narration,0,mica,,Locale_Counseling:d_counseling_mica_10_11,False,,1,idle,none,XS_100,XS_100,1.0,,,mica

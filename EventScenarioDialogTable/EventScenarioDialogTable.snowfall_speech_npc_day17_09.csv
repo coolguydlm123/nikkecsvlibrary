@@ -1,0 +1,9 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day17_09_1,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_1,True,signal,1,shy,HotSpringInnIn_n,1,XS_10,1.0,amb_so_inn_in_3,event_bgm_neverland_hugme_night
+snowfall_speech_npc_day17_09_2,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_2,True,,1,shy,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_09_3,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_3,True,,1,shy,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_09_4,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_4,True,,1,shy,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_09_5,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_5,True,,1,shy,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_09_6,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_6,True,,1,shy,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_09_7,80903,snowfall_speech_npc_day17_09,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day17_09_7,True,,1,shy,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_09_8,80903,snowfall_speech_npc_day17_09,Narration,,,Locale_SubScenario:snowfall_speech_npc_day17_09_8,False,,1,shy,,black,black,1.0,,

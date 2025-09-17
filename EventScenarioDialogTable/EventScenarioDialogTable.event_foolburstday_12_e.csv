@@ -1,0 +1,11 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,highlight,speaker
+event_foolburstday_12_e_1,130007,event_foolburstday_12_e,Self,Locale_SubScenario:event_foolburstday_12_e_1,False,mechashifty,1,idle,shifty_s,3,angry,CityForest_03_d,S_300,S_30,1.0,bgm_story_breakaway,,
+event_foolburstday_12_e_2,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_2,True,,1,idle,,3,angry,,S_30,S_30,1.0,,shifty_s,shifty_s
+event_foolburstday_12_e_3,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_3,True,,1,idle,,3,angry,,S_30,S_30,1.0,,shifty_s,shifty_s
+event_foolburstday_12_e_4,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_4,True,,1,idle,,3,angry,,S_30,S_30,1.0,,shifty_s,shifty_s
+event_foolburstday_12_e_5,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_5,False,,1,idle,,3,angry,,S_30,31,1.0,,mechashifty,mechashifty
+event_foolburstday_12_e_6,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_6,True,,1,idle,,3,angry,,31,31,1.0,,shifty_s,shifty_s
+event_foolburstday_12_e_7,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_7,True,,1,idle,,3,angry,,31,31,1.0,,mechashifty,mechashifty
+event_foolburstday_12_e_8,130007,event_foolburstday_12_e,Self,Locale_SubScenario:event_foolburstday_12_e_8,False,,1,idle,,3,angry,,31,31,1.0,,mechashifty,
+event_foolburstday_12_e_9,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_9,True,,1,idle,,3,angry,,31,31,1.0,,mechashifty,mechashifty
+event_foolburstday_12_e_10,130007,event_foolburstday_12_e,Speech,Locale_SubScenario:event_foolburstday_12_e_10,True,,1,idle,,3,angry,,31,31,1.0,,mechashifty,mechashifty

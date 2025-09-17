@@ -1,0 +1,16 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_milk_bloomingbunny_12_1,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_1,True,milk_b,1,idle,CoinRushMainHall,100,100,1.0,bgm_story_backtonormal,,
+d_counseling_milk_bloomingbunny_12_2,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_2,True,,1,idle,,100,100,1.0,,,
+d_counseling_milk_bloomingbunny_12_3,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_3,True,,1,idle,,100,100,1.0,,,
+d_counseling_milk_bloomingbunny_12_4,d_counseling_milk_bloomingbunny_12,Choice,120,milk_b,,Locale_Counseling:d_counseling_milk_bloomingbunny_12_4,False,,1,idle,,100,100,1.0,,d_counseling_milk_bloomingbunny_12_6,
+d_counseling_milk_bloomingbunny_12_5,d_counseling_milk_bloomingbunny_12,Choice,100,milk_b,,Locale_Counseling:d_counseling_milk_bloomingbunny_12_5,False,,1,idle,,100,100,1.0,,d_counseling_milk_bloomingbunny_12_11,
+d_counseling_milk_bloomingbunny_12_6,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_6,True,,1,good,,100,10,1.0,,,
+d_counseling_milk_bloomingbunny_12_7,d_counseling_milk_bloomingbunny_12,Self,0,milk_b,,Locale_Counseling:d_counseling_milk_bloomingbunny_12_7,False,,1,good,,10,10,1.0,,,
+d_counseling_milk_bloomingbunny_12_8,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_8,True,,1,no,,10,10,1.0,,,
+d_counseling_milk_bloomingbunny_12_9,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_9,True,,1,no,,10,10,1.0,,,
+d_counseling_milk_bloomingbunny_12_10,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_10,True,,1,shy,,10,10,1.0,,d_counseling_milk_bloomingbunny_12_15,
+d_counseling_milk_bloomingbunny_12_11,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_11,True,,1,no,,100,100,1.0,,,
+d_counseling_milk_bloomingbunny_12_12,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_12,True,,1,no,,100,100,1.0,,,
+d_counseling_milk_bloomingbunny_12_13,d_counseling_milk_bloomingbunny_12,Self,0,milk_b,,Locale_Counseling:d_counseling_milk_bloomingbunny_12_13,False,,1,no,,100,100,1.0,,,
+d_counseling_milk_bloomingbunny_12_14,d_counseling_milk_bloomingbunny_12,Speech,0,milk_b,milk_b,Locale_Counseling:d_counseling_milk_bloomingbunny_12_14,True,,1,no,,100,10,1.0,,d_counseling_milk_bloomingbunny_12_15,
+d_counseling_milk_bloomingbunny_12_15,d_counseling_milk_bloomingbunny_12,Narration,0,milk_b,,Locale_Counseling:d_counseling_milk_bloomingbunny_12_15,False,,1,idle,none,10,10,1.0,,,milk_b

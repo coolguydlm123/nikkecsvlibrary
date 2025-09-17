@@ -1,0 +1,10 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_volume_14_1,d_counseling_volume_14,Speech,0,volume,volume,Locale_Counseling:d_counseling_volume_14_1,True,volume,1,angry,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_volume_14_2,d_counseling_volume_14,Speech,0,volume,volume,Locale_Counseling:d_counseling_volume_14_2,True,,1,angry,,S_10,S_10,1.0,,,
+d_counseling_volume_14_3,d_counseling_volume_14,Choice,100,volume,,Locale_Counseling:d_counseling_volume_14_3,False,,1,angry,,S_10,S_10,1.0,,d_counseling_volume_14_5,
+d_counseling_volume_14_4,d_counseling_volume_14,Choice,120,volume,,Locale_Counseling:d_counseling_volume_14_4,False,,1,angry,,S_10,S_10,1.0,,d_counseling_volume_14_7,
+d_counseling_volume_14_5,d_counseling_volume_14,Speech,0,volume,volume,Locale_Counseling:d_counseling_volume_14_5,True,,1,angry,,S_10,S_100,1.0,,,
+d_counseling_volume_14_6,d_counseling_volume_14,Speech,0,volume,volume,Locale_Counseling:d_counseling_volume_14_6,True,,1,angry,,S_100,S_100,1.0,,d_counseling_volume_14_9,
+d_counseling_volume_14_7,d_counseling_volume_14,Speech,0,volume,volume,Locale_Counseling:d_counseling_volume_14_7,True,,1,delight,,S_10,S_100,1.0,,,
+d_counseling_volume_14_8,d_counseling_volume_14,Speech,0,volume,volume,Locale_Counseling:d_counseling_volume_14_8,True,,1,idle,,S_100,S_100,1.0,,,
+d_counseling_volume_14_9,d_counseling_volume_14,Narration,0,volume,,Locale_Counseling:d_counseling_volume_14_9,False,,1,idle,none,S_100,S_100,1.0,,,volume

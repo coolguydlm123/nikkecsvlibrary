@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,play_sound,speaker,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,jump_target,characters/0/hide_char_id
+d_counseling_d_13_1,d_counseling_d_13,Monologue,0,d,Locale_Counseling:d_counseling_d_13_1,False,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,,,,,,
+d_counseling_d_13_2,d_counseling_d_13,Narration,0,d,Locale_Counseling:d_counseling_d_13_2,False,,10,10,1.0,,sfx_scn_autodooropen,,,,,,
+d_counseling_d_13_3,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_3,True,,10,10,1.0,,,d,d,1,think,,
+d_counseling_d_13_4,d_counseling_d_13,Self,0,d,Locale_Counseling:d_counseling_d_13_4,False,,10,10,1.0,,,,,1,think,,
+d_counseling_d_13_5,d_counseling_d_13,Monologue,0,d,Locale_Counseling:d_counseling_d_13_5,False,,10,10,1.0,,,,,1,think,,
+d_counseling_d_13_6,d_counseling_d_13,Choice,100,d,Locale_Counseling:d_counseling_d_13_6,False,,10,10,1.0,,,,,1,think,d_counseling_d_13_8,
+d_counseling_d_13_7,d_counseling_d_13,Choice,120,d,Locale_Counseling:d_counseling_d_13_7,False,,10,10,1.0,,,,,1,think,d_counseling_d_13_11,
+d_counseling_d_13_8,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_8,True,,10,100,1.0,,,d,,1,idle,,
+d_counseling_d_13_9,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_9,True,,100,100,1.0,,,d,,1,think,,
+d_counseling_d_13_10,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_10,True,,100,100,1.0,,,d,,1,think,d_counseling_d_13_14,
+d_counseling_d_13_11,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_11,True,,10,100,1.0,,,d,,1,idle,,
+d_counseling_d_13_12,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_12,True,,100,100,1.0,,,d,,1,idle,,
+d_counseling_d_13_13,d_counseling_d_13,Speech,0,d,Locale_Counseling:d_counseling_d_13_13,True,,100,100,1.0,,,d,,1,idle,,
+d_counseling_d_13_14,d_counseling_d_13,Narration,0,d,Locale_Counseling:d_counseling_d_13_14,False,none,100,100,1.0,,,,,1,idle,,d

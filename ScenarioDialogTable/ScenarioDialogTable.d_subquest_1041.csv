@@ -1,0 +1,15 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_subquest_1041_1,d_subquest_1041,Speech,anis,anis,Locale_SubScenario:d_subquest_1041_1,True,anis,2,worry,neon,12,idle,rapi,14,idle,IceLand_01,1,1,1.0,bgm_secondhand
+d_subquest_1041_2,d_subquest_1041,Speech,neon,neon,Locale_SubScenario:d_subquest_1041_2,False,,2,worry,,12,surprise,,14,idle,,1,1,1.0,
+d_subquest_1041_3,d_subquest_1041,Speech,neon,neon,Locale_SubScenario:d_subquest_1041_3,True,,2,worry,,12,surprise,,14,idle,,1,1,1.0,
+d_subquest_1041_4,d_subquest_1041,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1041_4,True,,2,worry,,12,surprise,,14,idle,,1,140,1.0,
+d_subquest_1041_5,d_subquest_1041,Monologue,rapi,,Locale_SubScenario:d_subquest_1041_5,False,,2,worry,,12,idle,,14,idle,,black,black,1.0,
+d_subquest_1041_6,d_subquest_1041,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1041_6,True,,2,worry,,12,idle,,14,idle,,140,140,1.0,
+d_subquest_1041_7,d_subquest_1041,Speech,anis,anis,Locale_SubScenario:d_subquest_1041_7,True,,2,worry,,12,idle,,14,idle,,1,1,1.0,
+d_subquest_1041_8,d_subquest_1041,Speech,neon,neon,Locale_SubScenario:d_subquest_1041_8,True,,2,worry,,12,worry,,14,idle,,1,1,1.0,
+d_subquest_1041_9,d_subquest_1041,Speech,anis,anis,Locale_SubScenario:d_subquest_1041_9,True,,2,worry,,12,worry,,14,idle,,1,1,1.0,
+d_subquest_1041_10,d_subquest_1041,Speech,anis,anis,Locale_SubScenario:d_subquest_1041_10,True,,2,worry,,12,idle,,14,idle,,1,20,1.0,
+d_subquest_1041_11,d_subquest_1041,Speech,anis,anis,Locale_SubScenario:d_subquest_1041_11,True,,2,worry,,12,idle,,14,idle,,20,20,1.0,
+d_subquest_1041_12,d_subquest_1041,Self,anis,Self,Locale_SubScenario:d_subquest_1041_12,True,,2,worry,,12,idle,,14,idle,,20,20,1.0,
+d_subquest_1041_13,d_subquest_1041,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1041_13,True,,2,worry,,12,idle,,14,idle,,140,140,1.0,
+d_subquest_1041_14,d_subquest_1041,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1041_14,True,,2,worry,,12,idle,,14,idle,,140,140,1.0,

@@ -1,0 +1,16 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_sakura_bloominsummer_03_1,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_1,True,sakura_s,1,idle,CoralIslandInside_d,10,10,1.0,event_bgm_beautyfullshot_seasidedance,,
+d_counseling_sakura_bloominsummer_03_2,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_2,True,,1,idle,,10,10,1.0,,,
+d_counseling_sakura_bloominsummer_03_3,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_3,True,,1,idle,,10,10,1.0,,,
+d_counseling_sakura_bloominsummer_03_4,d_counseling_sakura_bloominsummer_03,Choice,100,sakura_s,,Locale_Counseling:d_counseling_sakura_bloominsummer_03_4,False,,1,idle,,10,10,1.0,,d_counseling_sakura_bloominsummer_03_6,
+d_counseling_sakura_bloominsummer_03_5,d_counseling_sakura_bloominsummer_03,Choice,120,sakura_s,,Locale_Counseling:d_counseling_sakura_bloominsummer_03_5,False,,1,idle,,10,10,1.0,,d_counseling_sakura_bloominsummer_03_9,
+d_counseling_sakura_bloominsummer_03_6,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_6,True,,1,angry,,10,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_7,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_7,True,,1,angry,,100,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_8,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_8,True,,1,angry,,100,100,1.0,,d_counseling_sakura_bloominsummer_03_15,
+d_counseling_sakura_bloominsummer_03_9,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_9,True,,1,idle,,10,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_10,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_10,True,,1,smile,,100,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_11,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_11,True,,1,smile,,100,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_12,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_12,True,,1,smile,,100,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_13,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_13,False,,1,special,,100,100,1.0,,,
+d_counseling_sakura_bloominsummer_03_14,d_counseling_sakura_bloominsummer_03,Speech,0,sakura_s,sakura_s,Locale_Counseling:d_counseling_sakura_bloominsummer_03_14,True,,1,special,,100,100,1.0,,d_counseling_sakura_bloominsummer_03_15,
+d_counseling_sakura_bloominsummer_03_15,d_counseling_sakura_bloominsummer_03,Narration,0,sakura_s,,Locale_Counseling:d_counseling_sakura_bloominsummer_03_15,False,,1,idle,none,100,100,1.0,,,sakura_s

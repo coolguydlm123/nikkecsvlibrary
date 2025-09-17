@@ -1,0 +1,9 @@
+id,group_id,box_resource
+101,1,sortout_box_gift_01
+102,1,sortout_box_gift_02
+103,1,sortout_box_gift_03
+104,1,sortout_box_special
+201,2,sortout_box_enermy_01
+202,2,sortout_box_enermy_02
+203,2,sortout_box_enermy_03
+301,3,sortout_box_fever

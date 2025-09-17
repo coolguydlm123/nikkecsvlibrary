@@ -1,0 +1,17 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_k_18_1,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_1,True,k,1,think,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_k_18_2,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_2,True,,1,think,,S_10,S_10,1.0,,,
+d_counseling_k_18_3,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_3,True,,1,think,,S_10,S_10,1.0,,,
+d_counseling_k_18_4,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_4,True,,1,think,,S_10,S_10,1.0,,,
+d_counseling_k_18_5,d_counseling_k_18,Choice,100,k,,Locale_Counseling:d_counseling_k_18_5,False,,1,think,,S_10,S_10,1.0,,d_counseling_k_18_7,
+d_counseling_k_18_6,d_counseling_k_18,Choice,120,k,,Locale_Counseling:d_counseling_k_18_6,False,,1,think,,S_10,S_10,1.0,,d_counseling_k_18_11,
+d_counseling_k_18_7,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_7,True,,1,surprise,,S_10,S_100,1.0,,,
+d_counseling_k_18_8,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_8,True,,1,surprise,,S_100,S_100,1.0,,,
+d_counseling_k_18_9,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_9,True,,1,surprise,,S_100,S_100,1.0,,,
+d_counseling_k_18_10,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_10,True,,1,surprise,,S_100,S_100,1.0,,d_counseling_k_18_16,
+d_counseling_k_18_11,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_11,True,,1,delight,,S_10,S_100,1.0,,,
+d_counseling_k_18_12,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_12,True,,1,delight,,S_100,S_100,1.0,,,
+d_counseling_k_18_13,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_13,True,,1,delight,,S_100,S_100,1.0,,,
+d_counseling_k_18_14,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_14,True,,1,delight,,S_100,S_100,1.0,,,
+d_counseling_k_18_15,d_counseling_k_18,Speech,0,k,k,Locale_Counseling:d_counseling_k_18_15,True,,1,think,,S_100,S_100,1.0,,d_counseling_k_18_16,
+d_counseling_k_18_16,d_counseling_k_18,Narration,0,k,,Locale_Counseling:d_counseling_k_18_16,False,,1,idle,none,S_100,S_100,1.0,,,k

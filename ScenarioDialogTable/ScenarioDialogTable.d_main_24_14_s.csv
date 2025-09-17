@@ -1,0 +1,13 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim
+d_main_24_14_s_1,d_main_24_14_s,Speech,rapi,rapi,Locale_MainScenario:d_main_24_14_s_1,True,neon,3,idle,anis,1,angry,rapi,13,angry,Factory,13,130,0.3,bgm_disaster,,,
+d_main_24_14_s_2,d_main_24_14_s,Speech,anis,anis,Locale_MainScenario:d_main_24_14_s_2,True,,3,idle,,1,angry,,13,angry,,130,12,0.6,,,,
+d_main_24_14_s_3,d_main_24_14_s,Speech,neon,neon,Locale_MainScenario:d_main_24_14_s_3,True,,3,angry,,1,angry,,13,idle,,12,2,0.6,,,,
+d_main_24_14_s_4,d_main_24_14_s,Speech,anis,anis,Locale_MainScenario:d_main_24_14_s_4,True,,3,angry,,1,angry,,13,idle,,2,2,1.0,,,,
+d_main_24_14_s_5,d_main_24_14_s,Speech,neon,neon,Locale_MainScenario:d_main_24_14_s_5,True,,3,delight,,1,angry,,13,idle,,2,2,1.0,,,,
+d_main_24_14_s_6,d_main_24_14_s,Self,,Self,Locale_MainScenario:d_main_24_14_s_6,False,,3,delight,,1,angry,,13,idle,,2,2,1.0,,,,
+d_main_24_14_s_7,d_main_24_14_s,Speech,enikk_op_l,enikk_op_l,Locale_MainScenario:d_main_24_14_s_7,True,,3,idle,,1,angry,,13,idle,,2,2,1.0,,enikk_op_l,OP_leftup,special
+d_main_24_14_s_8,d_main_24_14_s,Speech,anis,anis,Locale_MainScenario:d_main_24_14_s_8,True,,3,idle,,1,idle,,13,idle,,2,2,1.0,,,OP_leftup,special
+d_main_24_14_s_9,d_main_24_14_s,Speech,neon,neon,Locale_MainScenario:d_main_24_14_s_9,True,,3,angry,,1,idle,,13,idle,,2,2,1.0,,,OP_leftup,special
+d_main_24_14_s_10,d_main_24_14_s,Speech,rapi,rapi,Locale_MainScenario:d_main_24_14_s_10,True,,3,angry,,1,idle,,13,angry,,2,12,0.5,,,OP_leftup,special
+d_main_24_14_s_11,d_main_24_14_s,Self,,Self,Locale_MainScenario:d_main_24_14_s_11,False,,3,idle,,1,idle,,13,angry,,12,12,1.0,,,OP_leftup,special
+d_main_24_14_s_12,d_main_24_14_s,Speech,rapi,rapi,Locale_MainScenario:d_main_24_14_s_12,True,,3,idle,,1,idle,,13,angry,,12,130,0.5,,,OP_leftup,special

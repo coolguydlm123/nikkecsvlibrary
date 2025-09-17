@@ -1,0 +1,12 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_anis_sprklingsummer_06_1,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_1,True,anis_s,1,shy,Beach_d,XS_10,XS_10,1.0,bgm_story_summermood,,
+d_counseling_anis_sprklingsummer_06_2,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_2,True,,1,shy,,XS_10,XS_10,1.0,,,
+d_counseling_anis_sprklingsummer_06_3,d_counseling_anis_sparklingsummer_06,Choice,120,anis_s,,Locale_Counseling:d_counseling_anis_sprklingsummer_06_3,False,,1,shy,,XS_10,XS_10,1.0,,d_counseling_anis_sprklingsummer_06_5,
+d_counseling_anis_sprklingsummer_06_4,d_counseling_anis_sparklingsummer_06,Choice,100,anis_s,,Locale_Counseling:d_counseling_anis_sprklingsummer_06_4,False,,1,shy,,XS_10,XS_10,1.0,,d_counseling_anis_sprklingsummer_06_8,
+d_counseling_anis_sprklingsummer_06_5,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_5,True,,1,delight,,XS_10,XS_100,1.0,,,
+d_counseling_anis_sprklingsummer_06_6,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_6,True,,1,delight,,XS_100,XS_100,1.0,,,
+d_counseling_anis_sprklingsummer_06_7,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_7,True,,1,delight,,XS_100,XS_100,1.0,,d_counseling_anis_sprklingsummer_06_11,
+d_counseling_anis_sprklingsummer_06_8,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_8,True,,1,worry,,XS_10,XS_100,1.0,,,
+d_counseling_anis_sprklingsummer_06_9,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_9,True,,1,worry,,XS_100,XS_100,1.0,,,
+d_counseling_anis_sprklingsummer_06_10,d_counseling_anis_sparklingsummer_06,Speech,0,anis_s,anis_s,Locale_Counseling:d_counseling_anis_sprklingsummer_06_10,True,,1,angry,,XS_100,XS_100,1.0,,,
+d_counseling_anis_sprklingsummer_06_11,d_counseling_anis_sparklingsummer_06,Narration,0,anis_s,Narration,Locale_Counseling:d_counseling_anis_sprklingsummer_06_11,False,,1,idle,none,XS_100,XS_100,1.0,,,anis_s

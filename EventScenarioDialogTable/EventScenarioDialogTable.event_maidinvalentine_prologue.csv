@@ -1,0 +1,17 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,set_camera_shake
+event_maidinvalentine_prologue_1,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_1,True,cocoa,1,serious,ade,3,idle,soda,13,idle,Cafe,1,1,1.0,bgm_inark,
+event_maidinvalentine_prologue_2,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_2,True,,1,serious,,3,idle,,13,idle,,1,XS_10,1.0,,
+event_maidinvalentine_prologue_3,40007,event_maidinvalentine_prologue,Speech,ade,ade,Locale_SubScenario:event_maidinvalentine_prologue_3,True,,1,serious,,3,idle,,13,idle,,30,30,1.0,,
+event_maidinvalentine_prologue_4,40007,event_maidinvalentine_prologue,Speech,soda,soda,Locale_SubScenario:event_maidinvalentine_prologue_4,True,,1,serious,,3,idle,,13,think,,S_130,S_130,1.0,,
+event_maidinvalentine_prologue_5,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_5,True,,1,serious,,3,idle,,13,think,,XS_10,XS_10,1.0,,
+event_maidinvalentine_prologue_6,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_6,True,,1,delight,,3,idle,,13,think,,XS_10,XS_10,1.0,,Low_2
+event_maidinvalentine_prologue_7,40007,event_maidinvalentine_prologue,Speech,soda,soda,Locale_SubScenario:event_maidinvalentine_prologue_7,True,,1,delight,,3,idle,,13,idle,,XS_10,113,1.0,,
+event_maidinvalentine_prologue_8,40007,event_maidinvalentine_prologue,Speech,soda,soda,Locale_SubScenario:event_maidinvalentine_prologue_8,True,,1,delight,,3,idle,,13,sad,,113,113,1.0,,
+event_maidinvalentine_prologue_9,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_9,True,,1,idle,,3,idle,,13,sad,,113,113,1.0,,
+event_maidinvalentine_prologue_10,40007,event_maidinvalentine_prologue,Speech,ade,ade,Locale_SubScenario:event_maidinvalentine_prologue_10,True,,1,idle,,3,delight,,13,sad,,113,31,1.0,,
+event_maidinvalentine_prologue_11,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_11,True,,1,surprised,,3,delight,,13,idle,,31,31,1.0,,
+event_maidinvalentine_prologue_12,40007,event_maidinvalentine_prologue,Speech,cocoa,cocoa,Locale_SubScenario:event_maidinvalentine_prologue_12,True,,1,idle,,3,delight,,13,idle,,31,31,1.0,,
+event_maidinvalentine_prologue_13,40007,event_maidinvalentine_prologue,Speech,soda,soda,Locale_SubScenario:event_maidinvalentine_prologue_13,True,,1,idle,,3,delight,,13,idle,,31,13,1.0,,
+event_maidinvalentine_prologue_14,40007,event_maidinvalentine_prologue,Speech,soda,soda,Locale_SubScenario:event_maidinvalentine_prologue_14,True,,1,idle,,3,delight,,13,sad,,13,13,1.0,,
+event_maidinvalentine_prologue_15,40007,event_maidinvalentine_prologue,Speech,ade,ade,Locale_SubScenario:event_maidinvalentine_prologue_15,True,,1,idle,,3,delight,,13,sad,,13,3,1.0,,
+event_maidinvalentine_prologue_16,40007,event_maidinvalentine_prologue,Speech,ade,ade,Locale_SubScenario:event_maidinvalentine_prologue_16,True,,1,idle,,3,idle,,13,sad,,3,30,1.5,,

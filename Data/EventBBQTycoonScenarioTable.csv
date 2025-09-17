@@ -1,0 +1,9 @@
+id,group_id,scenario_dialog_group_id,scenario_output_condition
+1,1001,d_contents_bbqmaster_01,1
+2,1001,d_contents_bbqmaster_02,3
+3,1001,d_contents_bbqmaster_03,5
+4,1001,d_contents_bbqmaster_04,7
+5,1001,d_contents_bbqmaster_05,9
+6,1001,d_contents_bbqmaster_06,11
+7,1001,d_contents_bbqmaster_07,13
+8,1001,d_contents_bbqmaster_08,15

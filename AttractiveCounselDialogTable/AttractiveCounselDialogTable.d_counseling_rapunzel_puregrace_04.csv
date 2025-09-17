@@ -1,0 +1,12 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/hide_char_id,jump_target
+d_counseling_rapunzel_puregrace_04_1,d_counseling_rapunzel_puregrace_04,Narration,0,rapunzel,Narration,Locale_Counseling:d_counseling_rapunzel_puregrace_04_1,False,rapunzel,1,no,black,10,10,1.0,event_bgm_redash_alldownhill,,
+d_counseling_rapunzel_puregrace_04_2,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_2,True,rapunzel_o,1,idle,BattleShipBridge,10,10,1.0,,rapunzel,
+d_counseling_rapunzel_puregrace_04_3,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_3,True,,1,idle,,10,10,1.0,,,
+d_counseling_rapunzel_puregrace_04_4,d_counseling_rapunzel_puregrace_04,Choice,100,Choice,,Locale_Counseling:d_counseling_rapunzel_puregrace_04_4,False,,1,idle,,10,10,1.0,,,d_counseling_rapunzel_puregrace_04_6
+d_counseling_rapunzel_puregrace_04_5,d_counseling_rapunzel_puregrace_04,Choice,120,Choice,,Locale_Counseling:d_counseling_rapunzel_puregrace_04_5,False,,1,idle,,10,10,1.0,,,d_counseling_rapunzel_puregrace_04_8
+d_counseling_rapunzel_puregrace_04_6,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_6,True,,1,smile,,10,100,1.0,,,
+d_counseling_rapunzel_puregrace_04_7,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_7,True,,1,smile,,100,100,1.0,,,d_counseling_rapunzel_puregrace_04_10
+d_counseling_rapunzel_puregrace_04_8,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_8,True,,1,smile,,10,100,1.0,,,
+d_counseling_rapunzel_puregrace_04_9,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_9,True,,1,smile,,100,100,1.0,,,d_counseling_rapunzel_puregrace_04_10
+d_counseling_rapunzel_puregrace_04_10,d_counseling_rapunzel_puregrace_04,Speech,0,rapunzel_o,rapunzel_o,Locale_Counseling:d_counseling_rapunzel_puregrace_04_10,True,,1,smile,,100,100,1.0,,,
+d_counseling_rapunzel_puregrace_04_11,d_counseling_rapunzel_puregrace_04,Narration,0,Narration,Narration,Locale_Counseling:d_counseling_rapunzel_puregrace_04_11,False,,1,idle,none,100,100,1.0,,rapunzel_o,

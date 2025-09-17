@@ -1,0 +1,17 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,set_camera_shake,set_filter_01,characters/0/hide_char_id
+d_counseling_isabel_13_1,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_1,True,isabel,1,idle,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,,,
+d_counseling_isabel_13_2,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_2,True,,1,good,,10,10,1.0,,,,,
+d_counseling_isabel_13_3,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_3,True,,1,good,,10,10,1.0,,,,,
+d_counseling_isabel_13_4,d_counseling_isabel_13,Choice,120,isabel,,Locale_Counseling:d_counseling_isabel_13_4,False,,1,good,,10,10,1.0,,d_counseling_isabel_13_6,,,
+d_counseling_isabel_13_5,d_counseling_isabel_13,Choice,100,isabel,,Locale_Counseling:d_counseling_isabel_13_5,False,,1,good,,10,10,1.0,,d_counseling_isabel_13_11,,,
+d_counseling_isabel_13_6,d_counseling_isabel_13,Monologue,0,isabel,,Locale_Counseling:d_counseling_isabel_13_6,False,,1,idle,,10,10,1.0,,,Low_2,Blur_Middle,
+d_counseling_isabel_13_7,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_7,True,,1,surprise,,10,100,1.0,,,,,
+d_counseling_isabel_13_8,d_counseling_isabel_13,Self,0,isabel,,Locale_Counseling:d_counseling_isabel_13_8,False,,1,surprise,,100,100,1.0,,,,,
+d_counseling_isabel_13_9,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_9,True,,1,idle,,100,100,1.0,,,,,
+d_counseling_isabel_13_10,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_10,True,,1,idle,,100,100,1.0,,d_counseling_isabel_13_16,,,
+d_counseling_isabel_13_11,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_11,True,,1,idle,,10,100,1.0,,,,,
+d_counseling_isabel_13_12,d_counseling_isabel_13,Self,0,isabel,,Locale_Counseling:d_counseling_isabel_13_12,False,,1,idle,,100,100,1.0,,,,,
+d_counseling_isabel_13_13,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_13,True,,1,idle,,100,100,1.0,,,,,
+d_counseling_isabel_13_14,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_14,True,,1,idle,,100,100,1.0,,,,,
+d_counseling_isabel_13_15,d_counseling_isabel_13,Speech,0,isabel,isabel,Locale_Counseling:d_counseling_isabel_13_15,True,,1,good,,100,100,1.0,,,,,
+d_counseling_isabel_13_16,d_counseling_isabel_13,Narration,0,isabel,,Locale_Counseling:d_counseling_isabel_13_16,False,,1,idle,none,100,100,1.0,,,,,isabel

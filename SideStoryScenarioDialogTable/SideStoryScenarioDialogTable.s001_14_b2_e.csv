@@ -1,0 +1,3 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+s001_14_b2_e_1,s001_14_b2_e,Speech,marian_p,marian_p,Locale_SideStory:s001_14_b2_e_1,True,marian_p,1,angry,land_n,100,10,1.0,bgm_disaster
+s001_14_b2_e_2,s001_14_b2_e,Speech,marian_p,marian_p,Locale_SideStory:s001_14_b2_e_2,True,,1,angry,,10,10,1.0,

@@ -1,0 +1,5 @@
+id,group_id,portrait_id,name_localkey,scenario_localkey,play_voice,set_dialog_position,set_portrait_position
+s001_09_b3_1,s001_09_b3,si_c222_00_s,Locale_Character:222_name,Locale_SideStory:s001_09_b3_1,s001_09_b3_1,Top,Left
+s001_09_b3_2,s001_09_b3,si_c220_00_s,Locale_Character:220_name,Locale_SideStory:s001_09_b3_2,s001_09_b3_2,Top,Right
+s001_09_b3_3,s001_09_b3,si_c221_00_s,Locale_Character:221_name,Locale_SideStory:s001_09_b3_3,s001_09_b3_3,Top,Left
+s001_09_b3_4,s001_09_b3,si_c220_00_s,Locale_Character:220_name,Locale_SideStory:s001_09_b3_4,s001_09_b3_4,Top,Right

@@ -1,0 +1,9 @@
+id,group_id,event_id,versionType,isSpecialMode,is_archive_event,enter_scenario,FieldItem_AutoDisappearTime,AutoSaveTimer,ItemCalcWeight,pcInvincibleTime,Magnet_MoveTo_playerCharacter_Spd,monster_common_appearEffect,monster_common_deathEffect_Id,set_BossDeathEffectTime,monster_common_KnockbackDelay,monster_common_WhiteBlinkDelay,Bounce_DefaultWidth,Bounce_DefaultHeight,PlayableCharacter_Burst_FadeTime,PlayableCharacter_Burst_Interval,coinSkillStore_reRollAmount,coinSkillStore_lockAddAmount,coinRevive_maxCount,levelupSlot_maxRerollCount,maxCombineWeapon,maxCombineModule,checkBoss
+1,100,80803,MOG1,False,False,1ann_mini_prologue,60,60,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,
+2,200,80803,MOG1,False,True,1ann_mini_prologue,60,60,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,
+3,200,1004,MOG2,False,False,mog2_prologue,60,60,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,10000,5000,0,3,3,0,
+90001,90000,0,MOG1,True,False,,60,0,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,800001.0
+90002,90100,0,MOG1,True,False,,60,0,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,800002.0
+90003,90200,0,MOG2,True,False,,60,0,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,800003.0
+90004,90200,0,MOG2,True,False,,60,0,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,800001.0
+90005,90200,0,MOG2,True,False,,60,0,1.24,50,8,NKS_fx_monster_spawn_01,NKS_fx_common_explosion_01,300,5,5,768,1240,50,0.2,0,0,0,0,0,0,800002.0

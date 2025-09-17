@@ -1,0 +1,9 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target
+d_main_03_05_1,d_main_03_05,Speech,rapi,rapi,Locale_MainScenario:d_main_03_05_1,True,rapi,1,idle,anis,3,void,neon,13,idle,mihara,17,idle,yuni,19,idle,CityForest_01,10,10,1.0,ambient_scn_wind,
+d_main_03_05_2,d_main_03_05,Speech,anis,anis,Locale_MainScenario:d_main_03_05_2,True,,1,idle,,3,void,,13,idle,,17,idle,,19,idle,,10,30,1.0,,
+d_main_03_05_3,d_main_03_05,Speech,neon,neon,Locale_MainScenario:d_main_03_05_3,True,,1,idle,,3,void,,13,idle,,17,idle,,19,idle,,30,S_130,1.0,,
+d_main_03_05_4,d_main_03_05,Choice,neon,,Locale_MainScenario:d_main_03_05_4,True,,1,idle,,3,void,,13,idle,,17,idle,,19,idle,,S_130,S_130,1.0,,d_main_03_05_6
+d_main_03_05_5,d_main_03_05,Choice,neon,,Locale_MainScenario:d_main_03_05_5,True,,1,idle,,3,void,,13,idle,,17,idle,,19,idle,,S_130,S_130,1.0,,d_main_03_05_6
+d_main_03_05_6,d_main_03_05,Speech,rapi,rapi,Locale_MainScenario:d_main_03_05_6,False,,1,angry,,3,void,,13,idle,,17,idle,,19,idle,,1,10,0.5,bgm_spot_incomingrapture_a,
+d_main_03_05_7,d_main_03_05,Speech,rapi,rapi,Locale_MainScenario:d_main_03_05_7,True,,1,angry,,3,void,,13,idle,,17,idle,,19,idle,,10,10,1.0,,
+d_main_03_05_8,d_main_03_05,Speech,rapi,rapi,Locale_MainScenario:d_main_03_05_8,True,,1,angry,,3,void,,13,idle,,17,idle,,19,idle,,10,100,0.5,,

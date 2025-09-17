@@ -1,0 +1,4 @@
+id,stage_level,enter_condition_value,stage_level_name,stage_level_desc,stage_level_img,time_limit,use_maid_group,npc_visit_set_group_id,event_npc_visit_upgrade_set_group_id,event_game_group_id,clean_ratio,clean_reduce_hp_value,clean_get_point,clean_time
+100101,1,0,Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_NAME_1,Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_LOW,ce003_mode_easy,9000,1002,1001,1002,1001,2500,-10,100,150
+100102,2,5000,Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_NAME_2,Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_MIDDLE,ce003_mode_normal,9000,1003,2001,2002,2001,4000,-20,150,150
+100103,3,8000,Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_NAME_3,Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_HIGH,ce003_mode_hard,9000,1004,3001,3002,3001,6000,-20,175,150

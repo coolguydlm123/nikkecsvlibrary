@@ -1,0 +1,7 @@
+id,name_localkey,description_localkey,product_resource_id,product_order,product_display_step,buy_limit_type,is_limit,buy_limit_count,product_type,product_id,product_value,midas_product_id,infracore_point,is_active
+1,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_NAME,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_DESCRIPTION,icn_inappshop_jewel_01,1,1,None,False,0,Currency,98,320,50000001,0,True
+2,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_NAME,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_DESCRIPTION,icn_inappshop_jewel_02,2,1,None,False,0,Currency,98,720,50000002,0,True
+101,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_NAME,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_DESCRIPTION,icn_inappshop_jewel_03,101,1,None,False,0,Currency,98,1500,50000101,0,True
+102,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_NAME,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_DESCRIPTION,icn_inappshop_jewel_04,102,1,None,False,0,Currency,98,2300,50000102,0,True
+103,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_NAME,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_DESCRIPTION,icn_inappshop_jewel_05,103,1,None,False,0,Currency,98,4200,50000103,0,True
+104,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_NAME,Locale_InAppShopProduct:CASH_SHOP_PRODUCT_DESCRIPTION,icn_inappshop_jewel_06,104,1,None,False,0,Currency,98,6200,50000104,0,True

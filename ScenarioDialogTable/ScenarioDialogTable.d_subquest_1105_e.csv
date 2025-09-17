@@ -1,0 +1,10 @@
+id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,highlight
+d_subquest_1105_e_1,d_subquest_1105_e,Speech,raptilion,Locale_SubScenario:d_subquest_1105_e_1,False,rapi,1,idle,anis,13,idle,neon,15,idle,raptilion,5,idle,raptilion_me,9,idle,IceLand_03,raptilion_5,raptilion_5,1.0,bgm_story_herecomestrouble,
+d_subquest_1105_e_2,d_subquest_1105_e,Speech,raptilion,Locale_SubScenario:d_subquest_1105_e_2,False,,1,idle,,13,idle,,15,idle,,5,idle,,9,idle,,raptilion_5,raptilion_5,1.0,,
+d_subquest_1105_e_3,d_subquest_1105_e,Speech,anis,Locale_SubScenario:d_subquest_1105_e_3,True,,1,idle,,13,worry,,15,idle,,5,idle,,9,idle,,raptilion_5,14,1.0,,anis
+d_subquest_1105_e_4,d_subquest_1105_e,Speech,neon,Locale_SubScenario:d_subquest_1105_e_4,True,,1,idle,,13,idle,,15,idle,,5,idle,,9,idle,,14,14,1.0,,neon
+d_subquest_1105_e_5,d_subquest_1105_e,Speech,neon,Locale_SubScenario:d_subquest_1105_e_5,True,,1,idle,,13,idle,,15,delight,,5,idle,,9,idle,,14,S_150,1.0,,neon
+d_subquest_1105_e_6,d_subquest_1105_e,Speech,raptilion,Locale_SubScenario:d_subquest_1105_e_6,False,,1,idle,,13,idle,,15,idle,,5,idle,,9,idle,,raptilion_5,raptilion_5,1.0,,neon
+d_subquest_1105_e_7,d_subquest_1105_e,Speech,anis,Locale_SubScenario:d_subquest_1105_e_7,True,,1,idle,,13,shy,,15,shy,,5,idle,,9,idle,,130,130,1.0,,anis
+d_subquest_1105_e_8,d_subquest_1105_e,Speech,neon,Locale_SubScenario:d_subquest_1105_e_8,True,,1,idle,,13,shy,,15,shy,,5,idle,,9,idle,,150,150,1.0,,neon
+d_subquest_1105_e_9,d_subquest_1105_e,Speech,rapi,Locale_SubScenario:d_subquest_1105_e_9,True,,1,think,,13,shy,,15,shy,,5,idle,,9,idle,,150,10,2.0,,rapi

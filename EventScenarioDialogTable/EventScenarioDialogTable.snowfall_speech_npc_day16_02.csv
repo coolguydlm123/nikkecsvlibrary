@@ -1,0 +1,16 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day16_02_1,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_1,True,angelina,1,idle,BambooForest_d,1,10,1.0,amb_so_bambooforest_1,event_bgm_neverland_snowflakes_day
+snowfall_speech_npc_day16_02_2,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_2,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_3,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_3,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_4,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_4,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_5,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_5,True,,1,smile,,10,10,1.0,,
+snowfall_speech_npc_day16_02_6,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_6,True,,1,smile,,10,10,1.0,,
+snowfall_speech_npc_day16_02_7,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_7,True,,1,smile,,10,10,1.0,,
+snowfall_speech_npc_day16_02_8,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_8,True,,1,smile,,10,10,1.0,,
+snowfall_speech_npc_day16_02_9,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_9,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_10,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_10,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_11,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_11,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_12,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_12,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day16_02_13,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_13,True,,1,delight,,10,10,1.0,,
+snowfall_speech_npc_day16_02_14,80903,snowfall_speech_npc_day16_02,Speech,angelina,angelina,Locale_SubScenario:snowfall_speech_npc_day16_02_14,True,,1,delight,,10,10,1.0,,
+snowfall_speech_npc_day16_02_15,80903,snowfall_speech_npc_day16_02,Narration,,,Locale_SubScenario:snowfall_speech_npc_day16_02_15,False,,1,delight,,black,black,1.0,,

@@ -1,0 +1,11 @@
+id,chapter_id,chapter_name,chapter_img
+0,0,Locale_Event:EventMVG_Chapter_01_Name,img_mvg_chapter_0
+1,1,Locale_Event:EventMVG_Chapter_01_Name,img_mvg_chapter_0
+2,2,Locale_Event:EventMVG_Chapter_02_Name,img_mvg_chapter_2
+3,3,Locale_Event:EventMVG_Chapter_03_Name,img_mvg_chapter_3
+4,4,Locale_Event:EventMVG_Chapter_04_Name,img_mvg_chapter_4
+5,5,Locale_Event:EventMVG_Chapter_05_Name,img_mvg_chapter_5
+6,6,Locale_Event:EventMVG_Chapter_06_Name,img_mvg_chapter_6
+7,7,Locale_Event:EventMVG_Chapter_07_Name,img_mvg_chapter_7
+8,8,Locale_Event:EventMVG_Chapter_08_Name,img_mvg_chapter_8
+9,9,Locale_Event:EventMVG_Chapter_09_Name,img_mvg_chapter_5

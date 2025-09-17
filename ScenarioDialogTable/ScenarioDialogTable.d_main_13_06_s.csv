@@ -1,0 +1,13 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/4/hide_char_id,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,play_sound,set_camera_shake
+d_main_13_06_s_1,d_main_13_06_s,Speech,shifty,shifty,Locale_MainScenario:d_main_13_06_s_1,True,anis,1,void,rapi,13,idle,neon,15,idle,shifty,OP_leftup,angry,Desert_03,14,12,1.0,none,,,,,,
+d_main_13_06_s_2,d_main_13_06_s,Speech,shifty,shifty,Locale_MainScenario:d_main_13_06_s_2,True,,1,void,,13,idle,,15,idle,,OP_leftup,angry,,12,12,1.0,bgm_disaster,,,,,,
+d_main_13_06_s_3,d_main_13_06_s,Speech,rapi,rapi,Locale_MainScenario:d_main_13_06_s_3,False,,1,void,,13,idle,,15,surprise,,OP_leftup,angry,,12,130,0.5,,shifty,,,,,
+d_main_13_06_s_4,d_main_13_06_s,Speech,anis,anis,Locale_MainScenario:d_main_13_06_s_4,True,,1,delight,,13,idle,,15,idle,,,,,130,10,1.0,,,,,,,
+d_main_13_06_s_5,d_main_13_06_s,Self,anis,,Locale_MainScenario:d_main_13_06_s_5,True,,1,idle,,13,idle,,15,idle,,,,,10,10,1.0,,,,,,,
+d_main_13_06_s_6,d_main_13_06_s,Speech,anis,anis,Locale_MainScenario:d_main_13_06_s_6,True,,1,delight,,13,idle,,15,idle,,,,,10,10,1.0,,,,,,,
+d_main_13_06_s_7,d_main_13_06_s,Narration,,,Locale_MainScenario:d_main_13_06_s_7,True,,1,void,,13,idle,,15,idle,,,,,black,black,1.0,,,talkative,5,idle,bbg002_appear_3,
+d_main_13_06_s_8,d_main_13_06_s,Monologue,,,Locale_MainScenario:d_main_13_06_s_8,True,,1,void,,13,idle,,15,idle,,,,,S_500,5,1.0,,,,5,idle,,Low_2
+d_main_13_06_s_9,d_main_13_06_s,Monologue,,,Locale_MainScenario:d_main_13_06_s_9,True,,1,void,,13,idle,,15,idle,,,,,5,5,1.0,,,,5,idle,,
+d_main_13_06_s_10,d_main_13_06_s,Speech,talkative,talkative,Locale_MainScenario:d_main_13_06_s_10,True,,1,void,,13,idle,,15,idle,,,,,5,5,1.0,,,,5,idle,,
+d_main_13_06_s_11,d_main_13_06_s,Speech,talkative,talkative,Locale_MainScenario:d_main_13_06_s_11,True,,1,void,,13,idle,,15,idle,,,,,5,5,1.0,,,,5,idle,,
+d_main_13_06_s_12,d_main_13_06_s,Speech,talkative,talkative,Locale_MainScenario:d_main_13_06_s_12,True,,1,void,,13,idle,,15,idle,,,,,5,S_50,0.5,,,,5,idle,,

@@ -1,0 +1,17 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_subquest_1111_1,d_subquest_1111,Speech,anis,anis,Locale_SubScenario:d_subquest_1111_1,True,anis,3,worry,rapi,1,idle,neon,13,idle,WasteLand_02,3,30,2.0,bgm_story_weare
+d_subquest_1111_2,d_subquest_1111,Speech,anis,anis,Locale_SubScenario:d_subquest_1111_2,True,,3,worry,,1,idle,,13,idle,,30,30,1.0,
+d_subquest_1111_3,d_subquest_1111,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1111_3,True,,3,worry,,1,think,,13,idle,,30,12,2.0,
+d_subquest_1111_4,d_subquest_1111,Speech,neon,neon,Locale_SubScenario:d_subquest_1111_4,True,,3,idle,,1,think,,13,surprise,,12,12,1.0,
+d_subquest_1111_5,d_subquest_1111,Speech,neon,neon,Locale_SubScenario:d_subquest_1111_5,True,,3,idle,,1,think,,13,surprise,,12,12,1.0,
+d_subquest_1111_6,d_subquest_1111,Speech,neon,neon,Locale_SubScenario:d_subquest_1111_6,True,,3,idle,,1,think,,13,worry,,12,16,2.0,
+d_subquest_1111_7,d_subquest_1111,Speech,neon,neon,Locale_SubScenario:d_subquest_1111_7,True,,3,idle,,1,think,,13,worry,,16,16,1.0,
+d_subquest_1111_8,d_subquest_1111,Self,neon,Self,Locale_SubScenario:d_subquest_1111_8,False,,3,idle,,1,idle,,13,worry,,12,12,1.0,
+d_subquest_1111_9,d_subquest_1111,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1111_9,True,,3,idle,,1,idle,,13,worry,,12,12,1.0,
+d_subquest_1111_10,d_subquest_1111,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1111_10,True,,3,idle,,1,idle,,13,worry,,12,12,1.0,
+d_subquest_1111_11,d_subquest_1111,Speech,anis,anis,Locale_SubScenario:d_subquest_1111_11,True,,3,pain,,1,idle,,13,idle,,12,2,2.0,
+d_subquest_1111_12,d_subquest_1111,Speech,anis,anis,Locale_SubScenario:d_subquest_1111_12,True,,3,pain,,1,idle,,13,idle,,2,30,1.0,
+d_subquest_1111_13,d_subquest_1111,Speech,anis,anis,Locale_SubScenario:d_subquest_1111_13,True,,3,pain,,1,idle,,13,idle,,30,30,1.0,
+d_subquest_1111_14,d_subquest_1111,Speech,anis,anis,Locale_SubScenario:d_subquest_1111_14,True,,3,sad,,1,idle,,13,idle,,30,30,1.0,
+d_subquest_1111_15,d_subquest_1111,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1111_15,False,,3,sad,,1,think,,13,idle,,30,10,2.0,
+d_subquest_1111_16,d_subquest_1111,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1111_16,True,,3,sad,,1,think,,13,idle,,10,10,1.0,

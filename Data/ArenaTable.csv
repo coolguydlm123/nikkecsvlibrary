@@ -1,0 +1,2 @@
+id,arena_type,name,order,thumbnail,free_play_count,ticket_id,ticket_value,ticket_buy_currency_type,ticket_buy_currency_value,record_max_count,round,time_limit,theme,theme_time,condition_reward_group,verification_time_server,verification_time_client
+1,ArenaSpecial,Locale_System:SPECIAL_ARENA,1,thumbnail_name,2,6002,1,99,100,50,3,30,IceLand,Twilight,2,150,200

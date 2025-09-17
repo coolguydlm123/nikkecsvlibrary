@@ -1,0 +1,14 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_bgm,jump_target
+event_liarsend_10_1,130004,event_liarsend_10,Speech,syuen,syuen,Locale_SubScenario:event_liarsend_10_1,True,syuen,1,surprise,CityForest_02,S_100,1,1.0,sfx_scn_rapturefin,bgm_story_kneeldownfools,
+event_liarsend_10_2,130004,event_liarsend_10,Self,syuen,,Locale_SubScenario:event_liarsend_10_2,False,,1,surprise,,1,1,1.0,,,
+event_liarsend_10_3,130004,event_liarsend_10,Monologue,syuen,,Locale_SubScenario:event_liarsend_10_3,False,,1,surprise,,1,1,1.0,,,
+event_liarsend_10_4,130004,event_liarsend_10,Speech,syuen,syuen,Locale_SubScenario:event_liarsend_10_4,True,,1,delight,,1,S_10,1.0,,,
+event_liarsend_10_5,130004,event_liarsend_10,Speech,syuen,syuen,Locale_SubScenario:event_liarsend_10_5,True,,1,delight,,S_10,S_10,1.0,,,
+event_liarsend_10_6,130004,event_liarsend_10,Choice,syuen,,Locale_SubScenario:event_liarsend_10_6,False,,1,delight,,S_10,S_10,1.0,,,event_liarsend_10_9
+event_liarsend_10_7,130004,event_liarsend_10,Choice,syuen,,Locale_SubScenario:event_liarsend_10_7,False,,1,delight,,S_10,S_10,1.0,,,event_liarsend_10_9
+event_liarsend_10_8,130004,event_liarsend_10,Choice,syuen,,Locale_SubScenario:event_liarsend_10_8,False,,1,delight,,S_10,S_10,1.0,,,event_liarsend_10_9
+event_liarsend_10_9,130004,event_liarsend_10,Speech,syuen,syuen,Locale_SubScenario:event_liarsend_10_9,False,,1,think,,S_10,1,1.0,,,
+event_liarsend_10_10,130004,event_liarsend_10,Self,syuen,,Locale_SubScenario:event_liarsend_10_10,False,,1,think,,1,1,1.0,,,
+event_liarsend_10_11,130004,event_liarsend_10,Speech,syuen,syuen,Locale_SubScenario:event_liarsend_10_11,True,,1,think,,1,1,1.0,,,
+event_liarsend_10_12,130004,event_liarsend_10,Self,syuen,,Locale_SubScenario:event_liarsend_10_12,False,,1,think,,1,1,1.0,,,
+event_liarsend_10_13,130004,event_liarsend_10,Speech,syuen,syuen,Locale_SubScenario:event_liarsend_10_13,True,,1,think,,1,S_10,1.0,,,

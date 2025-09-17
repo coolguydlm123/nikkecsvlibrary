@@ -1,0 +1,13 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_alice_07_1,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_1,True,alice,1,idle,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_alice_07_2,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_2,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_alice_07_3,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_3,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_alice_07_4,d_counseling_alice_07,Choice,100,alice,,Locale_Counseling:d_counseling_alice_07_4,False,,1,idle,,S_10,S_10,1.0,,d_counseling_alice_07_6,
+d_counseling_alice_07_5,d_counseling_alice_07,Choice,120,alice,,Locale_Counseling:d_counseling_alice_07_5,False,,1,idle,,S_10,S_10,1.0,,d_counseling_alice_07_9,
+d_counseling_alice_07_6,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_6,True,,1,sad,,S_10,S_100,1.0,,,
+d_counseling_alice_07_7,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_7,True,,1,sad,,S_100,S_100,1.0,,,
+d_counseling_alice_07_8,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_8,True,,1,sad,,S_100,S_100,1.0,,d_counseling_alice_07_12,
+d_counseling_alice_07_9,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_9,True,,1,delight,,S_10,S_100,1.0,,,
+d_counseling_alice_07_10,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_10,True,,1,delight,,S_100,S_100,1.0,,,
+d_counseling_alice_07_11,d_counseling_alice_07,Speech,0,alice,alice,Locale_Counseling:d_counseling_alice_07_11,True,,1,idle,,S_100,S_100,1.0,,,
+d_counseling_alice_07_12,d_counseling_alice_07,Narration,0,alice,,Locale_Counseling:d_counseling_alice_07_12,False,,1,idle,none,S_100,S_100,1.0,,,alice

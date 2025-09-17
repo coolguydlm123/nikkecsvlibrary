@@ -1,0 +1,13 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_pepper_16_1,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_1,True,pepper,1,special,CommanderRoom,XS_10,XS_10,1.0,bgm_story_backtonormal,,
+d_counseling_pepper_16_2,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_2,True,,1,special,,XS_10,XS_10,1.0,,,
+d_counseling_pepper_16_3,d_counseling_pepper_16,Choice,120,pepper,,Locale_Counseling:d_counseling_pepper_16_3,False,,1,special,,XS_10,XS_10,1.0,,d_counseling_pepper_16_5,
+d_counseling_pepper_16_4,d_counseling_pepper_16,Choice,100,pepper,,Locale_Counseling:d_counseling_pepper_16_4,False,,1,special,,XS_10,XS_10,1.0,,d_counseling_pepper_16_8,
+d_counseling_pepper_16_5,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_5,True,,1,surprise,,XS_10,XS_100,1.0,,,
+d_counseling_pepper_16_6,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_6,True,,1,shy,,XS_100,XS_100,1.0,,,
+d_counseling_pepper_16_7,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_7,True,,1,angry,,XS_100,XS_100,1.0,,d_counseling_pepper_16_12,
+d_counseling_pepper_16_8,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_8,True,,1,surprise,,XS_10,XS_100,1.0,,,
+d_counseling_pepper_16_9,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_9,True,,1,shy,,XS_100,XS_100,1.0,,,
+d_counseling_pepper_16_10,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_10,True,,1,angry,,XS_100,XS_100,1.0,,,
+d_counseling_pepper_16_11,d_counseling_pepper_16,Speech,0,pepper,pepper,Locale_Counseling:d_counseling_pepper_16_11,True,,1,angry,,XS_100,XS_100,1.0,,,
+d_counseling_pepper_16_12,d_counseling_pepper_16,Narration,0,pepper,,Locale_Counseling:d_counseling_pepper_16_12,False,,1,angry,none,XS_100,XS_100,1.0,,,pepper

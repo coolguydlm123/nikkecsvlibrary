@@ -1,0 +1,10 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_ambient,play_bgm,highlight,speaker
+snowfall_speech_npc_day7_03_1,80903,snowfall_speech_npc_day7_03,Narration,Locale_SubScenario:snowfall_speech_npc_day7_03_1,False,lumi_01,1,idle,WaterFall_s,1,10,1.0,sfx_scn_2skippingstones,amb_so_waterfall_2,event_bgm_neverland_snowflakes_sunset,,
+snowfall_speech_npc_day7_03_2,80903,snowfall_speech_npc_day7_03,Speech,Locale_SubScenario:snowfall_speech_npc_day7_03_2,True,,1,idle,,10,10,1.0,,,,lumi_01,lumi_01
+snowfall_speech_npc_day7_03_3,80903,snowfall_speech_npc_day7_03,Narration,Locale_SubScenario:snowfall_speech_npc_day7_03_3,False,,1,idle,,10,10,1.0,sfx_scn_3skippingstones,,,,
+snowfall_speech_npc_day7_03_4,80903,snowfall_speech_npc_day7_03,Speech,Locale_SubScenario:snowfall_speech_npc_day7_03_4,True,,1,idle,,10,10,1.0,,,,lumi_01,lumi_01
+snowfall_speech_npc_day7_03_5,80903,snowfall_speech_npc_day7_03,Narration,Locale_SubScenario:snowfall_speech_npc_day7_03_5,False,,1,idle,,10,10,1.0,sfx_scn_3skippingstones,,,,
+snowfall_speech_npc_day7_03_6,80903,snowfall_speech_npc_day7_03,Speech,Locale_SubScenario:snowfall_speech_npc_day7_03_6,True,,1,idle,,10,10,1.0,,,,lumi_01,lumi_01
+snowfall_speech_npc_day7_03_7,80903,snowfall_speech_npc_day7_03,Speech,Locale_SubScenario:snowfall_speech_npc_day7_03_7,True,,1,idle,,10,10,1.0,,,,lumi_01,lumi_01
+snowfall_speech_npc_day7_03_8,80903,snowfall_speech_npc_day7_03,Speech,Locale_SubScenario:snowfall_speech_npc_day7_03_8,True,,1,idle,,10,10,1.0,,,,lumi_01,lumi_01
+snowfall_speech_npc_day7_03_9,80903,snowfall_speech_npc_day7_03,Narration,Locale_SubScenario:snowfall_speech_npc_day7_03_9,False,,1,idle,,black,black,1.0,,,,,

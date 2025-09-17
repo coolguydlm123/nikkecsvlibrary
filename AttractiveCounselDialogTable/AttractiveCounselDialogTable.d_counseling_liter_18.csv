@@ -1,0 +1,16 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_liter_18_1,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_1,True,liter,1,idle,CommanderRoom,XS_10,XS_10,1.0,bgm_story_backtonormal,,
+d_counseling_liter_18_2,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_2,True,,1,sorrow,,XS_10,XS_10,1.0,,,
+d_counseling_liter_18_3,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_3,True,,1,delight,,XS_10,XS_10,1.0,,,
+d_counseling_liter_18_4,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_4,True,,1,no,,XS_10,XS_10,1.0,,,
+d_counseling_liter_18_5,d_counseling_liter_18,Choice,100,liter,,Locale_Counseling:d_counseling_liter_18_5,False,,1,no,,XS_10,XS_10,1.0,,d_counseling_liter_18_7,
+d_counseling_liter_18_6,d_counseling_liter_18,Choice,120,liter,,Locale_Counseling:d_counseling_liter_18_6,False,,1,no,,XS_10,XS_10,1.0,,d_counseling_liter_18_11,
+d_counseling_liter_18_7,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_7,True,,1,sorrow,,XS_10,XS_100,1.0,,,
+d_counseling_liter_18_8,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_8,True,,1,sorrow,,XS_100,XS_100,1.0,,,
+d_counseling_liter_18_9,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_9,True,,1,sorrow,,XS_100,XS_100,1.0,,,
+d_counseling_liter_18_10,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_10,True,,1,angry,,XS_100,XS_100,1.0,,d_counseling_liter_18_15,
+d_counseling_liter_18_11,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_11,True,,1,angry,,XS_10,XS_100,1.0,,,
+d_counseling_liter_18_12,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_12,True,,1,angry,,XS_100,XS_100,1.0,,,
+d_counseling_liter_18_13,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_13,True,,1,angry,,XS_100,XS_100,1.0,,,
+d_counseling_liter_18_14,d_counseling_liter_18,Speech,0,liter,liter,Locale_Counseling:d_counseling_liter_18_14,True,,1,angry,,XS_100,XS_100,1.0,,,
+d_counseling_liter_18_15,d_counseling_liter_18,Narration,0,liter,,Locale_Counseling:d_counseling_liter_18_15,False,,1,angry,none,XS_100,XS_100,1.0,,,liter

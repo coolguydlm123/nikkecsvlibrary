@@ -1,0 +1,16 @@
+id,group_id,speech_window,attractive_point,highlight,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,speaker,jump_target,characters/0/hide_char_id
+d_counseling_nihilister_12_1,d_counseling_nihilister_12,Self,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_1,False,nihilister,1,idle,Volcano_03,10,10,1.0,bgm_volcanicnest,,,
+d_counseling_nihilister_12_2,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_2,True,,1,shy,,10,10,1.0,,nihilister,,
+d_counseling_nihilister_12_3,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_3,True,,1,shy,,10,10,1.0,,nihilister,,
+d_counseling_nihilister_12_4,d_counseling_nihilister_12,Choice,100,nihilister,Locale_Counseling:d_counseling_nihilister_12_4,False,,1,shy,,10,10,1.0,,,d_counseling_nihilister_12_6,
+d_counseling_nihilister_12_5,d_counseling_nihilister_12,Choice,120,nihilister,Locale_Counseling:d_counseling_nihilister_12_5,False,,1,shy,,10,10,1.0,,,d_counseling_nihilister_12_10,
+d_counseling_nihilister_12_6,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_6,False,,1,angry2,,10,100,1.0,,nihilister,,
+d_counseling_nihilister_12_7,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_7,True,,1,angry2,,100,100,1.0,,nihilister,,
+d_counseling_nihilister_12_8,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_8,True,,1,angry2,,100,100,1.0,,nihilister,,
+d_counseling_nihilister_12_9,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_9,True,,1,angry,,100,100,1.0,,nihilister,d_counseling_nihilister_12_15,
+d_counseling_nihilister_12_10,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_10,True,,1,idle,,10,100,1.0,,nihilister,,
+d_counseling_nihilister_12_11,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_11,True,,1,idle,,100,100,1.0,,nihilister,,
+d_counseling_nihilister_12_12,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_12,True,,1,smile,,100,100,1.0,,nihilister,,
+d_counseling_nihilister_12_13,d_counseling_nihilister_12,Speech,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_13,True,,1,shy,,100,100,1.0,,nihilister,,
+d_counseling_nihilister_12_14,d_counseling_nihilister_12,Self,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_14,False,,1,shy,,100,100,1.0,,,,
+d_counseling_nihilister_12_15,d_counseling_nihilister_12,Monologue,0,nihilister,Locale_Counseling:d_counseling_nihilister_12_15,False,,1,idle,none,100,100,1.0,,,,nihilister

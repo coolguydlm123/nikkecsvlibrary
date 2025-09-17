@@ -1,0 +1,3 @@
+id,report_type,report_check_time,report_total_time,description_localkey
+1,no_attack_input_time_total,3,30,Locale_System:COOPERATION_REPORT_NO_ATTACK_INPUT_TIME_TOTAL
+2,no_all_input_time_total,3,30,Locale_System:COOPERATION_REPORT_NO_ALL_INPUT_TIME_TOTAL

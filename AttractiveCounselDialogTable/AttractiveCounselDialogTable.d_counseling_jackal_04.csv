@@ -1,0 +1,13 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_jackal_04_1,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_1,True,jackal,1,no,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_jackal_04_2,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_2,True,,1,no,,S_10,S_10,1.0,,,
+d_counseling_jackal_04_3,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_3,True,,1,no,,S_10,S_10,1.0,,,
+d_counseling_jackal_04_4,d_counseling_jackal_04,Choice,100,jackal,,Locale_Counseling:d_counseling_jackal_04_4,False,,1,no,,S_10,S_10,1.0,,d_counseling_jackal_04_6,
+d_counseling_jackal_04_5,d_counseling_jackal_04,Choice,120,jackal,,Locale_Counseling:d_counseling_jackal_04_5,False,,1,no,,S_10,S_10,1.0,,d_counseling_jackal_04_9,
+d_counseling_jackal_04_6,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_6,True,,1,no,,S_10,S_100,1.0,,,
+d_counseling_jackal_04_7,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_7,True,,1,shy_01,,S_100,S_100,1.0,,,
+d_counseling_jackal_04_8,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_8,True,,1,no,,S_100,S_100,1.0,,d_counseling_jackal_04_12,
+d_counseling_jackal_04_9,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_9,True,,1,angry,,S_10,S_100,1.0,,,
+d_counseling_jackal_04_10,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_10,True,,1,angry,,S_100,S_100,1.0,,,
+d_counseling_jackal_04_11,d_counseling_jackal_04,Speech,0,jackal,jackal,Locale_Counseling:d_counseling_jackal_04_11,True,,1,angry,,S_100,S_100,1.0,,,
+d_counseling_jackal_04_12,d_counseling_jackal_04,Narration,0,jackal,,Locale_Counseling:d_counseling_jackal_04_12,False,,1,no,none,S_100,S_100,1.0,,,jackal

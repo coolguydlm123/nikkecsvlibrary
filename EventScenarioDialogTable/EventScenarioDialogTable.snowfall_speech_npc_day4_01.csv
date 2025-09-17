@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day4_01_1,80903,snowfall_speech_npc_day4_01,Speech,eunhwa,eunhwa,Locale_SubScenario:snowfall_speech_npc_day4_01_1,True,eunhwa,1,angry,HotSpringInnIn_s,1,10,1.0,amb_so_inn_in_2,event_bgm_neverland_hugme_sunset
+snowfall_speech_npc_day4_01_2,80903,snowfall_speech_npc_day4_01,Speech,eunhwa,eunhwa,Locale_SubScenario:snowfall_speech_npc_day4_01_2,True,,1,angry,,10,10,1.0,,
+snowfall_speech_npc_day4_01_3,80903,snowfall_speech_npc_day4_01,Speech,eunhwa,eunhwa,Locale_SubScenario:snowfall_speech_npc_day4_01_3,True,,1,angry,,10,10,1.0,,
+snowfall_speech_npc_day4_01_4,80903,snowfall_speech_npc_day4_01,Speech,eunhwa,eunhwa,Locale_SubScenario:snowfall_speech_npc_day4_01_4,True,,1,angry,,10,10,1.0,,
+snowfall_speech_npc_day4_01_5,80903,snowfall_speech_npc_day4_01,Speech,eunhwa,eunhwa,Locale_SubScenario:snowfall_speech_npc_day4_01_5,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day4_01_6,80903,snowfall_speech_npc_day4_01,Speech,eunhwa,eunhwa,Locale_SubScenario:snowfall_speech_npc_day4_01_6,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day4_01_7,80903,snowfall_speech_npc_day4_01,Narration,,,Locale_SubScenario:snowfall_speech_npc_day4_01_7,False,,1,idle,,black,black,1.0,,

@@ -1,0 +1,11 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_mary_baygoddess_17_1,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_1,True,mary_s,1,shy,Beach_d,10,10,1.0,bgm_story_summermood,,
+d_counseling_mary_baygoddess_17_2,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_2,True,,1,shy,,10,10,1.0,,,
+d_counseling_mary_baygoddess_17_3,d_counseling_mary_baygoddess_17,Choice,100,mary_s,,Locale_Counseling:d_counseling_mary_baygoddess_17_3,True,,1,shy,,10,10,1.0,,d_counseling_mary_baygoddess_17_5,
+d_counseling_mary_baygoddess_17_4,d_counseling_mary_baygoddess_17,Choice,120,mary_s,,Locale_Counseling:d_counseling_mary_baygoddess_17_4,True,,1,shy,,10,10,1.0,,d_counseling_mary_baygoddess_17_8,
+d_counseling_mary_baygoddess_17_5,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_5,True,,1,idle,,10,100,1.0,,,
+d_counseling_mary_baygoddess_17_6,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_6,True,,1,idle,,100,100,1.0,,,
+d_counseling_mary_baygoddess_17_7,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_7,True,,1,idle,,100,100,1.0,,d_counseling_mary_baygoddess_17_10,
+d_counseling_mary_baygoddess_17_8,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_8,True,,1,idle,,10,100,1.0,,,
+d_counseling_mary_baygoddess_17_9,d_counseling_mary_baygoddess_17,Speech,0,mary_s,mary_s,Locale_Counseling:d_counseling_mary_baygoddess_17_9,True,,1,shy,,100,100,1.0,,,
+d_counseling_mary_baygoddess_17_10,d_counseling_mary_baygoddess_17,Narration,0,mary_s,,Locale_Counseling:d_counseling_mary_baygoddess_17_10,True,,1,idle,none,100,100,1.0,,,mary_s

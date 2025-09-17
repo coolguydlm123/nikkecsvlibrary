@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day21_05_1,80903,snowfall_speech_npc_day21_05,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day21_05_1,True,lumi_01,1,idle,BambooForest_s,1,10,1.0,amb_so_bambooforest_2,none
+snowfall_speech_npc_day21_05_2,80903,snowfall_speech_npc_day21_05,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day21_05_2,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day21_05_3,80903,snowfall_speech_npc_day21_05,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day21_05_3,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day21_05_4,80903,snowfall_speech_npc_day21_05,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day21_05_4,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day21_05_5,80903,snowfall_speech_npc_day21_05,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day21_05_5,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day21_05_6,80903,snowfall_speech_npc_day21_05,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day21_05_6,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day21_05_7,80903,snowfall_speech_npc_day21_05,Narration,,,Locale_SubScenario:snowfall_speech_npc_day21_05_7,False,,1,idle,,black,black,1.0,,

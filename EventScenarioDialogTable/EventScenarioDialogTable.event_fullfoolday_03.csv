@@ -1,0 +1,12 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target
+event_fullfoolday_03_1,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_1,True,shifty_s,1,pain,CityForest_001,1,S_10,1.0,bgm_spot_encounter,
+event_fullfoolday_03_2,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_2,True,,1,pain,,S_10,S_10,1.0,,
+event_fullfoolday_03_3,130001,event_fullfoolday_03,Self,shifty_s,,Locale_SubScenario:event_fullfoolday_03_3,False,,1,pain,,S_10,S_10,1.0,,
+event_fullfoolday_03_4,130001,event_fullfoolday_03,Choice,shifty_s,,Locale_SubScenario:event_fullfoolday_03_4,False,,1,pain,,S_10,S_10,1.0,,event_fullfoolday_03_6
+event_fullfoolday_03_5,130001,event_fullfoolday_03,Choice,shifty_s,,Locale_SubScenario:event_fullfoolday_03_5,False,,1,pain,,S_10,S_10,1.0,,event_fullfoolday_03_7
+event_fullfoolday_03_6,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_6,True,,1,no,,S_10,S_100,2.0,,event_fullfoolday_03_8
+event_fullfoolday_03_7,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_7,True,,1,no,,S_10,S_100,2.0,,event_fullfoolday_03_8
+event_fullfoolday_03_8,130001,event_fullfoolday_03,Self,shifty_s,,Locale_SubScenario:event_fullfoolday_03_8,False,,1,no,,S_100,S_100,1.0,,
+event_fullfoolday_03_9,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_9,True,,1,pain,,S_100,S_10,0.5,,
+event_fullfoolday_03_10,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_10,True,,1,pain,,S_10,S_10,1.0,,
+event_fullfoolday_03_11,130001,event_fullfoolday_03,Speech,shifty_s,shifty,Locale_SubScenario:event_fullfoolday_03_11,True,,1,pain,,S_10,S_100,0.5,,

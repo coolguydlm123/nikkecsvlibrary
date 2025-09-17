@@ -1,0 +1,11 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_Counseling_elegg_boomandshock_20_01,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_01,True,elegg_s,1,idle,Deck_d,S_10,S_100,1.0,bgm_story_summermood,,
+d_Counseling_elegg_boomandshock_20_02,d_Counseling_elegg_boomandshock_20,Choice,120,elegg_s,,Locale_Counseling:d_Counseling_elegg_boomandshock_20_02,False,,1,idle,,S_100,S_100,1.0,,d_Counseling_elegg_boomandshock_20_04,
+d_Counseling_elegg_boomandshock_20_03,d_Counseling_elegg_boomandshock_20,Choice,100,elegg_s,,Locale_Counseling:d_Counseling_elegg_boomandshock_20_03,False,,1,idle,,S_100,S_100,1.0,,d_Counseling_elegg_boomandshock_20_07,
+d_Counseling_elegg_boomandshock_20_04,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_04,True,,1,idle,,S_100,S_100,1.0,,,
+d_Counseling_elegg_boomandshock_20_05,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_05,True,,1,idle,,S_100,S_100,1.0,,,
+d_Counseling_elegg_boomandshock_20_06,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_06,True,,1,idle,,S_100,S_100,1.0,,d_Counseling_elegg_boomandshock_20_10,
+d_Counseling_elegg_boomandshock_20_07,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_07,True,,1,idle,,S_100,S_100,1.0,,,
+d_Counseling_elegg_boomandshock_20_08,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_08,True,,1,idle,,S_100,S_100,1.0,,,
+d_Counseling_elegg_boomandshock_20_09,d_Counseling_elegg_boomandshock_20,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_20_09,True,,1,idle,,S_100,S_100,1.0,,d_Counseling_elegg_boomandshock_20_10,
+d_Counseling_elegg_boomandshock_20_10,d_Counseling_elegg_boomandshock_20,Narration,0,elegg_s,,Locale_Counseling:d_Counseling_elegg_boomandshock_20_10,False,,1,idle,none,S_100,S_100,1.0,,,elegg_s

@@ -1,0 +1,16 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/1/hide_char_id,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim
+d_main_12_03_1,d_main_12_03,Speech,rapi,rapi,Locale_MainScenario:d_main_12_03_1,True,rapi,1,idle,eunhwa,13,idle,Factory,10,10,1.0,bgm_groundfall,,,,,,,,,,
+d_main_12_03_2,d_main_12_03,Speech,shifty,shifty,Locale_MainScenario:d_main_12_03_2,True,,,idle,,,idle,,10,10,1.0,,shifty,OP_leftup,idle,,,,,,,
+d_main_12_03_3,d_main_12_03,Speech,rapi,rapi,Locale_MainScenario:d_main_12_03_3,True,,,idle,,,idle,,10,100,1.0,,,OP_leftup,idle,,,,,,,
+d_main_12_03_4,d_main_12_03,Speech,shifty,shifty,Locale_MainScenario:d_main_12_03_4,True,,,idle,,,idle,,100,100,1.0,,,OP_leftup,idle,,,,,,,
+d_main_12_03_5,d_main_12_03,Speech,rapi,rapi,Locale_MainScenario:d_main_12_03_5,True,,,idle,,,idle,,100,10,1.0,,,OP_leftup,idle,,,,,,,
+d_main_12_03_6,d_main_12_03,Speech,shifty,shifty,Locale_MainScenario:d_main_12_03_6,True,,,idle,,,idle,,10,10,1.0,,,OP_leftup,idle,,,,,,,
+d_main_12_03_7,d_main_12_03,Speech,rapi,rapi,Locale_MainScenario:d_main_12_03_7,True,,,idle,,,idle,,10,10,1.0,,,OP_leftup,idle,,,,,,,
+d_main_12_03_8,d_main_12_03,Speech,eunhwa,eunhwa,Locale_MainScenario:d_main_12_03_8,True,,,idle,,,idle,,10,113,1.0,,,OP_leftup,idle,shifty,,,,,,
+d_main_12_03_9,d_main_12_03,Speech,rapi,rapi,Locale_MainScenario:d_main_12_03_9,True,,,idle,,,idle,,113,113,1.0,,,,,,,,,,,
+d_main_12_03_10,d_main_12_03,Speech,eunhwa,eunhwa,Locale_MainScenario:d_main_12_03_10,True,,,idle,,,idle,,113,113,1.0,,,,,,anis,15,delight,,,
+d_main_12_03_11,d_main_12_03,Speech,anis,anis,Locale_MainScenario:d_main_12_03_11,True,,,idle,,,idle,,113,1315,1.0,,,,,,,,delight,,,
+d_main_12_03_12,d_main_12_03,Speech,eunhwa,eunhwa,Locale_MainScenario:d_main_12_03_12,True,,,idle,,,angry,,1315,1315,1.0,,,,,,,,delight,,,
+d_main_12_03_13,d_main_12_03,Speech,anis,anis,Locale_MainScenario:d_main_12_03_13,True,,,idle,,,angry,,1315,1315,1.0,,,,,,,,delight,,,
+d_main_12_03_14,d_main_12_03,Speech,eunhwa,eunhwa,Locale_MainScenario:d_main_12_03_14,False,,,idle,,,angry,,1315,1315,1.0,,,,,,,,delight,vesti,17,delight
+d_main_12_03_15,d_main_12_03,Speech,vesti,vesti,Locale_MainScenario:d_main_12_03_15,True,,,idle,,,angry,,1315,XS_170,1.0,,,,,,,,delight,,,delight

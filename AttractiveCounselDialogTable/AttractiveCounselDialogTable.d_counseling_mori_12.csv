@@ -1,0 +1,16 @@
+id,group_id,speech_window,attractive_point,highlight,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,play_sound,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,speaker,jump_target,characters/0/hide_char_id
+d_counseling_mori_12_1,d_counseling_mori_12,Monologue,0,mori,Locale_Counseling:d_counseling_mori_12_1,False,CommanderRoom,1,1,1.0,bgm_story_backtonormal,,,,,,,
+d_counseling_mori_12_2,d_counseling_mori_12,Narration,0,mori,Locale_Counseling:d_counseling_mori_12_2,False,,1,1,1.0,,sfx_scn_autodooropen,,,,,,
+d_counseling_mori_12_3,d_counseling_mori_12,Monologue,0,mori,Locale_Counseling:d_counseling_mori_12_3,False,,1,S_10,1.0,,,mori,1,pain,,,
+d_counseling_mori_12_4,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_4,True,,S_10,S_10,1.0,,,,1,pain,mori,,
+d_counseling_mori_12_5,d_counseling_mori_12,Monologue,0,mori,Locale_Counseling:d_counseling_mori_12_5,False,,S_10,S_10,1.0,,,,1,pain,,,
+d_counseling_mori_12_6,d_counseling_mori_12,Choice,120,mori,Locale_Counseling:d_counseling_mori_12_6,False,,S_10,S_10,1.0,,,,1,pain,,d_counseling_mori_12_8,
+d_counseling_mori_12_7,d_counseling_mori_12,Choice,100,mori,Locale_Counseling:d_counseling_mori_12_7,False,,S_10,S_10,1.0,,,,1,pain,,d_counseling_mori_12_12,
+d_counseling_mori_12_8,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_8,True,,S_10,S_10,1.0,,,,1,shy_02,mori,,
+d_counseling_mori_12_9,d_counseling_mori_12,Self,0,mori,Locale_Counseling:d_counseling_mori_12_9,False,,S_10,S_10,1.0,,,,1,shy_02,,,
+d_counseling_mori_12_10,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_10,True,,S_10,S_10,1.0,,,,1,shy_02,mori,,
+d_counseling_mori_12_11,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_11,True,,S_10,S_100,1.0,,,,1,shy_01,mori,d_counseling_mori_12_15,
+d_counseling_mori_12_12,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_12,True,,S_10,S_10,1.0,,,,1,think,mori,,
+d_counseling_mori_12_13,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_13,True,,S_10,S_10,1.0,,,,1,think,mori,,
+d_counseling_mori_12_14,d_counseling_mori_12,Speech,0,mori,Locale_Counseling:d_counseling_mori_12_14,True,,S_10,S_100,1.0,,,,1,think,mori,d_counseling_mori_12_15,
+d_counseling_mori_12_15,d_counseling_mori_12,Narration,0,mori,Locale_Counseling:d_counseling_mori_12_15,False,none,S_100,S_100,1.0,,,,1,idle,,,mori

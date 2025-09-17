@@ -1,0 +1,12 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,play_sound
+event_foolburstday_12_s_1,130007,event_foolburstday_12_s,Speech,shifty_s,shifty_s,Locale_SubScenario:event_foolburstday_12_s_1,True,mechashifty,1,idle,shifty_s,3,angry,CityForest_03_d,31,31,1.0,bgm_story_tomboyprincess,
+event_foolburstday_12_s_2,130007,event_foolburstday_12_s,Speech,shifty_s,shifty_s,Locale_SubScenario:event_foolburstday_12_s_2,True,,1,idle,,3,angry,,31,31,1.0,,
+event_foolburstday_12_s_3,130007,event_foolburstday_12_s,Speech,shifty_s,shifty_s,Locale_SubScenario:event_foolburstday_12_s_3,True,,1,idle,,3,angry,,31,31,1.0,,
+event_foolburstday_12_s_4,130007,event_foolburstday_12_s,Speech,mechashifty,mechashifty,Locale_SubScenario:event_foolburstday_12_s_4,True,,1,idle,,3,angry,,31,31,1.0,,
+event_foolburstday_12_s_5,130007,event_foolburstday_12_s,Speech,shifty_s,shifty_s,Locale_SubScenario:event_foolburstday_12_s_5,True,,1,idle,,3,no,,31,31,1.0,,
+event_foolburstday_12_s_6,130007,event_foolburstday_12_s,Self,,,Locale_SubScenario:event_foolburstday_12_s_6,False,,1,idle,,3,no,,31,31,1.0,,
+event_foolburstday_12_s_7,130007,event_foolburstday_12_s,Narration,,,Locale_SubScenario:event_foolburstday_12_s_7,False,,1,idle,,3,no,,31,15,1.5,,sfx_scn_earthquake
+event_foolburstday_12_s_8,130007,event_foolburstday_12_s,Monologue,,,Locale_SubScenario:event_foolburstday_12_s_8,False,,1,idle,,3,no,,15,15,1.0,,
+event_foolburstday_12_s_9,130007,event_foolburstday_12_s,Monologue,,,Locale_SubScenario:event_foolburstday_12_s_9,False,,1,idle,,3,no,,15,15,1.0,,
+event_foolburstday_12_s_10,130007,event_foolburstday_12_s,Speech,shifty_s,shifty_s,Locale_SubScenario:event_foolburstday_12_s_10,True,,1,idle,,3,angry,,S_30,S_30,1.0,,
+event_foolburstday_12_s_11,130007,event_foolburstday_12_s,Speech,shifty_s,shifty_s,Locale_SubScenario:event_foolburstday_12_s_11,True,,1,idle,,3,angry,,S_30,S_300,0.5,,

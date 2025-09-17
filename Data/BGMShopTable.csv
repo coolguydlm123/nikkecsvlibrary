@@ -1,0 +1,5 @@
+id,shop,bgm_loop
+1,CashShop,bgm_menu_cashshop
+2,CashShop,bgm_menu_cashshop_2
+101,ContentsShop,bgm_menu_shop
+102,ContentsShop,bgm_menu_shop_2

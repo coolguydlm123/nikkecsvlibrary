@@ -1,0 +1,8 @@
+id,group_id,npc_type,resource_id
+1,1,NORMAL,pirate_guest_normal_1
+2,1,NORMAL,pirate_guest_normal_2
+3,1,NORMAL,pirate_guest_normal_3
+4,1,NORMAL,pirate_guest_normal_4
+5,1,NORMAL,pirate_guest_normal_5
+6,1,NORMAL,pirate_guest_normal_6
+7,1,EVENT,pirate_guest_event_2

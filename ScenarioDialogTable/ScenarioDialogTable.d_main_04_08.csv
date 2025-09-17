@@ -1,0 +1,6 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_bgm,conversation_id
+d_main_04_08_1,d_main_04_08,Narration,Narration,Narration,Locale_MainScenario:d_main_04_08_1,True,CityForest_02,1,1,1.0,sfx_scn_phonevibration,none,
+d_main_04_08_2,d_main_04_08,Monologue,,,Locale_MainScenario:d_main_04_08_2,True,,1,1,1.0,,,
+d_main_04_08_3,d_main_04_08,Monologue,,,Locale_MainScenario:d_main_04_08_3,True,,1,1,1.0,,,m_main_04_08
+d_main_04_08_4,d_main_04_08,Monologue,,,Locale_MainScenario:d_main_04_08_4,True,,1,1,1.0,,,
+d_main_04_08_5,d_main_04_08,Monologue,,,Locale_MainScenario:d_main_04_08_5,True,,1,1,1.0,,,

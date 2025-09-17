@@ -1,0 +1,2 @@
+id,event_id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+event_aniversary_04_01,130003,event_aniversary_04,Monologue,Monologue,Locale_SubScenario:event_firstaffection_8_1,False,CommanderRoom,1,1,1.0,bgm_story_sunshinesorrow

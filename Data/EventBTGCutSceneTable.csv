@@ -1,0 +1,8 @@
+id,manager_id,order,cutscene_condition_type,cutscene_resource_id,cutscene_name_localkey,cutscene_description_localkey
+1,1,1,None,clear_scene_1,Locale_Event:clear_scene_1_name,Locale_Event:clear_scene_1_desc
+2,1,2,None,clear_scene_2,Locale_Event:clear_scene_2_name,Locale_Event:clear_scene_2_desc
+3,1,3,None,clear_scene_3,Locale_Event:clear_scene_3_name,Locale_Event:clear_scene_3_desc
+4,1,4,None,clear_scene_4,Locale_Event:clear_scene_4_name,Locale_Event:clear_scene_4_desc
+5,1,5,None,clear_scene_5,Locale_Event:clear_scene_5_name,Locale_Event:clear_scene_5_desc
+6,1,6,None,clear_scene_skill_1,Locale_Event:clear_scene_skill_1_name,Locale_Event:clear_scene_skill_1_desc
+7,1,7,None,clear_scene_skill_2,Locale_Event:clear_scene_skill_2_name,Locale_Event:clear_scene_skill_2_desc

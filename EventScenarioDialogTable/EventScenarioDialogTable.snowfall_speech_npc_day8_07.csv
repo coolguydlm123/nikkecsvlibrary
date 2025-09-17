@@ -1,0 +1,15 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm,play_sound,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim
+snowfall_speech_npc_day8_07_1,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_1,True,vesti,3,idle,WaterFall_s,3,XS_30,1.0,amb_so_waterfall_2,event_bgm_neverland_snowflakes_sunset,,,,
+snowfall_speech_npc_day8_07_2,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_2,True,,3,idle,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_3,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_3,True,,3,idle,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_4,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_4,True,,3,idle,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_5,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_5,True,,3,idle,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_6,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_6,True,,3,idle,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_7,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_7,True,,3,idle,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_8,80903,snowfall_speech_npc_day8_07,Narration,,,Locale_SubScenario:snowfall_speech_npc_day8_07_8,False,,3,idle,,black,black,1.0,,,sfx_scn_spraywater,,,
+snowfall_speech_npc_day8_07_9,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_9,True,,3,sad,,XS_30,XS_30,1.0,,,,,,
+snowfall_speech_npc_day8_07_10,80903,snowfall_speech_npc_day8_07,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day8_07_10,True,,3,sad,,XS_30,2,1.0,,,,belorta,1,delight
+snowfall_speech_npc_day8_07_11,80903,snowfall_speech_npc_day8_07,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day8_07_11,True,,3,sad,,2,2,1.0,,,,,1,idle
+snowfall_speech_npc_day8_07_12,80903,snowfall_speech_npc_day8_07,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day8_07_12,True,,3,sad,,2,2,1.0,,,,,1,idle
+snowfall_speech_npc_day8_07_13,80903,snowfall_speech_npc_day8_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day8_07_13,True,,3,sad,,2,2,1.0,,,,,1,idle
+snowfall_speech_npc_day8_07_14,80903,snowfall_speech_npc_day8_07,Narration,,,Locale_SubScenario:snowfall_speech_npc_day8_07_14,False,,3,sad,,black,black,1.0,,,,,1,idle

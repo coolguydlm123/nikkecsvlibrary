@@ -1,0 +1,9 @@
+id,contents_type,use_value,group_id
+1,Default,3,1000
+2,TowerBase,3,1000
+3,TowerElysion,3,1000
+4,TowerMissilis,3,1000
+5,TowerTetra,3,1000
+7,StoryEvent,0,1000
+8,ChallengeModeEvent,0,1000
+9,EventArchive,0,1000

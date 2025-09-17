@@ -1,0 +1,11 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,play_sound
+d_subquest_1101_s_1,d_subquest_1101_s,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1101_s_1,True,rapi,1,idle,anis,13,idle,neon,15,idle,raptilion,5,idle,CityForest_01,1,10,1.0,none,
+d_subquest_1101_s_2,d_subquest_1101_s,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1101_s_2,True,,1,worry,,13,idle,,15,idle,,5,idle,,10,raptilion_5,2.0,bgm_story_whosdumber,
+d_subquest_1101_s_3,d_subquest_1101_s,Speech,rapi,unknown,Locale_SubScenario:d_subquest_1101_s_3,False,,1,idle,,13,idle,,15,idle,,5,idle,,raptilion_5,raptilion_5,1.0,,sfx_scn_machinefan
+d_subquest_1101_s_4,d_subquest_1101_s,Speech,anis,anis,Locale_SubScenario:d_subquest_1101_s_4,True,,1,idle,,13,no,,15,idle,,5,idle,,12,12,1.0,,
+d_subquest_1101_s_5,d_subquest_1101_s,Speech,neon,neon,Locale_SubScenario:d_subquest_1101_s_5,True,,1,idle,,13,no,,15,idle,,5,idle,,12,14,1.0,,
+d_subquest_1101_s_6,d_subquest_1101_s,Speech,neon,neon,Locale_SubScenario:d_subquest_1101_s_6,True,,1,idle,,13,no,,15,idle,,5,idle,,14,14,1.0,,
+d_subquest_1101_s_7,d_subquest_1101_s,Speech,anis,anis,Locale_SubScenario:d_subquest_1101_s_7,True,,1,idle,,13,delight,,15,idle,,5,idle,,14,14,1.0,,
+d_subquest_1101_s_8,d_subquest_1101_s,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1101_s_8,True,,1,idle,,13,idle,,15,idle,,5,idle,,14,12,1.0,,
+d_subquest_1101_s_9,d_subquest_1101_s,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1101_s_9,True,,1,idle,,13,idle,,15,idle,,5,idle,,12,12,1.0,,
+d_subquest_1101_s_10,d_subquest_1101_s,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1101_s_10,True,,1,idle,,13,idle,,15,idle,,5,idle,,12,10,1.0,,

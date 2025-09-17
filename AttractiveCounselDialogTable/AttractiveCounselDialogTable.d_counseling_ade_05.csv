@@ -1,0 +1,14 @@
+id,group_id,speech_window,attractive_point,highlight,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,speaker,jump_target,characters/0/hide_char_id
+d_counseling_ade_05_1,d_counseling_ade_05,Monologue,0,Monologue,Locale_Counseling:d_counseling_ade_05_1,False,ade,1,idle,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,,
+d_counseling_ade_05_2,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_2,True,,1,idle,,10,10,1.0,,ade,,
+d_counseling_ade_05_3,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_3,True,,1,idle,,10,10,1.0,,ade,,
+d_counseling_ade_05_4,d_counseling_ade_05,Choice,120,Choice,Locale_Counseling:d_counseling_ade_05_4,False,,1,idle,,10,10,1.0,,,d_counseling_ade_05_6,
+d_counseling_ade_05_5,d_counseling_ade_05,Choice,100,Choice,Locale_Counseling:d_counseling_ade_05_5,False,,1,idle,,10,10,1.0,,,d_counseling_ade_05_8,
+d_counseling_ade_05_6,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_6,True,,1,delight,,10,100,1.0,,ade,,
+d_counseling_ade_05_7,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_7,True,,1,shy,,100,100,1.0,,ade,d_counseling_ade_05_13,
+d_counseling_ade_05_8,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_8,True,,1,worried,,10,100,1.0,,ade,,
+d_counseling_ade_05_9,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_9,True,,1,worried,,100,100,1.0,,ade,,
+d_counseling_ade_05_10,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_10,True,,1,worried,,100,100,1.0,,ade,,
+d_counseling_ade_05_11,d_counseling_ade_05,Self,0,Self,Locale_Counseling:d_counseling_ade_05_11,False,,1,idle,,100,100,1.0,,,,
+d_counseling_ade_05_12,d_counseling_ade_05,Speech,0,ade,Locale_Counseling:d_counseling_ade_05_12,True,,1,delight,,100,100,1.0,,ade,d_counseling_ade_05_13,
+d_counseling_ade_05_13,d_counseling_ade_05,Narration,0,Narration,Locale_Counseling:d_counseling_ade_05_13,False,,1,idle,none,100,100,1.0,,,,ade

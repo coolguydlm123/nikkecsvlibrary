@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+event_lastkingdom1_b03_s_1,40045,event_lastkingdom1_b03_s,Speech,kilo,kilo,Locale_MainScenario:event_lastkingdom1_b03_s_1,True,kilo,1,surprise,marian_q,13,angry,CrownCasltePanorama_n,113,113,1.0,event_bgm_lastkingdom_machines
+event_lastkingdom1_b03_s_2,40045,event_lastkingdom1_b03_s,Speech,marian_q,marian_q,Locale_MainScenario:event_lastkingdom1_b03_s_2,True,,1,surprise,,13,angry,,113,113,1.0,
+event_lastkingdom1_b03_s_3,40045,event_lastkingdom1_b03_s,Speech,marian_q,marian_q,Locale_MainScenario:event_lastkingdom1_b03_s_3,True,,1,surprise,,13,angry,,113,113,1.0,
+event_lastkingdom1_b03_s_4,40045,event_lastkingdom1_b03_s,Speech,kilo,kilo,Locale_MainScenario:event_lastkingdom1_b03_s_4,True,,1,surprise,,13,angry,,113,113,1.0,
+event_lastkingdom1_b03_s_5,40045,event_lastkingdom1_b03_s,Speech,marian_q,marian_q,Locale_MainScenario:event_lastkingdom1_b03_s_5,True,,1,surprise,,13,angry,,113,113,1.0,
+event_lastkingdom1_b03_s_6,40045,event_lastkingdom1_b03_s,Speech,marian_q,marian_q,Locale_MainScenario:event_lastkingdom1_b03_s_6,True,,1,surprise,,13,angry,,113,113,1.0,
+event_lastkingdom1_b03_s_7,40045,event_lastkingdom1_b03_s,Speech,kilo,kilo,Locale_MainScenario:event_lastkingdom1_b03_s_7,True,,1,go,,13,angry,,113,113,1.0,

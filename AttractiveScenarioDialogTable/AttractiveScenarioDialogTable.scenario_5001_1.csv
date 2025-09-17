@@ -1,0 +1,11 @@
+id,group_id,title_localkey,speech_window,highlight,speaker,scenario_localkey,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/5/show_char_id,characters/5/set_char_position,characters/5/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_bgm,set_filter_01,set_filter_02,fade,effects/0/play_effect_id,effects/1/play_effect_id,effects/1/set_effect_position,set_camera_shake,set_image,effects/0/stop_effect_id,effects/0/set_effect_position
+1,scenario_5001_1,Locale_Counseling:Title_100,Speech,rapi,rapi,Locale_Counseling:Scenario_101,rapi,1,idle,rapi,1,idle,bg020,1,1,0.0,Addme_001,bgm_worldmap_01,Red,None,black,,,,,,,
+2,scenario_5001_1,,Speech,rapi,rapi,Locale_Counseling:Scenario_102,rapi,1,idle,rapi,1,idle,,1,2,3.0,Exia_003,,None,None,white,fx_skill_m_casting_bagic,fx_skill_m_instant_trail_bagic,1,,,,
+3,scenario_5001_1,,Speech,rapi,rapi,Locale_Counseling:Scenario_103,rapi,1,idle,rapi,1,idle,,2,4,2.0,Ludmilla_004,,None,None,black_without_dialogue,,,,Low,,,
+4,scenario_5001_1,Locale_Counseling:Title_200,Monologue,rapi,rapi,Locale_Counseling:Scenario_104,rapi,1,idle,rapi,1,idle,,4,4,0.0,,,None,None,white_without_dialogue,,,,,si_c030_00_s,fx_skill_m_casting_bagic,1
+5,scenario_5001_1,,Narration,rapi,rapi,Locale_Counseling:Scenario_105,rapi,1,idle,rapi,1,idle,,5,5,0.0,Solin_003,bgm_combat_spot_01,None,None,,,,,Middle,None,,
+6,scenario_5001_1,,Subtitles,rapi,rapi,Locale_Counseling:Scenario_106,rapi,1,idle,rapi,1,idle,bg015,5,8,3.0,,,None,None,,,,,,,,
+7,scenario_5001_1,,Self,rapi,rapi,Locale_Counseling:Scenario_107,rapi,1,idle,rapi,1,idle,bg020,6,10,4.0,Mary_001,none,Grey,None,,fx_skill_m_casting_bagic,fx_skill_m_casting_bagic,4,,,,2
+8,scenario_5001_1,,Choice,rapi,rapi,Locale_Counseling:Scenario_108,rapi,1,idle,rapi,1,idle,black,1,1,0.0,Neon_002,,Black,None,,,,,High,,,
+9,scenario_5001_1,,Choice,rapi,rapi,Locale_Counseling:Scenario_109,rapi,1,idle,rapi,1,idle,white,1,1,0.0,Ludmilla_004,bgm_combat_spot_01,None,None,,,,,,,,
+10,scenario_5001_1,,Choice,rapi,rapi,Locale_Counseling:Scenario_110,rapi,1,idle,rapi,1,idle,,1,1,0.0,Vesti_003,,None,None,,,,,None,,,

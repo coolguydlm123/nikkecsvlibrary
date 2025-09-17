@@ -1,0 +1,17 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_bay_17_1,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_1,True,bay,1,idle,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_bay_17_2,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_2,True,,1,idle,,10,10,1.0,,,
+d_counseling_bay_17_3,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_3,True,,1,idle,,10,10,1.0,,,
+d_counseling_bay_17_4,d_counseling_bay_17,Choice,100,Choice,,Locale_Counseling:d_counseling_bay_17_4,False,,1,idle,,10,10,1.0,,d_counseling_bay_17_6,
+d_counseling_bay_17_5,d_counseling_bay_17,Choice,120,Choice,,Locale_Counseling:d_counseling_bay_17_5,False,,1,idle,,10,10,1.0,,d_counseling_bay_17_11,
+d_counseling_bay_17_6,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_6,False,,1,worry,,10,100,1.0,,,
+d_counseling_bay_17_7,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_7,True,,1,worry,,100,100,1.0,,,
+d_counseling_bay_17_8,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_8,True,,1,worry,,100,100,1.0,,,
+d_counseling_bay_17_9,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_9,True,,1,worry,,100,100,1.0,,,
+d_counseling_bay_17_10,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_10,True,,1,worry,,100,100,1.0,,d_counseling_bay_17_16,
+d_counseling_bay_17_11,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_11,False,,1,surprise,,10,100,1.0,,,
+d_counseling_bay_17_12,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_12,True,,1,surprise,,100,100,1.0,,,
+d_counseling_bay_17_13,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_13,True,,1,surprise,,100,100,1.0,,,
+d_counseling_bay_17_14,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_14,True,,1,surprise,,100,100,1.0,,,
+d_counseling_bay_17_15,d_counseling_bay_17,Speech,0,bay,bay,Locale_Counseling:d_counseling_bay_17_15,True,,1,special,,100,100,1.0,,d_counseling_bay_17_16,
+d_counseling_bay_17_16,d_counseling_bay_17,Narration,0,Narration,,Locale_Counseling:d_counseling_bay_17_16,False,,1,idle,none,100,100,1.0,,,bay

@@ -1,0 +1,16 @@
+id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,set_filter_01,set_camera_shake
+d_main_24_06_e_1,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_1,False,MissilisOffice,1,1,1.0,none,Blur_Low,
+d_main_24_06_e_2,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_2,False,,1,1,1.0,,Blur_Low,
+d_main_24_06_e_3,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_3,False,,1,5,2.0,,,
+d_main_24_06_e_4,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_4,False,,5,5,1.0,,,
+d_main_24_06_e_5,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_5,False,,5,5,1.0,,,
+d_main_24_06_e_6,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_6,False,,5,5,2.0,,,
+d_main_24_06_e_7,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_7,False,,5,1,2.0,,,
+d_main_24_06_e_8,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_8,False,,1,1,1.0,,,
+d_main_24_06_e_9,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_9,False,,1,1,1.0,,,
+d_main_24_06_e_10,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_10,False,,1,1,2.0,,,
+d_main_24_06_e_11,d_main_24_06_e,Self,Self,Locale_MainScenario:d_main_24_06_e_11,False,,1,1,1.0,,,Low_2
+d_main_24_06_e_12,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_12,False,,1,1,1.0,,,
+d_main_24_06_e_13,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_13,False,,1,1,1.0,,,
+d_main_24_06_e_14,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_14,False,,1,1,1.0,,,
+d_main_24_06_e_15,d_main_24_06_e,Monologue,Monologue,Locale_MainScenario:d_main_24_06_e_15,False,,black,black,1.0,,,

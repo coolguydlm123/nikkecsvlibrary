@@ -1,0 +1,4 @@
+id,Resource_id,Grade,GachaList_group_Id,Rate,MaxSlot,BonusSlotData/0/BonusSlot,BonusSlotData/1/BonusSlot,BonusSlotData/2/BonusSlot,BonusSlotData/3/BonusSlot,BonusSlotData/4/BonusSlot,BonusSlotData/5/BonusSlot
+1,NKSmini_GB01,1,1,75000,1,100501,100201,,,,
+2,NKSmini_GB02,2,2,20000,3,100502,100502,100202.0,100202.0,,
+3,NKSmini_GB03,3,3,5000,5,100503,100503,100503.0,100203.0,100203.0,100203.0

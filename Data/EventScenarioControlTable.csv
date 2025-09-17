@@ -1,0 +1,5 @@
+id,event_id,scenario_group_id,scenario_play_type
+9000101,90001,d_contents_return_01,AtActive
+9000201,90002,d_contents_return_01,AtActive
+9000301,90003,d_contents_return_01,AtActive
+9000401,90004,d_contents_return_01,AtActive

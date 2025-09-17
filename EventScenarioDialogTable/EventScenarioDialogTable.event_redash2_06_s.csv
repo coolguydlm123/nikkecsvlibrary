@@ -1,0 +1,6 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+event_redash2_06_s_1,40032,event_redash2_06_s,Speech,dorothy,dorothy,Locale_MainScenario:event_redash2_06_s_1,True,dorothy,1,angry,snowwhite_o,13,angry,hongryeon_o,15,angry,Desert_05,100,100,1.0,event_bgm_redash_finalbattle
+event_redash2_06_s_2,40032,event_redash2_06_s,Speech,snowwhite_o,snowwhite_o,Locale_MainScenario:event_redash2_06_s_2,True,,1,angry,,13,angry,,15,angry,,S_1300,S_1300,1.0,
+event_redash2_06_s_3,40032,event_redash2_06_s,Speech,hongryeon_o,hongryeon_o,Locale_MainScenario:event_redash2_06_s_3,True,,1,angry,,13,angry,,15,angry,,1500,1500,1.0,
+event_redash2_06_s_4,40032,event_redash2_06_s,Speech,dorothy,dorothy,Locale_MainScenario:event_redash2_06_s_4,True,,1,angry,,13,angry,,15,angry,,100,100,1.0,
+event_redash2_06_s_5,40032,event_redash2_06_s,Speech,dorothy,dorothy,Locale_MainScenario:event_redash2_06_s_5,True,,1,angry,,13,angry,,15,angry,,100,10,1.0,

@@ -1,0 +1,3 @@
+id,event_id,is_archive_event,enter_scenario,use_fish_collection_data,use_spot_group_id,casting_bonus_ratio,casting_limit_time,special_pattern_decrease_hp_ratio,judgment_start_distance,perfect_zone_distance,great_zone_distance,good_zone_distance,perfect_decrease_hp,great_decrease_hp,good_decrease_hp,small_hp_decrease_ratio,mid_hp_decrease_ratio,large_hp_decrease_ratio,penalty_hp,time_alert,gain_gold_ratio,catch_double_ratio,fishing_maximum_size_ratio,pattern_start_delay_time,result_window_delay_time
+1,81401,False,d_contents_2024summer_fishing_01,1,1,1000,10,100,7000,400,550,1250,500,400,300,120,70,50,1000,300,10000,500,0,100,0
+2,81401,True,d_contents_2024summer_fishing_01,2,2,1000,10,100,7000,400,550,1250,500,400,300,120,70,50,1000,300,10000,500,0,100,0

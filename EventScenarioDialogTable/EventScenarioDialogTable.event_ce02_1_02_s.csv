@@ -1,0 +1,2 @@
+id,event_id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration
+event_ce02_1_02_s,40026,event_ce02_1_02_s,Narration,Narration,Locale_SubScenario:event_firstaffection_8_73,False,marian_f,1,idle,CommanderRoom,1,1,1.0

@@ -1,0 +1,15 @@
+id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,highlight,speaker,characters/0/hide_char_id
+d_main_12af_05_1,d_main_12af_05,Monologue,Locale_MainScenario:d_main_12af_05_1,False,CommanderRoom_n,5,5,1.0,none,,,,,,
+d_main_12af_05_2,d_main_12af_05,Monologue,Locale_MainScenario:d_main_12af_05_2,False,,5,5,1.0,,,,,,,
+d_main_12af_05_3,d_main_12af_05,Monologue,Locale_MainScenario:d_main_12af_05_3,False,,5,5,1.0,,snowwhite,1,idle,,,
+d_main_12af_05_4,d_main_12af_05,Speech,Locale_MainScenario:d_main_12af_05_4,True,,5,1,1.0,,,1,idle,snowwhite,snowwhite,
+d_main_12af_05_5,d_main_12af_05,Self,Locale_MainScenario:d_main_12af_05_5,False,,1,1,1.0,,,1,idle,,,
+d_main_12af_05_6,d_main_12af_05,Speech,Locale_MainScenario:d_main_12af_05_6,True,,1,L_10,1.0,,,1,idle,snowwhite,snowwhite,
+d_main_12af_05_7,d_main_12af_05,Speech,Locale_MainScenario:d_main_12af_05_7,True,,L_10,L_10,1.0,,,1,idle,snowwhite,snowwhite,
+d_main_12af_05_8,d_main_12af_05,Self,Locale_MainScenario:d_main_12af_05_8,False,,L_10,L_10,1.0,,,1,idle,,,
+d_main_12af_05_9,d_main_12af_05,Speech,Locale_MainScenario:d_main_12af_05_9,True,,L_10,L_10,1.0,,,1,idle,snowwhite,snowwhite,
+d_main_12af_05_10,d_main_12af_05,Speech,Locale_MainScenario:d_main_12af_05_10,True,,L_10,L_100,0.5,,,1,idle,snowwhite,snowwhite,
+d_main_12af_05_11,d_main_12af_05,Self,Locale_MainScenario:d_main_12af_05_11,False,,L_100,L_100,1.0,,,1,idle,,,
+d_main_12af_05_12,d_main_12af_05,Speech,Locale_MainScenario:d_main_12af_05_12,True,,L_100,L_100,1.0,,,1,idle,snowwhite,snowwhite,
+d_main_12af_05_13,d_main_12af_05,Narration,Locale_MainScenario:d_main_12af_05_13,False,,L_100,L_10,1.0,,,1,,,,snowwhite
+d_main_12af_05_14,d_main_12af_05,Monologue,Locale_MainScenario:d_main_12af_05_14,False,,black,black,1.0,,,,,,,

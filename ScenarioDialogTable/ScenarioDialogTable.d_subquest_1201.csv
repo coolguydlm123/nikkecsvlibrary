@@ -1,0 +1,11 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_subquest_1201_1,d_subquest_1201,Speech,anis,anis,Locale_SubScenario:d_subquest_1201_1,True,rapi,1,idle,anis,13,delight,neon,15,idle,IceLand_02,130,130,1.0,bgm_story_girlstalk
+d_subquest_1201_2,d_subquest_1201,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1201_2,True,,1,idle,,13,idle,,15,idle,,130,12,1.0,
+d_subquest_1201_3,d_subquest_1201,Speech,neon,neon,Locale_SubScenario:d_subquest_1201_3,True,,1,idle,,13,idle,,15,idle,,12,14,1.0,
+d_subquest_1201_4,d_subquest_1201,Speech,anis,anis,Locale_SubScenario:d_subquest_1201_4,True,,1,idle,,13,idle,,15,idle,,14,14,1.0,
+d_subquest_1201_5,d_subquest_1201,Speech,neon,neon,Locale_SubScenario:d_subquest_1201_5,True,,1,idle,,13,idle,,15,delight,,14,14,1.0,
+d_subquest_1201_6,d_subquest_1201,Speech,anis,anis,Locale_SubScenario:d_subquest_1201_6,True,,1,idle,,13,delight,,15,delight,,14,130,1.0,
+d_subquest_1201_7,d_subquest_1201,Speech,rapi,rapi,Locale_SubScenario:d_subquest_1201_7,True,,1,idle,,13,delight,,15,idle,,10,10,1.0,
+d_subquest_1201_8,d_subquest_1201,Speech,neon,neon,Locale_SubScenario:d_subquest_1201_8,True,,1,idle,,13,idle,,15,idle,,S_150,S_150,1.0,
+d_subquest_1201_9,d_subquest_1201,Speech,anis,anis,Locale_SubScenario:d_subquest_1201_9,True,,1,idle,,13,idle,,15,idle,,130,130,1.0,
+d_subquest_1201_10,d_subquest_1201,Speech,anis,anis,Locale_SubScenario:d_subquest_1201_10,True,,1,idle,,13,idle,,15,idle,,130,13,1.0,

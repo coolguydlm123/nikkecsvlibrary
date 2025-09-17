@@ -1,0 +1,12 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_main_16_08_1,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_1,True,rapi,2,idle,anis,12,void,crow,14,idle,viper,16,idle,jackal,18,idle,IceLand_02,6,2,2.0,bgm_secondhand
+d_main_16_08_2,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_2,True,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,2,2,1.0,
+d_main_16_08_3,d_main_16_08,Speech,anis,anis,Locale_MainScenario:d_main_16_08_3,True,,2,idle,,12,worry,,14,idle,,16,idle,,18,idle,,2,1,1.0,
+d_main_16_08_4,d_main_16_08,Self,anis,Self,Locale_MainScenario:d_main_16_08_4,False,,2,idle,,12,worry,,14,idle,,16,idle,,18,idle,,1,1,1.0,
+d_main_16_08_5,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_5,True,,2,think,,12,void,,14,idle,,16,idle,,18,idle,,1,20,1.0,
+d_main_16_08_6,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_6,True,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,20,20,1.0,
+d_main_16_08_7,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_7,True,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,20,20,1.0,
+d_main_16_08_8,d_main_16_08,Self,rapi,Self,Locale_MainScenario:d_main_16_08_8,False,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,20,20,1.0,
+d_main_16_08_9,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_9,True,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,20,2,1.0,
+d_main_16_08_10,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_10,True,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,2,2,1.0,
+d_main_16_08_11,d_main_16_08,Speech,rapi,rapi,Locale_MainScenario:d_main_16_08_11,True,,2,idle,,12,void,,14,idle,,16,idle,,18,idle,,2,17,3.0,

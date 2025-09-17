@@ -1,0 +1,11 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_yuni_10_1,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_1,True,yuni,1,idle,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_yuni_10_2,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_2,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_yuni_10_3,d_counseling_yuni_10,Choice,120,yuni,,Locale_Counseling:d_counseling_yuni_10_3,False,,1,idle,,S_10,S_10,1.0,,d_counseling_yuni_10_5,
+d_counseling_yuni_10_4,d_counseling_yuni_10,Choice,100,yuni,,Locale_Counseling:d_counseling_yuni_10_4,False,,1,idle,,S_10,S_10,1.0,,d_counseling_yuni_10_7,
+d_counseling_yuni_10_5,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_5,True,,1,shy,,S_10,S_100,1.0,,,
+d_counseling_yuni_10_6,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_6,True,,1,shy,,S_100,S_100,1.0,,d_counseling_yuni_10_10,
+d_counseling_yuni_10_7,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_7,True,,1,surprise,,S_10,S_100,1.0,,,
+d_counseling_yuni_10_8,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_8,True,,1,surprise,,S_100,S_100,1.0,,,
+d_counseling_yuni_10_9,d_counseling_yuni_10,Speech,0,yuni,yuni,Locale_Counseling:d_counseling_yuni_10_9,True,,1,idle,,S_100,S_100,1.0,,,
+d_counseling_yuni_10_10,d_counseling_yuni_10,Narration,0,yuni,,Locale_Counseling:d_counseling_yuni_10_10,False,,1,idle,none,S_100,S_100,1.0,,,yuni

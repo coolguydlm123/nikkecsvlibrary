@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_tove_18_1,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_1,True,tove,1,idle,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_tove_18_2,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_2,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_tove_18_3,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_3,True,,1,special,,S_10,S_10,1.0,,,
+d_counseling_tove_18_4,d_counseling_tove_18,Choice,100,Choice,,Locale_Counseling:d_counseling_tove_18_4,False,,1,special,,S_10,S_10,1.0,,d_counseling_tove_18_6,
+d_counseling_tove_18_5,d_counseling_tove_18,Choice,120,Choice,,Locale_Counseling:d_counseling_tove_18_5,False,,1,special,,S_10,S_10,1.0,,d_counseling_tove_18_10,
+d_counseling_tove_18_6,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_6,True,,1,surprise,,S_10,S_100,1.0,,,
+d_counseling_tove_18_7,d_counseling_tove_18,Self,0,Self,,Locale_Counseling:d_counseling_tove_18_7,False,,1,surprise,,S_100,S_100,1.0,,,
+d_counseling_tove_18_8,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_8,True,,1,think,,S_100,S_100,1.0,,,
+d_counseling_tove_18_9,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_9,True,,1,sad,,S_100,S_100,1.0,,d_counseling_tove_18_14,
+d_counseling_tove_18_10,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_10,True,,1,surprise,,S_10,S_100,1.0,,,
+d_counseling_tove_18_11,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_11,True,,1,special,,S_100,S_100,1.0,,,
+d_counseling_tove_18_12,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_12,True,,1,special,,S_100,S_100,1.0,,,
+d_counseling_tove_18_13,d_counseling_tove_18,Speech,0,tove,tove,Locale_Counseling:d_counseling_tove_18_13,True,,1,special,,S_100,S_100,1.0,,,
+d_counseling_tove_18_14,d_counseling_tove_18,Monologue,0,Monologue,,Locale_Counseling:d_counseling_tove_18_14,False,,1,idle,none,S_100,S_100,1.0,,,tove

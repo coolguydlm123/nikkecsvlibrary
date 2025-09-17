@@ -1,0 +1,16 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,characters/5/show_char_id,characters/5/set_char_position,characters/5/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_main_23_01_s_1,d_main_23_01_s,Speech,anis,anis,Locale_MainScenario:d_main_23_01_s_1,True,anis,13,angry,neon,5,idle,poli,7,idle,miranda,9,idle,rapi,3,idle,enikk,1,special,EnikkRoom,130,130,1.0,bgm_emergency
+d_main_23_01_s_2,d_main_23_01_s,Speech,poli,poli,Locale_MainScenario:d_main_23_01_s_2,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,130,6,1.0,
+d_main_23_01_s_3,d_main_23_01_s,Speech,neon,neon,Locale_MainScenario:d_main_23_01_s_3,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,6,6,1.0,
+d_main_23_01_s_4,d_main_23_01_s,Speech,poli,poli,Locale_MainScenario:d_main_23_01_s_4,True,,13,angry,,5,idle,,7,surprise,,9,idle,,3,idle,,1,special,,6,6,1.0,
+d_main_23_01_s_5,d_main_23_01_s,Speech,miranda,miranda,Locale_MainScenario:d_main_23_01_s_5,True,,13,angry,,5,idle,,7,surprise,,9,idle,,3,idle,,1,special,,6,8,1.0,
+d_main_23_01_s_6,d_main_23_01_s,Speech,miranda,miranda,Locale_MainScenario:d_main_23_01_s_6,True,,13,angry,,5,idle,,7,surprise,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_7,d_main_23_01_s,Speech,poli,poli,Locale_MainScenario:d_main_23_01_s_7,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_8,d_main_23_01_s,Speech,poli,poli,Locale_MainScenario:d_main_23_01_s_8,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_9,d_main_23_01_s,Speech,poli,poli,Locale_MainScenario:d_main_23_01_s_9,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_10,d_main_23_01_s,Speech,rapi,rapi,Locale_MainScenario:d_main_23_01_s_10,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,3,3,1.0,
+d_main_23_01_s_11,d_main_23_01_s,Speech,poli,poli,Locale_MainScenario:d_main_23_01_s_11,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_12,d_main_23_01_s,Self,,,Locale_MainScenario:d_main_23_01_s_12,False,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_13,d_main_23_01_s,Self,,,Locale_MainScenario:d_main_23_01_s_13,False,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,8,8,1.0,
+d_main_23_01_s_14,d_main_23_01_s,Speech,enikk,enikk,Locale_MainScenario:d_main_23_01_s_14,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,1,10,1.0,
+d_main_23_01_s_15,d_main_23_01_s,Speech,enikk,enikk,Locale_MainScenario:d_main_23_01_s_15,True,,13,angry,,5,idle,,7,idle,,9,idle,,3,idle,,1,special,,10,10,1.0,

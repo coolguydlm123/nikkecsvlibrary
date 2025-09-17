@@ -1,0 +1,13 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_trina_16_1,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_1,True,trina,1,idle,CommanderRoom,L_10,L_10,1.0,bgm_story_backtonormal,,
+d_counseling_trina_16_2,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_2,True,,1,idle,,L_10,L_10,1.0,,,
+d_counseling_trina_16_3,d_counseling_trina_16,Choice,100,trina,,Locale_Counseling:d_counseling_trina_16_3,False,,1,idle,,L_10,L_10,1.0,,d_counseling_trina_16_5,
+d_counseling_trina_16_4,d_counseling_trina_16,Choice,120,trina,,Locale_Counseling:d_counseling_trina_16_4,False,,1,idle,,L_10,L_10,1.0,,d_counseling_trina_16_8,
+d_counseling_trina_16_5,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_5,True,,1,think1,,L_10,L_100,1.0,,,
+d_counseling_trina_16_6,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_6,True,,1,think1,,L_100,L_100,1.0,,,
+d_counseling_trina_16_7,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_7,True,,1,think1,,L_100,L_100,1.0,,d_counseling_trina_16_12,
+d_counseling_trina_16_8,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_8,True,,1,idle,,L_10,L_100,1.0,,,
+d_counseling_trina_16_9,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_9,True,,1,idle,,L_100,L_100,1.0,,,
+d_counseling_trina_16_10,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_10,True,,1,idle,,L_100,L_100,1.0,,,
+d_counseling_trina_16_11,d_counseling_trina_16,Speech,0,trina,trina,Locale_Counseling:d_counseling_trina_16_11,True,,1,idle,,L_100,L_100,1.0,,d_counseling_trina_16_12,
+d_counseling_trina_16_12,d_counseling_trina_16,Narration,0,trina,,Locale_Counseling:d_counseling_trina_16_12,False,,1,idle,none,L_100,L_100,1.0,,,trina

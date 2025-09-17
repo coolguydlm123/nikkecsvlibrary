@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/hide_char_id,jump_target
+d_counseling_snowwhite_young_08_1,d_counseling_snowwhite_young_08,Narration,0,snowwhite,Narration,Locale_Counseling:d_counseling_snowwhite_young_08_1,False,snowwhite,1,pain,black,L_10,L_10,1.0,event_bgm_redash_alldownhill,,
+d_counseling_snowwhite_young_08_2,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_2,True,snowwhite_o,1,sad,BattleShipBridge,L_10,S_10,1.0,,snowwhite,
+d_counseling_snowwhite_young_08_3,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_3,True,,1,sad,,S_10,S_10,1.0,,,
+d_counseling_snowwhite_young_08_4,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_4,True,,1,sad,,S_10,S_10,1.0,,,
+d_counseling_snowwhite_young_08_5,d_counseling_snowwhite_young_08,Choice,100,snowwhite_o,,Locale_Counseling:d_counseling_snowwhite_young_08_5,False,,1,sad,,S_10,S_10,1.0,,,d_counseling_snowwhite_young_08_7
+d_counseling_snowwhite_young_08_6,d_counseling_snowwhite_young_08,Choice,120,snowwhite_o,,Locale_Counseling:d_counseling_snowwhite_young_08_6,False,,1,sad,,S_10,S_10,1.0,,,d_counseling_snowwhite_young_08_11
+d_counseling_snowwhite_young_08_7,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_7,True,,1,sad,,S_10,S_100,1.0,,,
+d_counseling_snowwhite_young_08_8,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_8,True,,1,sad,,S_100,S_100,1.0,,,
+d_counseling_snowwhite_young_08_9,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_9,False,,1,surprise,,S_100,S_100,1.0,,,
+d_counseling_snowwhite_young_08_10,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_10,True,,1,angry,,S_100,S_100,1.0,,,d_counseling_snowwhite_young_08_14
+d_counseling_snowwhite_young_08_11,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_11,True,,1,shy,,S_10,S_100,1.0,,,
+d_counseling_snowwhite_young_08_12,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_12,True,,1,shy,,S_100,S_100,1.0,,,
+d_counseling_snowwhite_young_08_13,d_counseling_snowwhite_young_08,Speech,0,snowwhite_o,snowwhite_o,Locale_Counseling:d_counseling_snowwhite_young_08_13,True,,1,shy,,S_100,S_100,1.0,,,d_counseling_snowwhite_young_08_14
+d_counseling_snowwhite_young_08_14,d_counseling_snowwhite_young_08,Narration,0,snowwhite_o,Narration,Locale_Counseling:d_counseling_snowwhite_young_08_14,False,,1,idle,none,S_100,S_100,1.0,,snowwhite_o,

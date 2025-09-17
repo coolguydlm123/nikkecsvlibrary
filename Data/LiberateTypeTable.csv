@@ -1,0 +1,3 @@
+id,name,type_open_condition,type_open_condition_id,type_open_condition_value,scenario_id,is_hidden
+1000,Locale_System:INTERCEPT_NORMAL_LEVEL_1_STAGE_NAME,None,0,0,d_contents_liberation_01,False
+2000,Locale_System:INTERCEPT_NORMAL_LEVEL_2_STAGE_NAME,ClearGetCharacterMission,1000,1,d_contents_explore_01,False

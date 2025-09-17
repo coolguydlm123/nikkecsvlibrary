@@ -1,0 +1,12 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_guilty_11_1,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_1,True,guilty,1,surprise,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_guilty_11_2,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_2,True,,1,surprise,,10,10,1.0,,,
+d_counseling_guilty_11_3,d_counseling_guilty_11,Choice,100,guilty,,Locale_Counseling:d_counseling_guilty_11_3,False,,1,surprise,,10,10,1.0,,d_counseling_guilty_11_5,
+d_counseling_guilty_11_4,d_counseling_guilty_11,Choice,120,guilty,,Locale_Counseling:d_counseling_guilty_11_4,False,,1,surprise,,10,10,1.0,,d_counseling_guilty_11_8,
+d_counseling_guilty_11_5,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_5,True,,1,idle,,10,100,1.0,,,
+d_counseling_guilty_11_6,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_6,True,,1,surprise,,100,100,1.0,,,
+d_counseling_guilty_11_7,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_7,True,,1,surprise,,100,100,1.0,,d_counseling_guilty_11_11,
+d_counseling_guilty_11_8,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_8,True,,1,idle,,10,100,1.0,,,
+d_counseling_guilty_11_9,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_9,True,,1,idle,,100,100,1.0,,,
+d_counseling_guilty_11_10,d_counseling_guilty_11,Speech,0,guilty,guilty,Locale_Counseling:d_counseling_guilty_11_10,True,,1,surprise,,100,100,1.0,,,
+d_counseling_guilty_11_11,d_counseling_guilty_11,Narration,0,guilty,,Locale_Counseling:d_counseling_guilty_11_11,False,,1,surprise,none,100,100,1.0,,,guilty

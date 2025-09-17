@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient
+snowfall_myroom_day21_s_1,80903,snowfall_myroom_day21_s,Monologue,Locale_SubScenario:snowfall_myroom_day21_s_1,False,Opacity_60,1,1,1.0,none
+snowfall_myroom_day21_s_2,80903,snowfall_myroom_day21_s,Monologue,Locale_SubScenario:snowfall_myroom_day21_s_2,False,,1,1,1.0,
+snowfall_myroom_day21_s_3,80903,snowfall_myroom_day21_s,Monologue,Locale_SubScenario:snowfall_myroom_day21_s_3,False,,1,1,1.0,
+snowfall_myroom_day21_s_4,80903,snowfall_myroom_day21_s,Monologue,Locale_SubScenario:snowfall_myroom_day21_s_4,False,,1,1,1.0,
+snowfall_myroom_day21_s_5,80903,snowfall_myroom_day21_s,Monologue,Locale_SubScenario:snowfall_myroom_day21_s_5,False,,1,1,1.0,
+snowfall_myroom_day21_s_6,80903,snowfall_myroom_day21_s,Monologue,Locale_SubScenario:snowfall_myroom_day21_s_6,False,,1,1,1.0,
+snowfall_myroom_day21_s_7,80903,snowfall_myroom_day21_s,Narration,Locale_SubScenario:snowfall_myroom_day21_s_7,False,,1,1,1.0,

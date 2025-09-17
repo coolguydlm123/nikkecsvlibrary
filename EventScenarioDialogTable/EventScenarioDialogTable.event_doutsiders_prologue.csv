@@ -1,0 +1,17 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,effects/0/play_effect_id,effects/0/set_effect_position,effects/0/is_effect_movable,play_sound,effects/0/stop_effect_id
+event_doutsiders_prologue_1,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_1,True,RuinIndoor,1,1,1.0,bgm_recognition_underworld,fx_Eventscene_camera_recording,rec,True,,
+event_doutsiders_prologue_2,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_2,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_3,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_3,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_4,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_4,True,OuterRim,1,1,1.0,,,,,,
+event_doutsiders_prologue_5,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_5,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_6,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_6,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_7,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_7,True,City_d,1,1,1.0,,,,,,
+event_doutsiders_prologue_8,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_8,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_9,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_9,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_10,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_10,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_11,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_11,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_12,40006,event_doutsiders_prologue,Narration,,Narration,Locale_SubScenario:event_doutsiders_prologue_12,False,City,black,black,1.0,,,,,sfx_scn_flicker,fx_Eventscene_camera_recording
+event_doutsiders_prologue_13,40006,event_doutsiders_prologue,Narration,,Narration,Locale_SubScenario:event_doutsiders_prologue_13,False,,1,1,1.0,,fx_Eventscene_camera_recording,rec,True,sfx_scn_biglightout,
+event_doutsiders_prologue_14,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_14,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_15,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_15,True,,1,1,1.0,,,,,,
+event_doutsiders_prologue_16,40006,event_doutsiders_prologue,Speech,anonymous,anonymous,Locale_SubScenario:event_doutsiders_prologue_16,True,,black,black,1.0,,,,,,fx_Eventscene_camera_recording

@@ -1,0 +1,7 @@
+id,group,horizontal_slot_value,vertical_slot_value,number,is_repeat,slot_reward_group_id,reward_id
+1,1,5,5,1,False,1,3020112
+2,1,5,5,2,False,1,3020113
+3,1,5,5,3,False,1,3020114
+4,1,5,5,4,False,1,3020115
+5,1,5,5,5,False,1,3020116
+6,1,5,5,6,True,1,3020117

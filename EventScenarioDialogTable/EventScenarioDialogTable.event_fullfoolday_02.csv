@@ -1,0 +1,9 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/hide_char_id,play_sound
+event_fullfoolday_02_1,130001,event_fullfoolday_02,Speech,shifty,shifty,Locale_SubScenario:event_fullfoolday_02_1,True,shifty_c,OP_center,pain,CityForest_001,1,1,1.0,bgm_spot_encounter,,
+event_fullfoolday_02_2,130001,event_fullfoolday_02,Self,shifty,shifty,Locale_SubScenario:event_fullfoolday_02_2,False,,OP_center,pain,,1,1,1.0,,,
+event_fullfoolday_02_3,130001,event_fullfoolday_02,Speech,shifty,shifty,Locale_SubScenario:event_fullfoolday_02_3,True,,OP_center,pain,,1,1,1.0,,,
+event_fullfoolday_02_4,130001,event_fullfoolday_02,Speech,shifty,shifty,Locale_SubScenario:event_fullfoolday_02_4,True,,OP_center,pain,,1,1,1.0,,,
+event_fullfoolday_02_5,130001,event_fullfoolday_02,Self,,,Locale_SubScenario:event_fullfoolday_02_5,False,,OP_center,pain,,1,1,1.0,,shifty_c,sfx_scn_remotesignal
+event_fullfoolday_02_6,130001,event_fullfoolday_02,Self,,,Locale_SubScenario:event_fullfoolday_02_6,False,,,,,1,1,1.0,,,
+event_fullfoolday_02_7,130001,event_fullfoolday_02,Monologue,,,Locale_SubScenario:event_fullfoolday_02_7,False,,,,,1,1,1.0,,,
+event_fullfoolday_02_8,130001,event_fullfoolday_02,Monologue,,,Locale_SubScenario:event_fullfoolday_02_8,False,,,,,1,1,1.0,,,

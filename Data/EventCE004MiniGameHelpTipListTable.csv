@@ -1,0 +1,9 @@
+id,manager_id,help_tip_group_id,help_tip_title_localkey
+10101,101,10017,Locale_Event:ce004_tutorial_playguide_title_01
+10102,101,10018,Locale_Event:ce004_tutorial_playguide_title_02
+10103,101,10019,Locale_Event:ce004_tutorial_playguide_title_03
+10104,101,10020,Locale_Event:ce004_tutorial_playguide_title_04
+20101,102,10017,Locale_Event:ce004_tutorial_playguide_title_01
+20102,102,10018,Locale_Event:ce004_tutorial_playguide_title_02
+20103,102,10050,Locale_Event:ce004_tutorial_playguide_title_03
+20104,102,10020,Locale_Event:ce004_tutorial_playguide_title_04

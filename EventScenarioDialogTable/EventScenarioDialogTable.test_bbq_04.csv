@@ -1,0 +1,2 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+test_bbq_04_1,80603,test_bbq_04,Narration,Locale_SubScenario:event_nyanyaparadise_epilogue_30,False,FlowerGarden,XS_10,XS_100,1.0,bgm_story_sunshinesorrow

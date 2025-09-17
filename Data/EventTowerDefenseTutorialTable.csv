@@ -1,0 +1,6 @@
+id,minigame_manager_id,tutorial_list_group_id,tutorial_title_localkey,is_opened
+100101,1001,100101,Locale_Event:td_fortheking_tutorial_playguide,True
+100102,1001,100102,Locale_Event:td_fortheking_tutorial_monster,False
+100103,1001,100103,Locale_Event:td_fortheking_tutorial_challenge,False
+100201,1002,100201,Locale_Event:td_fortheking_tutorial_playguide,True
+100202,1002,100202,Locale_Event:td_foolsday_tutorial_monster,True

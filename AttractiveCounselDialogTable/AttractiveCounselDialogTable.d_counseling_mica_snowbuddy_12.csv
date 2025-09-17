@@ -1,0 +1,14 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_mica_snowbuddy_12_1,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_1,True,mica_w,1,special,HotSpringInnIn_d,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_mica_snowbuddy_12_2,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_2,True,,1,special,,S_10,S_10,1.0,,,
+d_counseling_mica_snowbuddy_12_3,d_counseling_mica_snowbuddy_12,Choice,120,Choice,,Locale_Counseling:d_counseling_mica_snowbuddy_12_3,False,,1,special,,S_10,S_10,1.0,,d_counseling_mica_snowbuddy_12_5,
+d_counseling_mica_snowbuddy_12_4,d_counseling_mica_snowbuddy_12,Choice,100,Choice,,Locale_Counseling:d_counseling_mica_snowbuddy_12_4,False,,1,special,,S_10,S_10,1.0,,d_counseling_mica_snowbuddy_12_9,
+d_counseling_mica_snowbuddy_12_5,d_counseling_mica_snowbuddy_12,Self,0,Self,,Locale_Counseling:d_counseling_mica_snowbuddy_12_5,False,,1,surprise,,S_10,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_6,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_6,True,,1,delight,,S_100,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_7,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_7,True,,1,delight,,S_100,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_8,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_8,True,,1,delight,,S_100,S_100,1.0,,d_counseling_mica_snowbuddy_12_13,
+d_counseling_mica_snowbuddy_12_9,d_counseling_mica_snowbuddy_12,Self,0,Self,,Locale_Counseling:d_counseling_mica_snowbuddy_12_9,False,,1,surprise,,S_10,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_10,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_10,True,,1,surprise,,S_100,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_11,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_11,True,,1,special,,S_100,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_12,d_counseling_mica_snowbuddy_12,Speech,0,mica_w,mica_w,Locale_Counseling:d_counseling_mica_snowbuddy_12_12,True,,1,special,,S_100,S_100,1.0,,,
+d_counseling_mica_snowbuddy_12_13,d_counseling_mica_snowbuddy_12,Narration,0,Narration,,Locale_Counseling:d_counseling_mica_snowbuddy_12_13,False,,1,idle,none,S_100,S_100,1.0,,,mica_w

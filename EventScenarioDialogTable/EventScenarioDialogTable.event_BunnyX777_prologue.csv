@@ -1,0 +1,13 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+event_BunnyX777_prologue_1,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_1,True,mustang,1,delight,CoinRushIndoor,1,L_10,0.5,event_bgm_bunny777
+event_BunnyX777_prologue_2,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_2,True,,1,delight,,L_10,L_10,1.0,
+event_BunnyX777_prologue_3,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_3,True,,1,delight,,L_10,L_10,1.0,
+event_BunnyX777_prologue_4,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_4,True,,1,delight,,L_10,L_10,1.0,
+event_BunnyX777_prologue_5,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_5,True,,1,delight,,L_10,L_100,0.5,
+event_BunnyX777_prologue_6,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_6,True,,1,delight,,L_100,L_100,1.0,
+event_BunnyX777_prologue_7,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_7,True,,1,delight,,L_100,L_100,1.0,
+event_BunnyX777_prologue_8,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_8,True,,1,delight,,L_100,L_100,1.0,
+event_BunnyX777_prologue_9,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_9,True,,1,delight,,L_100,L_10,0.5,
+event_BunnyX777_prologue_10,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_10,True,,1,delight,,L_10,L_10,1.0,
+event_BunnyX777_prologue_11,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_11,True,,1,delight,,L_10,L_10,1.0,
+event_BunnyX777_prologue_12,40014,event_BunnyX777_prologue,Speech,mustang,mustang,Locale_SubScenario:event_BunnyX777_prologue_12,True,,1,delight,,L_10,L_10,1.0,none

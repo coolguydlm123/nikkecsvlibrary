@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,play_sound,set_camera_shake,characters/0/hide_char_id
+d_counseling_quiry_01_1,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_1,True,quiry,1,angry,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,,,
+d_counseling_quiry_01_2,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_2,True,,1,idle,,S_10,S_10,1.0,,,,,
+d_counseling_quiry_01_3,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_3,True,,1,idle,,S_10,S_10,1.0,,,,,
+d_counseling_quiry_01_4,d_counseling_quiry_01,Choice,120,quiry,,Locale_Counseling:d_counseling_quiry_01_4,True,,1,idle,,S_10,S_10,1.0,,d_counseling_quiry_01_6,,,
+d_counseling_quiry_01_5,d_counseling_quiry_01,Choice,100,quiry,,Locale_Counseling:d_counseling_quiry_01_5,True,,1,idle,,S_10,S_10,1.0,,d_counseling_quiry_01_9,,,
+d_counseling_quiry_01_6,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_6,True,,1,delight,,S_10,S_100,1.0,,,,,
+d_counseling_quiry_01_7,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_7,True,,1,delight,,S_100,S_100,1.0,,,,,
+d_counseling_quiry_01_8,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_8,True,,1,idle,,S_100,S_100,1.0,,d_counseling_quiry_01_11,,,
+d_counseling_quiry_01_9,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_9,True,,1,angry,,S_10,S_100,1.0,,,,,
+d_counseling_quiry_01_10,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_10,True,,1,angry,,S_100,S_100,1.0,,d_counseling_quiry_01_11,,,
+d_counseling_quiry_01_11,d_counseling_quiry_01,Monologue,0,quiry,,Locale_Counseling:d_counseling_quiry_01_11,True,,1,idle,,S_100,S_100,1.0,,,,,
+d_counseling_quiry_01_12,d_counseling_quiry_01,Narration,0,quiry,,Locale_Counseling:d_counseling_quiry_01_12,True,,1,idle,,S_100,S_100,1.0,,,sfx_scn_bottlebreak,Low_2,
+d_counseling_quiry_01_13,d_counseling_quiry_01,Speech,0,quiry,quiry,Locale_Counseling:d_counseling_quiry_01_13,True,,1,surprise,,S_100,S_100,1.0,,,,,
+d_counseling_quiry_01_14,d_counseling_quiry_01,Narration,0,quiry,,Locale_Counseling:d_counseling_quiry_01_14,True,,1,surprise,none,S_100,S_100,1.0,,,,,quiry

@@ -1,0 +1,12 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_dolla_16_1,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_1,True,dolla,1,idle,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_dolla_16_2,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_2,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_dolla_16_3,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_3,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_dolla_16_4,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_4,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_dolla_16_5,d_counseling_dolla_16,Choice,120,dolla,,Locale_Counseling:d_counseling_dolla_16_5,False,,1,idle,,S_10,S_10,1.0,,d_counseling_dolla_16_7,
+d_counseling_dolla_16_6,d_counseling_dolla_16,Choice,100,dolla,,Locale_Counseling:d_counseling_dolla_16_6,False,,1,idle,,S_10,S_10,1.0,,d_counseling_dolla_16_9,
+d_counseling_dolla_16_7,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_7,True,,1,good,,S_10,S_100,1.0,,,
+d_counseling_dolla_16_8,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_8,True,,1,idle,,S_100,S_100,1.0,,d_counseling_dolla_16_11,
+d_counseling_dolla_16_9,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_9,True,,1,idle,,S_10,S_100,1.0,,,
+d_counseling_dolla_16_10,d_counseling_dolla_16,Speech,0,dolla,dolla,Locale_Counseling:d_counseling_dolla_16_10,True,,1,idle,,S_100,S_100,1.0,,,
+d_counseling_dolla_16_11,d_counseling_dolla_16,Narration,0,dolla,,Locale_Counseling:d_counseling_dolla_16_11,False,,1,idle,none,S_100,S_100,1.0,,,dolla

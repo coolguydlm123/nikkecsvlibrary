@@ -1,0 +1,4 @@
+id,rarity,reward/reward_percent,reward/percent_display_type,reward/reward_type,reward/reward_id,reward/reward_value
+1,R,1000000,None,Currency,9000,150
+2,SR,1000000,None,Currency,9000,200
+3,SSR,1000000,None,Currency,9000,6000

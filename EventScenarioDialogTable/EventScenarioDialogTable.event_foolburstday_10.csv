@@ -1,0 +1,2 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_start_camera,set_end_camera,set_camera_duration
+event_foolburstday_10_1,130007,event_foolburstday_10,Self,Locale_SubScenario:event_outofuniform_06_106,False,10,10,1.0

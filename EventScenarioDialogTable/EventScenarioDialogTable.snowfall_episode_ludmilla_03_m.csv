@@ -1,0 +1,4 @@
+id,event_id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_episode_ludmilla_03_m_1,80903,snowfall_episode_ludmilla_03_m,Monologue,Monologue,Locale_SubScenario:snowfall_episode_ludmilla_03_m_1,False,ludmilla_w,3,sad,BambooForest_s,3,3,1.0,amb_so_bambooforest_3,event_bgm_neverland_snowflakes_sunset
+snowfall_episode_ludmilla_03_m_2,80903,snowfall_episode_ludmilla_03_m,Monologue,Monologue,Locale_SubScenario:snowfall_episode_ludmilla_03_m_2,False,,3,sad,,3,3,1.0,,
+snowfall_episode_ludmilla_03_m_3,80903,snowfall_episode_ludmilla_03_m,Monologue,Monologue,Locale_SubScenario:snowfall_episode_ludmilla_03_m_3,False,,3,sad,,black,black,1.0,,

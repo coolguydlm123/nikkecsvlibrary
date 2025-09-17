@@ -1,0 +1,14 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim
+d_main_08_07_1,d_main_08_07,Speech,shifty,shifty,Locale_MainScenario:d_main_08_07_1,True,rapi,3,idle,anis,1,idle,neon,13,idle,shifty,OP_leftup,surprise,WasteLand_01,7,7,1.0,bgm_theruinedcity_b,,,
+d_main_08_07_2,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_2,True,,3,idle,,1,idle,,13,idle,,OP_leftup,surprise,,7,3,1.0,,exia_op_r,OP_rightup,delight
+d_main_08_07_3,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_3,True,,3,idle,,1,idle,,13,idle,,OP_leftup,no,,3,3,1.0,,,OP_rightup,delight
+d_main_08_07_4,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_4,True,,3,idle,,1,idle,,13,idle,,OP_leftup,no,,3,3,1.0,,,OP_rightup,delight
+d_main_08_07_5,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_5,True,,3,idle,,1,idle,,13,idle,,OP_leftup,no,,3,3,1.0,,,OP_rightup,delight
+d_main_08_07_6,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_6,True,,3,idle,,1,idle,,13,idle,,OP_leftup,no,,3,3,1.0,,,OP_rightup,sad
+d_main_08_07_7,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_7,True,,3,idle,,1,idle,,13,idle,,OP_leftup,no,,3,3,1.0,,,OP_rightup,idle
+d_main_08_07_8,d_main_08_07,Speech,exia_op_r,exia_op_r,Locale_MainScenario:d_main_08_07_8,True,,3,idle,,1,idle,,13,idle,,OP_leftup,no,,3,3,1.0,,,OP_rightup,idle
+d_main_08_07_9,d_main_08_07,Speech,shifty,shifty,Locale_MainScenario:d_main_08_07_9,True,,3,idle,,1,idle,,13,idle,,OP_leftup,think,,3,3,1.0,,,OP_rightup,idle
+d_main_08_07_10,d_main_08_07,Speech,rapi,rapi,Locale_MainScenario:d_main_08_07_10,True,,3,idle,,1,idle,,13,idle,,OP_leftup,think,,3,30,1.0,,,OP_rightup,idle
+d_main_08_07_11,d_main_08_07,Speech,shifty,shifty,Locale_MainScenario:d_main_08_07_11,True,,3,idle,,1,idle,,13,idle,,OP_leftup,think,,30,30,1.0,,,OP_rightup,idle
+d_main_08_07_12,d_main_08_07,Speech,shifty,shifty,Locale_MainScenario:d_main_08_07_12,True,,3,idle,,1,idle,,13,idle,,OP_leftup,think,,30,30,1.0,,,OP_rightup,idle
+d_main_08_07_13,d_main_08_07,Speech,rapi,rapi,Locale_MainScenario:d_main_08_07_13,True,,3,think,,1,idle,,13,idle,,OP_leftup,think,,30,30,1.0,,,OP_rightup,idle

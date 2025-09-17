@@ -1,0 +1,14 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_Counseling_elegg_boomandshock_18_01,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_01,True,elegg_s,1,idle,Deck_d,S_100,S_100,1.0,bgm_story_summermood,,
+d_Counseling_elegg_boomandshock_18_02,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_02,True,,1,idle,,S_100,S_10,0.5,,,
+d_Counseling_elegg_boomandshock_18_03,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_03,True,,1,pain,,S_10,S_10,1.0,,,
+d_Counseling_elegg_boomandshock_18_04,d_Counseling_elegg_boomandshock_18,Choice,100,elegg_s,,Locale_Counseling:d_Counseling_elegg_boomandshock_18_04,False,,1,pain,,S_10,S_10,1.0,,d_Counseling_elegg_boomandshock_18_06,
+d_Counseling_elegg_boomandshock_18_05,d_Counseling_elegg_boomandshock_18,Choice,120,elegg_s,,Locale_Counseling:d_Counseling_elegg_boomandshock_18_05,False,,1,pain,,S_10,S_10,1.0,,d_Counseling_elegg_boomandshock_18_10,
+d_Counseling_elegg_boomandshock_18_06,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_06,True,,1,idle,,S_10,S_10,1.0,,,
+d_Counseling_elegg_boomandshock_18_07,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_07,True,,1,idle,,S_10,S_10,1.0,,,
+d_Counseling_elegg_boomandshock_18_08,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_08,True,,1,idle,,S_10,S_10,1.0,,,
+d_Counseling_elegg_boomandshock_18_09,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_09,True,,1,idle,,S_10,S_10,1.0,,d_Counseling_elegg_boomandshock_18_13,
+d_Counseling_elegg_boomandshock_18_10,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_10,True,,1,idle,,S_10,S_10,1.0,,,
+d_Counseling_elegg_boomandshock_18_11,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_11,True,,1,idle,,S_10,S_10,1.0,,,
+d_Counseling_elegg_boomandshock_18_12,d_Counseling_elegg_boomandshock_18,Speech,0,elegg_s,elegg_s,Locale_Counseling:d_Counseling_elegg_boomandshock_18_12,True,,1,idle,,S_10,S_10,1.0,,d_Counseling_elegg_boomandshock_18_13,
+d_Counseling_elegg_boomandshock_18_13,d_Counseling_elegg_boomandshock_18,Narration,0,elegg_s,,Locale_Counseling:d_Counseling_elegg_boomandshock_18_13,False,,1,idle,none,S_10,S_10,1.0,,,elegg_s

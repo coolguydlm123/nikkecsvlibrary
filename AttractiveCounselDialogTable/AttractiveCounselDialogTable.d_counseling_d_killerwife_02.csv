@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_d_killerwife_02_1,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_1,True,d_w,1,special,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_d_killerwife_02_2,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_2,True,,1,special,,10,10,1.0,,,
+d_counseling_d_killerwife_02_3,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_3,True,,1,special,,10,10,1.0,,,
+d_counseling_d_killerwife_02_4,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_4,True,,1,special,,10,10,1.0,,,
+d_counseling_d_killerwife_02_5,d_counseling_d_killerwife_02,Choice,100,Choice,,Locale_Counseling:d_counseling_d_killerwife_02_5,False,,1,special,,10,10,1.0,,d_counseling_d_killerwife_02_7,
+d_counseling_d_killerwife_02_6,d_counseling_d_killerwife_02,Choice,120,Choice,,Locale_Counseling:d_counseling_d_killerwife_02_6,False,,1,special,,10,10,1.0,,d_counseling_d_killerwife_02_11,
+d_counseling_d_killerwife_02_7,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_7,True,,1,special,,10,100,1.0,,,
+d_counseling_d_killerwife_02_8,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_8,True,,1,special,,100,100,1.0,,,
+d_counseling_d_killerwife_02_9,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_9,True,,1,special,,100,100,1.0,,,
+d_counseling_d_killerwife_02_10,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_10,True,,1,special,,100,100,1.0,,d_counseling_d_killerwife_02_14,
+d_counseling_d_killerwife_02_11,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_11,True,,1,special,,10,100,1.0,,,
+d_counseling_d_killerwife_02_12,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_12,True,,1,special,,100,100,1.0,,,
+d_counseling_d_killerwife_02_13,d_counseling_d_killerwife_02,Speech,0,d_w,d,Locale_Counseling:d_counseling_d_killerwife_02_13,True,,1,special,,100,100,1.0,,d_counseling_d_killerwife_02_14,
+d_counseling_d_killerwife_02_14,d_counseling_d_killerwife_02,Narration,0,Narration,,Locale_Counseling:d_counseling_d_killerwife_02_14,False,,1,special,none,100,100,1.0,,,d_w

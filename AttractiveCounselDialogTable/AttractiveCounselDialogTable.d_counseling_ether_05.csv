@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_ether_05_1,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_1,True,ether,1,idle,CommanderRoom,XS_10,XS_10,1.0,bgm_story_backtonormal,,
+d_counseling_ether_05_2,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_2,True,,1,idle,,XS_10,XS_10,1.0,,,
+d_counseling_ether_05_3,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_3,True,,1,idle,,XS_10,XS_10,1.0,,,
+d_counseling_ether_05_4,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_4,True,,1,idle,,XS_10,XS_10,1.0,,,
+d_counseling_ether_05_5,d_counseling_ether_05,Choice,100,ether,,Locale_Counseling:d_counseling_ether_05_5,False,,1,idle,,XS_10,XS_10,1.0,,d_counseling_ether_05_7,
+d_counseling_ether_05_6,d_counseling_ether_05,Choice,120,ether,,Locale_Counseling:d_counseling_ether_05_6,False,,1,idle,,XS_10,XS_10,1.0,,d_counseling_ether_05_10,
+d_counseling_ether_05_7,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_7,True,,1,idle,,XS_10,XS_100,1.0,,,
+d_counseling_ether_05_8,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_8,True,,1,delight,,XS_100,XS_100,1.0,,,
+d_counseling_ether_05_9,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_9,True,,1,delight,,XS_100,XS_100,1.0,,d_counseling_ether_05_14,
+d_counseling_ether_05_10,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_10,True,,1,idle,,XS_10,XS_100,1.0,,,
+d_counseling_ether_05_11,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_11,True,,1,delight,,XS_100,XS_100,1.0,,,
+d_counseling_ether_05_12,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_12,True,,1,delight,,XS_100,XS_100,1.0,,,
+d_counseling_ether_05_13,d_counseling_ether_05,Speech,0,ether,ether,Locale_Counseling:d_counseling_ether_05_13,True,,1,delight,,XS_100,XS_100,1.0,,,
+d_counseling_ether_05_14,d_counseling_ether_05,Narration,0,ether,,Locale_Counseling:d_counseling_ether_05_14,False,,1,idle,none,XS_100,XS_100,1.0,,,ether

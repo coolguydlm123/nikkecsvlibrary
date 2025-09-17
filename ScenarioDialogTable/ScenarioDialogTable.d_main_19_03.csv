@@ -1,0 +1,15 @@
+id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_bgm,highlight
+d_main_19_03_1,d_main_19_03,Narration,Narration,Locale_MainScenario:d_main_19_03_1,False,rapi,6,idle,anis,4,idle,neon,2,idle,papillon,12,idle,TechIndoor,black,black,1.0,sfx_scn_autodooropen,bgm_peripeteia_a,
+d_main_19_03_2,d_main_19_03,Speech,neon,Locale_MainScenario:d_main_19_03_2,True,,6,idle,,4,idle,,2,delight,,12,idle,,3,3,1.0,,,neon
+d_main_19_03_3,d_main_19_03,Speech,anis,Locale_MainScenario:d_main_19_03_3,True,,6,idle,,4,idle,,2,delight,,12,idle,,3,3,1.0,,,anis
+d_main_19_03_4,d_main_19_03,Speech,rapi,Locale_MainScenario:d_main_19_03_4,True,,6,think,,4,idle,,2,idle,,12,idle,,60,60,1.0,,,rapi
+d_main_19_03_5,d_main_19_03,Speech,rapi,Locale_MainScenario:d_main_19_03_5,True,,6,think,,4,idle,,2,idle,,12,idle,,60,60,1.0,,,rapi
+d_main_19_03_6,d_main_19_03,Speech,neon,Locale_MainScenario:d_main_19_03_6,True,,6,think,,4,idle,,2,no,,12,idle,,S_20,S_20,1.0,,,neon
+d_main_19_03_7,d_main_19_03,Speech,papillon,Locale_MainScenario:d_main_19_03_7,True,,6,idle,,4,idle,,2,no,,12,angry,,S_20,1,1.0,,,papillon
+d_main_19_03_8,d_main_19_03,Speech,papillon,Locale_MainScenario:d_main_19_03_8,True,,6,idle,,4,idle,,2,idle,,12,angry,,1,1,1.0,,,papillon
+d_main_19_03_9,d_main_19_03,Speech,anis,Locale_MainScenario:d_main_19_03_9,True,,6,idle,,4,idle,,2,idle,,12,angry,,5,5,1.0,,,anis
+d_main_19_03_10,d_main_19_03,Self,Self,Locale_MainScenario:d_main_19_03_10,False,,6,idle,,4,idle,,2,idle,,12,think,,5,5,1.0,,,anis
+d_main_19_03_11,d_main_19_03,Speech,rapi,Locale_MainScenario:d_main_19_03_11,True,,6,idle,,4,idle,,2,idle,,12,think,,5,5,1.0,,,rapi
+d_main_19_03_12,d_main_19_03,Speech,anis,Locale_MainScenario:d_main_19_03_12,True,,6,idle,,4,delight,,2,idle,,12,think,,5,3,1.0,,,anis
+d_main_19_03_13,d_main_19_03,Speech,neon,Locale_MainScenario:d_main_19_03_13,True,,6,idle,,4,delight,,2,delight,,12,think,,3,3,1.0,,,neon
+d_main_19_03_14,d_main_19_03,Speech,rapi,Locale_MainScenario:d_main_19_03_14,True,,6,think,,4,delight,,2,delight,,12,think,,3,5,1.0,,,rapi

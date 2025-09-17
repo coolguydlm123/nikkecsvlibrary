@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm,set_filter_01
+snowfall_speech_npc_day20_09_1,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_1,False,HotSpringInnIn_n,1,10,1.0,amb_so_inn_in_3,event_bgm_neverland_hugme_night,
+snowfall_speech_npc_day20_09_2,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_2,False,,10,10,1.0,,,
+snowfall_speech_npc_day20_09_3,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_3,False,,10,10,1.0,,,Blur_Middle
+snowfall_speech_npc_day20_09_4,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_4,False,,10,10,1.0,,,Blur_Low
+snowfall_speech_npc_day20_09_5,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_5,False,,10,10,1.0,,,
+snowfall_speech_npc_day20_09_6,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_6,False,,10,10,1.0,,,
+snowfall_speech_npc_day20_09_7,80903,snowfall_speech_npc_day20_09,Monologue,Locale_SubScenario:snowfall_speech_npc_day20_09_7,False,,black,black,1.0,,,

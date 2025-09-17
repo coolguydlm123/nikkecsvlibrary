@@ -1,0 +1,2 @@
+id,group_id,scenario_localkey,play_lipSync,set_start_camera,set_end_camera,set_camera_duration,play_movie
+d_main_21af_03_end,d_main_21af_03,Locale_SubScenario:none,True,1,1,1.0,ch22_end

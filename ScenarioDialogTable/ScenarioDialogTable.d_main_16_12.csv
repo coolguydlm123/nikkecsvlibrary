@@ -1,0 +1,11 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_main_16_12_1,d_main_16_12,Speech,neon,neon,Locale_MainScenario:d_main_16_12_1,True,viper,8,idle,jackal,6,idle,anis,4,idle,neon,2,surprise,rapi,12,idle,IceLand_n,2,2,1.0,bgm_secondhand
+d_main_16_12_2,d_main_16_12,Speech,neon,neon,Locale_MainScenario:d_main_16_12_2,True,,8,idle,,6,idle,,4,idle,,2,surprise,,12,idle,,2,15,2.0,
+d_main_16_12_3,d_main_16_12,Speech,neon,neon,Locale_MainScenario:d_main_16_12_3,True,,8,idle,,6,idle,,4,idle,,2,surprise,,12,idle,,S_20,S_20,1.0,
+d_main_16_12_4,d_main_16_12,Speech,anis,anis,Locale_MainScenario:d_main_16_12_4,True,,8,idle,,6,idle,,4,worry,,2,surprise,,12,idle,,S_20,40,1.0,
+d_main_16_12_5,d_main_16_12,Speech,jackal,jackal,Locale_MainScenario:d_main_16_12_5,False,,8,idle,,6,shy_01,,4,worry,,2,idle,,12,idle,,S_60,S_60,1.0,
+d_main_16_12_6,d_main_16_12,Speech,viper,viper,Locale_MainScenario:d_main_16_12_6,False,,8,angry,,6,shy_01,,4,worry,,2,idle,,12,idle,,80,80,1.0,
+d_main_16_12_7,d_main_16_12,Speech,neon,neon,Locale_MainScenario:d_main_16_12_7,True,,8,angry,,6,idle,,4,idle,,2,delight,,12,idle,,S_20,S_20,1.0,
+d_main_16_12_8,d_main_16_12,Speech,rapi,rapi,Locale_MainScenario:d_main_16_12_8,True,,8,angry,,6,idle,,4,idle,,2,delight,,12,think,,S_20,120,2.0,
+d_main_16_12_9,d_main_16_12,Self,,Self,Locale_MainScenario:d_main_16_12_9,False,,8,idle,,6,idle,,4,idle,,2,idle,,12,think,,120,120,1.0,
+d_main_16_12_10,d_main_16_12,Speech,rapi,rapi,Locale_MainScenario:d_main_16_12_10,True,,8,idle,,6,idle,,4,idle,,2,idle,,12,idle,,120,120,1.0,

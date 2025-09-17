@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_miranda_10_1,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_1,True,miranda,1,idle,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_miranda_10_2,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_2,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_miranda_10_3,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_3,True,,1,idle,,S_10,S_10,1.0,,,
+d_counseling_miranda_10_4,d_counseling_miranda_10,Choice,120,miranda,,Locale_Counseling:d_counseling_miranda_10_4,False,,1,idle,,S_10,S_10,1.0,,d_counseling_miranda_10_6,
+d_counseling_miranda_10_5,d_counseling_miranda_10,Choice,100,miranda,,Locale_Counseling:d_counseling_miranda_10_5,False,,1,idle,,S_10,S_10,1.0,,d_counseling_miranda_10_11,
+d_counseling_miranda_10_6,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_6,True,,1,angry,,S_10,S_100,1.0,,,
+d_counseling_miranda_10_7,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_7,True,,1,angry,,S_100,S_100,1.0,,,
+d_counseling_miranda_10_8,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_8,True,,1,angry,,S_100,S_100,1.0,,,
+d_counseling_miranda_10_9,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_9,True,,1,angry,,S_100,S_100,1.0,,,
+d_counseling_miranda_10_10,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_10,True,,1,angry,,S_100,S_100,1.0,,d_counseling_miranda_10_14,
+d_counseling_miranda_10_11,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_11,True,,1,shy,,S_10,S_100,1.0,,,
+d_counseling_miranda_10_12,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_12,True,,1,think,,S_100,S_100,1.0,,,
+d_counseling_miranda_10_13,d_counseling_miranda_10,Speech,0,miranda,miranda,Locale_Counseling:d_counseling_miranda_10_13,True,,1,think,,S_100,S_100,1.0,,,
+d_counseling_miranda_10_14,d_counseling_miranda_10,Narration,0,miranda,,Locale_Counseling:d_counseling_miranda_10_14,False,,1,idle,none,S_100,S_100,1.0,,,miranda

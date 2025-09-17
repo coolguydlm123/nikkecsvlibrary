@@ -1,0 +1,9 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/hide_char_id
+d_main_07_01_1,d_main_07_01,Speech,snowwhite,snowwhite,Locale_MainScenario:d_main_07_01_1,True,snowwhite,1,angry,IceLand_01,1,10,0.5,bgm_belowzero_b,
+d_main_07_01_2,d_main_07_01,Speech,snowwhite,snowwhite,Locale_MainScenario:d_main_07_01_2,True,,1,angry,,10,10,1.0,,
+d_main_07_01_3,d_main_07_01,Self,snowwhite,Self,Locale_MainScenario:d_main_07_01_3,True,,1,angry,,10,10,1.0,,
+d_main_07_01_4,d_main_07_01,Speech,snowwhite,snowwhite,Locale_MainScenario:d_main_07_01_4,True,,1,angry,,10,100,1.0,,
+d_main_07_01_5,d_main_07_01,Self,snowwhite,Self,Locale_MainScenario:d_main_07_01_5,True,,1,angry,,100,100,1.0,,
+d_main_07_01_6,d_main_07_01,Speech,snowwhite,snowwhite,Locale_MainScenario:d_main_07_01_6,False,,1,angry,,100,10,1.0,,
+d_main_07_01_7,d_main_07_01,Speech,snowwhite,snowwhite,Locale_MainScenario:d_main_07_01_7,True,,1,angry,,10,1,1.0,,
+d_main_07_01_8,d_main_07_01,Narration,snowwhite,Narration,Locale_MainScenario:d_main_07_01_8,True,,1,angry,,1,1,1.0,,snowwhite

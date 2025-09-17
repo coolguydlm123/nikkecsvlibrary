@@ -1,0 +1,15 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_redhood_01_1,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_1,True,redhood,1,idle,Desert_02,10,10,1.0,event_bgm_redash_alldownhill,,
+d_counseling_redhood_01_2,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_2,True,,1,idle,,10,10,1.0,,,
+d_counseling_redhood_01_3,d_counseling_redhood_01,Monologue,0,redhood,,Locale_Counseling:d_counseling_redhood_01_3,False,,1,idle,,10,10,1.0,,,
+d_counseling_redhood_01_4,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_4,True,,1,idle,,10,10,1.0,,,
+d_counseling_redhood_01_5,d_counseling_redhood_01,Choice,100,redhood,,Locale_Counseling:d_counseling_redhood_01_5,False,,1,idle,,10,10,1.0,,d_counseling_redhood_01_7,
+d_counseling_redhood_01_6,d_counseling_redhood_01,Choice,120,redhood,,Locale_Counseling:d_counseling_redhood_01_6,False,,1,idle,,10,10,1.0,,d_counseling_redhood_01_10,
+d_counseling_redhood_01_7,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_7,True,,1,think,,10,100,1.0,,,
+d_counseling_redhood_01_8,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_8,True,,1,think,,100,100,1.0,,,
+d_counseling_redhood_01_9,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_9,True,,1,think,,100,100,1.0,,d_counseling_redhood_01_14,
+d_counseling_redhood_01_10,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_10,True,,1,smile,,10,100,1.0,,,
+d_counseling_redhood_01_11,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_11,True,,1,smile,,100,100,1.0,,,
+d_counseling_redhood_01_12,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_12,True,,1,smile,,100,100,1.0,,,
+d_counseling_redhood_01_13,d_counseling_redhood_01,Speech,0,redhood,redhood,Locale_Counseling:d_counseling_redhood_01_13,True,,1,smile,,100,100,1.0,,d_counseling_redhood_01_14,
+d_counseling_redhood_01_14,d_counseling_redhood_01,Narration,0,redhood,,Locale_Counseling:d_counseling_redhood_01_14,False,,1,idle,none,100,100,1.0,,,redhood

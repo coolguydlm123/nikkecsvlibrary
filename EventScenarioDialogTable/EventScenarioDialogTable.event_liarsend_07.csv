@@ -1,0 +1,10 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,conversation_id
+event_liarsend_07_1,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_1,False,OutpostOut,1,10,1.0,none,
+event_liarsend_07_2,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_2,False,,10,10,1.0,,
+event_liarsend_07_3,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_3,False,,10,100,1.0,,
+event_liarsend_07_4,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_4,False,,100,100,1.0,,
+event_liarsend_07_5,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_5,False,,100,100,1.0,,
+event_liarsend_07_6,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_6,False,,100,10,1.0,bgm_story_kneeldownfools,
+event_liarsend_07_7,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_7,False,,10,10,1.0,,m_event_liarsend_07_01
+event_liarsend_07_8,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_8,False,,10,10,1.0,,
+event_liarsend_07_9,130004,event_liarsend_07,Monologue,Locale_SubScenario:event_liarsend_07_9,False,,10,10,1.0,,

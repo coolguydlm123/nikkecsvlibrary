@@ -1,0 +1,3 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_start_camera,set_end_camera,set_camera_duration
+snowfall_speech_npc_02_1,0,snowfall_speech_npc_02,Monologue,Locale_SubScenario:snowfall_global_01_1,False,10,10,1.0
+snowfall_speech_npc_02_2,0,snowfall_speech_npc_02,Monologue,Locale_SubScenario:snowfall_global_01_2,False,10,10,1.0

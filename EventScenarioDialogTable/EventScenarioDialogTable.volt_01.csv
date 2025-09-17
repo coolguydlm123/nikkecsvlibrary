@@ -1,0 +1,5 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,highlight,speaker
+volt_01_1,80403,volt_01,Monologue,Locale_SubScenario:event_queensorder_04_e_1,False,rosanna,1,idle,Backstreet,black,black,1.0,bgm_story_fairytalesend_if,,
+volt_01_2,80403,volt_01,Monologue,Locale_SubScenario:event_queensorder_04_e_2,False,,1,idle,,black,black,1.0,,,
+volt_01_3,80403,volt_01,Monologue,Locale_SubScenario:event_queensorder_04_e_3,False,,1,idle,,black,black,1.0,,,
+volt_01_4,80403,volt_01,Speech,Locale_SubScenario:event_queensorder_04_e_4,True,,1,idle,,1,10,2.0,,rosanna,rosanna

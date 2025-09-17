@@ -1,0 +1,12 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_quency_09_1,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_1,True,quency,1,idle,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_quency_09_2,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_2,True,,1,idle,,10,10,1.0,,,
+d_counseling_quency_09_3,d_counseling_quency_09,Choice,120,quency,,Locale_Counseling:d_counseling_quency_09_3,False,,1,idle,,10,10,1.0,,d_counseling_quency_09_5,
+d_counseling_quency_09_4,d_counseling_quency_09,Choice,100,quency,,Locale_Counseling:d_counseling_quency_09_4,False,,1,idle,,10,10,1.0,,d_counseling_quency_09_8,
+d_counseling_quency_09_5,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_5,True,,1,shy,,10,100,1.0,,,
+d_counseling_quency_09_6,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_6,True,,1,shy,,100,100,1.0,,,
+d_counseling_quency_09_7,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_7,True,,1,idle,,100,100,1.0,,d_counseling_quency_09_11,
+d_counseling_quency_09_8,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_8,True,,1,surprise,,10,100,1.0,,,
+d_counseling_quency_09_9,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_9,True,,1,idle,,100,100,1.0,,,
+d_counseling_quency_09_10,d_counseling_quency_09,Speech,0,quency,quency,Locale_Counseling:d_counseling_quency_09_10,True,,1,delight,,100,100,1.0,,,
+d_counseling_quency_09_11,d_counseling_quency_09,Narration,0,quency,,Locale_Counseling:d_counseling_quency_09_11,False,,1,idle,none,100,100,1.0,,,quency

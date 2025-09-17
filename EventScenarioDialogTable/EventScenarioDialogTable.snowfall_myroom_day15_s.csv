@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_ambient,play_bgm,highlight,speaker,characters/0/hide_char_id
+snowfall_myroom_day15_s_1,80903,snowfall_myroom_day15_s,Narration,Locale_SubScenario:snowfall_myroom_day15_s_1,False,andersen_op_r,OP_rightup,idle,HotSpringInnIn_d,1,1,1.0,sfx_scn_remotesignal,amb_so_inn_in_1,event_bgm_neverland_intermissionjam_day,,,
+snowfall_myroom_day15_s_2,80903,snowfall_myroom_day15_s,Speech,Locale_SubScenario:snowfall_myroom_day15_s_2,True,,OP_rightup,idle,,1,1,1.0,,,,andersen_op_r,andersen_op_r,
+snowfall_myroom_day15_s_3,80903,snowfall_myroom_day15_s,Speech,Locale_SubScenario:snowfall_myroom_day15_s_3,True,,OP_rightup,idle,,1,1,1.0,,,,andersen_op_r,andersen_op_r,
+snowfall_myroom_day15_s_4,80903,snowfall_myroom_day15_s,Self,Locale_SubScenario:snowfall_myroom_day15_s_4,False,,OP_rightup,idle,,1,1,1.0,,,,,,
+snowfall_myroom_day15_s_5,80903,snowfall_myroom_day15_s,Narration,Locale_SubScenario:snowfall_myroom_day15_s_5,False,,OP_rightup,idle,,1,1,1.0,sfx_scn_over,,,,,andersen_op_r
+snowfall_myroom_day15_s_6,80903,snowfall_myroom_day15_s,Monologue,Locale_SubScenario:snowfall_myroom_day15_s_6,False,,,,,1,10,1.0,,,,,,
+snowfall_myroom_day15_s_7,80903,snowfall_myroom_day15_s,Monologue,Locale_SubScenario:snowfall_myroom_day15_s_7,False,,,,,black,black,1.0,,,,,,

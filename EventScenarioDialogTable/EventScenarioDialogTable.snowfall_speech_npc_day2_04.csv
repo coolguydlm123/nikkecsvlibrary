@@ -1,0 +1,9 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day2_04_1,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_1,True,ludmilla_w,1,idle,Trail_s,1,10,1.0,amb_so_trail_2,event_bgm_neverland_snowflakes_sunset
+snowfall_speech_npc_day2_04_2,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_2,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day2_04_3,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_3,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day2_04_4,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_4,True,,1,think,,10,10,1.0,,
+snowfall_speech_npc_day2_04_5,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_5,True,,1,think,,10,10,1.0,,
+snowfall_speech_npc_day2_04_6,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_6,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day2_04_7,80903,snowfall_speech_npc_day2_04,Speech,ludmilla_w,ludmilla_w,Locale_SubScenario:snowfall_speech_npc_day2_04_7,True,,1,idle,,10,10,1.0,,
+snowfall_speech_npc_day2_04_8,80903,snowfall_speech_npc_day2_04,Narration,,,Locale_SubScenario:snowfall_speech_npc_day2_04_8,False,,1,idle,,black,black,1.0,,

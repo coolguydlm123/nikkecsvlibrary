@@ -1,0 +1,10 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day19_06_1,80903,snowfall_speech_npc_day19_06,Speech,delta,delta,Locale_SubScenario:snowfall_speech_npc_day19_06_1,True,delta,3,idle,signal,1,idle,BambooForest_s,2,2,1.0,amb_so_bambooforest_2,event_bgm_neverland_snowflakes_sunset
+snowfall_speech_npc_day19_06_2,80903,snowfall_speech_npc_day19_06,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day19_06_2,True,,3,idle,,1,delight,,2,2,1.0,,
+snowfall_speech_npc_day19_06_3,80903,snowfall_speech_npc_day19_06,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day19_06_3,True,,3,idle,,1,delight,,2,2,1.0,,
+snowfall_speech_npc_day19_06_4,80903,snowfall_speech_npc_day19_06,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day19_06_4,True,,3,idle,,1,delight,,2,2,1.0,,
+snowfall_speech_npc_day19_06_5,80903,snowfall_speech_npc_day19_06,Speech,delta,delta,Locale_SubScenario:snowfall_speech_npc_day19_06_5,True,,3,idle,,1,delight,,2,2,1.0,,
+snowfall_speech_npc_day19_06_6,80903,snowfall_speech_npc_day19_06,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day19_06_6,True,,3,idle,,1,shy,,2,2,1.0,,
+snowfall_speech_npc_day19_06_7,80903,snowfall_speech_npc_day19_06,Speech,delta,delta,Locale_SubScenario:snowfall_speech_npc_day19_06_7,True,,3,delight,,1,shy,,2,2,1.0,,
+snowfall_speech_npc_day19_06_8,80903,snowfall_speech_npc_day19_06,Speech,signal,signal,Locale_SubScenario:snowfall_speech_npc_day19_06_8,True,,3,delight,,1,delight,,2,2,1.0,,
+snowfall_speech_npc_day19_06_9,80903,snowfall_speech_npc_day19_06,Narration,,,Locale_SubScenario:snowfall_speech_npc_day19_06_9,False,,3,delight,,1,delight,,black,black,1.0,,

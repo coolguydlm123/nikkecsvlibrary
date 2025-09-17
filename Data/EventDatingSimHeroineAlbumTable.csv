@@ -1,0 +1,5 @@
+id,group_id,manager_id,order,is_heroine_group,target_heroine_id,complete_reward
+10010101,100101,1001,1,False,snowfalloasis_mica,8121046
+10010102,100101,1001,2,False,snowfalloasis_emma,8121047
+10010103,100101,1001,3,False,snowfalloasis_ludmilla,8121048
+10010104,100101,1001,4,True,snowfalloasis_bunnysisters,8121049

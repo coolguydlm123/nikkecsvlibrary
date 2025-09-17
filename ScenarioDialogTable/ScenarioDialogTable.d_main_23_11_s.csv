@@ -1,0 +1,7 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_main_23_11_s_1,d_main_23_11_s,Speech,anis,anis,Locale_MainScenario:d_main_23_11_s_1,True,anis,1,delight,rapi,5,idle,neon,15,surprise,BurningCity,1,1,1.0,bgm_story_callingsignal
+d_main_23_11_s_2,d_main_23_11_s,Speech,neon,neon,Locale_MainScenario:d_main_23_11_s_2,True,,1,delight,,5,idle,,15,surprise,,1,15,1.0,
+d_main_23_11_s_3,d_main_23_11_s,Self,,,Locale_MainScenario:d_main_23_11_s_3,False,,1,delight,,5,idle,,15,surprise,,15,15,1.0,
+d_main_23_11_s_4,d_main_23_11_s,Speech,anis,anis,Locale_MainScenario:d_main_23_11_s_4,True,,1,angry,,5,idle,,15,surprise,,10,10,1.0,
+d_main_23_11_s_5,d_main_23_11_s,Speech,rapi,rapi,Locale_MainScenario:d_main_23_11_s_5,True,,1,angry,,5,angry,,15,surprise,,50,50,1.0,
+d_main_23_11_s_6,d_main_23_11_s,Speech,neon,neon,Locale_MainScenario:d_main_23_11_s_6,True,,1,angry,,5,angry,,15,surprise,,S_150,S_150,1.0,

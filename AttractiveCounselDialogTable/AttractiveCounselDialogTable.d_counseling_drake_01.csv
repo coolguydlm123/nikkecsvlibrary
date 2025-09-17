@@ -1,0 +1,8 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_drake_01_1,d_counseling_drake_01,Speech,0,drake,drake,Locale_Counseling:d_counseling_drake_01_1,True,drake,1,angry,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_drake_01_2,d_counseling_drake_01,Speech,0,drake,drake,Locale_Counseling:d_counseling_drake_01_2,True,,1,angry,,10,10,1.0,,,
+d_counseling_drake_01_3,d_counseling_drake_01,Choice,120,drake,,Locale_Counseling:d_counseling_drake_01_3,False,,1,angry,,10,10,1.0,,d_counseling_drake_01_5,
+d_counseling_drake_01_4,d_counseling_drake_01,Choice,100,drake,,Locale_Counseling:d_counseling_drake_01_4,False,,1,angry,,10,10,1.0,,d_counseling_drake_01_6,
+d_counseling_drake_01_5,d_counseling_drake_01,Speech,0,drake,drake,Locale_Counseling:d_counseling_drake_01_5,True,,1,idle,,10,100,1.0,,d_counseling_drake_01_7,
+d_counseling_drake_01_6,d_counseling_drake_01,Speech,0,drake,drake,Locale_Counseling:d_counseling_drake_01_6,True,,1,angry,,10,100,1.0,,,
+d_counseling_drake_01_7,d_counseling_drake_01,Narration,0,drake,,Locale_Counseling:d_counseling_drake_01_7,False,,1,idle,none,100,100,1.0,,,drake

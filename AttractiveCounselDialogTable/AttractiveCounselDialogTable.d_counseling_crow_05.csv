@@ -1,0 +1,11 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_crow_05_1,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_1,True,crow,1,idle,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_crow_05_2,d_counseling_crow_05,Choice,100,crow,,Locale_Counseling:d_counseling_crow_05_2,False,,1,idle,,10,10,1.0,,d_counseling_crow_05_4,
+d_counseling_crow_05_3,d_counseling_crow_05,Choice,120,crow,,Locale_Counseling:d_counseling_crow_05_3,False,,1,idle,,10,10,1.0,,d_counseling_crow_05_6,
+d_counseling_crow_05_4,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_4,True,,1,idle,,10,100,1.0,,,
+d_counseling_crow_05_5,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_5,True,,1,idle,,100,100,1.0,,d_counseling_crow_05_8,
+d_counseling_crow_05_6,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_6,True,,1,smile,,10,100,1.0,,,
+d_counseling_crow_05_7,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_7,True,,1,smile,,100,100,1.0,,d_counseling_crow_05_8,
+d_counseling_crow_05_8,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_8,True,,1,smile,,100,100,1.0,,,
+d_counseling_crow_05_9,d_counseling_crow_05,Speech,0,crow,crow,Locale_Counseling:d_counseling_crow_05_9,True,,1,smile,,100,100,1.0,,,
+d_counseling_crow_05_10,d_counseling_crow_05,Narration,0,crow,,Locale_Counseling:d_counseling_crow_05_10,False,,1,smile,none,100,100,1.0,,,crow

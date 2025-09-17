@@ -1,0 +1,14 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_zwei_19_1,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_1,True,zwei,1,good,CommanderRoom,10,10,1.0,bgm_story_backtonormal,,
+d_counseling_zwei_19_2,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_2,True,,1,good,,10,10,1.0,,,
+d_counseling_zwei_19_3,d_counseling_zwei_19,Choice,100,zwei,,Locale_Counseling:d_counseling_zwei_19_3,False,,1,good,,10,10,1.0,,d_counseling_zwei_19_5,
+d_counseling_zwei_19_4,d_counseling_zwei_19,Choice,120,zwei,,Locale_Counseling:d_counseling_zwei_19_4,False,,1,good,,10,10,1.0,,d_counseling_zwei_19_9,
+d_counseling_zwei_19_5,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_5,True,,1,idle,,10,100,1.0,,,
+d_counseling_zwei_19_6,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_6,True,,1,shy,,100,100,1.0,,,
+d_counseling_zwei_19_7,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_7,True,,1,shy,,100,100,1.0,,,
+d_counseling_zwei_19_8,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_8,True,,1,shy,,100,100,1.0,,d_counseling_zwei_19_13,
+d_counseling_zwei_19_9,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_9,True,,1,good,,10,100,1.0,,,
+d_counseling_zwei_19_10,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_10,True,,1,good,,100,100,1.0,,,
+d_counseling_zwei_19_11,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_11,True,,1,good,,100,100,1.0,,,
+d_counseling_zwei_19_12,d_counseling_zwei_19,Speech,0,zwei,zwei,Locale_Counseling:d_counseling_zwei_19_12,True,,1,good,,100,100,1.0,,d_counseling_zwei_19_13,
+d_counseling_zwei_19_13,d_counseling_zwei_19,Narration,0,zwei,,Locale_Counseling:d_counseling_zwei_19_13,False,,1,idle,none,100,100,1.0,,,zwei

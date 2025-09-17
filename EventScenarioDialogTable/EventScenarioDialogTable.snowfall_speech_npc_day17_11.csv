@@ -1,0 +1,7 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day17_11_1,80903,snowfall_speech_npc_day17_11,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day17_11_1,True,mica_w,1,cry,WaterFall_n,1,S_10,1.0,amb_so_waterfall_3,event_bgm_neverland_snowflakes_night
+snowfall_speech_npc_day17_11_2,80903,snowfall_speech_npc_day17_11,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day17_11_2,True,,1,cry,,S_10,S_10,1.0,,
+snowfall_speech_npc_day17_11_3,80903,snowfall_speech_npc_day17_11,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day17_11_3,True,,1,cry,,S_10,S_10,1.0,,
+snowfall_speech_npc_day17_11_4,80903,snowfall_speech_npc_day17_11,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day17_11_4,True,,1,cry,,S_10,S_10,1.0,,
+snowfall_speech_npc_day17_11_5,80903,snowfall_speech_npc_day17_11,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day17_11_5,True,,1,idle,,S_10,S_10,1.0,,
+snowfall_speech_npc_day17_11_6,80903,snowfall_speech_npc_day17_11,Narration,,,Locale_SubScenario:snowfall_speech_npc_day17_11_6,False,,1,idle,,black,black,1.0,,

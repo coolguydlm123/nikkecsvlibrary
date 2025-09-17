@@ -1,0 +1,4 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+snowfall_episode_noir_05_m_1,80903,snowfall_episode_noir_05_m,Monologue,Locale_SubScenario:snowfall_episode_noir_05_m_1,False,noir_c,1,Trail_d,1,1,1.0,event_bgm_neverland_snowflakes_day
+snowfall_episode_noir_05_m_2,80903,snowfall_episode_noir_05_m,Monologue,Locale_SubScenario:snowfall_episode_noir_05_m_2,False,,1,,black,black,1.0,
+snowfall_episode_noir_05_m_3,80903,snowfall_episode_noir_05_m,Monologue,Locale_SubScenario:snowfall_episode_noir_05_m_3,False,,1,,black,black,1.0,

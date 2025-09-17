@@ -1,0 +1,2 @@
+id,event_id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,set_start_camera,set_end_camera,set_camera_duration
+event_ce006_3_prologue_1,40081,event_ce006_3_prologue,Narration,Narration,Locale_MainScenario:event_ce006_3_prologue_1,False,1,1,1.0

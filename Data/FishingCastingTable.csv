@@ -1,0 +1,4 @@
+id,casting_speed,casting_group_start_01,casting_group_end_01,casting_01_bonus_group,casting_group_start_02,casting_group_end_02,casting_02_bonus_group,casting_group_start_03,casting_group_end_03,casting_03_bonus_group
+1001,8000,0,5000,Small,5001,8500,Middle,8501,10000,Large
+2001,8000,0,3000,Small,3001,6500,Middle,6501,10000,Large
+3001,8000,0,10000,Large,0,0,None,0,0,None

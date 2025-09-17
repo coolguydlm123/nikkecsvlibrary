@@ -1,0 +1,12 @@
+id,value
+MuzzleKeyboardMoveSpeed,7
+MaxRank,10
+ShakingMixIntensityVertical,0
+ShakingMixIntensityHorizontal,0
+SpinForce,0.5
+FrictionForce,0.7
+DropCooldownTime,1
+MergeCooldownTime,0.15
+GameOverDetectionTime,3
+GravityScale,2
+CollideAnimationPlayCollisionVelocity,3

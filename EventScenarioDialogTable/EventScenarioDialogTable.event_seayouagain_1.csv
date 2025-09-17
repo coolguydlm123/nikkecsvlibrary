@@ -1,0 +1,3 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration
+event_seayouagain_1,80600,event_seayouagain_1,Monologue,Locale_SubScenario:event_nyanyaparadise_epilogue_11,False,FlowerGarden,10,10,1.0
+event_seayouagain_2,80600,event_seayouagain_1,Monologue,Locale_SubScenario:event_nyanyaparadise_epilogue_12,False,,10,1,1.0

@@ -1,0 +1,2 @@
+id,group_id,difficulty_step,stack_floor_min,stack_floor_max,difficulty_play_speed,auto_increase_play_speed
+1001,1000,1,0,0,1.2,0.15

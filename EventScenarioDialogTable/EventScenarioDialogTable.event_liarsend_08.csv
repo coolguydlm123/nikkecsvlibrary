@@ -1,0 +1,15 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,conversation_id,set_start_camera,set_end_camera,set_camera_duration,play_bgm,fade,highlight,speaker,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim
+event_liarsend_08_1,130004,event_liarsend_08,Monologue,Locale_SubScenario:event_liarsend_08_1,False,OutpostOut,m_event_liarsend_08_01,1,1,1.0,bgm_story_whosdumber,,,,,,
+event_liarsend_08_2,130004,event_liarsend_08,Monologue,Locale_SubScenario:event_liarsend_08_2,False,,,1,10,0.7,,,,,,,
+event_liarsend_08_3,130004,event_liarsend_08,Monologue,Locale_SubScenario:event_liarsend_08_3,False,,,10,10,1.0,,,,,,,
+event_liarsend_08_4,130004,event_liarsend_08,Monologue,Locale_SubScenario:event_liarsend_08_4,False,,m_event_liarsend_08_02,10,10,1.0,,,,,,,
+event_liarsend_08_5,130004,event_liarsend_08,Monologue,Locale_SubScenario:event_liarsend_08_5,False,,,10,10,1.0,none,,,,,,
+event_liarsend_08_6,130004,event_liarsend_08,Narration,Locale_SubScenario:event_liarsend_08_6,False,ElevatorOut,,black,black,1.0,,black,,,,,
+event_liarsend_08_7,130004,event_liarsend_08,Speech,Locale_SubScenario:event_liarsend_08_7,True,,,1,S_10,1.0,bgm_story_kneeldownfools,,syuen,syuen,syuen,1,surprise
+event_liarsend_08_8,130004,event_liarsend_08,Self,Locale_SubScenario:event_liarsend_08_8,False,,,S_10,S_10,1.0,,,syuen,,,1,surprise
+event_liarsend_08_9,130004,event_liarsend_08,Speech,Locale_SubScenario:event_liarsend_08_9,False,,,S_10,S_10,1.0,,,syuen,syuen,,1,surprise
+event_liarsend_08_10,130004,event_liarsend_08,Self,Locale_SubScenario:event_liarsend_08_10,False,,,S_10,S_10,1.0,,,syuen,,,1,surprise
+event_liarsend_08_11,130004,event_liarsend_08,Speech,Locale_SubScenario:event_liarsend_08_11,True,,,S_10,S_10,1.0,,,syuen,syuen,,1,idle
+event_liarsend_08_12,130004,event_liarsend_08,Speech,Locale_SubScenario:event_liarsend_08_12,True,,,S_10,S_10,1.0,,,syuen,syuen,,1,idle
+event_liarsend_08_13,130004,event_liarsend_08,Speech,Locale_SubScenario:event_liarsend_08_13,True,,,S_10,S_10,1.0,,,syuen,syuen,,1,surprise
+event_liarsend_08_14,130004,event_liarsend_08,Speech,Locale_SubScenario:event_liarsend_08_14,True,,,S_10,S_100,1.0,,,syuen,syuen,,1,angry

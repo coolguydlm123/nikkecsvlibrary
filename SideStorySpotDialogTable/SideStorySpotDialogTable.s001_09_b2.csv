@@ -1,0 +1,9 @@
+id,group_id,portrait_id,name_localkey,scenario_localkey,play_voice,set_dialog_position,set_portrait_position
+s001_09_b2_1,s001_09_b2,si_c222_00_s,Locale_Character:222_name,Locale_SideStory:s001_09_b2_1,s001_09_b2_1,Top,Left
+s001_09_b2_2,s001_09_b2,si_c220_00_s,Locale_Character:220_name,Locale_SideStory:s001_09_b2_2,s001_09_b2_2,Top,Right
+s001_09_b2_3,s001_09_b2,si_c221_00_s,Locale_Character:221_name,Locale_SideStory:s001_09_b2_3,s001_09_b2_3,Top,Left
+s001_09_b2_4,s001_09_b2,si_c220_00_s,Locale_Character:220_name,Locale_SideStory:s001_09_b2_4,s001_09_b2_4,Top,Right
+s001_09_b2_5,s001_09_b2,si_c221_00_s,Locale_Character:221_name,Locale_SideStory:s001_09_b2_5,s001_09_b2_5,Top,Left
+s001_09_b2_6,s001_09_b2,si_c222_00_s,Locale_Character:222_name,Locale_SideStory:s001_09_b2_6,s001_09_b2_6,Top,Right
+s001_09_b2_7,s001_09_b2,si_c222_00_s,Locale_Character:222_name,Locale_SideStory:s001_09_b2_7,s001_09_b2_7,Top,Left
+s001_09_b2_8,s001_09_b2,si_c220_00_s,Locale_Character:220_name,Locale_SideStory:s001_09_b2_8,s001_09_b2_8,Top,Right

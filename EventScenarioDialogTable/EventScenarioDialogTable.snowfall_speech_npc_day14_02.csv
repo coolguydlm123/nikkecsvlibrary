@@ -1,0 +1,13 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day14_02_1,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_1,True,mica_w,3,delight,lumi_01,1,idle,BigHotSpring_d,2,2,1.0,amb_so_hotspring_1,event_bgm_neverland_hugme_day
+snowfall_speech_npc_day14_02_2,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_2,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_3,80903,snowfall_speech_npc_day14_02,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day14_02_3,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_4,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_4,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_5,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_5,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_6,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_6,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_7,80903,snowfall_speech_npc_day14_02,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day14_02_7,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_8,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_8,True,,3,delight,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_9,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_9,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_10,80903,snowfall_speech_npc_day14_02,Speech,mica_w,mica_w,Locale_SubScenario:snowfall_speech_npc_day14_02_10,True,,3,surprise,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_11,80903,snowfall_speech_npc_day14_02,Speech,lumi_01,lumi_01,Locale_SubScenario:snowfall_speech_npc_day14_02_11,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day14_02_12,80903,snowfall_speech_npc_day14_02,Narration,,,Locale_SubScenario:snowfall_speech_npc_day14_02_12,False,,3,idle,,1,idle,,black,black,1.0,,

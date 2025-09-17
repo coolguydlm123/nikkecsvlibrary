@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day19_03_1,80903,snowfall_speech_npc_day19_03,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_speech_npc_day19_03_1,True,noir_c,3,idle,blanc_c,1,no,BigHotSpring_d,2,2,1.0,amb_so_hotspring_1,event_bgm_neverland_hugme_day
+snowfall_speech_npc_day19_03_2,80903,snowfall_speech_npc_day19_03,Speech,noir_c,noir_c,Locale_SubScenario:snowfall_speech_npc_day19_03_2,True,,3,surprise,,1,no,,2,2,1.0,,
+snowfall_speech_npc_day19_03_3,80903,snowfall_speech_npc_day19_03,Speech,noir_c,noir_c,Locale_SubScenario:snowfall_speech_npc_day19_03_3,True,,3,surprise,,1,no,,2,2,1.0,,
+snowfall_speech_npc_day19_03_4,80903,snowfall_speech_npc_day19_03,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_speech_npc_day19_03_4,True,,3,surprise,,1,think,,2,2,1.0,,
+snowfall_speech_npc_day19_03_5,80903,snowfall_speech_npc_day19_03,Speech,noir_c,noir_c,Locale_SubScenario:snowfall_speech_npc_day19_03_5,True,,3,idle,,1,think,,2,2,1.0,,
+snowfall_speech_npc_day19_03_6,80903,snowfall_speech_npc_day19_03,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_speech_npc_day19_03_6,True,,3,idle,,1,idle,,2,2,1.0,,
+snowfall_speech_npc_day19_03_7,80903,snowfall_speech_npc_day19_03,Narration,,,Locale_SubScenario:snowfall_speech_npc_day19_03_7,False,,3,idle,,1,idle,,black,black,1.0,,

@@ -1,0 +1,3 @@
+id,event_id,is_archive_event,ui_prefab,first_select_group_id,ticket_auto_charge_id,reward_ticket_auto_charge_id,infinity_mod_active_date,reward_id,first_enter_scenario_group_id,quick_end_event_page_id,quick_end_open_condition_value,help_tip_id,locale_id
+1001,80305,False,whitememory,1001,30002,30003,2023-05-16T20:00:00,8108045,d_contents_whitememory_01,1001911,1,4100200,1001
+101001,1080305,True,whitememory,101001,30002,30003,2023-05-16T20:00:00,8108045,d_contents_whitememory_01,101001911,1,4100200,101001

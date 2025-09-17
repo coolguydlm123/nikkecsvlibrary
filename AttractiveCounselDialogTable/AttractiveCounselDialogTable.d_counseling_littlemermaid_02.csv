@@ -1,0 +1,16 @@
+id,group_id,speech_window,attractive_point,highlight,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,speaker,jump_target,characters/0/hide_char_id
+d_counseling_littlemermaid_02_1,d_counseling_littlemermaid_02,Narration,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_1,False,littlemermaid,1,idle,TreeOfWater,L_10,L_10,1.0,event_bgm_oldtales_beautifulthing,,,
+d_counseling_littlemermaid_02_2,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_2,True,,1,idle,,L_10,L_10,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_3,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_3,True,,1,idle,,L_10,L_10,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_4,d_counseling_littlemermaid_02,Choice,120,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_4,False,,1,idle,,L_10,L_10,1.0,,none,d_counseling_littlemermaid_02_6,
+d_counseling_littlemermaid_02_5,d_counseling_littlemermaid_02,Choice,100,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_5,False,,1,idle,,L_10,L_10,1.0,,none,d_counseling_littlemermaid_02_11,
+d_counseling_littlemermaid_02_6,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_6,True,,1,surprise,BubbleMaker,L_10,L_100,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_7,d_counseling_littlemermaid_02,Narration,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_7,True,,1,surprise,,L_100,L_100,1.0,,,,
+d_counseling_littlemermaid_02_8,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_8,True,,1,idle,,L_100,L_100,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_9,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_9,True,,1,delight,,L_100,L_100,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_10,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_10,True,,1,delight,,L_100,L_100,1.0,,littlemermaid,d_counseling_littlemermaid_02_15,
+d_counseling_littlemermaid_02_11,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_11,True,,1,think,TreeOfWater,L_10,L_100,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_12,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_12,True,,1,think,,L_100,L_100,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_13,d_counseling_littlemermaid_02,Narration,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_13,False,,1,think,,L_100,L_100,1.0,,,,
+d_counseling_littlemermaid_02_14,d_counseling_littlemermaid_02,Speech,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_14,True,,1,idle,,L_100,L_100,1.0,,littlemermaid,,
+d_counseling_littlemermaid_02_15,d_counseling_littlemermaid_02,Narration,0,littlemermaid,Locale_Counseling:d_counseling_littlemermaid_02_15,False,,1,idle,none,L_100,L_100,1.0,,,,littlemermaid

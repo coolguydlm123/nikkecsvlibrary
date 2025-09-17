@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm,play_sound
+snowfall_speech_npc_day11_01_1,80903,snowfall_speech_npc_day11_01,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_01_1,False,DiningRoom_d,1,10,1.0,amb_so_restaurant_1,event_bgm_neverland_hugme_day,
+snowfall_speech_npc_day11_01_2,80903,snowfall_speech_npc_day11_01,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_01_2,False,,10,10,1.0,,,
+snowfall_speech_npc_day11_01_3,80903,snowfall_speech_npc_day11_01,Narration,Locale_SubScenario:snowfall_speech_npc_day11_01_3,False,,10,10,1.0,,,sfx_scn_doorshake
+snowfall_speech_npc_day11_01_4,80903,snowfall_speech_npc_day11_01,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_01_4,False,,10,10,1.0,,,
+snowfall_speech_npc_day11_01_5,80903,snowfall_speech_npc_day11_01,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_01_5,False,,10,10,1.0,,,
+snowfall_speech_npc_day11_01_6,80903,snowfall_speech_npc_day11_01,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_01_6,False,,10,10,1.0,,,
+snowfall_speech_npc_day11_01_7,80903,snowfall_speech_npc_day11_01,Monologue,Locale_SubScenario:snowfall_speech_npc_day11_01_7,False,,black,black,1.0,,,

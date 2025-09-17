@@ -1,0 +1,17 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_soda_twinklingbunny_06_1,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_1,True,soda_b,1,sad,CoinRushMainHall,S_10,S_10,1.0,bgm_story_backtonormal,,
+d_counseling_soda_twinklingbunny_06_2,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_2,True,,1,sad,,S_10,S_10,1.0,,,
+d_counseling_soda_twinklingbunny_06_3,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_3,True,,1,sad,,S_10,S_10,1.0,,,
+d_counseling_soda_twinklingbunny_06_4,d_counseling_soda_twinklingbunny_06,Choice,100,soda_b,,Locale_Counseling:d_counseling_soda_twinklingbunny_06_4,False,,1,sad,,S_10,S_10,1.0,,d_counseling_soda_twinklingbunny_06_6,
+d_counseling_soda_twinklingbunny_06_5,d_counseling_soda_twinklingbunny_06,Choice,120,soda_b,,Locale_Counseling:d_counseling_soda_twinklingbunny_06_5,False,,1,sad,,S_10,S_10,1.0,,d_counseling_soda_twinklingbunny_06_11,
+d_counseling_soda_twinklingbunny_06_6,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_6,True,,1,sad,,S_10,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_7,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_7,True,,1,sad,,S_100,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_8,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_8,True,,1,worry,,S_100,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_9,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_9,True,,1,cry,,S_100,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_10,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_10,True,,1,cry,,S_100,S_100,1.0,,d_counseling_soda_twinklingbunny_06_16,
+d_counseling_soda_twinklingbunny_06_11,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_11,True,,1,cry,,S_10,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_12,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_12,True,,1,cry,,S_100,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_13,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_13,True,,1,cry,,S_100,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_14,d_counseling_soda_twinklingbunny_06,Self,0,soda_b,,Locale_Counseling:d_counseling_soda_twinklingbunny_06_14,False,,1,cry,,S_100,S_100,1.0,,,
+d_counseling_soda_twinklingbunny_06_15,d_counseling_soda_twinklingbunny_06,Speech,0,soda_b,soda_b,Locale_Counseling:d_counseling_soda_twinklingbunny_06_15,True,,1,cry,,S_100,S_100,1.0,,d_counseling_soda_twinklingbunny_06_16,
+d_counseling_soda_twinklingbunny_06_16,d_counseling_soda_twinklingbunny_06,Narration,0,soda_b,,Locale_Counseling:d_counseling_soda_twinklingbunny_06_16,False,,1,cry,none,S_100,S_100,1.0,,,soda_b

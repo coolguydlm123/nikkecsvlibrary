@@ -1,0 +1,5 @@
+id,event_id,group_id,speech_window,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_sound,play_ambient,play_bgm,set_camera_shake
+snowfall_episode_emma_02_m_1,80903,snowfall_episode_emma_02_m,Narration,Narration,Locale_SubScenario:snowfall_episode_emma_02_m_1,False,emma,1,surprise,WaterFall_s,17,170,0.3,sfx_scn_waterdive,amb_so_waterfall_1,event_bgm_neverland_hugme_sunset,Low_2
+snowfall_episode_emma_02_m_2,80903,snowfall_episode_emma_02_m,Monologue,Monologue,Locale_SubScenario:snowfall_episode_emma_02_m_2,False,,1,worry,,1,1,1.0,,,,
+snowfall_episode_emma_02_m_3,80903,snowfall_episode_emma_02_m,Monologue,Monologue,Locale_SubScenario:snowfall_episode_emma_02_m_3,False,,1,worry,,1,1,1.0,,,,
+snowfall_episode_emma_02_m_4,80903,snowfall_episode_emma_02_m,Monologue,Monologue,Locale_SubScenario:snowfall_episode_emma_02_m_4,False,,1,worry,,black,black,1.0,,,,

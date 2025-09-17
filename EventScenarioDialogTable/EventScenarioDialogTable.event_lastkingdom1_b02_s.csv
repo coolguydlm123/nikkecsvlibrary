@@ -1,0 +1,6 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,characters/0/hide_char_id
+event_lastkingdom1_b02_s_1,40045,event_lastkingdom1_b02_s,Speech,chime,chime,Locale_MainScenario:event_lastkingdom1_b02_s_1,True,chime,1,idle,crown,13,idle,CrownCastleFrontYard_d,113,113,1.0,event_bgm_lastkingdom_machines,
+event_lastkingdom1_b02_s_2,40045,event_lastkingdom1_b02_s,Speech,crown,crown,Locale_MainScenario:event_lastkingdom1_b02_s_2,True,,1,idle,,13,idle,,113,113,1.0,,
+event_lastkingdom1_b02_s_3,40045,event_lastkingdom1_b02_s,Speech,chime,chime,Locale_MainScenario:event_lastkingdom1_b02_s_3,True,,1,idle,,13,idle,,113,113,1.0,,
+event_lastkingdom1_b02_s_4,40045,event_lastkingdom1_b02_s,Narration,,,Locale_MainScenario:event_lastkingdom1_b02_s_4,False,,1,idle,,13,idle,,113,113,1.0,,chime
+event_lastkingdom1_b02_s_5,40045,event_lastkingdom1_b02_s,Speech,crown,crown,Locale_MainScenario:event_lastkingdom1_b02_s_5,False,,,,,13,idle,,113,130,1.0,,

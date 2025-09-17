@@ -1,0 +1,6 @@
+id,name,name_english,order,team_type,day_of_week/0,day_of_week/1,day_of_week/2,day_of_week/3,day_of_week/4,day_of_week/5,day_of_week/6,clear_limit,core_resource,corp_icon
+ALL,Locale_System:TOWER_MAIN_NAME,Locale_System:TOWER_MAIN_NAME_ENG,1,TowerBase,0,1,2,3.0,4.0,5.0,6.0,0,None,None
+ELYSION,Locale_System:TOWER_ELYSION_NAME,Locale_System:TOWER_ELYSION_NAME_ENG,2,TowerElysion,0,1,4,,,,,3,ele_bg_elysiontower,icn_corp_01
+MISSILIS,Locale_System:TOWER_MISSILIS_NAME,Locale_System:TOWER_MISSILIS_NAME_ENG,3,TowerMissilis,0,2,5,,,,,3,ele_bg_missilistower,icn_corp_02
+TETRA,Locale_System:TOWER_TETRA_NAME,Locale_System:TOWER_TETRA_NAME_ENG,4,TowerTetra,0,3,6,,,,,3,ele_bg_tetratower,icn_corp_03
+OVERSPEC,Locale_System:TOWER_PILGRIMOVERSPEC_NAME,Locale_System:TOWER_PILGRIMOVERSPEC_NAME_ENG,5,TowerOverspec,0,2,3,,,,,3,ele_bg_overspectower,icn_corp_04_06

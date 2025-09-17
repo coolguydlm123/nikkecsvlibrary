@@ -1,0 +1,4 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_episode_mica_04_m_1,80903,snowfall_episode_mica_04_m,Monologue,Locale_SubScenario:snowfall_episode_mica_04_m_1,False,mica_w,1,no,lumi_01,13,idle,WaterFall_n,113,113,1.0,amb_so_waterfall_3,event_bgm_neverland_snowflakes_night
+snowfall_episode_mica_04_m_2,80903,snowfall_episode_mica_04_m,Monologue,Locale_SubScenario:snowfall_episode_mica_04_m_2,False,,1,no,,13,idle,,113,113,1.0,,
+snowfall_episode_mica_04_m_3,80903,snowfall_episode_mica_04_m,Monologue,Locale_SubScenario:snowfall_episode_mica_04_m_3,False,,1,no,,13,idle,,113,5,2.0,,

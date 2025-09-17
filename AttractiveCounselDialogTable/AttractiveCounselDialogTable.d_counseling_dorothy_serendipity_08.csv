@@ -1,0 +1,10 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id
+d_counseling_dorothy_serendipity_08_1,d_counseling_dorothy_serendipity_08,Speech,0,dorothy_s,dorothy_s,Locale_Counseling:d_counseling_dorothy_serendipity_08_1,True,dorothy_s,1,think,Deck_n,100,100,1.0,bgm_story_milkyway,,
+d_counseling_dorothy_serendipity_08_2,d_counseling_dorothy_serendipity_08,Choice,120,dorothy_s,,Locale_Counseling:d_counseling_dorothy_serendipity_08_2,False,,1,think,,100,100,1.0,,d_counseling_dorothy_serendipity_08_4,
+d_counseling_dorothy_serendipity_08_3,d_counseling_dorothy_serendipity_08,Choice,100,dorothy_s,,Locale_Counseling:d_counseling_dorothy_serendipity_08_3,False,,1,think,,100,100,1.0,,d_counseling_dorothy_serendipity_08_7,
+d_counseling_dorothy_serendipity_08_4,d_counseling_dorothy_serendipity_08,Speech,0,dorothy_s,dorothy_s,Locale_Counseling:d_counseling_dorothy_serendipity_08_4,True,,1,idle,,100,100,1.0,,,
+d_counseling_dorothy_serendipity_08_5,d_counseling_dorothy_serendipity_08,Speech,0,dorothy_s,dorothy_s,Locale_Counseling:d_counseling_dorothy_serendipity_08_5,True,,1,think,,100,10,1.0,,,
+d_counseling_dorothy_serendipity_08_6,d_counseling_dorothy_serendipity_08,Speech,0,dorothy_s,dorothy_s,Locale_Counseling:d_counseling_dorothy_serendipity_08_6,True,,1,idle,,10,10,1.0,,d_counseling_dorothy_serendipity_08_9,
+d_counseling_dorothy_serendipity_08_7,d_counseling_dorothy_serendipity_08,Speech,0,dorothy_s,dorothy_s,Locale_Counseling:d_counseling_dorothy_serendipity_08_7,True,,1,no,,100,10,1.0,,,
+d_counseling_dorothy_serendipity_08_8,d_counseling_dorothy_serendipity_08,Speech,0,dorothy_s,dorothy_s,Locale_Counseling:d_counseling_dorothy_serendipity_08_8,True,,1,no,,10,10,1.0,,d_counseling_dorothy_serendipity_08_9,
+d_counseling_dorothy_serendipity_08_9,d_counseling_dorothy_serendipity_08,Narration,0,dorothy_s,,Locale_Counseling:d_counseling_dorothy_serendipity_08_9,False,,1,idle,none,10,10,1.0,,,dorothy_s

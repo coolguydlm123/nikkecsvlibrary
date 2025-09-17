@@ -1,0 +1,11 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm,characters/0/hide_char_id,characters/1/hide_char_id
+snowfall_myroom_day13_m_1,80903,snowfall_myroom_day13_m,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_myroom_day13_m_1,True,noir_c,1,idle,blanc_c,13,idle,HotSpringInnOut_d,12,12,1.0,amb_so_inn_out_1,event_bgm_neverland_intermissionjam_day,,
+snowfall_myroom_day13_m_2,80903,snowfall_myroom_day13_m,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_myroom_day13_m_2,True,,1,idle,,13,idle,,12,12,1.0,,,,
+snowfall_myroom_day13_m_3,80903,snowfall_myroom_day13_m,Speech,noir_c,noir_c,Locale_SubScenario:snowfall_myroom_day13_m_3,True,,1,idle,,13,idle,,12,12,1.0,,,,
+snowfall_myroom_day13_m_4,80903,snowfall_myroom_day13_m,Self,noir_c,,Locale_SubScenario:snowfall_myroom_day13_m_4,False,,1,idle,,13,idle,,12,12,1.0,,,,
+snowfall_myroom_day13_m_5,80903,snowfall_myroom_day13_m,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_myroom_day13_m_5,True,,1,idle,,13,delight,,12,12,1.0,,,,
+snowfall_myroom_day13_m_6,80903,snowfall_myroom_day13_m,Speech,blanc_c,blanc_c,Locale_SubScenario:snowfall_myroom_day13_m_6,True,,1,idle,,13,delight,,12,12,1.0,,,,
+snowfall_myroom_day13_m_7,80903,snowfall_myroom_day13_m,Speech,noir_c,noir_c,Locale_SubScenario:snowfall_myroom_day13_m_7,True,,1,idle,,13,delight,,12,12,1.0,,,,
+snowfall_myroom_day13_m_8,80903,snowfall_myroom_day13_m,Speech,noir_c,noir_c,Locale_SubScenario:snowfall_myroom_day13_m_8,True,,1,idle,,13,delight,,12,12,1.0,,,,
+snowfall_myroom_day13_m_9,80903,snowfall_myroom_day13_m,Self,noir_c,,Locale_SubScenario:snowfall_myroom_day13_m_9,False,,1,idle,,13,delight,,12,12,1.0,,,,
+snowfall_myroom_day13_m_10,80903,snowfall_myroom_day13_m,Narration,Narration,,Locale_SubScenario:snowfall_myroom_day13_m_10,False,,1,idle,,13,idle,,black,black,1.0,,,noir_c,blanc_c

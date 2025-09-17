@@ -1,0 +1,17 @@
+id,group_id,speech_window,attractive_point,highlight,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,speaker,jump_target,characters/0/hide_char_id
+d_counseling_trina_20_1,d_counseling_trina_20,Monologue,0,trina,Locale_Counseling:d_counseling_trina_20_1,False,trina,1,idle,CommanderRoom,L_10,L_10,1.0,bgm_story_backtonormal,,,
+d_counseling_trina_20_2,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_2,True,,1,idle,,L_10,L_10,1.0,,trina,,
+d_counseling_trina_20_3,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_3,True,,1,idle,,L_10,L_10,1.0,,trina,,
+d_counseling_trina_20_4,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_4,True,,1,idle,,L_10,L_10,1.0,,trina,,
+d_counseling_trina_20_5,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_5,True,,1,idle,,L_10,L_10,1.0,,trina,,
+d_counseling_trina_20_6,d_counseling_trina_20,Choice,100,trina,Locale_Counseling:d_counseling_trina_20_6,False,,1,idle,,L_10,L_10,1.0,,,d_counseling_trina_20_8,
+d_counseling_trina_20_7,d_counseling_trina_20,Choice,120,trina,Locale_Counseling:d_counseling_trina_20_7,False,,1,idle,,L_10,L_10,1.0,,,d_counseling_trina_20_12,
+d_counseling_trina_20_8,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_8,True,,1,idle,,L_10,L_100,1.0,,trina,,
+d_counseling_trina_20_9,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_9,True,,1,think1,,L_100,L_100,1.0,,trina,,
+d_counseling_trina_20_10,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_10,True,,1,think1,,L_100,L_100,1.0,,trina,,
+d_counseling_trina_20_11,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_11,True,,1,think1,,L_100,L_100,1.0,,trina,d_counseling_trina_20_16,
+d_counseling_trina_20_12,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_12,True,,1,idle,,L_10,L_100,1.0,,trina,,
+d_counseling_trina_20_13,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_13,True,,1,idle,,L_100,L_100,1.0,,trina,,
+d_counseling_trina_20_14,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_14,True,,1,delight,,L_100,L_100,1.0,,trina,,
+d_counseling_trina_20_15,d_counseling_trina_20,Speech,0,trina,Locale_Counseling:d_counseling_trina_20_15,True,,1,delight,,L_100,L_100,1.0,,trina,d_counseling_trina_20_16,
+d_counseling_trina_20_16,d_counseling_trina_20,Narration,0,trina,Locale_Counseling:d_counseling_trina_20_16,False,,1,idle,none,L_100,L_100,1.0,,,,trina

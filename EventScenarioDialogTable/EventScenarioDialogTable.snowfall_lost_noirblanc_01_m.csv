@@ -1,0 +1,4 @@
+id,event_id,group_id,speech_window,scenario_localkey,play_lipSync,set_start_camera,set_end_camera,set_camera_duration
+snowfall_lost_noirblanc_01_m_1,0,snowfall_lost_noirblanc_01_m,Monologue,Locale_SubScenario:snowfall_lost_noirblanc_01_m_1,False,10,10,1.0
+snowfall_lost_noirblanc_01_m_2,0,snowfall_lost_noirblanc_01_m,Monologue,Locale_SubScenario:snowfall_lost_noirblanc_01_m_2,False,10,10,1.0
+snowfall_lost_noirblanc_01_m_3,0,snowfall_lost_noirblanc_01_m,Monologue,Locale_SubScenario:snowfall_lost_noirblanc_01_m_3,False,10,10,1.0

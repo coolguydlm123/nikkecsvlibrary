@@ -1,0 +1,17 @@
+id,group_id,speech_window,attractive_point,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm,jump_target,characters/0/hide_char_id,characters/1/hide_char_id
+d_counseling_kilo_07_1,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_1,True,kilo,1,idle,talos,13,idle,CommanderRoom,S_10,S_10,1.0,bgm_story_backtonormal,,,
+d_counseling_kilo_07_2,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_2,True,,1,idle,,13,idle,,S_10,S_10,1.0,,,,
+d_counseling_kilo_07_3,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_3,True,,1,idle,,13,idle,,S_10,S_10,1.0,,,,
+d_counseling_kilo_07_4,d_counseling_kilo_07,Choice,120,Choice,,Locale_Counseling:d_counseling_kilo_07_4,False,,1,idle,,13,idle,,S_10,S_10,1.0,,d_counseling_kilo_07_6,,
+d_counseling_kilo_07_5,d_counseling_kilo_07,Choice,100,Choice,,Locale_Counseling:d_counseling_kilo_07_5,False,,1,idle,,13,idle,,S_10,S_10,1.0,,d_counseling_kilo_07_11,,
+d_counseling_kilo_07_6,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_6,True,,1,shy,,13,idle,,S_10,S_100,1.0,,,,
+d_counseling_kilo_07_7,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_7,True,,1,delight,,13,idle,,S_100,S_100,1.0,,,,
+d_counseling_kilo_07_8,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_8,True,,1,delight,,13,idle,,S_100,S_100,1.0,,,,
+d_counseling_kilo_07_9,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_9,True,,1,delight,,13,idle,,S_100,S_100,1.0,,,,
+d_counseling_kilo_07_10,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_10,True,,1,delight,,13,idle,,S_100,S_100,1.0,,d_counseling_kilo_07_16,,
+d_counseling_kilo_07_11,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_11,True,,1,idle,,13,idle,,S_10,S_100,1.0,,,,
+d_counseling_kilo_07_12,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_12,True,,1,idle,,13,idle,,S_100,S_100,1.0,,,,
+d_counseling_kilo_07_13,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_13,True,,1,idle,,13,idle,,S_100,S_100,1.0,,,,
+d_counseling_kilo_07_14,d_counseling_kilo_07,Self,0,Self,,Locale_Counseling:d_counseling_kilo_07_14,False,,1,idle,,13,idle,,S_100,S_100,1.0,,,,
+d_counseling_kilo_07_15,d_counseling_kilo_07,Speech,0,kilo,kilo,Locale_Counseling:d_counseling_kilo_07_15,True,,1,surprise,,13,idle,,S_100,S_100,1.0,,d_counseling_kilo_07_16,,
+d_counseling_kilo_07_16,d_counseling_kilo_07,Narration,0,Narration,,Locale_Counseling:d_counseling_kilo_07_16,False,,1,idle,,13,idle,none,S_100,S_100,1.0,,,kilo,talos

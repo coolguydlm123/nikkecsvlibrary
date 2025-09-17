@@ -1,0 +1,13 @@
+id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,characters/1/show_char_id,characters/1/set_char_position,characters/1/set_char_anim,characters/2/show_char_id,characters/2/set_char_position,characters/2/set_char_anim,characters/3/show_char_id,characters/3/set_char_position,characters/3/set_char_anim,characters/4/show_char_id,characters/4/set_char_position,characters/4/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_bgm
+d_main_03_01_1,d_main_03_01,Speech,rapi,rapi,Locale_MainScenario:d_main_03_01_1,True,rapi,1,idle,anis,3,worry,neon,13,idle,mihara,17,idle,yuni,19,idle,CityForest_03,10,10,1.0,bgm_risk_a
+d_main_03_01_2,d_main_03_01,Self,rapi,Self,Locale_MainScenario:d_main_03_01_2,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,10,10,1.0,
+d_main_03_01_3,d_main_03_01,Speech,mihara,mihara,Locale_MainScenario:d_main_03_01_3,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,17,17,1.0,
+d_main_03_01_4,d_main_03_01,Speech,rapi,rapi,Locale_MainScenario:d_main_03_01_4,False,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,10,100,1.0,
+d_main_03_01_5,d_main_03_01,Speech,rapi,rapi,Locale_MainScenario:d_main_03_01_5,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,100,100,1.0,
+d_main_03_01_6,d_main_03_01,Speech,mihara,mihara,Locale_MainScenario:d_main_03_01_6,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,17,170,1.0,
+d_main_03_01_7,d_main_03_01,Speech,mihara,mihara,Locale_MainScenario:d_main_03_01_7,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,170,1700,1.0,
+d_main_03_01_8,d_main_03_01,Speech,anis,anis,Locale_MainScenario:d_main_03_01_8,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,30,30,1.0,
+d_main_03_01_9,d_main_03_01,Speech,neon,neon,Locale_MainScenario:d_main_03_01_9,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,130,130,1.0,
+d_main_03_01_10,d_main_03_01,Speech,mihara,mihara,Locale_MainScenario:d_main_03_01_10,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,18,18,1.0,
+d_main_03_01_11,d_main_03_01,Speech,mihara,mihara,Locale_MainScenario:d_main_03_01_11,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,18,17,1.0,
+d_main_03_01_12,d_main_03_01,Speech,mihara,mihara,Locale_MainScenario:d_main_03_01_12,True,,1,idle,,3,worry,,13,idle,,17,idle,,19,idle,,17,170,1.0,

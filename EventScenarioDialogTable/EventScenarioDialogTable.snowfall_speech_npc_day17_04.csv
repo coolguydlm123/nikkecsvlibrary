@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day17_04_1,80903,snowfall_speech_npc_day17_04,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day17_04_1,True,belorta,1,delight,WaterFall_d,1,XS_10,1.0,amb_so_waterfall_1,event_bgm_neverland_snowflakes_day
+snowfall_speech_npc_day17_04_2,80903,snowfall_speech_npc_day17_04,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day17_04_2,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_04_3,80903,snowfall_speech_npc_day17_04,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day17_04_3,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_04_4,80903,snowfall_speech_npc_day17_04,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day17_04_4,True,,1,delight,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_04_5,80903,snowfall_speech_npc_day17_04,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day17_04_5,True,,1,delight,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_04_6,80903,snowfall_speech_npc_day17_04,Speech,belorta,belorta,Locale_SubScenario:snowfall_speech_npc_day17_04_6,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day17_04_7,80903,snowfall_speech_npc_day17_04,Narration,,,Locale_SubScenario:snowfall_speech_npc_day17_04_7,False,,1,idle,,black,black,1.0,,

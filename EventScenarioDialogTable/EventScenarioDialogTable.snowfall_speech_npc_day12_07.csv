@@ -1,0 +1,8 @@
+id,event_id,group_id,speech_window,highlight,speaker,scenario_localkey,play_lipSync,characters/0/show_char_id,characters/0/set_char_position,characters/0/set_char_anim,set_background,set_start_camera,set_end_camera,set_camera_duration,play_ambient,play_bgm
+snowfall_speech_npc_day12_07_1,80903,snowfall_speech_npc_day12_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day12_07_1,True,vesti,1,idle,Trail_n,1,XS_10,1.0,amb_so_trail_3,event_bgm_neverland_snowflakes_night
+snowfall_speech_npc_day12_07_2,80903,snowfall_speech_npc_day12_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day12_07_2,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day12_07_3,80903,snowfall_speech_npc_day12_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day12_07_3,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day12_07_4,80903,snowfall_speech_npc_day12_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day12_07_4,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day12_07_5,80903,snowfall_speech_npc_day12_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day12_07_5,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day12_07_6,80903,snowfall_speech_npc_day12_07,Speech,vesti,vesti,Locale_SubScenario:snowfall_speech_npc_day12_07_6,True,,1,idle,,XS_10,XS_10,1.0,,
+snowfall_speech_npc_day12_07_7,80903,snowfall_speech_npc_day12_07,Narration,,,Locale_SubScenario:snowfall_speech_npc_day12_07_7,False,,1,idle,,black,black,1.0,,

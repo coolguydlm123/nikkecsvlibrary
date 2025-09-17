@@ -1,0 +1,6 @@
+id,manager_id,page_type,help_message_type,help_message_icon_resource,help_message_locale
+10011101,1001,myroom,normal,icn_info_03,Locale_Event:snowfalloasis_help_01
+10012101,1001,worldmap,normal,icn_info_03,Locale_Event:snowfalloasis_help_02
+10012201,1001,worldmap,heroine,icn_snowfalloasis_help_heroine,Locale_Event:snowfalloasis_help_03
+10012301,1001,worldmap,relation,ele_snowfalloasis_help_relation,Locale_Event:snowfalloasis_help_04
+10012401,1001,worldmap,global,icn_snowfalloasis_global_event,Locale_Event:snowfalloasis_help_05
