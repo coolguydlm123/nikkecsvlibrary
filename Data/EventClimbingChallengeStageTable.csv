@@ -1,2 +1,0 @@
-id,time_difficult_group,stage_resource_id,default_object_speed,default_obtain_point,life,hit_immune_time_ms,jump_motion_length_ms,jump_height,auto_increase_difficulty_second,first_object_generate_distance
-1,1000,DUMMY,6.0,160,2,2000,200,0.7,5,20

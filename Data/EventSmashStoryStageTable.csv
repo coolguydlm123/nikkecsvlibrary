@@ -1,2 +1,0 @@
-id,clear_point,clear_condition_desc,time_difficult_group,life,resource,spawn_slot_count,appear_hit_point,idle_hit_point,exit_hit_point,none_target_pass_point
-101,30000,Locale_Event:STORY_STAGE_GOAL_POINT_DESC,101,2,CoinRush_Dummy,9,750,750,750,1500

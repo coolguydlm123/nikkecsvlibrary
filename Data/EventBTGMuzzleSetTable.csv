@@ -1,6 +1,0 @@
-id,manager_id,set_score,object_id_list/0/object_id,object_id_list/1/object_id,object_id_list/2/object_id,object_id_list/3/object_id,object_id_list/4/object_id,object_id_list/5/object_id
-1,1,0,1,2,,,,
-2,1,500,1,2,3.0,,,
-3,1,3000,1,2,3.0,4.0,,
-4,1,8000,1,2,3.0,4.0,5.0,
-5,1,12000,1,2,3.0,4.0,5.0,6.0

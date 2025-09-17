@@ -1,4 +1,0 @@
-id,group_id,ingame_guide_output_type,ingame_guide_output_time,ingame_guide_locale_mobile,ingame_guide_locale_pc
-1,1,Move,500,Locale_Event:sb_battle_guide_move_mobile,Locale_Event:sb_battle_guide_move_pc
-2,1,Attack,500,Locale_Event:sb_battle_guide_attack_mobile,Locale_Event:sb_battle_guide_attack_pc
-3,1,Potion,500,Locale_Event:sb_battle_guide_potion_mobile,Locale_Event:sb_battle_guide_potion_pc

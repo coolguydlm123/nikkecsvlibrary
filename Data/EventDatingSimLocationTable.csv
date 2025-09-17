@@ -1,7 +1,0 @@
-id,manager_id,index,location_name,location_resource,location_open_dialog_event
-snowfalloasis_inn,1001,1,Locale_Event:event_snowfall_location_inn,HotSpringInnOut_d,
-snowfalloasis_trail,1001,4,Locale_Event:event_snowfall_location_trail,Trail_d,
-snowfalloasis_dining,1001,3,Locale_Event:event_snowfall_location_dining,DiningRoom_d,
-snowfalloasis_bamboo,1001,6,Locale_Event:event_snowfall_location_bamboo,BambooForest_d,snowfall_global_02
-snowfalloasis_hotspring,1001,5,Locale_Event:event_snowfall_location_hotspring,BigHotSpring_d,snowfall_global_05
-snowfalloasis_waterfall,1001,2,Locale_Event:event_snowfall_location_waterfall,WaterFall_d,

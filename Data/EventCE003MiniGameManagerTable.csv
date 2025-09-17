@@ -1,2 +1,0 @@
-id,event_id,ui_prefab,daily_reward_condition_value,daily_reward_id,first_enter_scenario_group_id,help_tip_group_id,cook_speed_set,start_cut_scene_start_time,event_game_perfect_point,event_game_great_point,event_game_good_point,event_game_start_cut_scene_time,event_game_end_cut_scene_time,game_end_alert_start_time,default_cook_slot_count,maid_call_ratio_value
-1001,81101,ce003,500,8127047,d_contents_ce003_mini_01,101,500,300,100,50,20,200,200,1000,1,-1000

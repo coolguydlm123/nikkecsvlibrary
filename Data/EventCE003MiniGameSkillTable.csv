@@ -1,9 +1,0 @@
-id,skill_rank,active_condition_value,skill_type,skill_value,name_localkey,description_localkey
-10001,1,3000,CookSpeedUp,-1000,Locale_Event:cookspeedup_name,Locale_Event:cookspeedup_description
-10002,2,4000,CleaningSpeedUp,-2000,Locale_Event:cleaningspeedup_name,Locale_Event:cleaningspeedup_description
-10003,3,5000,AddCookSlot,1,Locale_Event:addcookslot_name,Locale_Event:addcookslot_description
-10004,4,6000,HpReduceDown,-2000,Locale_Event:hpreducedown_name,Locale_Event:hpreducedown_description
-10005,5,7000,GetPointMore,2000,Locale_Event:getmorepoint_name,Locale_Event:getmorepoint_description
-10006,6,8000,AddCookSlot,2,Locale_Event:addcookslot_name,Locale_Event:addcookslot_description
-10007,7,9000,MaidMoveSpeedUp,2500,Locale_Event:maidmovespeedup_name,Locale_Event:maidmovespeedup_description
-10008,8,10000,EventCustomerAppearUp,0,Locale_Event:eventcustomerappearup_name,Locale_Event:eventcustomerappearup_description

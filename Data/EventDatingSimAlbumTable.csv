@@ -1,4 +1,0 @@
-id,manager_id,order,category,category_value,album_name,album_description
-100101,1001,1,heroine,100101.0,Locale_Event:snowfalloasis_heroine_album_name,Locale_Event:snowfalloasis_heroine_album_description
-100102,1001,2,global,,Locale_Event:snowfalloasis_global_album_name,Locale_Event:snowfalloasis_global_album_description
-100103,1001,3,photo,100103.0,Locale_Event:snowfalloasis_photo_album_name,Locale_Event:snowfalloasis_photo_album_description

@@ -1,6 +1,0 @@
-id,group_id,order,open_condition_type,open_condition_value,game_type,game_title,game_title_en,stage_helptip_id,stage_image,game_mode_resource,stage_data_id
-2001,2000,1,EventDungeonStageClear,104810106,Running,Locale_Event:PLAYSODA_JUMPHURDLE_TITLE,Locale_Event:PLAYSODA_JUMPHURDLE_TITLE_EN,10002,dummy,dummy,1
-2002,2000,2,EventDungeonStageClear,104810112,Smash,Locale_Event:PLAYSODA_HITMOLE_TITLE,Locale_Event:PLAYSODA_HITMOLE_TITLE_EN,10008,dummy,dummy,101
-2003,2000,3,EventDungeonStageClear,104910102,CatchCoin,Locale_Event:PLAYSODA_RECEIVECOIN_TITLE,Locale_Event:PLAYSODA_RECEIVECOIN_TITLE_EN,10006,dummy,dummy,101
-2004,2000,4,EventDungeonStageClear,104910107,StackUp,Locale_Event:PLAYSODA_STACKBOX_TITLE,Locale_Event:PLAYSODA_STACKBOX_TITLE_EN,10004,dummy,dummy,1
-2005,2000,5,EventDungeonStageClear,104910113,Climbing,Locale_Event:PLAYSODA_CLIMBROPE_TITLE,Locale_Event:PLAYSODA_CLIMBROPE_TITLE_EN,10010,dummy,dummy,1

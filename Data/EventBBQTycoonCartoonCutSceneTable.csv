@@ -1,6 +1,0 @@
-id,group_id,cartoon_cutscene,cartoon_cutscene_description,is_appear_in_f_rank,is_appear_in_d_rank,is_appear_in_c_rank,is_appear_in_b_rank,is_appear_in_a_rank,is_appear_in_s_rank
-1,1001,EventScene_bbqmaster_01,Locale_Event:event_bbqmaster_cutscene_02,True,True,True,False,False,False
-2,1001,EventScene_bbqmaster_02,Locale_Event:event_bbqmaster_cutscene_01,True,True,True,False,False,False
-3,1001,EventScene_bbqmaster_03,Locale_Event:event_bbqmaster_cutscene_03,False,False,False,True,True,False
-4,1001,EventScene_bbqmaster_04,Locale_Event:event_bbqmaster_cutscene_04,False,False,False,True,True,False
-5,1001,EventScene_bbqmaster_05,Locale_Event:event_bbqmaster_cutscene_05,False,False,False,False,False,True

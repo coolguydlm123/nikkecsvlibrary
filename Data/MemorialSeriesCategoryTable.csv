@@ -1,7 +1,0 @@
-id,order,category_type,category_name,category_icon,memorial_form_type
-HandWriting,1,Campaign,Locale_System:MISSING_GOODS_TYPE_HAND_WRITING,icn_hand_writing,HandWriting
-CallLog,2,Campaign,Locale_System:MISSING_GOODS_TYPE_CALL_LOG,icn_call_log,CallLog
-Data,3,Campaign,Locale_System:MISSING_GOODS_TYPE_DATA,icn_data,Data
-RedAsh,1,Event,Locale_System:MISSING_GOODS_TYPE_RED_ASH,icn_data,Data
-OldTales,2,Event,Locale_System:MISSING_GOODS_TYPE_OLD_TALES,icn_call_log,CallLog
-UnbreakableSphere,3,Event,Locale_System:MISSING_GOODS_TYPE_UNBREAKABLE_SPHERE,icn_data,Data

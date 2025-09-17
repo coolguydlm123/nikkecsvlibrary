@@ -1,3 +1,0 @@
-id,event_id,is_archive,roomChangeInvincibleTime,camMoveEaseTime,camZoonAdjustEaseTime,camShakeDecreaseTime,gameStartChapterID,gameStartRoomName,gameStartSocketID,laserLimitLength,teleportTransitionIN,teleportTransitionOUT,dropItemDeleteTime,dropObjectDisappearFX,mapCount,endGameStartChapterID,endGameStartRoomName
-1,81601,False,200,0.25,0.15,0.3,0,C0_1_00,101,8,2001,2002,18000,fx_mvg_dropitem_get,261,0,C0_1_00
-2,0,True,200,0.25,0.15,0.3,0,C0_1_00,101,8,2001,2002,18000,fx_mvg_dropitem_get,261,0,C0_1_00

@@ -1,6 +1,0 @@
-id,object_01_id,object_01_appearance_probability,object_02_id,object_02_appearance_probability,object_03_id,object_03_appearance_probability,object_04_id,object_04_appearance_probability,object_05_id,object_05_appearance_probability,object_06_id,object_06_appearance_probability,object_07_id,object_07_appearance_probability,object_08_id,object_08_appearance_probability,object_09_id,object_09_appearance_probability
-10001,101,5000,201,5000,,,,,,,,,,,,,,
-10002,101,4750,201,4750,301.0,500.0,,,,,,,,,,,,
-10003,101,3250,201,3250,301.0,500.0,102.0,1500.0,202.0,1500.0,,,,,,,,
-10004,101,3250,201,3250,301.0,400.0,102.0,1500.0,202.0,1500.0,302.0,100.0,,,,,,
-10005,101,3000,201,3000,301.0,400.0,102.0,1250.0,202.0,1250.0,302.0,50.0,103.0,500.0,203.0,500.0,303.0,50.0

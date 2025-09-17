@@ -1,4 +1,0 @@
-id,arena_type,time_limit,field_resource,theme,theme_time
-1,ArenaNormal,300,fabg_ArenaNormal,NormalArena,Day
-2,ArenaSpecial,300,fabg_ArenaSpecial,SpecialArena,Day
-3,ArenaChampion,90,fabg_ArenaChampion,ChampionArena,Day

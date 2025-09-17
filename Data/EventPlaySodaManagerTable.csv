@@ -1,4 +1,0 @@
-id,event_id,minigame_type,story_group_id,challenge_group_id,play_helptip_id,daily_reward_id,total_point_reward_group_id,ui_prefab_keyword,ingame_pause_second
-1,81301,Normal,1000,2000,0,8132045,1000,letsplaysoda,3
-2,81301,Archive,1000,0,0,0,0,letsplaysoda,3
-3,81301,Arcade,0,2000,0,0,2000,letsplaysoda,3

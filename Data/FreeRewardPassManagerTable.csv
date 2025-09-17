@@ -1,2 +1,0 @@
-id,event_id,mission_group_id,name_localkey,description_localkey,rank_skip_currency_id,rank_skip_currency_value,pass_lobby_button_resource_id,prefab_id
-3000001,101001,30100,Locale_System:PASS_NEWBIE_NAME,Locale_System:PASS_NEWBIE_DESC,99,200,banner_newbie_pass_01,event_freereward_pass_popup

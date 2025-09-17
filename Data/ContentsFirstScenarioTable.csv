@@ -1,8 +1,0 @@
-id,view_type,enter_scenario,view_value
-1,LostSector,d_contents_lostsector_01,
-2,Tower,d_contents_tribetower_01,5.0
-3,Tower,d_contents_elysiontower_01,1.0
-4,Tower,d_contents_missilystower_01,2.0
-5,Tower,d_contents_tetratower_01,3.0
-6,Tower,d_contents_overspectower_01,4.0
-7,ArenaEntrance,d_contents_arena_01,

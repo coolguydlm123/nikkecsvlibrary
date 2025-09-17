@@ -1,2 +1,0 @@
-id,time_difficult_group,stage_resource_id,clear_number_floors,character_default_speed,default_obtain_point,perfect_action_point_rate,perfect_action_length,object_spawn_distance,auto_increase_difficulty_floor,camera_default_speed,object_default_length
-1,1000,DUMMY,10,3.2,2400,1.2,0.1,5.0,3,2.0,6.0

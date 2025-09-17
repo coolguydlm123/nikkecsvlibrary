@@ -1,7 +1,0 @@
-id,category,skill_type,name_localkey,resource_id
-1,Attack,LeftDestruction,Locale_Event:ce004_skill_info_name_01,ce004_skill_LeftDestruction
-2,Attack,Core,Locale_Event:ce004_skill_info_name_03,ce004_skill_Core
-3,Attack,RightDestruction,Locale_Event:ce004_skill_info_name_02,ce004_skill_RightDestruction
-4,Defence,LeftCancelling,Locale_Event:ce004_skill_info_name_04,ce004_skill_LeftCancelling
-5,Defence,Projectile,Locale_Event:ce004_skill_info_name_06,ce004_skill_Projectile
-6,Defence,RightCancelling,Locale_Event:ce004_skill_info_name_05,ce004_skill_RightCancelling

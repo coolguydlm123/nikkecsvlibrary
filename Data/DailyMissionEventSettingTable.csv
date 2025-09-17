@@ -1,3 +1,0 @@
-id,event_id,open_condition_daily_event_id,locale_button_text,view_prefab_id
-1,20001,0,Locale_System:EVENT_DAILY_NAME_01,View - AccumulateEvent
-2,20002,200011501,Locale_System:EVENT_DAILY_NAME_02,View - AccumulateEvent2
