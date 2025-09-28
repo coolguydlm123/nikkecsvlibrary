@@ -1,0 +1,3 @@
+id,group_id,background_resource,barricade_resource,change_background_wave_id,use_fog/0/name,use_fog/0/value
+1,1,bh_background_002,bh_barricade_02_var,12,use_fog,fx_bh_background_fog_01
+2,1,bh_background_003,bh_barricade_03_var,22,use_fog,fx_bh_background_fog_02

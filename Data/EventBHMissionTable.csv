@@ -1,0 +1,16 @@
+id,manager_id,condition_type,condition_id,condition_value,name_localkey,order,reward_id
+101,1,GainGold,0,10000,Locale_Event:event_bh_mission_name_05,1,8161047
+102,1,GainGold,0,30000,Locale_Event:event_bh_mission_name_06,2,8161048
+103,1,GainGold,0,50000,Locale_Event:event_bh_mission_name_07,3,8161049
+104,1,GainGold,0,70000,Locale_Event:event_bh_mission_name_08,4,8161050
+201,1,UseSkill,0,15,Locale_Event:event_bh_mission_name_09,5,8161051
+202,1,UseSkill,0,40,Locale_Event:event_bh_mission_name_10,6,8161052
+203,1,UseSkill,0,70,Locale_Event:event_bh_mission_name_11,7,8161053
+204,1,UseSkill,0,100,Locale_Event:event_bh_mission_name_12,8,8161054
+301,1,GainPoint,0,20000,Locale_Event:event_bh_mission_name_01,9,8161055
+302,1,GainPoint,0,40000,Locale_Event:event_bh_mission_name_02,10,8161056
+303,1,GainPoint,0,60000,Locale_Event:event_bh_mission_name_03,11,8161057
+304,1,GainPoint,0,80000,Locale_Event:event_bh_mission_name_04,12,8161058
+401,1,PlayCharacterCount,1,5,Locale_Event:event_bh_mission_name_13,13,8161059
+402,1,PlayCharacterCount,2,5,Locale_Event:event_bh_mission_name_14,14,8161060
+403,1,PlayCharacterCount,3,5,Locale_Event:event_bh_mission_name_15,15,8161061
