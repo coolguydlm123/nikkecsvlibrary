@@ -184,6 +184,9 @@ usericon_name_514800,Vesti: Tactical Upgrade's Icon
 usericon_name_514900,Eunhwa: Tactical Upgrade's Icon
 usericon_name_515000,Milk: Blooming Bunny's Icon
 usericon_name_515100,Ade: Agent Bunny's Icon
+usericon_name_515200,Ada's Icon
+usericon_name_515300,Jill's Icon
+usericon_name_301700,Claire's Icon
 usericon_name_510101,Red Hood - Nonsense Red's Icon
 usericon_name_501701,Miranda - Thief of Justice's Icon
 usericon_name_508101,Tove - Baseball Fan's Icon
@@ -312,6 +315,12 @@ usericon_name_514901,Eunhwa: Tactical Upgrade - Day Off's Icon
 usericon_name_500303,Exia - Hacker Rabbit's Icon
 usericon_name_504901,Rouge - Unlucky Rabbit's Icon
 usericon_name_511101,Bay - Radiant Rabbit's Icon
+usericon_name_515201,Ada - Separate Ways' Icon
+usericon_name_515202,Ada - Dress' Icon
+usericon_name_515301,Jill - Classic's Icon
+usericon_name_515302,Jill - Battle Suit's Icon
+usericon_name_514101,K - Undercover's Icon
+usericon_name_511002,D: Killer Wife - Secret Police's Icon
 uf_name_100,Rookie Commander
 uf_name_101,Virtuous Commander
 uf_name_102,Empathic Commander
@@ -380,6 +389,9 @@ uf_name_side_story_frame_04,Mud Dream Frame
 uf_name_ce006_event_frame_01,EVE Frame
 uf_name_ce006_event_frame_02,Raven Frame
 uf_name_1000days_event_frame,1000 DAYS Frame
+uf_jofftour_event_frame_01,Traveler of the Millennium City
+uf_name_ce007_event_frame_01,Ada Frame
+uf_name_ce007_event_frame_02,Jill Frame
 uf_name_soloraid_MotherWhale_tier1,Mother Whale Frame I
 uf_name_soloraid_MotherWhale_tier2,Mother Whale Frame II
 uf_name_soloraid_MotherWhale_tier3,Mother Whale Frame III
@@ -467,6 +479,9 @@ uf_name_soloraid_ziz_03_tier3,Ziz Frame III
 uf_name_soloraid_motherwhale_04_tier1,Mother Whale Z Frame I
 uf_name_soloraid_motherwhale_04_tier2,Mother Whale Z Frame II
 uf_name_soloraid_motherwhale_04_tier3,Mother Whale Z Frame III
+uf_name_soloraid_pitilessjudge_02_tier1,Merciless Judge Frame I
+uf_name_soloraid_pitilessjudge_02_tier2,Merciless Judge Frame II
+uf_name_soloraid_pitilessjudge_02_tier3,Merciless Judge Frame III
 uf_name_soloraid_museum_motherwhale_02_tier1,Replica Mother Whale P Frame I
 uf_name_soloraid_museum_motherwhale_02_tier2,Replica Mother Whale P Frame II
 uf_name_soloraid_museum_motherwhale_02_tier3,Replica Mother Whale P Frame III
@@ -642,6 +657,9 @@ Only when the mermaid turns into foam does the fish realize that it is just a fi
 uf_description_ce006_event_frame_01,A frame made to remember the righteous and kind sword that has come from a familiar yet unfamiliar world.
 uf_description_ce006_event_frame_02,"A frame made to remember the sharp sword, forged in vengeance and anger, that comes from a familiar yet unfamiliar world."
 uf_description_1000days_event_frame,"Thank you for your 24,000 hours of companionship. Every moment of the 1,440,000 minutes we spent together was as wonderful as a dream. Here's to the next 86,400,000 seconds with you!"
+uf_description_jofftour_event_frame_01,May you have a pleasant journey with the Nikkes.
+uf_description_ce007_event_frame_01,A frame created to remember the enigmatic lady who forged a path through darkness.
+uf_description_ce007_event_frame_02,A frame created to remember the one who fought against evil and strove to uphold justice even in an unfamiliar world.
 uf_description_soloraid_MotherWhale_tier1,"The proof of your victory against Mother Whale in Solo Raid.
 Everyone will pay their respects to you for your splendid command ability, which has brought down even the colossal whale which once soared high in the sky."
 uf_description_soloraid_MotherWhale_tier2,"The proof of your victory against Mother Whale in Solo Raid.
@@ -825,6 +843,12 @@ uf_description_soloraid_motherwhale_04_tier2,"The proof of your victory against 
 The moment that the aerial behemoth plummeted down to the earth has left an indelible mark on those who witnessed it."
 uf_description_soloraid_motherwhale_04_tier3,"The proof of your victory against the Electric Code Mother Whale in Solo Raid.
 Having felled that great beast of the sky, the Mother Whale, you will henceforth be known as the Vanquisher of the Sky."
+uf_description_soloraid_pitilessjudge_02_tier1,"A proof of the battle against the Merciless Judge in Solo Raid.
+We fought against and triumphed over the sins wrought by mankind."
+uf_description_soloraid_pitilessjudge_02_tier2,"A proof of the battle against the Merciless Judge in Solo Raid.
+The sins wrought by mankind have been put to rest so they can spread no further."
+uf_description_soloraid_pitilessjudge_02_tier3,"A proof of the battle against the Merciless Judge in Solo Raid.
+The sins wrought by mankind have been purged. No hymn of praise for them shall ever be heard on this land again."
 uf_description_soloraid_museum_motherwhale_02_tier1,"The proof of having reviewed the battle against the Water Code Mother Whale in Solo Raid Museum.
 Everyone will pay their respects to you for your splendid command ability, which has brought down even the colossal whale which once soared high in the sky."
 uf_description_soloraid_museum_motherwhale_02_tier2,"The proof of having reviewed the battle against the Water Code Mother Whale in Solo Raid Museum.
@@ -958,6 +982,7 @@ bg_unbreakablesphere_01_name,UNBREAKABLE SPHERE Premium Background
 bg_boomtheghost_01_name,BOOM! THE GHOST! Premium Background
 bg_absolute_01_name,ABSOLUTE Premium Background
 bg_coinsinrush_01_name,COINS IN RUSH Premium Background
+bg_jofftour_01_name,Journey to the Millennium City Premium Background
 sticker_bunny777_01_name,BUNNY x 777 Premium Sticker
 sticker_nocallerid_01_name,NO CALLER ID Premium Sticker I
 sticker_nocallerid_02_name,NO CALLER ID Premium Sticker II
@@ -1052,6 +1077,7 @@ sticker_bfgcleanup_02_name,BFG CLEAN UP! Premium Sticker II
 sticker_absolute_01_name,ABSOLUTE Premium Sticker I
 sticker_coinsinrush_01_name,COINS IN RUSH Premium Sticker I
 sticker_madeinrush_01_name,MADE IN RUSH Premium Sticker I
+sticker_jofftour_01_name,Journey to the Millennium City Premium Sticker I
 bg_bunny777_01_name,BUNNY x 777 Special Background
 bg_nocallerid_01_name,NO CALLER ID Special Background
 bg_bowwowparadise_01_name,BOW WOW PARADISE Special Background
@@ -1335,6 +1361,8 @@ bg_absolute_01_description,"Premium profile background for ABSOLUTE.
 Can be used in profile decoration."
 bg_coinsinrush_01_description,"Premium profile background for COINS IN RUSH.
 Can be used in profile decoration."
+bg_jofftour_01_description,"Premium profile background for Journey to the Millennium City.
+Can be used in profile decoration."
 sticker_bunny777_01_description,"Premium profile sticker for BUNNY x 777.
 Can be used in profile decoration."
 sticker_nocallerid_01_description,"Premium profile sticker for NO CALLER ID.
@@ -1522,6 +1550,8 @@ Can be used in profile decoration."
 sticker_coinsinrush_01_description,"Premium profile sticker for COINS IN RUSH.
 Can be used in profile decoration."
 sticker_madeinrush_01_description,"Premium profile sticker for MADE IN RUSH.
+Can be used in profile decoration."
+sticker_jofftour_01_description,"Premium profile sticker for Journey to the Millennium City.
 Can be used in profile decoration."
 bg_bunny777_01_description,"Special profile background for BUNNY x 777.
 Can be used in profile decoration."

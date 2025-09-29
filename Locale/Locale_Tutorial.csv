@@ -437,6 +437,10 @@ field_tuto12_06_description,The <color=#00AEFF>Synchro Device</color> is a devic
 tuto_synchrodevice_01_description,Your five highest-level Nikkes will be automatically selected. The lowest-level Nikke among them will determine the Synchro Level.
 tuto_synchrodevice_02_description,The <color=#00AEFF>Synchro Level</color> is the level that is <color=#00AEFF>synchronized</color> with other Nikkes.
 tuto_synchrodevice_03_description,The Nikke that is placed in the slot will be adjusted to the <color=#00AEFF>same level</color> as the Synchro Level.
+tuto_synchrodevice_04_description,Use <color=#00AEFF>Auto Allocation</color> to quickly <color=#00AEFF>place</color> Nikkes.
+tuto_synchrodevice_05_description,Use <color=#00AEFF>Level Up All</color> to easily <color=#00AEFF>level up</color> your Nikkes.
+tuto_synchrodevice_04_title,Auto Allocation
+tuto_synchrodevice_05_title,Level Up All
 tuto_wishlist_01_title,WISHLIST UNLOCKED
 tuto_wishlist_01_description,"Commander, the wishlist has been unlocked!
 Let's go to set your wishlist."
@@ -694,6 +698,7 @@ tuto_limit_level_04_title,MAXIMUM LEVEL CAP
 tuto_limit_level_04_description,What's that? You can't upgrade any of your new Nikkes because you've already developed other Nikkes?
 tuto_limit_level_05_title,LEVEL RESET
 tuto_limit_level_05_description,"Never fear! With Level Reset, you can reset a developed Nikke to Lv. 1 and all the in-game materials used will be refunded. However, doing this will cost you 10 gems."
+tuto_limit_level_05_01_description,"Don't worry! You can reset a Nikke's level to 1 using the level reset feature, and you'll get back all the resources you used to level her up!"
 tuto_limit_level_06_title,SYNCHRO LEVEL
 tuto_limit_level_06_description,"You can also develop a Nikke in the Outpost's research facility, known as the Synchro Device. A Nikke's Synchro Level is tied into their development (in other words, the Nikke's Maximum Level)."
 tuto_limit_level_07_title,SYNCHRO LEVEL

@@ -376,7 +376,7 @@ WEAPON_SR,Sniper Rifle
 WEAPON_MG,Machine Gun
 WEAPON_SG,Shotgun
 WEAPON_TYPE_AR_NAME,Assault Rifle
-WEAPON_TYPE_AR_DESC,Well-balanced weapon suitable in all kinds of situations.
+WEAPON_TYPE_AR_DESC,Well-balanced weapon suitable for all kinds of situations.
 WEAPON_TYPE_SG_NAME,Shotgun
 WEAPON_TYPE_SG_DESC,Fires multiple shots at once and is extremely powerful in close range.
 WEAPON_TYPE_RL_NAME,Rocket Launcher
@@ -864,6 +864,11 @@ SUMMON_SCROLL_CHARACTER_CE002_RE_DESC,"A special voucher that can only be used d
 (Cannot be used for other recruitments.)
 
 * Unused Recruit Vouchers will be deleted after the event ends."
+SUMMON_SCROLL_CHARACTER_CE007,REBORN EVIL Exclusive Recruit Voucher
+SUMMON_SCROLL_CHARACTER_CE007_DESC,"A special voucher that can only be used during the REBORN EVIL Limited-Time Recruitment event.
+(Cannot be used for other recruitments.)
+
+* Unused Recruit Vouchers will be deleted after the event ends."
 SUMMON_SELECTUP_BUTTON,Select Recruit
 SUMMON_SELECTUP_DESC,Recruit a limited Nikke of your choice!
 SUMMON_SELECTUP_POPUP_DESC,Recruits List
@@ -1196,6 +1201,115 @@ SD_ANIMATION_NAME_STUN,Stun
 SD_ANIMATION_NAME_TALK_0,Talk I
 SD_ANIMATION_NAME_TALK_1,Talk II
 SD_ANIMATION_NAME_IDLE_SPECIAL,Special
+CHARACTER_FACE_ANIMATION_BUTTON_CONDITION_DESC,You may only enter the expression menu while standing.
+CHARACTER_FACE_ANIMATION_LIST_DEFAULT,Default Expression
+CHARACTER_FACE_ANIMATION_LIST_COSTUME,Costume Special Expression
+CHARACTER_FACE_ANIMATION_LIST_TITLE,Expression List
+CHARACTER_FACE_ANIMATION_LIST_ANGRY_01,Angry
+CHARACTER_FACE_ANIMATION_LIST_BATTLE_01,Combative
+CHARACTER_FACE_ANIMATION_LIST_CRAZY_01,Exhilarated
+CHARACTER_FACE_ANIMATION_LIST_CRAZY_02,Deranged
+CHARACTER_FACE_ANIMATION_LIST_CRY_01,Crying
+CHARACTER_FACE_ANIMATION_LIST_DELIGHT_01,Joyful
+CHARACTER_FACE_ANIMATION_LIST_DELIGHT_02,Boastful
+CHARACTER_FACE_ANIMATION_LIST_DELIGHT_03,Discovery
+CHARACTER_FACE_ANIMATION_LIST_ETC_01,Other
+CHARACTER_FACE_ANIMATION_LIST_GO_01,Firm
+CHARACTER_FACE_ANIMATION_LIST_GOOD_01,Satisfied
+CHARACTER_FACE_ANIMATION_LIST_HAPPY_01,Happy
+CHARACTER_FACE_ANIMATION_LIST_HAPPY_02,Delighted
+CHARACTER_FACE_ANIMATION_LIST_HAPPY_03,Excited
+CHARACTER_FACE_ANIMATION_LIST_HAPPY_04,Touched
+CHARACTER_FACE_ANIMATION_LIST_IDLE_01,Default
+CHARACTER_FACE_ANIMATION_LIST_NO_01,Nah
+CHARACTER_FACE_ANIMATION_LIST_NO_02,Cheeky
+CHARACTER_FACE_ANIMATION_LIST_NO_03,Serious
+CHARACTER_FACE_ANIMATION_LIST_NO_04,Curt
+CHARACTER_FACE_ANIMATION_LIST_NO_05,Adamant
+CHARACTER_FACE_ANIMATION_LIST_NO_06,Irritated
+CHARACTER_FACE_ANIMATION_LIST_PAIN_01,Pained
+CHARACTER_FACE_ANIMATION_LIST_PANIC_01,Confused
+CHARACTER_FACE_ANIMATION_LIST_PANIC_02,Bewildered
+CHARACTER_FACE_ANIMATION_LIST_PANIC_03,Panicked
+CHARACTER_FACE_ANIMATION_LIST_PANIC_04,In Despair
+CHARACTER_FACE_ANIMATION_LIST_RAGE_01,Enraged
+CHARACTER_FACE_ANIMATION_LIST_RAGE_02,Discontent
+CHARACTER_FACE_ANIMATION_LIST_RAGE_03,Uncomfortable
+CHARACTER_FACE_ANIMATION_LIST_RAGE_04,Cold
+CHARACTER_FACE_ANIMATION_LIST_RAGE_05,Worked Up
+CHARACTER_FACE_ANIMATION_LIST_RAGE_06,Annoyed
+CHARACTER_FACE_ANIMATION_LIST_SAD_01,Sad
+CHARACTER_FACE_ANIMATION_LIST_SAD_02,Teary-eyed
+CHARACTER_FACE_ANIMATION_LIST_SCARE_01,Scared
+CHARACTER_FACE_ANIMATION_LIST_SCARE_02,Terrified
+CHARACTER_FACE_ANIMATION_LIST_SERIOUS_01,Sincere
+CHARACTER_FACE_ANIMATION_LIST_SERIOUS_02,Confident
+CHARACTER_FACE_ANIMATION_LIST_SERIOUS_03,Grim
+CHARACTER_FACE_ANIMATION_LIST_SHY_01,Shy
+CHARACTER_FACE_ANIMATION_LIST_SHY_02,Flustered
+CHARACTER_FACE_ANIMATION_LIST_SHY_03,Troubled
+CHARACTER_FACE_ANIMATION_LIST_SHY_04,Disconcerted
+CHARACTER_FACE_ANIMATION_LIST_SLEEP_01,Asleep
+CHARACTER_FACE_ANIMATION_LIST_SMILE_01,Smiling
+CHARACTER_FACE_ANIMATION_LIST_SMILE_02,Jovial
+CHARACTER_FACE_ANIMATION_LIST_SORROW_01,Heartbroken
+CHARACTER_FACE_ANIMATION_LIST_SORROW_02,Sorrowful
+CHARACTER_FACE_ANIMATION_LIST_SORRY_01,Apologetic
+CHARACTER_FACE_ANIMATION_LIST_SPECIAL_01,Special
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_01,Surprised
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_02,Embarrassed
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_03,Shocked
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_04,Astonished
+CHARACTER_FACE_ANIMATION_LIST_THINK_01,Pensive
+CHARACTER_FACE_ANIMATION_LIST_THINK_02,Torn
+CHARACTER_FACE_ANIMATION_LIST_THINK_03,Dubious
+CHARACTER_FACE_ANIMATION_LIST_THINK_04,Daydreaming
+CHARACTER_FACE_ANIMATION_LIST_THINK_05,Wondering
+CHARACTER_FACE_ANIMATION_LIST_VOID_01,Empty
+CHARACTER_FACE_ANIMATION_LIST_WORRY_01,Worried
+CHARACTER_FACE_ANIMATION_LIST_CONCENTRAION_01,Focused
+CHARACTER_FACE_ANIMATION_LIST_FUN_01,Mischievous
+CHARACTER_FACE_ANIMATION_LIST_FUN_02,Pouting
+CHARACTER_FACE_ANIMATION_LIST_DOUBT_01,Suspicious
+CHARACTER_FACE_ANIMATION_LIST_CURIOSITY_01,Curious
+CHARACTER_FACE_ANIMATION_LIST_CHARMED_01,Charmed
+CHARACTER_FACE_ANIMATION_LIST_CHU_01,Mwah!
+CHARACTER_FACE_ANIMATION_LIST_CHU_02,Cutesy
+CHARACTER_FACE_ANIMATION_LIST_HANGOVER_01,Tipsy
+CHARACTER_FACE_ANIMATION_LIST_HANGOVER_02,Wasted
+CHARACTER_FACE_ANIMATION_LIST_MELANCHOLY_01,Depressed
+CHARACTER_FACE_ANIMATION_LIST_SNEER_01,Sneering
+CHARACTER_FACE_ANIMATION_LIST_SNEER_02,Contemptuous
+CHARACTER_FACE_ANIMATION_LIST_EROSION_01,Corrupted
+CHARACTER_FACE_ANIMATION_LIST_WORDS_01,Kotodama
+CHARACTER_FACE_ANIMATION_LIST_MASK_01,Mask
+CHARACTER_FACE_ANIMATION_LIST_SHY_02_MASK,Flustered (Mask)
+CHARACTER_FACE_ANIMATION_LIST_DELIGHT_01_MASK,Joyful (Mask)
+CHARACTER_FACE_ANIMATION_LIST_IDLE_01_MASK,Default (Mask)
+CHARACTER_FACE_ANIMATION_LIST_SAD_01_MASK,Sad (Mask)
+CHARACTER_FACE_ANIMATION_LIST_SHY_01_MASK,Shy (Mask)
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_01_MASK,Surprised (Mask)
+CHARACTER_FACE_ANIMATION_LIST_THINK_01_MASK,Pensive (Mask)
+CHARACTER_FACE_ANIMATION_LIST_ANGRY_01_MASK,Angry (Mask)
+CHARACTER_FACE_ANIMATION_LIST_NO_01_MASK,Nah (Mask)
+CHARACTER_FACE_ANIMATION_LIST_SMILE_01_MASK,Smiling (Mask)
+CHARACTER_FACE_ANIMATION_LIST_ANGRY_01_ARM,Angry (Armed)
+CHARACTER_FACE_ANIMATION_LIST_PANIC_03_ARM,Panicked (Armed)
+CHARACTER_FACE_ANIMATION_LIST_MELANCHOLY_01_ARM,Depressed (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_03_ARM,Shocked (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SAD_01_ARM,Sad (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SNEER_01_ARM,Sneering (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SNEER_02_ARM,Contemptuous (Armed)
+CHARACTER_FACE_ANIMATION_LIST_THINK_01_ARM,Pensive (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_01_ARM,Surprised (Armed)
+CHARACTER_FACE_ANIMATION_LIST_DELIGHT_01_ARM,Joyful (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SCARE_02_ARM,Terrified (Armed)
+CHARACTER_FACE_ANIMATION_LIST_IDLE_01_ARM,Default (Armed)
+CHARACTER_FACE_ANIMATION_LIST_PAIN_01_ARM,Pained (Armed)
+CHARACTER_FACE_ANIMATION_LIST_RAGE_01_ARM,Enraged (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SMILE_01_ARM,Smiling (Armed)
+CHARACTER_FACE_ANIMATION_LIST_VOID_01_ARM,Empty (Armed)
+CHARACTER_FACE_ANIMATION_LIST_SLEEP_01_EYEPATCH,Asleep (Eye Patch)
 CUBE_MANAGEMENT,Cube Management
 CUBE_MANAGEMENT_UI_DESC_1,You can equip or replace Harmony Cubes.
 CUBE_MANAGEMENT_UI_DESC_2,You can equip or replace Harmony Cubes.
@@ -1666,6 +1780,7 @@ SHOP_EVENT_STORY_81_SHOP_TAB,Duty Free Shop
 SHOP_EVENT_STORY_84_SHOP_TAB,Utopia Market
 SHOP_EVENT_STORY_86_SHOP_TAB,ELYSION P.X.
 SHOP_EVENT_STORY_88_SHOP_TAB,AGENT SUPPLIES
+SHOP_EVENT_STORY_90_SHOP_TAB,ITEM BOX
 SHOP_NEXT_ITEM_ENTRY_LEFT_TIME,Restock Time
 SHOP_ITEM_PRICE,Price
 SHOP_NAME_NORMAL,You can purchase items you need at any time.
@@ -2675,6 +2790,8 @@ TOWER_CLEAR_DAY_COUNT,Daily Clear
 TOWER_NOT_ENTER_STAGE,Stage not available.
 TOWER_ALL_CLEAR,All floors cleared.
 TOWER_TARGET_REWARD_UI_TITLE,Stage {0} Reward List
+TOWER_RETROACTIVE_REWARD_TITLE,Additional Rewards for Manufacturer Towers
+TOWER_RETROACTIVE_REWARD_DESC,"As rewards have been added to the Manufacturer Towers, the additional rewards for previously cleared stages will be sent via in-game mail."
 ARENA_FUNCTION_TITLE,Arena
 ARENA_DESC,A place for viewing spectacular Nikke battles.
 ARENA_CHIP,Arena Chip
@@ -3674,6 +3791,20 @@ SYNCHRO_ADD_SLOT_ITEM_USE,Consumable Item
 SIMPLE_INVENTORY_TITLE,Simple Inventory
 SIMPLE_INVENTORY_DESC,"Consumables
 Items can be used to obtain currency, materials, or equipment."
+Synchronizer_level_up_btn,Level Up All
+Synchronizer_level_up_btn2,Auto Allocation
+Synchronizer_level_up_Title,Synchro Device Level Up All
+Synchronizer_level_up_Desc,Synchro Level
+Synchronizer_level_up_item_tips,Consumables
+Synchronizer_level_up_item_ues,Use Consumables
+Synchronizer_level_up_item_ues_tips,"When Use Consumables is enabled, consumables will be displayed."
+Synchronizer_level_up_max_btn,Max Rarity
+Synchronizer_level_up__tips_full,The Synchro Device is full.
+Synchronizer_level_up_tips_none,No Level 1 Nikkes found. Unable to add to Synchro Device.
+Synchronizer_level_up_character_change,"When leveling up, replace Synchro Nikkes' <color=#FFFA00>max efficiency</color>."
+Synchronizer_level_up_auto_select_desc,"When using Auto Select, Max Level Up status is applied."
+SYNCHRO_SLOT_INCREASE_REWARD_MAIL_TITLE,Synchro Device Slot Unlock Expansion Reward
+SYNCHRO_SLOT_INCREASE_REWARD_MAIL_DESC,"As the default unlocked slots in Synchro Device have been increased, items used for unlocking Synchro Device slots will be distributed for easier expansion."
 ACADEMY_FUNCTION_TITLE,Tactics Academy
 ACADEMY_FUNCTION_TITLE_EN,Academy
 ACADEMY_DESC,Take Lessons to obtain multiple bonuses.
@@ -4213,6 +4344,7 @@ SYSTEM_VIEW_180001,BFG CLEAN UP!
 SYSTEM_VIEW_21101,Solo Raid Museum
 SYSTEM_VIEW_21102,Solo Raid Museum
 SYSTEM_VIEW_190001,MADE IN RUSH
+SYSTEM_VIEW_210008,SALVATION BREAKERS
 SARENA_RANK_CHALLENGER_NAME,Challenger
 SARENA_RANK_DIA_NAME,Diamond
 SARENA_RANK_PLATINUM_NAME,Platinum
@@ -5220,6 +5352,9 @@ HELP_SYNCHRO_05_02,"When this occurs, all Nikkes assigned to slots will be chang
 HELP_SYNCHRO_05_03,"During the enhancement, the Synchro Level will increase."
 HELP_SYNCHRO_06,Maximum Synchro Level
 HELP_SYNCHRO_06_01,Highest Nikke level + (Number of Nikkes owned ×1) + (Total number of all Nikkes' Limit Breaks ×1.334)
+HELP_SYNCHRO_07,Level Up All
+HELP_SYNCHRO_07_01,Levels up the five Nikkes assigned to the Synchro Device.
+HELP_SYNCHRO_07_02,"Before they are leveled up, all Nikkes will be ranked based on their rarity and whether they have reached Limit Break 3, and the top five Nikkes will be selected."
 HELP_RECYCLE_ROOM_01,Recycling Room
 HELP_RECYCLE_ROOM_01_01,A facility used to increase Nikkes' Attributes through research.
 HELP_RECYCLE_ROOM_02,General Research
@@ -5484,10 +5619,10 @@ HELP_SIMULATIONROOM_06,Buff Chain
 HELP_SIMULATIONROOM_06_01,Chain Level increases as you obtain more Buffs of the same Chain Type.
 HELP_SIMULATIONROOM_06_02,"Buffs are categorized into these 4 Chain Types: △, □, ○, and ◇."
 HELP_SIMULATIONROOM_06_03,Lv. 1: Basic Level
-HELP_SIMULATIONROOM_06_04,Lv. 2: Have 3 Buffs of the same Chain Type
-HELP_SIMULATIONROOM_06_05,Lv. 3: Have 3 Buffs of the same Chain Type (3△ + 3□)
-HELP_SIMULATIONROOM_06_06,Lv. 4: Have 6 Buffs of the same Chain Type
-HELP_SIMULATIONROOM_06_07,Lv. 5: Have 8 Buffs of the same Chain Type
+HELP_SIMULATIONROOM_06_04,Lv. 2: Have 2 Buffs of the same Chain Type
+HELP_SIMULATIONROOM_06_05,Lv. 3: Have 3 Buffs of the same Chain Type
+HELP_SIMULATIONROOM_06_06,Lv. 4: Have 4 Buffs of the same Chain Type
+HELP_SIMULATIONROOM_06_07,Lv. 5: Have 6 Buffs of the same Chain Type
 HELP_SIMULATIONROOM_07,Commanding Ability Test
 HELP_SIMULATIONROOM_07_01,Commanding Ability Tests are events that offer various effects of your choosing.
 HELP_SIMULATIONROOM_07_02,These effects will modify the squad and any Buffs you have obtained.
@@ -6704,6 +6839,7 @@ ITEM_EXCHANGE_10081_MAIL_DESC,Each Luggage has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10084_MAIL_DESC,Each Premium Tea Bag has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10086_MAIL_DESC,Each Elysion Meal Ticket has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10088_MAIL_DESC,Each Intel List has been exchanged for 200 Credits.
+ITEM_EXCHANGE_10090_MAIL_DESC,Each Mixed Herb has been exchanged for 200 Credits.
 ITEM_EXCHANGE_11001_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11001_MAIL_DESC,Each Bunny Costume Ticket has been exchanged for 120 free Gems.
 ITEM_EXCHANGE_11002_MAIL_TITLE,Costume Ticket Exchange
@@ -6748,6 +6884,8 @@ ITEM_EXCHANGE_11024_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11024_MAIL_DESC,Each Swimming Bag has been exchanged for 120 Free Gems.
 ITEM_EXCHANGE_11025_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11025_MAIL_DESC,Each Lucky Headband has been exchanged for 120 free Gems.
+ITEM_EXCHANGE_11026_MAIL_TITLE,Costume Ticket Exchange
+ITEM_EXCHANGE_11026_MAIL_DESC,Each A.C.P.U. ID Card has been exchanged for 120 Free Gems.
 ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE,Event Shop Currency Exchange
 AUTO_CHARGE_ITEM_CHARGE_REMAIN_TIME,Replenish in
 AUTO_CHARGE_ITEM_CHARGE_COUNT,Replenishment Amount
@@ -6859,6 +6997,10 @@ SIMULATIONROOM_REWARD_CLEAR,Reward for Clearing
 SIMULATIONROOM_CHOOSE_BUFF,Buff Selection
 SIMULATIONROOM_NOTICE,Notice
 SIMULATIONROOM_BUFF_TARGET_INFO,Buffs are only effective for specific Nikkes.
+SIMULATIONROOM_REWARD_NOTICE,Rewards increase proportionally with the difficulty.
+SIMULATIONROOM_POWER_RESULT,Total Combat Power
+SIMULATIONROOM_POWER_NORMAL,Normal Combat Power
+SIMULATIONROOM_POWER_BUFF,Buff Combat Power
 SIMULATIONROOM_BUFF_INFORMATION,Buff Information
 SIMULATIONROOM_BUFF_LEVEL,Lv. {buffchain_id}
 SIMULATIONROOM_BUFF_LEGACY,Buff Legacy
@@ -6905,6 +7047,10 @@ SIMULATIONROOM_BUFF_PREVIEW_BUBBLE_TYPE_D,Gain ◇ Buff
 SIMULATIONROOM_BUFF_PREVIEW_GRADE_SSR,Gain SSR Rarity Buff
 SIMULATIONROOM_BUFF_PREVIEW_GRADE_EPIC,Epic Buff obtained
 SIMULATIONROOM_BUFF_UNPOSSESSED,No buffs owned.
+SIMULATIONROOM_BUFF_CHANGE_POWER_CHAIN,Changing buffs affects both your combat power and chain level.
+SIMULATIONROOM_BUFF_CHANGE_COMPLETE,Buff changed.
+SIMULATIONROOM_BUFF_CHAIN_UP,Chain Level Up
+SIMULATIONROOM_BUFF_CHAIN_DOWN,Chain Level Down
 SIMULATIONROOM_EVENT_FUNCTION_HEAL_NAME,Recover
 SIMULATIONROOM_EVENT_FUNCTION_RESURRECTION_ALL_NAME,Resurrect All
 SIMULATIONROOM_EVENT_FUNCTION_RESURRECTION_RANDOM_NAME,Random Resurrection
@@ -7469,6 +7615,7 @@ INAPP_SHOP_SUB_CATEGORY_THERAPIST_FUNCTION,Therapist
 INAPP_SHOP_SUB_CATEGORY_PERFECTIONIST_FUNCTION,Perfectionist
 INAPP_SHOP_SUB_CATEGORY_PUREMONSTER_FUNCTION,Pure Monster
 INAPP_SHOP_SUB_CATEGORY_COINSINRUSH_FUNCTION,COINS IN RUSH
+INAPP_SHOP_SUB_CATEGORY_CE007_FUNCTION,REBORN EVIL
 INAPP_SHOP_STEPUP_CANNOT_BUY,You need to buy the package for the previous Step.
 CASH_SHOP_CUSTOM_PACKAGE_EDIT_TITLE,Edit Custom Package
 CASH_SHOP_CUSTOM_PACKAGE_EDIT_DESC,"Please select the items you want.
@@ -7817,6 +7964,9 @@ It has parts composed of high-density electromagnetic fields, making it appear l
 eba005_anmi_name,Ziz
 eba005_anmi_description,"A Rapture in the form of the Heretic Ziz in her enlarged form.
 Surrounded by energy shields, it soars through the air at high speeds while attacking."
+bbg009_bh_psid_name,The Merciless Judge
+bbg009_bh_psid_description,"An entity created by Torch of Salvation to judge mankind's sins.
+Shrouded in a thick defensive barrier, it seeks to enforce its verdict on humanity."
 QUICK_BATTLE_POPUP_DESC,"Conduct Quick Battles for a specified number of times.
 Receive rewards based on the number of battles conducted."
 QUICK_BATTLE_POPUP_EXPECTED_REWARD,Obtainable rewards per battle
@@ -8039,6 +8189,7 @@ CONTENT_TYPE_0.5_YEAR,#Half-Anniversary event
 CONTENT_TYPE_1_YEAR,#1st Anniversary event
 CONTENT_TYPE_1.5_YEAR,#1.5th Anniversary event
 CONTENT_TYPE_2_YEAR,#2nd Anniversary event
+CONTENT_TYPE_2.5_YEAR,#2.5th Anniversary Event
 CONTENT_TYPE_FULLVOICE,#Fully Voiced
 CONTENT_TYPE_OLDSTORY,#Old Story
 CONTENT_TYPE_EVENTQUEST,#Event Quest
@@ -8152,6 +8303,7 @@ RECORD_EVENT_TITLE_35,COLORLESS
 RECORD_EVENT_TITLE_36,BEAUTY FULL SHOT
 RECORD_EVENT_TITLE_37,JINX PLAYER
 RECORD_EVENT_TITLE_38,GOLDEN COIN RUSH
+RECORD_EVENT_TITLE_39,UNBREAKABLE SPHERE
 RECORD_COLLABO_TITLE_1,YOU CAN (NOT) EVADE
 RECORD_REWARD_INFO_1,NO CALLER ID NORMAL
 RECORD_REWARD_INFO_2,NO CALLER ID HARD
@@ -8608,6 +8760,34 @@ They will first appear 10 seconds after the battle begins and then reappear ever
 Bronchus deals cover pierce damage continuously to all Nikkes.
 Any Bronchus appearing due to this option is immune to all damage except that from their counter-codes."
 SIMULATIONROOM_OC_OPTION_NIKKENEEDS_HSTA_5_DESC,Include 5 Nikkes with code Fire H.S.T.A. in your squad to join the battle.
+SIMULATIONROOM_OC_SEASON_TITLE_06,Season 6
+SIMULATIONROOM_OC_OPTION_STEP3_MG_BAN,Vacation Order III: MG
+SIMULATIONROOM_OC_OPTION_STEP3_AR_BAN,Vacation Order III: AR
+SIMULATIONROOM_OC_OPTION_STEP3_RL_BAN,Vacation Order III: RL
+SIMULATIONROOM_OC_OPTION_APPEAR_ARMORED_1,Giant Shield I
+SIMULATIONROOM_OC_OPTION_APPEAR_ARMORED_2,Giant Shield II
+SIMULATIONROOM_OC_OPTION_NIKKENEEDS_ANMI_5,Code Match: A.N.M.I.
+SIMULATIONROOM_OC_OPTION_STEP3_MG_BAN_DESC,"Cannot add Burst III Nikkes who use machine guns to the squad.
+They are not eligible for Simulation Room effects."
+SIMULATIONROOM_OC_OPTION_STEP3_AR_BAN_DESC,"Cannot add Burst III Nikkes who use assault rifles to the squad.
+They are not eligible for Simulation Room effects."
+SIMULATIONROOM_OC_OPTION_STEP3_RL_BAN_DESC,"Cannot add Burst III Nikkes who use rocket launchers to the squad.
+They are not eligible for Simulation Room effects."
+SIMULATIONROOM_OC_OPTION_APPEAR_JELLYFISH_1_DMTR_DESC,"One Jellyfish with code Iron D.M.T.R. will spawn.
+It will first appear 20 seconds after the battle begins and then reappear every 20 seconds.
+Jellyfish inflict one random Nikke with a debuff that reduces reloading speed."
+SIMULATIONROOM_OC_OPTION_APPEAR_JELLYFISH_2_DMTR_DESC,"One Jellyfish with code Iron D.M.T.R. will spawn.
+It will first appear 20 seconds after the battle begins and then reappear every 20 seconds.
+Jellyfish inflict one random Nikke with a debuff that reduces reloading speed.
+The Jellyfish that appears due to this option is immune to all damage except that from its counter-codes."
+SIMULATIONROOM_OC_OPTION_APPEAR_ARMORED_1_DMTR_DESC,"One Bulwark with code Iron D.M.T.R. will spawn.
+It will first appear 10 seconds after the battle begins and then reappear every 20 seconds.
+Bulwarks generate a shield in front that blocks incoming attacks."
+SIMULATIONROOM_OC_OPTION_APPEAR_ARMORED_2_DMTR_DESC,"One Bulwark with code Iron D.M.T.R. will spawn.
+It will first appear 10 seconds after the battle begins and then reappear every 20 seconds.
+Bulwarks generate a shield in front that blocks incoming attacks.
+The Bulwark that appears due to this option is immune to all damage except that from its counter-codes."
+SIMULATIONROOM_OC_OPTION_NIKKENEEDS_ANMI_5_DESC,Include 5 Nikkes with code Wind A.N.M.I. in your squad to join the battle.
 RELOGIN_BEFORE_EXPIRED,"You need to update your login details due to prolonged login.
 Returning to the title screen."
 FAVORITEITEM_FAVORITE_NAME,Favorite Items
@@ -8881,6 +9061,8 @@ ARCHIVE_MINIGAME_HELPTIP_CORALISLAND_TITLE,About Coral Island Adventure
 ARCHIVE_MINIGAME_HELPTIP_CORALISLAND_DESC,■ A mini game where you take photos at photo spots located around the island and fish at the spots where fish are gathered to fill up the Island Adventure Log.
 ARCHIVE_MINIGAME_HELPTIP_LETSPLAYSODA_TITLE,"About Let's Play, Soda!"
 ARCHIVE_MINIGAME_HELPTIP_LETSPLAYSODA_DESC,■ This is a mini game where you take on various challenges in Coin Rush with Soda.
+ARCHIVE_MINIGAME_HELPTIP_BUBBLEMARCH_TITLE,About Bubble March
+ARCHIVE_MINIGAME_HELPTIP_BUBBLEMARCH_DESC,Bubble March is a mini game where bubble-made minions and Raptures destroy each other's towers.
 HELPTIP_RUNNINGSODA_STORY_TITLE,"Run, Soda! - Story Mode"
 HELPTIP_RUNNINGSODA_STORY_DESC,"■ This is an obstacle course game. 
 ■ Tap the screen to make Soda jump. (Shortcut: Space bar)
@@ -9155,6 +9337,7 @@ USERTITLE_NAME_NIKKE_5149,Eunhwa: Tactical Upgrade's Exclusive Title
 USERTITLE_NAME_COINSINRUSH,COINS IN RUSH Special Title
 USERTITLE_NAME_NIKKE_5150,Milk: Blooming Bunny's Exclusive Title
 USERTITLE_NAME_NIKKE_5151,Ade: Agent Bunny's Exclusive Title
+USERTITLE_NAME_JOFFTOUR,Traveler of the Millennium City
 USERTITLE_DESCRIPTION_DEFAULTTITLE,"Title for New Face.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_INFRACORELV_20,"Title for Ready to Strike.
@@ -9547,6 +9730,8 @@ USERTITLE_DESCRIPTION_NIKKE_5150,"Exclusive title for Milk: Blooming Bunny.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_NIKKE_5151,"Exclusive title for Ade: Agent Bunny.
 Can be used on the profile."
+USERTITLE_DESCRIPTION_JOFFTOUR,"Special title for Journey to the Millennium City.
+Can be used on the profile."
 USERTITLE_CONTENTS_DESC_DEFAULTTITLE,Default Title
 USERTITLE_CONDITION_INFRACORELV,Upgrade Infrastructure Core Activity to Lv. 20
 USERTITLE_CONDITION_USERLV,Reach Commander Lv. 100
@@ -9571,7 +9756,8 @@ USERTITLE_CONDITION_TOWERCLEARTOTALCOUNT,Clear a total of 500 floors across all 
 USERTITLE_CONDITION_ACQUIRECHARACTER_5055,Complete Guilty's rehabilitation.
 USERTITLE_CONDITION_ACQUIRECHARACTER_5059,Complete Sin's rehabilitation.
 USERTITLE_CONDITION_ACQUIRECHARACTER_5078,Complete Quency's rehabilitation.
-USERTITLE_CONDITION_SIMULATIONROOMBUFFLV5,Achieve Buff Chain Lv. 5 in Simulation Room with all SSR buffs from Buff Legacy
+USERTITLE_CONDITION_SIMULATIONROOMBUFFLV5,Register 8 SSR buffs in the Buff Legacy and reach buff chain lv. 5 in the Simulation Room.
+USERTITLE_CONDITION_SIMULATIONROOMBUFFLV5_01,Reach buff chain lv. 5 in the Simulation Room with only SSR buffs in the Buff Legacy.
 USERTITLE_CONDITION_INTERCEPTSPECIAL30SEC_1,Clear Interception EX - Chatterbox Stage 9 in 30 sec.
 USERTITLE_CONDITION_INTERCEPTSPECIAL30SEC_2,Clear Interception EX - Black Smith Stage 9 in 30 sec.
 USERTITLE_CONDITION_INTERCEPTSPECIAL30SEC_3,Clear Interception EX - Modernia Stage 9 in 30 sec.
@@ -9601,6 +9787,7 @@ USERTITLE_CONTENTS_DESC_1000DAYS,Can be obtained from the 1000 DAYS PRESENT logi
 USERTITLE_CONTENTS_DESC_BOOMTHEGHOST,Can be obtained from the shop in the story event BOOM! THE GHOST!
 USERTITLE_CONTENTS_DESC_ABSOLUTE,Can be obtained from the shop in the story event ABSOLUTE.
 USERTITLE_CONTENTS_DESC_COINSINRUSH,Can be obtained from the shop in the story event COINS IN RUSH.
+USERTITLE_CONTENTS_DESC_JOFFTOUR,Obtain by progressing through Journey to the Millennium City
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1007,Watch all of D's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1010,Watch all of Laplace's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1012,Watch all of Sakura's episodes in Advise.
@@ -10434,6 +10621,7 @@ ARCADE_GAME_TITLE_04,M.O.G. EX
 ARCADE_GAME_TITLE_05,Dessert Rush
 ARCADE_GAME_TITLE_06,In The Mirror
 ARCADE_GAME_TITLE_07,"Let's Play, Soda!"
+ARCADE_GAME_TITLE_08,Bubble March
 PURCHASE_TERMS_INFO_ITEMS,"This purchase grants you the right to use this item in Goddess of Victory: NIKKE, subject to the terms specified <color=#EA9797>here</color>."
 PURCHASE_TERMS_INFO_COSTUME_GACHA,"This purchase grants you the right to use any rewards obtained through this costume gacha in Goddess of Victory: NIKKE, subject to the terms specified <color=#EA9797>here</color>."
 PURCHASE_TERMS_INFO_RECRUITMENT,"This purchase grants you the right to use any rewards obtained through this recruitment in Goddess of Victory: NIKKE, subject to the terms specified <color=#EA9797>here</color>."
@@ -10650,6 +10838,8 @@ HELP_MUSEUM_RANKING_03,Ranking Range
 HELP_MUSEUM_RANKING_03_01,Top 50
 HELP_MUSEUM_RANKING_04,Museum Hall Ranking
 HELP_MUSEUM_RANKING_04_01,A ranking determined by the total amount of Museum Points you have accumulated for each Hall in Solo Raid Museum.
+ITEM_CONSUME_LOCK_INFO,"Once the item is locked, it will not be used unless it is unlocked."
+ITEM_CONSUME_LOCKED,The item has been locked and cannot be used.
 PLAYSODA_JUMPHURDLE_TITLE_EN,"RUN,
 SODA!"
 PLAYSODA_HITMOLE_TITLE_EN,"SMASH,
@@ -10660,3 +10850,29 @@ PLAYSODA_STACKBOX_TITLE_EN,"STACK UP,
 SODA!"
 PLAYSODA_CLIMBROPE_TITLE_EN,"CLIMB,
 SODA!"
+WEAPON_INFO,Weapon Info
+WEAPON_PERFORMANCE_FUNCTION,Weapon Performance
+WEAPON_TYPE_FUNCTION,Weapon Type
+WEAPON_MAX_AMMO_INFO_LOW,Low
+WEAPON_MAX_AMMO_INFO_MIDIUM,Medium
+WEAPON_MAX_AMMO_INFO_LARGE,Large
+WEAPON_MAX_AMMO_INFO_EXTRA_LARGE,Extra Large
+WEAPON_RELOAD_TIME_INFO_SLOW,Slow
+WEAPON_RELOAD_TIME_INFO_RELATIVELY_SLOW,Relatively Slow
+WEAPON_RELOAD_TIME_INFO_RELATIVELY_FAST,Relatively Fast
+WEAPON_RELOAD_TIME_INFO_FAST,Fast
+SHOT_SPEED,Rate of Fire
+WEAPON_SHOT_SPEED_INFO_SLOW,Slow
+WEAPON_SHOT_SPEED_INFO_RELATIVELY_SLOW,Relatively Slow
+WEAPON_SHOT_SPEED_INFO_RELATIVELY_FAST,Relatively Fast
+WEAPON_SHOT_SPEED_INFO_FAST,Fast
+WEAPON_SHOT_SPEED_INFO_ACCELERATES_FASTER,Gradually Accelerates
+EFFECTIVE_RANGE,Range Bonus
+WEAPON_EFFECTIVE_RANGE_INFO_NONE,None
+WEAPON_EFFECTIVE_RANGE_INFO_CLOSE_RANGE,Close-Range
+WEAPON_EFFECTIVE_RANGE_INFO_MID_RANGE,Mid-Range
+WEAPON_EFFECTIVE_RANGE_INFO_LONG_RANGE,Long-Range
+WEAPON_EFFECTIVE_RANGE_INFO_ALL_RANGE,All
+WEAPON_CONTROL_TYPE_NORMAL,Normal
+WEAPON_CONTROL_TYPE_CHARGE,Charge
+TOWER_AUTO_START_BUTTON,Auto Challenge

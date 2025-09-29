@@ -223,6 +223,10 @@ Key,Value
 95_name,Eunhwa: Tactical Upgrade
 315_name,Ade: Agent Bunny
 143_name,Milk: Blooming Bunny
+840_name,Ada
+841_name,Jill
+842_name,Claire
+23_name,Delta: Ninja Thief
 npc_950_name,Collector
 npc_951_name,Female Commander
 npc_952_name,Teddy
@@ -353,6 +357,12 @@ npc_9999999_name_96,Investigation Board
 npc_9999999_name_97,Game Table
 npc_9999999_name_98,Coin Rush Staff
 npc_9999999_name_99,Bartender
+npc_9999999_name_100,Piano
+npc_9999999_name_101,Altar
+npc_9999999_name_102,Typewriter
+npc_9999999_name_103,Broken Goddess Statue
+npc_9999999_name_104,Banquet Table
+npc_9999999_name_105,Suspicious Area
 npc_6001_name_01_01,Lively Product 12
 npc_6001_name_01_02,C-1002
 npc_6002_name_02_01,Taciturn Product 12
@@ -692,6 +702,14 @@ c851_description,"A member of the 2nd Airborne Squad.
 She left behind messages for later squads through a series of records called Legacies."
 c852_description,"An Engineering Support from the 5th Airborne Squad.
 True to her role, she is skilled at maintaining the bodies and equipment of Airborne Squad members."
+c840_description,"A mysterious and resourceful operative who never reveals vulnerability, no matter the circumstances.
+Ada works alone, staying laser-focused on her mission and keeping emotional ties at bay.
+Her true motives, identity, and loyalties remain shrouded in secrecy—even the name ""Ada Wong"" is just an alias."
+c841_description,"They call her Jill Valentine, a key member of the Raccoon City Police Department's elite S.T.A.R.S. unit.
+Diligent and driven by a strong sense of justice, she never hesitates to act on her convictions.
+Highly trained in the use of firearms and knives, she is also an expert in explosives disposal."
+c842_description,"Claire Redfield is a college student who ventured into Raccoon City to find her brother, Chris.
+She's one of the few survivors of the Raccoon City Incident—one of the deadliest pandemics in history."
 counters_name,Counters
 heretic_name,Heretic
 absolut_name,Absolute
@@ -750,6 +768,7 @@ ce006_01_name,7th Airborne Squad
 ce006_02_name,2nd Airborne Squad
 ce006_03_name,5th Airborne Squad
 overthehorizon_name,Over the Horizon
+ce007_name,B.S.T.
 squad_counters_info,"A ragtag squad led by a rookie Commander who just graduated from the military academy. 
 Stationed in the Outpost, they take on all manner of assignments."
 squad_heretic_info,"The betrayers of mankind, who are all elites of the Queen. Yet, they were once Nikkes."
@@ -861,6 +880,8 @@ Their goal is to wipe out the Naytibas."
 squad_overthehorizon_info,"An air force squad specially formed for aerial combat.
 But due to the presence of the Tyrant-class Rapture, Storm Bringer, they are unable to fly for more than one hour on the surface.
 Currently, their primary role is to carry out the delivery tasks of resource-gathering squads."
+squad_ce007_info,"A special unit under A.C.P.U.
+Temporarily established to resolve the NEO-Virus outbreak that occurred in the Ark."
 10_speech_01,Awaiting your command.
 10_speech_02,"Commander, what do we look like to you?"
 10_speech_03,Body stats check. All clear. Ready to deploy.
@@ -1667,6 +1688,12 @@ This would be an ideal place for summer survival training."
 502_speech_01,I can make sure you can enjoy BOOM out on the open seas.
 502_speech_02,Nothing beats chillin' on a floatie in the pool.
 502_speech_03,Is there anywhere near the sea where I can install BOOM?
+43_02_speech_01,"B.S.T., you say?
+We're the ones who handle biohazard outbreaks inside the Ark."
+43_02_speech_02,"If the celestial scales of this world can tilt even slightly toward the side of good,
+I'll do whatever I can for the sake of justice."
+43_02_speech_03,"So you're saying you don't remember the details of the mission? In that case...
+I'll make sure it's burned into your memory."
 95_speech_01,"Hey, Junior Blockhead. If you've got some free time, review the mission briefing."
 95_speech_02,"If you've got something to say, go ahead. I'll at least hear you out."
 95_speech_03,Don't start a conversation if you're not going to finish it. Don't leave people hanging.
@@ -1699,6 +1726,21 @@ It's a lucky... outfit after all."
 if I can bring even just a tiny bit of luck to others..."
 272_01_speech_03,"You can't focus on the game?
 Wh-what do you mean..."
+840_speech_01,"My identity? Sorry, that's a secret.
+I am willing to hear your story, though."
+840_speech_02,"Don't forget our deal.
+I give you the intel, and you deliver the NEO-Virus to me."
+840_speech_03,My mission... let's just say it's probably not that different from yours.
+841_speech_01,Raccoon City used to be so full of life. Now it's just an undead nightmare...
+841_speech_02,"Tell me. Who are you fighting for?
+Yourselves? Or the survivors?"
+841_speech_03,"It's not just the virus that's dangerous.
+Human greed is just as deadly."
+842_speech_01,"First the G-Virus, now the NEO-Virus?
+It never ends."
+842_speech_02,"These Raptures are mechanical creatures, you say?
+It's hard to believe something like that could be enemies of humanity."
+842_speech_03,"If you see an infected, turn and run as fast as you can. A direct confrontation is only a last resort."
 10_speech_04,"Commander, I'll protect you."
 10_speech_05,Don't push yourself too hard! I've got your back all the way.
 10_speech_06,"No matter what you think of us, we'll always be by your side."
@@ -2576,6 +2618,12 @@ Isn't it BOOMtastic?"
 Guess what's on display? My swimsuit! Hehe."
 502_speech_06,"You want to know more about my equipment?
 Sure, let me give you a rundown!"
+43_02_speech_04,"While I'm role-playing as Winters, I'll speak a bit more formally.
+But when it's just the two of us, like now... you can act like you always do."
+43_02_speech_05,"I'm still not used to putting on handcuffs.
+Mind helping me practice?"
+43_02_speech_06,"If you don't like being the one in charge, we can switch.
+Would you rather I take the lead instead?"
 95_speech_04,"Hey, Junior Blockhead. What's the next mission?"
 95_speech_05,"If you're curious about something, ask. I can at least offer some advice as your senior."
 95_speech_06,"We're Absolute. No matter how tough the mission is, just tell us what you need."
@@ -2611,6 +2659,21 @@ I have a special choreography to match this outfit... Want me to show you?"
 272_01_speech_05,"I'll be your personal lucky bunny, Highroller."
 272_01_speech_06,"Focus on the game for now, please.
 If you want to look... you can stare all you want later."
+840_speech_04,Do you trust me?
+840_speech_05,"Who am I working for? Come on—you know I don't work for anyone.
+And even if I did, I'd never say who."
+840_speech_06,"I don't like being toyed with by others... but I'll play along.
+So, what is it you want to talk about?"
+841_speech_04,"The key to a successful mission?
+You just have to outlast the bastard."
+841_speech_05,You and I will take down the Torch of Salvation here in the Ark. Together. I promise.
+841_speech_06,I used to have partners I could count on... but most of them are gone now. I hope you don't end up the same way.
+842_speech_04,"I learned how to shoot from my brother.
+He's a cop... but I haven't seen him around lately."
+842_speech_05,"Promise me something.
+Even if I'm not around, don't leave that kid—Deipara—all alone."
+842_speech_06,"I can't exactly go back to being just a college student.
+That's why I'm fighting—to make sure no one else has to live through this."
 10_stay_01,"Commander, you don't have any orders to give?"
 10_stay_02,I'll be on standby. Feel free to call me anytime.
 11_stay_01,"Master, now is the time for action, not relaxation!"
@@ -3212,6 +3275,9 @@ so even when I'm alone in the middle of the ocean, I'm not scared anymore."
 Swimming is exhausting..."
 502_stay_02,"Take your time.
 I'll just be here relaxing on my floatie."
+43_02_stay_01,I'll be waiting. Just don't be gone for too long.
+43_02_stay_02,"I expect you to return before the mission begins.
+Otherwise... I may conduct a search of your place just to track you down."
 95_stay_01,What are you doing? Now's not the time to be slacking off.
 95_stay_02,"Running through the mission in your head? Take your time.
 But it'd better be flawless."
@@ -3235,6 +3301,16 @@ But I wish you'd pay a little more attention to me."
 Y-you didn't see anything, did you...?"
 272_01_stay_02,"... I guess you're busy.
 I'll just quietly stay by your side and recharge your luck."
+840_stay_01,"I'll be waiting right here.
+Don't worry. I'm not going anywhere."
+840_stay_02,Is that the drawer where you hide your secrets? You sure you're okay with leaving me here unsupervised?
+841_stay_01,Damn the Torch of Salvation... do they even know the kind of hell they've unleashed?
+841_stay_02,"Before we go back, let's finish what we've started here.
+We can't let this place become another Raccoon City."
+842_stay_01,"I wonder if Leon and Sherry are okay...
+I disappeared so suddenly. They must be worried."
+842_stay_02,"You're not planning on leaving me here alone, are you?
+I'm counting on you to come back soon, you hear?"
 10_intro,No calls or messages during missions.
 11_intro,I'm a girl who loves firepower with all her heart.
 12_intro,Please don't send me weird shit!!!
@@ -4038,6 +4114,7 @@ npc_592_name,Contemptible Male Guest
 npc_593_name,Cowardly Male Guest
 npc_594_name,Wistful Female Guest
 npc_595_name,Sneezing Guest
+npc_596_name,Elseria Nine
 npc_07_intro,01100110 01101111 01101111 01101100
 npc_13_intro,The meeting place of the master and followers of Doomseye
 npc_14_intro,The meeting place of the master and followers of Doomseye
@@ -4304,6 +4381,9 @@ npc_463_intro,Run until the end!
 95_cv_ko,CV: Won Esther
 143_cv_ko,CV: Kim Na-yul
 315_cv_ko,CV: Hong Soo-jung
+840_cv_ko,CV: Lily Gao
+841_cv_ko,CV: Nicole Tompkins
+842_cv_ko,CV: Stephanie Panisello
 10_cv_ja,CV: Yui Ishikawa
 11_cv_ja,CV: Rina Hidaka
 12_cv_ja,CV: Miho Okasaki
@@ -4474,6 +4554,9 @@ npc_463_intro,Run until the end!
 95_cv_ja,CV: Sayaka Senbongi
 143_cv_ja,CV: Mutsumi Tamura
 315_cv_ja,CV: Kiyono Yasuno
+840_cv_ja,CV: Junko Minagawa
+841_cv_ja,CV: Atsuko Yuya
+842_cv_ja,CV: Yūko Kaida
 10_cv_en,CV: Kayli Mills
 11_cv_en,CV: Xanthe Huynh
 12_cv_en,CV: Michelle Marie
@@ -4644,6 +4727,9 @@ npc_463_intro,Run until the end!
 95_cv_en,CV: Anne Yatco
 143_cv_en,CV: Laura Stahl
 315_cv_en,CV: Crystal Lee
+840_cv_en,CV: Lily Gao
+841_cv_en,CV: Nicole Tompkins
+842_cv_en,CV: Stephanie Panisello
 c102_Lobby_Touch_1,How about we go and run some tests together?
 c102_Lobby_Touch_2,You're a most interesting subject to observe.
 c102_Lobby_Touch_3,"All right, what's next?"
@@ -14741,3 +14827,213 @@ c550_01_Damage_2,Ungh...
 c550_01_Damage_3,Ouch...!
 c550_01_Die_1,I need to push a little harder...
 c550_01_Win_1,"Now that the fight's over, I'm starting to feel self-conscious. How'd I do...?"
+c840_Lobby_Touch_1,"My identity? Sorry, that's a secret.
+I am willing to hear your story, though."
+c840_Lobby_Touch_2,"Don't forget our deal.
+I give you the intel, and you deliver the NEO-Virus to me."
+c840_Lobby_Touch_3,My mission... let's just say it's probably not that different from yours.
+c840_Lobby_Touch_Love_1,Do you trust me?
+c840_Lobby_Touch_Love_2,"Who am I working for? Come on—you know I don't work for anyone. And even if I did, I'd never say who."
+c840_Lobby_Touch_Love_3,"I don't like being toyed with by others... but I'll play along. So, what is it you want to talk about?"
+c840_Lobby_Stay_1,"I'll be waiting right here.
+Don't worry. I'm not going anywhere."
+c840_Lobby_Stay_Love_1,Is that the drawer where you hide your secrets? You sure you're okay with leaving me here unsupervised?
+c840_Outpost_Touch_1,"Is that the hotel that D manages?
+Must be tough, keeping your identity hidden while working in this line of business."
+c840_Outpost_Touch_2,It's still peaceful here... And everyone is completely oblivious as to what's going on behind the scenes.
+c840_Outpost_Touch_3,A church? Where's the dial?
+c840_Gacha_Get_1,"The name's Ada. We're after the same thing, so we might as well work together."
+c840_Reinforce_1,I want to see if I'm stronger than before. Care to take a little walk with me?
+c840_Reinforce_2,"Thanks to you, the upgrades are complete."
+c840_Reinforce_3,Looks like I can return to the mission now.
+c840_Gift_1,Oh? What's this supposed to mean?
+c840_Gift_2,"Well, you're awfully confident. Overly so, I'd say.
+Fine, I'll let it slide... for now."
+c840_Gift_3,"Giving me this doesn't change our deal.
+As for how I see you, however... that might be a different matter."
+c840_Attractive_Up_1,This world isn't so bad after all.
+c840_Attractive_Up_2,"I can tell you're a good person. I like that about you.
+You... really remind me of him, actually."
+c840_Attractive_Up_3,"You and I really seem compatible, don't you think?"
+c840_Party_Deploy_1,Looks like you could use some help. How about it?
+c840_Field_Touch_1,Lead the way.
+c840_Field_Go_1,Let's move out.
+c840_Battle_Enter_1,"Heh, I'm only sticking to what I came here to do."
+c840_Battle_Ready_1,Let's stick to our own lanes.
+c840_Battle_Ready_2,Better stay sharp.
+c840_Battle_Ready_3,I'll cooperate.
+c840_Reload_1,Reloading.
+c840_Reload_2,You'll have to take it from here.
+c840_Reload_3,These guys are quite persistent.
+c840_Ult_Skill_Ready_1,Target in sight. Should I take the shot?
+c840_Ult_Skill_1,Ha! This is gonna make quite the impression.
+c840_FullBurst_1,Let's finish the mission.
+c840_Kill_Monster_1,Ughh... This is starting to get old.
+c840_Kill_Monster_2,Bravo.
+c840_Kill_Monster_3,I've cleared my side. What about you?
+c840_Damage_1,Ow!
+c840_Damage_2,Ugh.
+c840_Damage_3,Ngh...
+c840_Die_1,This isn't the ending I was hoping for...
+c840_Win_1,Not bad. Looking forward to our next mission together.
+c841_Lobby_Touch_1,Raccoon City used to be so full of life. Now it's just an undead nightmare...
+c841_Lobby_Touch_2,"Tell me. Who are you fighting for?
+Yourselves? Or the survivors?"
+c841_Lobby_Touch_3,"It's not just the virus that's dangerous.
+Human greed is just as deadly."
+c841_Lobby_Touch_Love_1,"The key to a successful mission?
+You just have to outlast the bastard."
+c841_Lobby_Touch_Love_2,You and I will take down the Torch of Salvation here in the Ark. Together. I promise.
+c841_Lobby_Touch_Love_3,I used to have partners I could count on... but most of them are gone now. I hope you don't end up the same way.
+c841_Lobby_Stay_1,Damn the Torch of Salvation... do they even know the kind of hell they've unleashed?
+c841_Lobby_Stay_Love_1,"Before we go back, let's finish what we've started here.
+We can't let this place become another Raccoon City."
+c841_Outpost_Touch_1,"That's where the A.C.P.U. operatives work, right?
+Think we can get in to take a look?"
+c841_Outpost_Touch_2,"You want to go to a café and have... sandwiches? Thanks, but I'll pass."
+c841_Outpost_Touch_3,Is there an elevator under the hospital? Any attaché cases down there?
+c841_Gacha_Get_1,"I'm Jill, a member of S.T.A.R.S.
+Don't even think of calling me ""honey"" or ""princess."" Not unless you're looking to get hurt."
+c841_Reinforce_1,Ammo restocked.
+c841_Reinforce_2,Upgrades complete. Headshots are guaranteed now.
+c841_Reinforce_3,"Even if that parasite comes after me again, I'll be ready for him."
+c841_Gift_1,A gift...? It's been a while since I got one of those.
+c841_Gift_2,"... There's not a bomb in this, is there?"
+c841_Gift_3,Thanks. I'll remember this.
+c841_Attractive_Up_1,"You're someone I can count on.
+Coming from a supercop like me, you ought to be flattered."
+c841_Attractive_Up_2,"The world would be a better place if everyone were like you.
+But that’s not possible, so the world ended up like this."
+c841_Attractive_Up_3,"Even after this mission ends, I won't forget you."
+c841_Party_Deploy_1,Need my help?
+c841_Field_Touch_1,"If you're ready, let's move."
+c841_Field_Go_1,What's our destination?
+c841_Battle_Enter_1,Leave it to me.
+c841_Battle_Ready_1,I'll handle that one myself!
+c841_Battle_Ready_2,"Come on, bring it!"
+c841_Battle_Ready_3,"Stay sharp, everyone."
+c841_Reload_1,Reload.
+c841_Reload_2,Hang in there a little longer.
+c841_Reload_3,Can you buy me some time?
+c841_Ult_Skill_Ready_1,You want S.T.A.R.S.?
+c841_Ult_Skill_1,I'll give you S.T.A.R.S.!
+c841_FullBurst_1,Blow 'em away!
+c841_Kill_Monster_1,Relentless bastards...
+c841_Kill_Monster_2,One down. Who's next?
+c841_Kill_Monster_3,Clear!
+c841_Damage_1,Damn it...
+c841_Damage_2,Gah!
+c841_Damage_3,Urgh!
+c841_Die_1,No... there are still things that need to be done...
+c841_Win_1,"So, how does it feel to be saved by a supercop?"
+c842_Lobby_Touch_1,"First the G-Virus, now the NEO-Virus?
+It never ends."
+c842_Lobby_Touch_2,"These Raptures are mechanical creatures, you say?
+It's hard to believe something like that could be enemies of humanity."
+c842_Lobby_Touch_3,"If you see an infected, turn and run as fast as you can. A direct confrontation is only a last resort."
+c842_Lobby_Touch_Love_1,"I learned how to shoot from my brother.
+He's a cop... but I haven't seen him around lately."
+c842_Lobby_Touch_Love_2,"Promise me something.
+Even if I'm not around, don't leave that kid—Deipara—all alone."
+c842_Lobby_Touch_Love_3,"I can't exactly go back to being just a college student.
+That's why I'm fighting—to make sure no one else has to live through this."
+c842_Lobby_Stay_1,"I wonder if Leon and Sherry are okay...
+I disappeared so suddenly. They must be worried."
+c842_Lobby_Stay_Love_1,"You're not planning on leaving me here alone, are you?
+I'm counting on you to come back here soon, you hear?"
+c842_Outpost_Touch_1,"The weapon I'm using? I borrowed it from the police station.
+I asked for permission, though. I didn't just take it."
+c842_Outpost_Touch_2,"Are there any herbs in the Ark's garden?
+If there are, what color?"
+c842_Outpost_Touch_3,"I saw the coolest motorcycle parked outside the cafe.
+Who's the owner? I have so many questions for them."
+c842_Gacha_Get_1,My name's Claire. Claire Redfield. And you are?
+c842_Reinforce_1,This looks strong enough to blow those things to hell.
+c842_Reinforce_2,"Wow, wanna see how strong I've gotten?"
+c842_Reinforce_3,I've got some good news. I can be of greater help now.
+c842_Gift_1,"Wait, seriously? You're really giving this to me?
+Well... thank you. I appreciate it."
+c842_Gift_2,"Hmm... I should give you something in return.
+How about a Mr. Raccoon plushie?"
+c842_Gift_3,"What is it? You won't be embarrassed if I open it now, will you?"
+c842_Attractive_Up_1,"Don't worry. As long as I'm with you, nothing bad's gonna happen."
+c842_Attractive_Up_2,"Even in a hellish place like this, there always seems to be good people like you."
+c842_Attractive_Up_3,"Honestly... it's a shame, knowing I won't see you again when I go back."
+c842_Party_Deploy_1,Ehm... Is this... your way of asking me out?
+c842_Field_Touch_1,"Don't worry, I can take care of myself."
+c842_Field_Go_1,Let's go!
+c842_Battle_Enter_1,"One hell of a night, huh?"
+c842_Battle_Ready_1,We've got no other choice.
+c842_Battle_Ready_2,Let's give 'em hell.
+c842_Battle_Ready_3,Everyone ready?
+c842_Reload_1,Reloading.
+c842_Reload_2,"One sec, I need you to take point for a moment."
+c842_Reload_3,I've gotta reload. Cover me.
+c842_Ult_Skill_Ready_1,I've got an idea. Trust me on this one!
+c842_Ult_Skill_1,This ends here!
+c842_FullBurst_1,Let's finish this in one shot!
+c842_Kill_Monster_1,Next!
+c842_Kill_Monster_2,They just keep coming...
+c842_Kill_Monster_3,Target down!
+c842_Damage_1,Damn it!
+c842_Damage_2,Ow!
+c842_Damage_3,Ah!
+c842_Die_1,"Run, while you still can!"
+c842_Win_1,"Nice work. When I get back, I'm heading straight for the shower."
+c043_02_Lobby_Touch_1,"B.S.T., you say?
+We're the ones who handle biohazard outbreaks inside the Ark."
+c043_02_Lobby_Touch_2,"If the celestial scales of this world can tilt even slightly toward the side of good,
+I'll do whatever I can for the sake of justice."
+c043_02_Lobby_Touch_3,"So you're saying you don't remember the details of the mission? In that case...
+I'll make sure it's burned into your memory."
+c043_02_Lobby_Touch_Love_1,"While I'm role-playing as Winters, I'll speak a bit more formally.
+But when it's just the two of us, like now... you can act like you always do."
+c043_02_Lobby_Touch_Love_2,"I'm still not used to putting on handcuffs.
+Mind helping me practice?"
+c043_02_Lobby_Touch_Love_3,"If you don't like being the one in charge, we can switch.
+Would you rather I take the lead instead?"
+c043_02_Lobby_Stay_1,I'll be waiting. Just don't be gone for too long.
+c043_02_Lobby_Stay_Love_1,"I expect you to return before the mission begins.
+Otherwise... I may conduct a search of your place just to track you down."
+c043_02_Outpost_Touch_1,"Poli gave me a bizarrely large number of donuts.
+Would you like one?"
+c043_02_Outpost_Touch_2,"People seem to avoid me when I walk around in this outfit.
+I'll have to keep a close watch on them."
+c043_02_Outpost_Touch_3,"We'll wrap up the operation briefing at the hotel.
+It might take a while, so be prepared to spend the night."
+c043_02_Gacha_Get_1,"Agent Winters of B.S.T., reporting in.
+I'm counting on your support for this mission as well."
+c043_02_Reinforce_1,I'll do my best to resolve as many problems as I can.
+c043_02_Reinforce_2,Thank you for your support.
+c043_02_Reinforce_3,Looks like we'll be able to execute the operation flawlessly.
+c043_02_Gift_1,"Is this a bribe? I have no need for such things.
+... For a number of reasons."
+c043_02_Gift_2,I'll make sure to return the favor.
+c043_02_Gift_3,"It may not be related to the mission,
+... but I'll gratefully accept it just this once."
+c043_02_Attractive_Up_1,"You're a good person, Commander.
+I hope that never changes."
+c043_02_Attractive_Up_2,"Good partners, that's the kind of relationship we have."
+c043_02_Attractive_Up_3,"Strange. You're not the target, yet I keep getting drawn to you."
+c043_02_Party_Deploy_1,"I've joined the squad, effective immediately."
+c043_02_Field_Touch_1,"Is there a problem, Commander?"
+c043_02_Field_Go_1,Moving out.
+c043_02_Battle_Enter_1,Target located. Proceeding with arrest.
+c043_02_Battle_Ready_1,Don't even think about running.
+c043_02_Battle_Ready_2,"Resist, and I will open fire."
+c043_02_Battle_Ready_3,Commencing operation.
+c043_02_Reload_1,Chamber loaded.
+c043_02_Reload_2,Requesting backup.
+c043_02_Reload_3,Taking cover.
+c043_02_Ult_Skill_Ready_1,Prepared to face the consequences?
+c043_02_Ult_Skill_1,I'll give you comprehensive instructions.
+c043_02_FullBurst_1,In the name of justice.
+c043_02_Kill_Monster_1,Clear.
+c043_02_Kill_Monster_2,Threat neutralized.
+c043_02_Kill_Monster_3,It's been taken care of.
+c043_02_Damage_1,Ugh.
+c043_02_Damage_2,Agh.
+c043_02_Damage_3,Urgh!
+c043_02_Die_1,Forget about me... focus on completing the mission...
+c043_02_Win_1,"Mission complete.
+... We've resolved everything we could. Good work."

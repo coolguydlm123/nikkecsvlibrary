@@ -129,6 +129,8 @@ costume_name_10_CBT_2022,White Promise
 810_03_costume_name,YoRHa Unofficial Waterfront Gear I
 811_03_costume_name,YoRHa Unofficial Waterfront Gear Prototype
 212_02_costume_name,Detective Nurse
+41_01_costume_name,Undercover
+43_02_costume_name,Secret Police
 820_01_costume_name,Handy Maid
 820_02_costume_name,Pure Blossom
 821_01_costume_name,Clumsy Maid
@@ -152,6 +154,10 @@ costume_name_10_CBT_2022,White Promise
 851_01_costume_name,Planet Diving Suit (6th) V2
 851_02_costume_name,Midsummer Alice
 222_01_costume_name,Racer's High
+840_01_costume_name,Separate Ways
+840_02_costume_name,Dress
+841_01_costume_name,Classic
+841_02_costume_name,Battle Suit
 330_01_costume_name,Naked King
 260_02_costume_name,Second Affection
 431_01_costume_name,Beat the Gun
@@ -423,4 +429,16 @@ Obtained from a Mission Pass."
 272_01_description,"Rouge costume.
 Obtained from the Costume Gacha."
 550_01_description,"Bay costume.
+Obtained from an Event Pass."
+41_1_description,"K costume.
+Obtained from a Mission Pass."
+43_2_description,"D: Killer Wife costume.
+Obtained from the Costume Gacha."
+840_1_description,"Ada costume.
+Obtained from Events."
+840_2_description,"Ada costume.
+Obtained from an Event Pass."
+841_1_description,"Jill costume.
+Obtained from Events."
+841_2_description,"Jill costume.
 Obtained from an Event Pass."

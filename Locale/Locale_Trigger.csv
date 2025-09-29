@@ -377,6 +377,8 @@ trigger_desc_EventBFGCleanUpRewardCheck,Obtain daily rewards in BFG CLEAN UP!
 trigger_desc_ObtainEventCurrencyMaterialBTG,Obtain {0} Premium Tea Bag(s)
 trigger_desc_EventRopeRunningRewardCheck,Obtain daily rewards in MADE IN RUSH
 trigger_desc_ObtainEventCurrencyMaterialCIR,Obtain {0} Intel List(s)
+trigger_desc_EventMiniGameCE007RewardCheck,Obtain daily rewards in Salvation Breakers
+trigger_desc_ObtainEventCurrencyMaterialCE007,Obtain {0} Mixed Herbs
 trigger_desc_ChapterClear,Clear Chapter {0}
 trigger_desc_ChapterClear_1,Clear Chapter 1
 trigger_desc_ChapterClear_2,Clear Chapter 2
@@ -1303,6 +1305,8 @@ trigger_desc_ObtainCharacter_CE005_01,Obtain Asuka: WILLE
 trigger_desc_ObtainCharacter_CE005_02,Obtain Rei (Tentative Name)
 trigger_desc_ObtainCharacter_CE006_01,Obtain EVE
 trigger_desc_ObtainCharacter_CE006_02,Obtain Raven
+trigger_desc_ObtainCharacter_CE007_01,Obtain Ada
+trigger_desc_ObtainCharacter_CE007_02,Obtain Jill
 trigger_desc_CampaignClear_6006004,Clear 6-4 STAGE
 trigger_desc_RookieArenaPlayCount,Play in the Rookie Arena {0} time(s)
 trigger_desc_EventDicePlayCountVR,Take part in Volt Road {0} time(s)

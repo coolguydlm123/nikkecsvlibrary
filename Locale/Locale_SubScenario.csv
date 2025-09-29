@@ -9780,17 +9780,17 @@ d_subquest_1291_s_21,...
 d_subquest_1291_s_22,This is bad.
 d_subquest_1291_s_24,"First, let's get rid of the Raptures."
 d_subquest_1291_s_25,Roger.
-d_subquest_1291_e_1,"In the clearing, there is a small altar, some dishes, cutlery, and decorations. What function they serve is difficult to ascertain."
-d_subquest_1291_e_2,Scattered all about are also...
-d_subquest_1291_e_3,... This is horrible. Did no one make it out alive?
-d_subquest_1291_e_4,What on earth happened here?
-d_subquest_1291_e_5,They're all unarmed civilians.
-d_subquest_1291_e_6,No signs of resistance or any attempt to escape.
+d_subquest_1291_e_1,"In a clearing, a small altar stands, surrounded by bowls, blades, and ornaments whose purpose I can't figure out."
+d_subquest_1291_e_2,And...
+d_subquest_1291_e_3,Man... this is seriously messed up. I don't think anyone's left alive.
+d_subquest_1291_e_4,What in the world happened here...?
+d_subquest_1291_e_5,They were all unarmed civilians.
+d_subquest_1291_e_6,There were... no signs of resistance or even anyone fleeing.
 d_subquest_1291_e_7,...
-d_subquest_1291_e_8,Look at their expressions. Don't they seem strange to you?
+d_subquest_1291_e_8,"Is it just me, or do their faces look kinda off?"
 d_subquest_1291_e_9,How so?
-d_subquest_1291_e_10,They all look so calm.
-d_subquest_1291_e_11,As if they all fell asleep.
+d_subquest_1291_e_10,They all look so peaceful...
+d_subquest_1291_e_11,as if they're asleep.
 d_subquest_1291_e_12,Freaky...
 d_subquest_1291_e_13,I'm not seeing anyone who matches the description the client gave us.
 d_subquest_1291_e_14,Perhaps she was lucky and managed to escape?
@@ -57976,7 +57976,7 @@ m_subquest_1393_s_10,so all we need to do is find something on the surface which
 m_subquest_1393_s_11,"All right, I'll get ready to head up."
 m_subquest_1393_s_12,"All right,"
 m_subquest_1393_s_13,I'll see you later.
-d_subquest_1393_s_1,Might Tools provided us with
+d_subquest_1393_s_1,Mighty Tools provided us with
 d_subquest_1393_s_2,"all the materials we need,"
 d_subquest_1393_s_3,so all we need is to find some trees that will be able to support it.
 d_subquest_1393_s_4,Are you trying to set them up next to the trees at the old location?
@@ -99485,6 +99485,41 @@ d_contents_madeinrush_08_55,"Taking Mustang at his word,"
 d_contents_madeinrush_08_56,"Ade heads to the storage unit inside Coin Rush,"
 d_contents_madeinrush_08_57,which is currently being transformed into a base...
 d_contents_madeinrush_08_58,Bunny Maid Special Agent Training Report: END
+d_contents_ce007_01_title,Fear Again
+d_contents_ce007_01_1,D-WAVE. A series of disappearances.
+d_contents_ce007_01_2,And...
+d_contents_ce007_01_3,Torch of Salvation.
+d_contents_ce007_01_4,"I have to uncover the connection between these three,"
+d_contents_ce007_01_5,"confirm the identities of the missing,"
+d_contents_ce007_01_6,"and, if possible, rescue them."
+d_contents_ce007_01_7,That is the mission that brought me here to this old mansion in the Outer Rim alongside D.
+d_contents_ce007_01_8,"All right, I'm going in."
+d_contents_ce007_01_9,Okay.
+d_contents_ce007_01_10,*Creeeak*
+d_contents_ce007_01_11,The front gate opens to reveal the courtyard.
+d_contents_ce007_01_12,"Thick fog blankets the area, making it hard to see the surroundings."
+d_contents_ce007_01_13,Creepy...
+d_contents_ce007_01_14,You think so?
+d_contents_ce007_01_15,... I'm not so convinced.
+d_contents_ce007_01_16,*Thud!*
+d_contents_ce007_01_17,What was that...?
+d_contents_ce007_01_18,What was what?
+d_contents_ce007_01_19,*Screeeeech!*
+d_contents_ce007_01_20,!!
+d_contents_ce007_01_21,"D-did you hear that, D?"
+d_contents_ce007_01_22,Not really.
+d_contents_ce007_01_23,Aren't you being too jumpy?
+d_contents_ce007_01_24,I-is that so?
+d_contents_ce007_01_25,... I'll keep moving.
+d_contents_ce007_01_26,"Maybe it's because I'm at the mansion that the Torch of Salvation uses as their base,"
+d_contents_ce007_01_27,but I keep hearing sounds like a Rapture nearby.
+d_contents_ce007_01_28,"No, maybe..."
+d_contents_ce007_01_29,"Somewhere inside this thick fog,"
+d_contents_ce007_01_30,a Rapture really is roaming around.
+d_contents_ce007_01_31,"One of the missing people may be running from a Rapture,"
+d_contents_ce007_01_32,or even fighting one right now.
+d_contents_ce007_01_33,...
+d_contents_ce007_01_34,I just hope that's not the case.
 event_coinsinrush_balloon_01_01,Ade?
 event_coinsinrush_balloon_01_02,"What, you're not a maid today?"
 event_coinsinrush_balloon_02_01,M-Master?!
@@ -99546,3 +99581,2703 @@ event_coinsinrush_balloon_30_01,"No, I had no idea."
 event_coinsinrush_balloon_30_02,The Boss really got you.
 event_coinsinrush_balloon_31_01,Did you know about this?
 event_coinsinrush_balloon_31_02,"Yeah, I guess so."
+event_ce007_1_prologue_title,The City Of Chaos
+event_ce007_1_prologue_1,Now for our next report.
+event_ce007_1_prologue_2,"Over the past few days, a series of missing persons cases have been reported across the Ark."
+event_ce007_1_prologue_3,The Central Government has issued an official statement saying that the incidents cannot be classified as serial disappearances.
+event_ce007_1_prologue_4,*Click click*
+event_ce007_1_prologue_5,Case #1.
+event_ce007_1_prologue_6,Missing person: Miles Carter.
+event_ce007_1_prologue_7,Male. 45. Former commander.
+event_ce007_1_prologue_8,"183 cm, 80 kg."
+event_ce007_1_prologue_9,Last seen leaving his home around 11 PM.
+event_ce007_1_prologue_10,His daughter filed a report with the A.C.P.U. two days after his disappearance.
+event_ce007_1_prologue_11,Notable information.
+event_ce007_1_prologue_12,"Lost his leg during an operation on the surface, and has a long history of alcohol abuse."
+event_ce007_1_prologue_13,Recently began counseling at the urging of his daughter.
+event_ce007_1_prologue_14,Those around him say he had been showing improvement and was two months into sobriety.
+event_ce007_1_prologue_15,Counseling? Which counseling center? Confirmation required.
+event_ce007_1_prologue_16,"Meanwhile, the Rapture part discovered at the home of the missing person"
+event_ce007_1_prologue_17,"was said to be debris from a unit destroyed during the recent terrorist attack on the Ark,"
+event_ce007_1_prologue_18,and the Central Government has declared that it is unrelated to the current missing persons case.
+event_ce007_1_prologue_19,"However, some have raised suspicions of a cover-up, fueling ongoing controversy."
+event_ce007_1_prologue_20,*Click click*
+event_ce007_1_prologue_21,Case #4.
+event_ce007_1_prologue_22,Missing person: Iris Monroe.
+event_ce007_1_prologue_23,Female. 68. Former nurse.
+event_ce007_1_prologue_24,"154 cm, 53 kg."
+event_ce007_1_prologue_25,Last seen around 10 AM after leaving to attend a gathering with acquaintances.
+event_ce007_1_prologue_26,"At around 7 PM on the same day, her son filed a report with the A.C.P.U."
+event_ce007_1_prologue_27,"Authorities visited her residence immediately after the report was filed, but it was empty."
+event_ce007_1_prologue_28,Preliminary findings at the scene suggest the entire family has gone missing.
+event_ce007_1_prologue_29,Case classified as a family disappearance.
+event_ce007_1_prologue_30,Notable information.
+event_ce007_1_prologue_31,No signs of forced entry.
+event_ce007_1_prologue_32,A Rapture part was found in the basement.
+event_ce007_1_prologue_33,– A gathering with acquaintances? Unable to verify details.
+event_ce007_1_prologue_34,– The Rapture part was placed on some kind of altar. But for what purpose?
+event_ce007_1_prologue_35,"Conspiracy theories suggesting that the groundwork is being laid for a second Ark terror attack,"
+event_ce007_1_prologue_36,fueling widespread anxiety among the general populace.
+event_ce007_1_prologue_37,*Click click*
+event_ce007_1_prologue_38,Case #8.
+event_ce007_1_prologue_39,Missing person: Elseria Nine
+event_ce007_1_prologue_40,Female. 42. Psychological counselor.
+event_ce007_1_prologue_41,"167 cm, 55 kg."
+event_ce007_1_prologue_42,Exact time of disappearance unknown.
+event_ce007_1_prologue_43,Reported missing to the A.C.P.U. by her last client.
+event_ce007_1_prologue_44,Notable information.
+event_ce007_1_prologue_45,Operated a counseling center.
+event_ce007_1_prologue_46,– Confirmed to be the same center where Miles Carter underwent counseling.
+event_ce007_1_prologue_47,Has a daughter named Deipara.
+event_ce007_1_prologue_48,– No contact with the daughter as of yet. Also missing?
+event_ce007_1_prologue_49,– Why did the daughter fail to report her mother's disappearance?
+event_ce007_1_prologue_50,*Click*
+event_ce007_1_prologue_51,This is no good.
+event_ce007_1_prologue_52,Poli puts the pen down.
+event_ce007_1_prologue_53,*Sigh...*
+event_ce007_1_prologue_54,Poli's eyes shift from the case file to the computer monitor beside her.
+event_ce007_1_prologue_55,At the Partition leading to the Outer Rim.
+event_ce007_1_prologue_56,"A young girl glances around, then slips inside."
+event_ce007_1_prologue_57,The face of the girl captured on CCTV was—
+event_ce007_1_prologue_58,... Deipara.
+event_ce007_1_prologue_59,"It was unmistakably Deipara, as identified in the file for Case #8."
+event_ce007_1_prologue_60,This is the only lead we've got. Can't afford to lose this trail now.
+event_ce007_1_prologue_61,...
+event_ce007_1_prologue_62,Right. Can't afford to lose this trail at all.
+event_ce007_1_prologue_63,Poli grabs her sidearm.
+event_ce007_1_prologue_64,I hope it's nothing serious.
+event_ce007_1_prologue_65,She sets off from the police station.
+event_ce007_1_prologue_66,Case #9.
+event_ce007_1_prologue_67,Missing person: Poli.
+event_ce007_1_prologue_68,A.C.P.U. investigator.
+event_ce007_1_prologue_69,Went missing during the investigation.
+event_ce007_1_prologue_70,Confirmed last seen heading for the Outer Rim.
+event_ce007_1_prologue_71,– All signs point to her pursuing Deipara alone.
+event_ce007_1_prologue_72,Notable information.
+event_ce007_1_prologue_73,Confirmed to have visited the counseling center operated by Elseria Nine on the day of her disappearance.
+event_ce007_1_prologue_74,– The center is currently decommissioned. Entry is not permitted.
+event_ce007_1_prologue_75,"– Recently, a phrase has been reported to be circulating among the staff."
+event_ce007_1_prologue_76,– Umbrella will pave the way forward for us.
+event_ce007_1_01_s_title,The Beginning: A
+event_ce007_1_01_s_1,Right on time.
+event_ce007_1_01_s_2,Take a seat.
+event_ce007_1_01_s_3,I heard a D-WAVE was detected?
+event_ce007_1_01_s_4,Yes.
+event_ce007_1_01_s_5,It was two weeks ago.
+event_ce007_1_01_s_6,A D-WAVE triggered by the entity code-named Gatekeeper was picked up.
+event_ce007_1_01_s_7,"Two weeks ago, you said?"
+event_ce007_1_01_s_8,Why wasn't I notified immediately...?
+event_ce007_1_01_s_9,We had to confirm a few things.
+event_ce007_1_01_s_10,The D-WAVE wasn't detected on the surface this time.
+event_ce007_1_01_s_11,It came from inside the Ark.
+event_ce007_1_01_s_12,!!
+event_ce007_1_01_s_13,We're presently picking up D-WAVE signals from a mansion located in the Outer Rim.
+event_ce007_1_01_s_14,"If we move too hastily, there's a risk of the D-WAVE being exposed to external parties."
+event_ce007_1_01_s_15,This could reignite tensions with the Outer Rim.
+event_ce007_1_01_s_16,Especially since the dust has only just settled from the last Outer Rim incident.
+event_ce007_1_01_s_17,"As such, the Central Government has decided to handle this case with extreme caution."
+event_ce007_1_01_s_18,...
+event_ce007_1_01_s_19,Which brings me to my point.
+event_ce007_1_01_s_20,Have you ever heard of the Torch of Salvation?
+event_ce007_1_01_s_21,The Torch of Salvation?
+event_ce007_1_01_s_22,"I've heard it before, when I was working a case helping that girl, Deipara, search for her mother."
+event_ce007_1_01_s_23,Aren't they the cult that worships Raptures as gods?
+event_ce007_1_01_s_24,It seems you're well-informed.
+event_ce007_1_01_s_25,Take a look at this.
+event_ce007_1_01_s_26,Andersen hands me a document.
+event_ce007_1_01_s_27,The document reads:
+event_ce007_1_01_s_28,"Human life falls into oblivion, throwing the world into turmoil."
+event_ce007_1_01_s_29,New life has been created; a cruel distortion of all things sacred.
+event_ce007_1_01_s_30,Merciless judges descend from the skies.
+event_ce007_1_01_s_31,Do not resist with thy feeble human strength.
+event_ce007_1_01_s_32,"The end is nigh, God."
+event_ce007_1_01_s_33,Guide these foolish mortals to their reckoning.
+event_ce007_1_01_s_34,Is this a prayer?
+event_ce007_1_01_s_35,Where did...?
+event_ce007_1_01_s_36,We recovered this near the mansion where the D-WAVE was detected.
+event_ce007_1_01_s_37,It's supposedly a prayer recited at the Torch of Salvation's gatherings.
+event_ce007_1_01_s_38,And also...
+event_ce007_1_01_s_39,That mansion has been identified as a gathering site for the Torch of Salvation—
+event_ce007_1_01_s_40,We shouldn't go charging in headfirst.
+event_ce007_1_01_s_41,"Unless we want a complete fiasco on our hands,"
+event_ce007_1_01_s_42,the most reliable method is to infiltrate their ranks by posing as a believer.
+event_ce007_1_01_s_43,That's why we've spent the past two weeks gathering all available intel on the Torch of Salvation.
+event_ce007_1_01_s_44,Intel that will be used to help you infiltrate undercover.
+event_ce007_1_01_s_45,...
+event_ce007_1_01_s_46,What?
+event_ce007_1_01_s_47,Your task is simple.
+event_ce007_1_01_s_48,Memorize the materials we've compiled.
+event_ce007_1_01_s_49,Disguise yourself as a believer of the Torch of Salvation.
+event_ce007_1_01_s_50,"Then, enter the mansion and investigate the situation regarding the D-WAVE."
+event_ce007_1_01_s_51,"While you're there, resolve any related incidents you encounter."
+event_ce007_1_01_s_52,You want me to go undercover...
+event_ce007_1_01_s_53,I've heard a lot about your infiltration skills.
+event_ce007_1_01_s_54,"Word is, you've used that skill to close the book on several major cases."
+event_ce007_1_01_s_55,We're counting on you to put those skills to good use once more.
+event_ce007_1_01_s_56,"Just so you know, the Counters won't be accompanying you on this mission."
+event_ce007_1_01_s_57,Moving around the Outer Rim with such prominent individuals poses too great a risk.
+event_ce007_1_01_s_58,"Instead, we've arranged a separate support group."
+event_ce007_1_01_s_59,Return to the Commander's Room. You'll meet them there.
+event_ce007_1_01_s_60,They'll brief you on the remaining mission details.
+event_ce007_1_01_s_61,"Deputy Chief, are you saying..."
+event_ce007_1_01_s_62,That'll be all. I have a very important meeting to attend.
+event_ce007_1_01_s_63,Well then.
+event_ce007_1_01_s_64,I look forward to hearing good news from you.
+event_ce007_1_01_e_title,The Beginning: B
+event_ce007_1_01_e_1,*Zing*
+event_ce007_1_01_e_2,"He said to meet them back at the Commander's Room, but..."
+event_ce007_1_01_e_3,...
+event_ce007_1_01_e_4,It's awfully quiet in here.
+event_ce007_1_01_e_5,Guess I'll just sit and wait.
+event_ce007_1_01_e_6,"I sink into the couch, and everything Andersen just told me comes flooding back."
+event_ce007_1_01_e_7,The D-WAVE.
+event_ce007_1_01_e_8,The Outer Rim.
+event_ce007_1_01_e_9,The mansion.
+event_ce007_1_01_e_10,And...
+event_ce007_1_01_e_11,The Torch of Salvation.
+event_ce007_1_01_e_12,Never thought I'd hear that name again.
+event_ce007_1_01_e_13,A memory of something I saw on the surface hits me abruptly.
+event_ce007_1_01_e_14,"A small altar in the middle of a clearing, and a blade of unknown purpose."
+event_ce007_1_01_e_15,People lying around as if they're asleep.
+event_ce007_1_01_e_16,Each of them holding a Rapture part in their hands.
+event_ce007_1_01_e_17,...
+event_ce007_1_01_e_18,I realize I've been entrusted with a mission far greater than I anticipated.
+event_ce007_1_01_e_19,My mind is racing.
+event_ce007_1_01_e_20,Maybe a splash of water would help clear my head.
+event_ce007_1_01_e_21,*Drip drip*
+event_ce007_1_01_e_22,The sound of a running faucet can be heard from the bathroom.
+event_ce007_1_01_e_23,Did I forget to turn off the water?
+event_ce007_1_01_e_24,"If Rapi finds out, she'll freak o—"
+event_ce007_1_01_e_25,*Drip*
+event_ce007_1_01_e_26,*Drip drip*
+event_ce007_1_01_e_27,Huh?
+event_ce007_1_01_e_28,My nose burns.
+event_ce007_1_01_e_29,I glance at the mirror and see blood flowing.
+event_ce007_1_01_e_30,Just like the people I saw near the altar back then.
+event_ce007_1_01_e_31,*Drip drip drip*
+event_ce007_1_01_e_32,*Drip*
+event_ce007_1_01_e_33,*Whoooosh*
+event_ce007_1_01_e_34,Blood fills the sink.
+event_ce007_1_01_e_35,!!
+event_ce007_1_01_e_36,Aren't you being a bit dramatic?
+event_ce007_1_01_e_37,I thought you'd be used to this by now.
+event_ce007_1_01_e_38,*Huff huff...*
+event_ce007_1_01_e_39,What the...?
+event_ce007_1_01_e_40,"Hey, you OK?"
+event_ce007_1_01_e_41,The blood that filled the sink has completely vanished.
+event_ce007_1_01_e_42,I glance back into the mirror again.
+event_ce007_1_01_e_43,D and K are standing behind me.
+event_ce007_1_01_e_44,Yeah... I'm fine.
+event_ce007_1_01_e_45,"So, you all are the backup Andersen was talking about?"
+event_ce007_1_01_e_46,...
+event_ce007_1_01_e_47,We'll wait outside.
+event_ce007_1_01_e_48,Pull yourself together and come out when you're ready.
+event_ce007_1_01_e_49,"As missing persons reports continue to pour in,"
+event_ce007_1_01_e_50,the Central Government has stated it will take firm action against those who spread false information...
+event_ce007_1_01_e_51,"After washing my face, I step out and see the news is on."
+event_ce007_1_01_e_52,D is leaning against the wall with her arms crossed.
+event_ce007_1_01_e_53,K is sprawled out on the couch.
+event_ce007_1_01_e_54,They're watching the news; both with grim expressions.
+event_ce007_1_01_e_55,"These days, all you hear on TV are stories about people going missing."
+event_ce007_1_01_e_56,...
+event_ce007_1_01_e_57,*Clears throat*
+event_ce007_1_01_e_58,I was told to get the mission details directly from both of you...
+event_ce007_1_01_e_59,*Plop*
+event_ce007_1_01_e_60,Read that first.
+event_ce007_1_01_e_61,We'll talk after.
+event_ce007_1_01_e_62,"D tosses a stack of documents onto the table, then glances back at the news broadcast."
+event_ce007_1_01_e_63,Looks like I won't get a word out of her until I'm finished with the entire pile.
+event_ce007_1_01_e_64,"At the very top of the stack of documents, it reads:"
+event_ce007_1_01_e_65,Case #1.
+event_ce007_1_01_e_66,Missing person: Miles Carter.
+event_ce007_1_01_e_67,Guess I'll take a look.
+event_ce007_1_01_e_68,...
+event_ce007_1_01_e_69,You're a fast reader.
+event_ce007_1_01_e_70,"Now, tell me. What exactly is happening in the Ark?"
+event_ce007_1_01_e_71,"As the question hangs in the air, my eyes remain fixed on the last page of the document."
+event_ce007_1_01_e_72,Case #9.
+event_ce007_1_01_e_73,Missing person: Poli.
+event_ce007_1_01_e_74,The Central Government's trying to keep it hush hush...
+event_ce007_1_01_e_75,"But, as you've just seen, there's been a string of disappearances inside the Ark."
+event_ce007_1_01_e_76,"The missing persons are of all different ages, genders and backgrounds."
+event_ce007_1_01_e_77,One of them is even a Nikke.
+event_ce007_1_01_e_78,"At first glance, there doesn't seem to be any obvious link between them."
+event_ce007_1_01_e_79,K slides a document toward me.
+event_ce007_1_01_e_80,Case #8.
+event_ce007_1_01_e_81,Missing person: Elseria Nine.
+event_ce007_1_01_e_82,Notable information.
+event_ce007_1_01_e_83,Has a daughter named Deipara.
+event_ce007_1_01_e_84,"According to Central Government records, Deipara's mother,"
+event_ce007_1_01_e_85,"Elseria Nine, was involved with a cult called the Torch of Salvation."
+event_ce007_1_01_e_86,So I poked around the counseling center she ran.
+event_ce007_1_01_e_87,"It turns out, every single missing person is somehow connected to that place."
+event_ce007_1_01_e_88,"For example, this guy."
+event_ce007_1_01_e_89,Miles Carter. Turns out he was going there for counseling.
+event_ce007_1_01_e_90,Iris Monroe used to work there as a nurse.
+event_ce007_1_01_e_91,Not only that...
+event_ce007_1_01_e_92,That's enough.
+event_ce007_1_01_e_93,You don't have to spell everything out.
+event_ce007_1_01_e_94,If you say so.
+event_ce007_1_01_e_95,"Anyway, here's the bottom line."
+event_ce007_1_01_e_96,Every one of the missing is tied to Elseria Nine.
+event_ce007_1_01_e_97,Which brings us to the problem:
+event_ce007_1_01_e_98,She's part of a cult that worships Raptures.
+event_ce007_1_01_e_99,...
+event_ce007_1_01_e_100,"So, here's where the D-WAVE is coming from."
+event_ce007_1_01_e_101,"The first person to go missing, Miles Carter, vanished two weeks ago."
+event_ce007_1_01_e_102,"Strangely enough, we picked up the D-WAVE coming from the Outer Rim two weeks ago as well."
+event_ce007_1_01_e_103,Right at the mansion where the Torch of Salvation holds its gatherings.
+event_ce007_1_01_e_104,"Something about this reeks, wouldn't you agree?"
+event_ce007_1_01_e_105,"So the missing persons cases, the D-WAVE, and the Torch of Salvation..."
+event_ce007_1_01_e_106,There's a chance they're all connected?
+event_ce007_1_01_e_107,That's right.
+event_ce007_1_01_e_108,This mission's a lot more complex than the last.
+event_ce007_1_01_e_109,We've got to figure out why the D-WAVE is being detected from the mansion.
+event_ce007_1_01_e_110,Get to the bottom of how it ties into the disappearances.
+event_ce007_1_01_e_111,Verify the identities of all the missing.
+event_ce007_1_01_e_112,"And on top of everything else, rescue them if possible."
+event_ce007_1_01_e_113,"Naturally, if we uncover anything else felonious from the Torch of Salvation while we're at it..."
+event_ce007_1_01_e_114,We'll have to decide whether or not to eliminate them. Simple enough?
+event_ce007_1_01_e_115,"So the Torch of Salvation's our target this time around, huh."
+event_ce007_1_01_e_116,That's what we were told.
+event_ce007_1_01_e_117,"As usual, you and D will handle the infiltration."
+event_ce007_1_01_e_118,Just pose as a married couple who have been brainwashed by the cult and attend one of their gatherings.
+event_ce007_1_01_e_119,And what'll you be doing?
+event_ce007_1_01_e_120,I'll go solo again this time.
+event_ce007_1_01_e_121,I've got a bad feeling about something.
+event_ce007_1_01_e_122,So I want to look into it first.
+event_ce007_1_01_e_123,All right.
+event_ce007_1_01_e_124,Now that you've been briefed on the mission...
+event_ce007_1_01_e_125,*Plop*
+event_ce007_1_01_e_126,Start by memorizing what's written there.
+event_ce007_1_01_e_127,"D tosses another stack of documents onto the table, then turns back to the news broadcast."
+event_ce007_1_01_e_128,"Once again, it seems she won't say another word until I've read through everything."
+event_ce007_1_01_e_129,"Just from skimming through, it looks like this is the backstory for the couple we're supposed to play."
+event_ce007_1_01_e_130,You want me to memorize all of this...?
+event_ce007_1_01_e_131,Hehe. I'm off to handle some stuff.
+event_ce007_1_01_e_132,Let's give this our all.
+event_ce007_1_01_e_133,In the name of justice.
+event_ce007_1_02_s_title,What's Going On?: A
+event_ce007_1_02_s_1,They're husband and wife.
+event_ce007_1_02_s_2,"Both of them come from the Quotidian class,"
+event_ce007_1_02_s_3,and have been living a fairly uneventful life in the Ark.
+event_ce007_1_02_s_4,Annette works as a nurse.
+event_ce007_1_02_s_5,On the other hand her husband...
+event_ce007_1_02_s_6,"Speaking of which, what alias should I use this time?"
+event_ce007_1_02_s_7,...
+event_ce007_1_02_s_8,"William, I believe you should be able to come up with something on your own."
+event_ce007_1_02_s_9,... Sorry. Go on.
+event_ce007_1_02_s_10,"Her husband, William, is a researcher at a pharmaceutical company."
+event_ce007_1_02_s_11,"Despite the couple's busy schedule,"
+event_ce007_1_02_s_12,they never forget to shower each other with attention.
+event_ce007_1_02_s_13,Everyone around them speaks highly of how happy their marriage seems.
+event_ce007_1_02_s_14,You're home! You must've had a long day.
+event_ce007_1_02_s_15,Yeah. You too...
+event_ce007_1_02_s_16,...
+event_ce007_1_02_s_17,"You must've had a long day yourself, Darling."
+event_ce007_1_02_s_18,"Hehe, not at all."
+event_ce007_1_02_s_19,"Oh? What's that, Honey?"
+event_ce007_1_02_s_20,These? They're... uh...
+event_ce007_1_02_s_21,... The flowers are absolutely beautiful.
+event_ce007_1_02_s_22,"Ah, right. The flowers."
+event_ce007_1_02_s_23,"I thought of you on the way home, so I picked them up."
+event_ce007_1_02_s_24,Thank you.
+event_ce007_1_02_s_25,...
+event_ce007_1_02_s_26,"""She loves nothing more than flowers from her husband."""
+event_ce007_1_02_s_27,"That part of the script never seems to change, no matter what role I play..."
+event_ce007_1_02_s_28,Honey?
+event_ce007_1_02_s_29,It's nothing.
+event_ce007_1_02_s_30,Then one day...
+event_ce007_1_02_s_31,Calamity befalls the couple.
+event_ce007_1_02_s_32,A medical accident occurs at William's pharmaceutical company.
+event_ce007_1_02_s_33,All the blame is pinned entirely on poor William.
+event_ce007_1_02_s_34,"The couple suddenly becomes buried in debt,"
+event_ce007_1_02_s_35,and their idyllic life collapses overnight.
+event_ce007_1_02_s_36,"Despite this, Annette never blames William."
+event_ce007_1_02_s_37,Instead...
+event_ce007_1_02_s_38,"It's all right. What happened wasn't your fault, Honey."
+event_ce007_1_02_s_39,It's the world that's gone crazy.
+event_ce007_1_02_s_40,Don't worry.
+event_ce007_1_02_s_41,The judges will be sent from above to guide everyone toward the end. Hehe.
+event_ce007_1_02_s_42,They begin to blame the world for turning its back on them.
+event_ce007_1_02_s_43,"Soon, the couple becomes devoted to the Torch of Salvation."
+event_ce007_1_02_s_44,"With their faith deepened, the couple decide to attend a gathering purportedly being held at a certain mansion."
+event_ce007_1_02_s_45,"Thus, they quietly head for the Outer Rim."
+event_ce007_1_02_s_46,"They even bring a bouquet of flowers, hoping to be welcomed as initiates into the faith—"
+event_ce007_1_02_s_47,*Crinkle*
+event_ce007_1_02_s_48,The residential area near the mansion is eerily quiet.
+event_ce007_1_02_s_49,It's rather unsettling.
+event_ce007_1_02_s_50,It's like there's no one around at all.
+event_ce007_1_02_s_51,Only pages filled with prayer script are scattered about.
+event_ce007_1_02_s_52,There's no sign of life anywhere.
+event_ce007_1_02_s_53,"When K and I were digging around,"
+event_ce007_1_02_s_54,this area was crawling with cultists.
+event_ce007_1_02_s_55,"So, what now, Darling?"
+event_ce007_1_02_s_56,Let's start by checking out the area.
+event_ce007_1_02_s_57,...
+event_ce007_1_02_s_58,"Given the situation, I think we can drop the act."
+event_ce007_1_02_s_59,D and I split up to look around.
+event_ce007_1_02_s_60,"While there are signs someone was living here recently,"
+event_ce007_1_02_s_61,the place itself is completely empty.
+event_ce007_1_02_s_62,The only thing worth noting is...
+event_ce007_1_02_s_63,Some sort of graffiti has been scrawled all over the walls.
+event_ce007_1_02_s_64,Is that an umbrella...?
+event_ce007_1_02_s_65,Why would someone draw something like that here?
+event_ce007_1_02_s_66,Does it mean anything?
+event_ce007_1_02_s_67,"I stare at the umbrella graffiti for a while,"
+event_ce007_1_02_s_68,but it offers no answers.
+event_ce007_1_02_s_69,Hmm...
+event_ce007_1_02_s_70,I turn my head and see the mansion looming in the distance.
+event_ce007_1_02_s_71,"From the moment I saw it, the mansion felt like it didn't belong in the Outer Rim."
+event_ce007_1_02_s_72,"What's a perfectly intact mansion like this doing in the Outer Rim, you ask?"
+event_ce007_1_02_s_73,Beats me.
+event_ce007_1_02_s_74,A strange rumor has been spreading in the Outer Rim.
+event_ce007_1_02_s_75,Locals warn others not to go near the mansion.
+event_ce007_1_02_s_76,"""Stay far away from the mansion, unless you want misfortune to come your way."""
+event_ce007_1_02_s_77,Maybe that's why it's still so intact?
+event_ce007_1_02_s_78,This place gives me the creeps.
+event_ce007_1_02_s_79,...
+event_ce007_1_02_s_80,Maybe I should head to where D is.
+event_ce007_1_02_s_81,I'm pretty sure I saw her heading that way earlier.
+event_ce007_1_02_s_82,*Creeaak*
+event_ce007_1_02_s_83,D? You here?
+event_ce007_1_02_s_84,*Slide*
+event_ce007_1_02_s_85,!!
+event_ce007_1_02_s_86,*Bang*
+event_ce007_1_02_s_87,Sorry.
+event_ce007_1_02_s_88,Hm?
+event_ce007_1_02_s_89,"I, er... didn't realize you were changing."
+event_ce007_1_02_s_90,I am slipping into something that'll be easier to move around in.
+event_ce007_1_02_s_91,No point in pretending that we're a couple at this point.
+event_ce007_1_02_s_92,"So, did you see anything?"
+event_ce007_1_02_s_93,I noticed some strange graffiti drawn all over the place.
+event_ce007_1_02_s_94,"But other than that, nothing unusual."
+event_ce007_1_02_s_95,...
+event_ce007_1_02_s_96,Nothing out of the ordinary?
+event_ce007_1_02_s_97,That makes all this even more suspicious.
+event_ce007_1_02_s_98,I hear a door open behind me.
+event_ce007_1_02_s_99,D has changed back into her usual outfit.
+event_ce007_1_02_s_100,Doesn't look like there's anything else to learn here.
+event_ce007_1_02_s_101,Let's head to the mansion.
+event_ce007_1_02_s_102,"With any luck, we might find some sort of lead there."
+event_ce007_1_02_s_103,Target located.
+event_ce007_1_02_s_104,...
+event_ce007_1_02_s_105,Keep up your end of the bargain.
+event_ce007_1_02_s_106,And I'll do the same.
+event_ce007_1_02_e_title,What's Going On?: B
+event_ce007_1_02_e_1,The mansion is heavily guarded.
+event_ce007_1_02_e_2,There's no way to sneak in.
+event_ce007_1_02_e_3,The only way we can get inside without causing a scene...
+event_ce007_1_02_e_4,Is by reciting this prayer to prove we are believers.
+event_ce007_1_02_e_5,Memorize all this from top to bottom.
+event_ce007_1_02_e_6,And don't even think about complaining.
+event_ce007_1_02_e_7,"I spent the whole night memorizing everything, just as D had told me..."
+event_ce007_1_02_e_8,"Unfortunately, I never got to use what I memorized."
+event_ce007_1_02_e_9,"Contrary to what D told me previously, getting into the mansion ended up being extremely easy."
+event_ce007_1_02_e_10,Especially since there wasn't even any security.
+event_ce007_1_02_e_11,...
+event_ce007_1_02_e_12,...
+event_ce007_1_02_e_13,"Much like the residential district, the mansion is deserted."
+event_ce007_1_02_e_14,*Creak creak*
+event_ce007_1_02_e_15,"Aside from the ominous creaking of the floorboards under my feet,"
+event_ce007_1_02_e_16,absolutely nothing else could be heard.
+event_ce007_1_02_e_17,Looks like this place is empty too.
+event_ce007_1_02_e_18,K and I scoped out the mansion's surroundings only two days ago.
+event_ce007_1_02_e_19,What the heck happened between then and now?
+event_ce007_1_02_e_20,Did they...
+event_ce007_1_02_e_21,Did they catch wind of us snooping around?
+event_ce007_1_02_e_22,"Hey, D?"
+event_ce007_1_02_e_23,But if that was so...
+event_ce007_1_02_e_24,D?
+event_ce007_1_02_e_25,...
+event_ce007_1_02_e_26,It seems whatever I'm saying now is not getting through to D.
+event_ce007_1_02_e_27,I leave D to her thoughts and start surveying the lobby.
+event_ce007_1_02_e_28,"In the center of the lobby,"
+event_ce007_1_02_e_29,I step carefully past a shattered chandelier
+event_ce007_1_02_e_30,and spot a half-destroyed statue of a goddess.
+event_ce007_1_02_e_31,"Not quite your ordinary house, that's for sure."
+event_ce007_1_02_e_32,The moment I approach the creepy statue...
+event_ce007_1_02_e_33,I notice a long trail of red stains stretching down the hallway.
+event_ce007_1_02_e_34,"D, you might want to see this."
+event_ce007_1_02_e_35,The trail of blood leads straight into the dining room.
+event_ce007_1_02_e_36,What a mess.
+event_ce007_1_02_e_37,You can say that again.
+event_ce007_1_02_e_38,"The dining room is in complete disarray, with rotten food scattered everywhere."
+event_ce007_1_02_e_39,"Yet, the foul stench lingering in the air was not coming from spoiled food."
+event_ce007_1_02_e_40,It was coming from somewhere else instead.
+event_ce007_1_02_e_41,I'll go check it out on my own.
+event_ce007_1_02_e_42,"No, let's go together."
+event_ce007_1_02_e_43,"The blood trail winds past the dining table, stopping at a shelf in the corner."
+event_ce007_1_02_e_44,And at the end of the trail...
+event_ce007_1_02_e_45,...
+event_ce007_1_02_e_46,There's a corpse.
+event_ce007_1_02_e_47,The body has been horribly mangled.
+event_ce007_1_02_e_48,The blood hasn't even dried yet.
+event_ce007_1_02_e_49,It's clear this just happened.
+event_ce007_1_02_e_50,What in the world is going on here?
+event_ce007_1_02_e_51,Suddenly...
+event_ce007_1_02_e_52,*Clack*
+event_ce007_1_02_e_53,I feel something cold press into my back.
+event_ce007_1_02_e_54,!!
+event_ce007_1_02_e_55,Lower your weapon.
+event_ce007_1_02_e_56,It's best you don't do anything foolish.
+event_ce007_1_02_e_57,"That is, if you want to keep him alive."
+event_ce007_1_02_e_58,... Identify yourself.
+event_ce007_1_02_e_59,FBI...
+event_ce007_1_02_e_60,... but I supposed you wouldn't know what that is.
+event_ce007_1_02_e_61,"Sorry, but who I am is classified."
+event_ce007_1_02_e_62,"Here's a friendly tip, though."
+event_ce007_1_02_e_63,Stop asking questions and get out of here while you still can.
+event_ce007_1_03_s_title,Cerberus: A
+event_ce007_1_03_s_1,*Clack*
+event_ce007_1_03_s_2,*Click*
+event_ce007_1_03_s_3,Hmm...
+event_ce007_1_03_s_4,*Clack*
+event_ce007_1_03_s_5,*Click*
+event_ce007_1_03_s_6,Mmm...
+event_ce007_1_03_s_7,*Clack*
+event_ce007_1_03_s_8,*Click*
+event_ce007_1_03_s_9,Mmmmmm...
+event_ce007_1_03_s_10,*Clack*
+event_ce007_1_03_s_11,"Miranda, are you all right?"
+event_ce007_1_03_s_12,Huh? Yes. Of course!
+event_ce007_1_03_s_13,I was just doing my usual firearms check.
+event_ce007_1_03_s_14,At this hour? The workday's over.
+event_ce007_1_03_s_15,Uh...
+event_ce007_1_03_s_16,The A.C.P.U. works for our citizens around the clock!
+event_ce007_1_03_s_17,... How was that? Did it sound cool?
+event_ce007_1_03_s_18,Not really.
+event_ce007_1_03_s_19,I don't think that's something you should be saying in this situation.
+event_ce007_1_03_s_20,Is that so?
+event_ce007_1_03_s_21,Cherish your gun like you would a loved one!
+event_ce007_1_03_s_22,... What about that?
+event_ce007_1_03_s_23,This doesn't quite fit the situation either...
+event_ce007_1_03_s_24,"Oh, really?"
+event_ce007_1_03_s_25,Then...
+event_ce007_1_03_s_26,Uh...
+event_ce007_1_03_s_27,"Darn, this isn't good."
+event_ce007_1_03_s_28,I'm officially out of excuses...
+event_ce007_1_03_s_29,...
+event_ce007_1_03_s_30,Hang on.
+event_ce007_1_03_s_31,"You're not planning on waiting until I'm off-duty and then heading to the Outer Rim, are you?"
+event_ce007_1_03_s_32,*Hiccup!*
+event_ce007_1_03_s_33,The boss already told us:
+event_ce007_1_03_s_34,"Since there's no way HQ is ever going to authorize an investigation, we've been told to stand by for now."
+event_ce007_1_03_s_35,"But you're still investigating, aren't you, Quiry?"
+event_ce007_1_03_s_36,"Er, w-well..."
+event_ce007_1_03_s_37,Quiry quickly shuts the file folder she's carrying.
+event_ce007_1_03_s_38,"The document she was reading is labeled ""Case #9""."
+event_ce007_1_03_s_39,I can't sit by and do nothing.
+event_ce007_1_03_s_40,"I'm sorry, but I have to head out to the Outer Rim to find Poli."
+event_ce007_1_03_s_41,But we'd be defying orders...
+event_ce007_1_03_s_42,Fine by me!
+event_ce007_1_03_s_43,I've gotten used to filling out disciplinary reports!
+event_ce007_1_03_s_44,Ten pages.
+event_ce007_1_03_s_45,"I mean, six pages."
+event_ce007_1_03_s_46,"No, three pages! I can fill that out in my sleep!"
+event_ce007_1_03_s_47,I think we'd be in for more than just a disciplinary report...
+event_ce007_1_03_s_48,"Ooh, even better!"
+event_ce007_1_03_s_49,Then I won't have to write one at all!
+event_ce007_1_03_s_50,"No, what I'm saying is..."
+event_ce007_1_03_s_51,Besides...
+event_ce007_1_03_s_52,Poli would've done the same for us!
+event_ce007_1_03_s_53,...
+event_ce007_1_03_s_54,Quiry turns to the whiteboard placed in the corner of the police station.
+event_ce007_1_03_s_55,Her vision is too blurry to make out what's written on it.
+event_ce007_1_03_s_56,"But the photo of Poli, pinned at the center of the board,"
+event_ce007_1_03_s_57,stood out perfectly clear to her.
+event_ce007_1_03_s_58,"All right, I'm off!"
+event_ce007_1_03_s_59,Miranda.
+event_ce007_1_03_s_60,Yes?
+event_ce007_1_03_s_61,I'm coming with you.
+event_ce007_1_03_s_62,"So, what's our first course of action?"
+event_ce007_1_03_s_63,Uh... are you asking me?
+event_ce007_1_03_s_64,"It's just you and me, so who else would I be asking?"
+event_ce007_1_03_s_65,"And no more jumping out of the shadows like last time, OK?"
+event_ce007_1_03_s_66,It honestly scares me to death when you do!
+event_ce007_1_03_s_67,So what you're telling me is you came out here without a plan.
+event_ce007_1_03_s_68,Hmm...
+event_ce007_1_03_s_69,"Well, this is where Poli's signal was last detected..."
+event_ce007_1_03_s_70,Why don't we start by searching around this area?
+event_ce007_1_03_s_71,"Also, is it just me, or does this place feel kinda creepy?"
+event_ce007_1_03_s_72,There isn't a soul around...
+event_ce007_1_03_s_73,"Hey, do you see that?"
+event_ce007_1_03_s_74,There's a mansion over there.
+event_ce007_1_03_s_75,Let's check it out!
+event_ce007_1_03_s_76,This is the A.C.P.U.! We're coming in!
+event_ce007_1_03_s_77,Miranda yanks open the front doors and strides confidently through.
+event_ce007_1_03_s_78,"Uh... We really shouldn't be barging in like this, Miranda..."
+event_ce007_1_03_s_79,"As the front door opened, a courtyard came into view."
+event_ce007_1_03_s_80,What's that...?
+event_ce007_1_03_s_81,"In Quiry's hazy field of vision, three furry shapes appear."
+event_ce007_1_03_s_82,... Poli?
+event_ce007_1_03_s_83,*Grrr*
+event_ce007_1_03_s_84,Huh?
+event_ce007_1_03_s_85,*Bark!*
+event_ce007_1_03_s_86,Th-that's not Poli!!
+event_ce007_1_03_s_87,Run!
+event_ce007_1_03_s_88,*Bark! Bark!*
+event_ce007_1_03_s_89,"Three dogs lunge towards them. Their eyes glow a sinister red, as if infected by something."
+event_ce007_1_03_s_90,Where did they come from?!
+event_ce007_1_03_s_91,*Bark! Bark!*
+event_ce007_1_03_s_92,Ugh...!
+event_ce007_1_03_s_93,Just as the largest one opens its jaws...
+event_ce007_1_03_s_94,*Bang*
+event_ce007_1_03_s_95,Two women appear from behind.
+event_ce007_1_03_s_96,*Bang! Bang!*
+event_ce007_1_03_s_97,"One of them fires a launcher into the air,"
+event_ce007_1_03_s_98,causing the dogs to flee into the distance.
+event_ce007_1_03_s_99,*Huff huff...*
+event_ce007_1_03_s_100,You OK?
+event_ce007_1_03_s_101,Than... Thanks a bunch...
+event_ce007_1_03_s_102,But... who are you?
+event_ce007_1_03_s_103,I should be asking you the same thing.
+event_ce007_1_03_s_104,"What the hell is this place, and who are you people?"
+event_ce007_1_03_e_title,Cerberus: B
+event_ce007_1_03_e_1,*Crash*
+event_ce007_1_03_e_2,Hold the door! We've gotta keep them out!
+event_ce007_1_03_e_3,O-OK!
+event_ce007_1_03_e_4,*Bark! Bark! Bark!*
+event_ce007_1_03_e_5,*Thud! Thud! Thud!*
+event_ce007_1_03_e_6,Damn... another mansion?
+event_ce007_1_03_e_7,Am I caught in a nightmare...?
+event_ce007_1_03_e_8,Ow!
+event_ce007_1_03_e_9,!!
+event_ce007_1_03_e_10,Don't worry!
+event_ce007_1_03_e_11,"I just pinched my cheek, and it definitely hurt."
+event_ce007_1_03_e_12,That means this is no nightmare!
+event_ce007_1_03_e_13,"If you're still not convinced, I can pinch your cheek too if you like."
+event_ce007_1_03_e_14,...
+event_ce007_1_03_e_15,"That's so thoughtful, I'm tearing up."
+event_ce007_1_03_e_16,You're most welcome!
+event_ce007_1_03_e_17,Can we save the banter for later?
+event_ce007_1_03_e_18,*Bark! Bark! Bark!*
+event_ce007_1_03_e_19,*Thud! Thud! Thud!*
+event_ce007_1_03_e_20,Urgh!
+event_ce007_1_03_e_21,Hrrrrngh!
+event_ce007_1_03_e_22,*Bark! Bark! Bark!*
+event_ce007_1_03_e_23,*Thud! Thud! Thud!*
+event_ce007_1_03_e_24,*Bark!*
+event_ce007_1_03_e_25,...
+event_ce007_1_03_e_26,...
+event_ce007_1_03_e_27,...
+event_ce007_1_03_e_28,The violently shaking door finally stops.
+event_ce007_1_03_e_29,Phew...
+event_ce007_1_03_e_30,I-I think they're all gone now...
+event_ce007_1_03_e_31,"I thought the gunfire scared them off, but they brought friends instead."
+event_ce007_1_03_e_32,"If we'd arrived any later, things could've been a disaster."
+event_ce007_1_03_e_33,Yeah... that was too close for comfort.
+event_ce007_1_03_e_34,"Anyway, now that things have calmed down, let's get some proper introductions going."
+event_ce007_1_03_e_35,I'm Claire. Claire Redfield.
+event_ce007_1_03_e_36,I'm Quiry from the A.C.P.U.
+event_ce007_1_03_e_37,Thanks for your help.
+event_ce007_1_03_e_38,And this here is...
+event_ce007_1_03_e_39,"I'm Miranda, also with the A.C.P.U.!"
+event_ce007_1_03_e_40,The A.C.P.U.?
+event_ce007_1_03_e_41,That's right!
+event_ce007_1_03_e_42,"We're the police, safeguarding citizens' safety."
+event_ce007_1_03_e_43,That's what the A.C.P.U. does!
+event_ce007_1_03_e_44,"So, you're both police officers."
+event_ce007_1_03_e_45,Then...
+event_ce007_1_03_e_46,Have you heard of a man called Chris?
+event_ce007_1_03_e_47,He's my brother. He works for the Raccoon City Police Department.
+event_ce007_1_03_e_48,"I haven't been able to reach him, so I've been looking for him."
+event_ce007_1_03_e_49,The R-Raccoon City Police Department...?
+event_ce007_1_03_e_50,Uh... I'm not too sure.
+event_ce007_1_03_e_51,"Have you heard of that, Quiry?"
+event_ce007_1_03_e_52,"No, this is my first time hearing about this department."
+event_ce007_1_03_e_53,Same goes for this man Chris.
+event_ce007_1_03_e_54,I see...
+event_ce007_1_03_e_55,It's a pity...
+event_ce007_1_03_e_56,...
+event_ce007_1_03_e_57,Ahem.
+event_ce007_1_03_e_58,I guess that leaves my introduction?
+event_ce007_1_03_e_59,Uh... yeah.
+event_ce007_1_03_e_60,And you are...?
+event_ce007_1_03_e_61,Name's Jill. Jill Valentine.
+event_ce007_1_03_e_62,Claire and Jill. Got it.
+event_ce007_1_03_e_63,Can I ask how exactly you two ended up here?
+event_ce007_1_03_e_64,Well...
+event_ce007_1_03_e_65,I realize how crazy this probably sounds...
+event_ce007_1_03_e_66,But I'm curious about that myself.
+event_ce007_1_03_e_67,Oh?
+event_ce007_1_03_e_68,"I was in a chopper, getting evacuated from Raccoon City,"
+event_ce007_1_03_e_69,when everything went blurry.
+event_ce007_1_03_e_70,"Next thing I knew, I was here."
+event_ce007_1_03_e_71,!!
+event_ce007_1_03_e_72,You too?
+event_ce007_1_03_e_73,I was trying to escape Raccoon City when everything started going blurry too.
+event_ce007_1_03_e_74,"Before I knew it, I saw the two of them getting attacked."
+event_ce007_1_03_e_75,I just reacted and sprang into action.
+event_ce007_1_03_e_76,What the hell happened to us?
+event_ce007_1_intermission_01_title,Strange Realm
+event_ce007_1_intermission_01_1,Um...
+event_ce007_1_intermission_01_2,So to sum things up...
+event_ce007_1_intermission_01_3,Neither of you have heard of the Ark or the Outer Rim?
+event_ce007_1_intermission_01_4,"And you've never heard of Nikkes or Raptures, either?"
+event_ce007_1_intermission_01_5,Nope.
+event_ce007_1_intermission_01_6,And on our end...
+event_ce007_1_intermission_01_7,"We've never heard of this Raccoon City you say you escaped from,"
+event_ce007_1_intermission_01_8,"and it's the first time we've heard of S.T.A.R.S., the unit Jill belongs to."
+event_ce007_1_intermission_01_9,...
+event_ce007_1_intermission_01_10,This is bizarre.
+event_ce007_1_intermission_01_11,It feels like I'm in a dream...
+event_ce007_1_intermission_01_12,"A dream, you say?"
+event_ce007_1_intermission_01_13,The offer to pinch your cheek is still open!
+event_ce007_1_intermission_01_14,"... Thanks, but no thanks."
+event_ce007_1_intermission_01_15,All right!
+event_ce007_1_intermission_01_16,"If you change your mind, just say the word!"
+event_ce007_1_intermission_01_17,... Sure thing.
+event_ce007_1_intermission_01_18,"Actually, there's one more thing."
+event_ce007_1_intermission_01_19,"If you've never heard of Raccoon City,"
+event_ce007_1_intermission_01_20,I'm guessing Umbrella Corporation doesn't ring a bell either?
+event_ce007_1_intermission_01_21,Um...brella?
+event_ce007_1_intermission_01_22,Hmm. I figured as much.
+event_ce007_1_intermission_01_23,Those dogs you were attacked by seemed to be infected by a virus.
+event_ce007_1_intermission_01_24,That made me think Umbrella might be up to no good here as well.
+event_ce007_1_intermission_01_25,It's impossible to say for certain...
+event_ce007_1_intermission_01_26,But one thing's clear—something's definitely going on.
+event_ce007_1_intermission_01_27,"So, Quiry and Miranda, what brings you to this mansion?"
+event_ce007_1_intermission_01_28,I doubt a pair of cops would be coming to an old mansion like this just for a social call.
+event_ce007_1_intermission_01_29,Is this related to a case?
+event_ce007_1_intermission_01_30,Ah... well...
+event_ce007_1_intermission_01_31,Yep! That's right.
+event_ce007_1_intermission_01_32,We're here to find a colleague of ours who's gone missing. Her name's Poli.
+event_ce007_1_intermission_01_33,A missing colleague?
+event_ce007_1_intermission_01_34,"Yeah, she was conducting an investigation, and went missing around this area."
+event_ce007_1_intermission_01_35,Um...
+event_ce007_1_intermission_01_36,You both are free to go.
+event_ce007_1_intermission_01_37,But with Poli's disappearance...
+event_ce007_1_intermission_01_38,And those dogs from earlier...
+event_ce007_1_intermission_01_39,"I'd say it's rather dangerous, so we can escort you somewhere safer."
+event_ce007_1_intermission_01_40,"You said Ra...ccoon City, right?"
+event_ce007_1_intermission_01_41,"I'll check with my boss about this place, so don't you worry."
+event_ce007_1_intermission_01_42,What about you two?
+event_ce007_1_intermission_01_43,We still need to find Poli.
+event_ce007_1_intermission_01_44,... You couldn't even handle those dogs earlier.
+event_ce007_1_intermission_01_45,Th-that's because...!
+event_ce007_1_intermission_01_46,It's fine.
+event_ce007_1_intermission_01_47,"We'll stay and help you look for your friend, Poli."
+event_ce007_1_intermission_01_48,"Besides, by investigating this mansion..."
+event_ce007_1_intermission_01_49,we might find out how we ended up here.
+event_ce007_1_intermission_01_50,There's gotta be a connection.
+event_ce007_1_intermission_01_51,...
+event_ce007_1_intermission_01_52,Makes sense to me.
+event_ce007_1_intermission_01_53,This place is dangerous. We should stick together.
+event_ce007_1_intermission_01_54,... I appreciate your help.
+event_ce007_1_intermission_01_55,"I've no idea how we wound up here, but why don't we kick off the investigation from here?"
+event_ce007_1_intermission_01_56,"First off, where..."
+event_ce007_1_intermission_01_57,It looks like we're in the annex.
+event_ce007_1_intermission_01_58,It says so here on this emergency exit map!
+event_ce007_1_intermission_01_59,Miranda points to a bulletin board on the wall.
+event_ce007_1_intermission_01_60,"On the bulletin board, there's an emergency exit map, as well as..."
+event_ce007_1_intermission_01_61,Hmm. Looks like this annex was used as a dorm.
+event_ce007_1_intermission_01_62,A dorm schedule...
+event_ce007_1_intermission_01_63,What the... what kind of screwed up rule is that?
+event_ce007_1_intermission_01_64,"What do they mean by ""ignore any child you hear calling for help""?"
+event_ce007_1_intermission_01_65,A list of dorm rules and regulations...
+event_ce007_1_intermission_01_66,And...
+event_ce007_1_intermission_01_67,Isn't this...!
+event_ce007_1_intermission_01_68,A notice stamped with an umbrella-shaped logo was posted up.
+event_ce007_1_intermission_01_69,'Informed Consent Form for Clinical Trial'
+event_ce007_1_04_s_title,Coming To Kill You: A
+event_ce007_1_04_s_1,While I appreciate the free advice...
+event_ce007_1_04_s_2,"The fact you're telling me to stop asking questions and leave,"
+event_ce007_1_04_s_3,tells me you know something about what's going on here.
+event_ce007_1_04_s_4,Who knows?
+event_ce007_1_04_s_5,What do you think?
+event_ce007_1_04_s_6,I feel a gun barrel press against the back of my neck.
+event_ce007_1_04_s_7,"Whether you know or not, I just hope you're on our side."
+event_ce007_1_04_s_8,"Sure, I'm on your side. As long as you turn around and walk out of this mansion without a fuss."
+event_ce007_1_04_s_9,"So, what's it going to be?"
+event_ce007_1_04_s_10,...
+event_ce007_1_04_s_11,I stare at the corpse.
+event_ce007_1_04_s_12,The upper half has been savagely torn apart.
+event_ce007_1_04_s_13,No gun or blade could've caused that.
+event_ce007_1_04_s_14,Which means something other than this woman was responsible.
+event_ce007_1_04_s_15,Something like a savage beast... maybe a wolf of some kind...
+event_ce007_1_04_s_16,*Ssshhk*
+event_ce007_1_04_s_17,Or something like that Rapture I just saw climbing through the window...
+event_ce007_1_04_s_18,"... Wait, Rapture?"
+event_ce007_1_04_s_19,!!
+event_ce007_1_04_s_20,A-am I the only one who saw that?
+event_ce007_1_04_s_21,Don't even think of distracting me with strange comments...
+event_ce007_1_04_s_22,*Bang!*
+event_ce007_1_04_s_23,Gunfire...?
+event_ce007_1_04_s_24,*Bang! Bang!*
+event_ce007_1_04_s_25,This way!
+event_ce007_1_04_s_26,Oof!
+event_ce007_1_04_s_27,"As if on cue, D grabs me by the collar,"
+event_ce007_1_04_s_28,*Whoosh*
+event_ce007_1_04_s_29,and raises her axe to the woman's throat.
+event_ce007_1_04_s_30,You OK?
+event_ce007_1_04_s_31,*Cough cough*
+event_ce007_1_04_s_32,Thanks for that.
+event_ce007_1_04_s_33,"My neck's a little sore, though..."
+event_ce007_1_04_s_34,...
+event_ce007_1_04_s_35,Lower your weapon.
+event_ce007_1_04_s_36,Don't do anything foolish.
+event_ce007_1_04_s_37,You're pretty good.
+event_ce007_1_04_s_38,But are you really bringing an axe to a gun party?
+event_ce007_1_04_s_39,Wanna see who's faster?
+event_ce007_1_04_s_40,"Even with the axe blade resting against her throat, the woman remains utterly unperturbed."
+event_ce007_1_04_s_41,"Instead, she merely flashes a calm and confident smile."
+event_ce007_1_04_s_42,It's the same for D.
+event_ce007_1_04_s_43,"Even with a gun pointed at her head, she remains as composed as ever."
+event_ce007_1_04_s_44,At this rate...
+event_ce007_1_04_s_45,Wait!
+event_ce007_1_04_s_46,Hey!
+event_ce007_1_04_s_47,My name is {AccountData.NickName}.
+event_ce007_1_04_s_48,I'm here to investigate a missing persons case.
+event_ce007_1_04_s_49,I have reason to believe the Torch of Salvation might be involved.
+event_ce007_1_04_s_50,A missing persons case?
+event_ce007_1_04_s_51,What about it?
+event_ce007_1_04_s_52,"I don't know why you're here,"
+event_ce007_1_04_s_53,but we could be after the same thing here. Maybe we can...
+event_ce007_1_04_s_54,*Clang*
+event_ce007_1_04_s_55,!!
+event_ce007_1_04_s_56,Glass shatters as something bursts through the window.
+event_ce007_1_04_s_57,On one Rapture leg...
+event_ce007_1_04_s_58,is the upper body of a mass-produced Nikke...
+event_ce007_1_04_s_59,fused to some... thing.
+event_ce007_1_04_s_60,What the hell is that?
+event_ce007_1_04_s_61,*Gaaaaaahhhh*
+event_ce007_1_04_s_62,I've about had it with these interruptions.
+event_ce007_1_04_s_63,Follow me.
+event_ce007_1_04_s_64,And don't even think about using that gun.
+event_ce007_1_04_s_65,Unless you want more of those things showing up.
+event_ce007_1_04_s_66,The mystery woman disappears into the lobby.
+event_ce007_1_04_s_67,*Gaaaaaahhhh*
+event_ce007_1_04_s_68,D!
+event_ce007_1_04_s_69,... Tch.
+event_ce007_1_04_s_70,Let's follow her.
+event_ce007_1_04_e_title,Coming To Kill You: B
+event_ce007_1_04_e_1,*Gaaaaaahhhh*
+event_ce007_1_04_e_2,*Thud thud thud thud*
+event_ce007_1_04_e_3,*Gaaaaaahhhh*
+event_ce007_1_04_e_4,*Thud thud*
+event_ce007_1_04_e_5,*Thud*
+event_ce007_1_04_e_6,...
+event_ce007_1_04_e_7,The sound fades away.
+event_ce007_1_04_e_8,*Huff huff*...
+event_ce007_1_04_e_9,"We fled from the creature, making it up to the second floor of the mansion."
+event_ce007_1_04_e_10,"Perhaps the stairs are too narrow, as it doesn't seem able to follow us up here."
+event_ce007_1_04_e_11,What is that?!
+event_ce007_1_04_e_12,A monstrous fusion of a Rapture and a mass-produced Nikke.
+event_ce007_1_04_e_13,"Even at a glance, it's clear that the two were forcefully stitched together."
+event_ce007_1_04_e_14,Mmfh...
+event_ce007_1_04_e_15,The hellish appearance of that thing was nightmare fuel.
+event_ce007_1_04_e_16,"Suddenly, the woman reaches her hand out to me."
+event_ce007_1_04_e_17,!!
+event_ce007_1_04_e_18,*Whoosh*
+event_ce007_1_04_e_19,What do you think you're doing?
+event_ce007_1_04_e_20,*Tap*
+event_ce007_1_04_e_21,The woman ignores the axe pointed at her and gently brushes my back.
+event_ce007_1_04_e_22,I'm simply trying to pat him on the back.
+event_ce007_1_04_e_23,See?
+event_ce007_1_04_e_24,I don't have my weapon in hand.
+event_ce007_1_04_e_25,"With a calm smile, she raises both hands slightly."
+event_ce007_1_04_e_26,...
+event_ce007_1_04_e_27,Name's Ada.
+event_ce007_1_04_e_28,"I got out of Raccoon City,"
+event_ce007_1_04_e_29,but then everything went blurry...
+event_ce007_1_04_e_30,"Next thing I know, this mansion appears, so I was investigating the area."
+event_ce007_1_04_e_31,Raccoon... City?
+event_ce007_1_04_e_32,"You haven't given me your name, by the way."
+event_ce007_1_04_e_33,... It's D.
+event_ce007_1_04_e_34,That's it? Just D?
+event_ce007_1_04_e_35,Yes.
+event_ce007_1_04_e_36,D puts the axe away.
+event_ce007_1_04_e_37,"OK, fair enough."
+event_ce007_1_04_e_38,D.
+event_ce007_1_04_e_39,"Easy to pronounce, I suppose."
+event_ce007_1_04_e_40,*Sigh...*
+event_ce007_1_04_e_41,"But honestly, don't you think your story has holes in it?"
+event_ce007_1_04_e_42,"You say everything went blurry, and then this mansion appears before you."
+event_ce007_1_04_e_43,What does that even mean?
+event_ce007_1_04_e_44,"I'm telling you, that's exactly what happened."
+event_ce007_1_04_e_45,"My vision blurred,"
+event_ce007_1_04_e_46,and this mansion just... appeared.
+event_ce007_1_04_e_47,So you're saying...
+event_ce007_1_04_e_48,How many times do I need to say it?
+event_ce007_1_04_e_49,"My vision blurred, and then..."
+event_ce007_1_04_e_50,Ada.
+event_ce007_1_04_e_51,Hm?
+event_ce007_1_04_e_52,So...
+event_ce007_1_04_e_53,You either have no clear memory of the circumstances that led you to this mansion.
+event_ce007_1_04_e_54,"Or, you essentially blacked out, and then found yourself here, almost as if you'd been teleported."
+event_ce007_1_04_e_55,Is that how you feel?
+event_ce007_1_04_e_56,Both explanations pretty much sum up how I feel.
+event_ce007_1_04_e_57,How did you know that?
+event_ce007_1_04_e_58,I knew it.
+event_ce007_1_04_e_59,"She's a human from another world, brought here by the D-WAVE."
+event_ce007_1_04_e_60,I have a few guesses as to what happened to you...
+event_ce007_1_04_e_61,I explain to Ada what the D-WAVE is in detail.
+event_ce007_1_04_e_62,"So, what you're saying is,"
+event_ce007_1_04_e_63,something called a D-WAVE swept me up and dropped me into another world?
+event_ce007_1_04_e_64,"And if I want to go back, we need to wake up something called the Gatekeeper."
+event_ce007_1_04_e_65,"That about covers it, yeah."
+event_ce007_1_04_e_66,...
+event_ce007_1_04_e_67,Are you even allowed to share all this information with me?
+event_ce007_1_04_e_68,What if I'm playing you in order to get intel?
+event_ce007_1_04_e_69,You were even quick to reveal your name and intentions.
+event_ce007_1_04_e_70,"Aren't you being way too kind, {AccountData.NickName}?"
+event_ce007_1_04_e_71,Or are you just that naive?
+event_ce007_1_04_e_72,What if I'm the enemy?
+event_ce007_1_04_e_73,"If you'd meant to kill me, you would've done it the moment we met."
+event_ce007_1_04_e_74,"What if I'm just gathering intel while your guard's down, then planning to kill you after?"
+event_ce007_1_04_e_75,D has my back. She'll figure something out.
+event_ce007_1_04_e_76,Figure something out...
+event_ce007_1_04_e_77,"You must really trust her, if you're willing to bet your life like that."
+event_ce007_1_04_e_78,"You seem awfully calm about all this, don't you think?"
+event_ce007_1_04_e_79,"You've been teleported to a strange world and just saw a nightmarish monster, yet you didn't even flinch."
+event_ce007_1_04_e_80,Hehe.
+event_ce007_1_04_e_81,You're not wrong.
+event_ce007_1_04_e_82,"Let's just say we're both a bit odd, then."
+event_ce007_1_04_e_83,"At any rate, this clearly isn't the world that I know."
+event_ce007_1_04_e_84,Correct.
+event_ce007_1_04_e_85,Then...
+event_ce007_1_04_e_86,Why is there evidence of the Umbrella Corporation here too?
+event_ce007_1_04_e_87,Ada points into the distance.
+event_ce007_1_04_e_88,"In a space littered with long benches,"
+event_ce007_1_04_e_89,an altar with a Rapture core resting atop it stands at the far end.
+event_ce007_1_04_e_90,"And,"
+event_ce007_1_04_e_91,strewn across the altar are sheets of paper marked with an umbrella symbol.
+event_ce007_1_05_s_title,Every Mistake Has A Cost: A
+event_ce007_1_05_s_1,'T-Virus Experiment Report'
+event_ce007_1_05_s_2,'TOP SECRET'
+event_ce007_1_05_s_3,Those are the words written at the top of the paper Ada is holding.
+event_ce007_1_05_s_4,Ada's face darkens as she reads through the document.
+event_ce007_1_05_s_5,The umbrella symbol on that piece of paper...
+event_ce007_1_05_s_6,You seem to recognize it.
+event_ce007_1_05_s_7,"What's this ""Umbrella Corporation"" you mentioned?"
+event_ce007_1_05_s_8,... The T-Virus.
+event_ce007_1_05_s_9,And the G-Virus.
+event_ce007_1_05_s_10,Viruses?
+event_ce007_1_05_s_11,They're the names of viruses that spread throughout my world.
+event_ce007_1_05_s_12,The same viruses that drove Raccoon City towards utter destruction.
+event_ce007_1_05_s_13,What kind of virus could cause something like that?
+event_ce007_1_05_s_14,"Put simply, they're viruses that can rewrite the genetic structure of living beings."
+event_ce007_1_05_s_15,They reduce intelligence and induce aggression.
+event_ce007_1_05_s_16,Those infected turn into mere living corpses.
+event_ce007_1_05_s_17,"On top of that, their physical abilities are greatly enhanced."
+event_ce007_1_05_s_18,And Umbrella is the one who made these viruses?
+event_ce007_1_05_s_19,Yes.
+event_ce007_1_05_s_20,Umbrella uses the viruses for bioweapon development.
+event_ce007_1_05_s_21,Like that creature we saw on the first floor.
+event_ce007_1_05_s_22,A creature that seemed like a fusion between a Rapture and a mass-produced Nikke...
+event_ce007_1_05_s_23,...
+event_ce007_1_05_s_24,"Wait, don't tell me...!"
+event_ce007_1_05_s_25,The situation is worse than I thought.
+event_ce007_1_05_s_26,*Rustle*
+event_ce007_1_05_s_27,Ada hands me another piece of paper.
+event_ce007_1_05_s_28,A short paragraph is scrawled across the top in red ink.
+event_ce007_1_05_s_29,He who imbibes the holy elixir of the Judge
+event_ce007_1_05_s_30,shall shed the flesh of the sinner
+event_ce007_1_05_s_31,and be reborn as a greater being.
+event_ce007_1_05_s_32,"Pain is but a prelude to transformation,"
+event_ce007_1_05_s_33,and death—the echo of new birth.
+event_ce007_1_05_s_34,Fear not.
+event_ce007_1_05_s_35,'NEO-Virus Development Complete'
+event_ce007_1_05_s_36,'Lead the foolish humans inside the Ark to their end.'
+event_ce007_1_05_s_37,!!
+event_ce007_1_05_s_38,"Just as I thought, the virus was developed here."
+event_ce007_1_05_s_39,"And now,"
+event_ce007_1_05_s_40,what happened in Raccoon City is about to happen here as well.
+event_ce007_1_05_s_41,"{AccountData.NickName}, I'm reporting this to the higher-ups."
+event_ce007_1_05_s_42,"We have to seal off the Outer Rim immediately, or else there's a chance the virus could spread."
+event_ce007_1_05_s_43,And if needed...
+event_ce007_1_05_s_44,We'll mobilize the Blaze Out squad.
+event_ce007_1_05_s_45,Blaze Out?
+event_ce007_1_05_s_46,Think of them as the Ark's epidemic countermeasure squad.
+event_ce007_1_05_s_47,"Without another word, D moves to the far corner of the room."
+event_ce007_1_05_s_48,She appears to be attempting to establish radio contact.
+event_ce007_1_05_s_49,...
+event_ce007_1_05_s_50,My head is spinning from all the new information I've been bombarded with.
+event_ce007_1_05_s_51,"So, now that your girlfriend's out of earshot,"
+event_ce007_1_05_s_52,"would you mind having a little chat, just the two of us?"
+event_ce007_1_05_s_53,About what?
+event_ce007_1_05_s_54,"I'll give you whatever intel you need,"
+event_ce007_1_05_s_55,"but if you find the person who developed the NEO-Virus, hand over custody of them to me."
+event_ce007_1_05_s_56,That's all I'm asking for in exchange for my cooperation.
+event_ce007_1_05_s_57,You want me to just hand over the developer to you?
+event_ce007_1_05_s_58,You don't need to worry. I won't harm them.
+event_ce007_1_05_s_59,So? What's your answer?
+event_ce007_1_05_s_60,... That info better be worth something.
+event_ce007_1_05_s_61,I'll take that as a yes.
+event_ce007_1_05_s_62,"Ada reaches into her coat and pulls out an old, worn notebook."
+event_ce007_1_05_s_63,What's that?
+event_ce007_1_05_s_64,Some quality reading material you should check out.
+event_ce007_1_05_s_65,It's the cult leader's journal.
+event_ce007_1_05_s_66,"I open it carefully, revealing the following text inside."
+event_ce007_1_05_s_67,Death is not the end.
+event_ce007_1_05_s_68,Death is purification.
+event_ce007_1_05_s_69,The purification of this world begins with death.
+event_ce007_1_05_s_70,The Merciless Judge descends.
+event_ce007_1_05_e_title,Every Mistake Has A Cost: B
+event_ce007_1_05_e_1,'Informed Consent Form for Clinical Trial'
+event_ce007_1_05_e_2,1. Goal
+event_ce007_1_05_e_3,To identify those worthy of salvation on the Day of Judgment.
+event_ce007_1_05_e_4,2. Procedure
+event_ce007_1_05_e_5,Participants shall receive the holy elixir of the Judge through a purification ritual.
+event_ce007_1_05_e_6,"The ritual will span seven days, and cannot be halted or abandoned midway."
+event_ce007_1_05_e_7,"During this period, bodily reactions and transformations will be observed,"
+event_ce007_1_05_e_8,to determine the subject's eligibility for salvation.
+event_ce007_1_05_e_9,3. Possible Phenomena and Side Effects
+event_ce007_1_05_e_10,"– High fever, vomiting, dizziness"
+event_ce007_1_05_e_11,– Visual and auditory hallucinations
+event_ce007_1_05_e_12,– Temporary or permanent bodily mutations
+event_ce007_1_05_e_13,* All phenomena are deemed divine trials and cannot be defied by mortal intervention.
+event_ce007_1_05_e_14,--------------------------------
+event_ce007_1_05_e_15,"I hereby acknowledge that I have clearly understood the information stated above,"
+event_ce007_1_05_e_16,and give my voluntary consent to participate in this trial.
+event_ce007_1_05_e_17,I humbly accept all outcomes arising during the process as the will of the divine.
+event_ce007_1_05_e_18,Signed by: Miranda
+event_ce007_1_05_e_19,Date:
+event_ce007_1_05_e_20,Uh... What day is it today?
+event_ce007_1_05_e_21,Forget the date. The real question is why are you signing that?
+event_ce007_1_05_e_22,Oh!
+event_ce007_1_05_e_23,Because the signature was left blank!
+event_ce007_1_05_e_24,... Huh?
+event_ce007_1_05_e_25,"About that... Miranda often forgets to sign her patrol logs,"
+event_ce007_1_05_e_26,so Poli hammered it in her head to sign her name if the signature field is blank.
+event_ce007_1_05_e_27,Yep! Poli taught me that!
+event_ce007_1_05_e_28,... Hold on. Poli?
+event_ce007_1_05_e_29,There's no time for this!
+event_ce007_1_05_e_30,We've gotta find Poli!
+event_ce007_1_05_e_31,Resuming investigation!
+event_ce007_1_05_e_32,Miranda rushes into the annex.
+event_ce007_1_05_e_33,Er... hehe...
+event_ce007_1_05_e_34,"Despite how she is, I can assure you that she's a capable officer."
+event_ce007_1_05_e_35,...
+event_ce007_1_05_e_36,Should we head in as well?
+event_ce007_1_05_e_37,Hold on a second.
+event_ce007_1_05_e_38,There's something I need to check.
+event_ce007_1_05_e_39,"Jill, look at this symbol."
+event_ce007_1_05_e_40,"It's Umbrella's, isn't it?"
+event_ce007_1_05_e_41,"First that infected dog attack, and now this."
+event_ce007_1_05_e_42,Not to mention the contents of this consent form.
+event_ce007_1_05_e_43,It seems like...
+event_ce007_1_05_e_44,Yeah. Seems to me that Umbrella's behind this somehow.
+event_ce007_1_05_e_45,"If it's something that results in physical mutations,"
+event_ce007_1_05_e_46,"then this ""Holy Elixir of the Judge"" might be another virus developed by them."
+event_ce007_1_05_e_47,So Umbrella even has their filthy tendrils in this place...
+event_ce007_1_05_e_48,"Uh, sorry to interrupt."
+event_ce007_1_05_e_49,But you keep mentioning this Umbrella Corporation.
+event_ce007_1_05_e_50,Would you mind explaining exactly what that is?
+event_ce007_1_05_e_51,"If there's any chance it's connected to Poli's disappearance, I should know about it."
+event_ce007_1_05_e_52,"Umbrella presents itself as a pharmaceutical company,"
+event_ce007_1_05_e_53,"but in reality, they repeatedly carry out illegal human experiments."
+event_ce007_1_05_e_54,They developed a virus that alters the human body and induces madness...
+event_ce007_1_05_e_55,*Crash*
+event_ce007_1_05_e_56,What was that?
+event_ce007_1_05_e_57,I think it came from deep inside the annex?
+event_ce007_1_05_e_58,I'll go check it out.
+event_ce007_1_05_e_59,I'll inform you if something comes up.
+event_ce007_1_05_e_60,"Quiry, you and Claire stay here!"
+event_ce007_1_06_s_title,Find A Way Out: A
+event_ce007_1_06_s_1,In the deep recesses of the annex is a storeroom.
+event_ce007_1_06_s_2,"It is cluttered with miscellaneous junk, and in each corner of the room..."
+event_ce007_1_06_s_3,a statue has been oddly placed.
+event_ce007_1_06_s_4,Meanwhile...
+event_ce007_1_06_s_5,Urgh...
+event_ce007_1_06_s_6,"In the middle of the room, Miranda lies half-buried beneath a pile of books."
+event_ce007_1_06_s_7,It appears to have been a botched attempt to reach a book on the top shelf.
+event_ce007_1_06_s_8,You OK?
+event_ce007_1_06_s_9,Yeah... I'm fine...
+event_ce007_1_06_s_10,What happened?
+event_ce007_1_06_s_11,"There was something tucked in this book,"
+event_ce007_1_06_s_12,"so I tried pulling it out, and ended up falling over."
+event_ce007_1_06_s_13,I guess this was what I was trying to get...
+event_ce007_1_06_s_14,Miranda hands Jill a worn-out note.
+event_ce007_1_06_s_15,The note reads:
+event_ce007_1_06_s_16,The Prophet greets the Judge.
+event_ce007_1_06_s_17,The Merciless Judge punishes the sinner.
+event_ce007_1_06_s_18,The sinner kneels beneath the False Goddess.
+event_ce007_1_06_s_19,And the False Goddess stares down the Prophet in silence.
+event_ce007_1_06_s_20,The deceitful gaze invites ruin.
+event_ce007_1_06_s_21,Only the true gaze shall open the path.
+event_ce007_1_06_s_22,It's like some kind of riddle.
+event_ce007_1_06_s_23,Where did you say you found this?
+event_ce007_1_06_s_24,"Hold on, you see that, Jill?"
+event_ce007_1_06_s_25,There's a lever beneath the statue.
+event_ce007_1_06_s_26,I'll try pulling it!
+event_ce007_1_06_s_27,"Wait, it could be a trap—"
+event_ce007_1_06_s_28,Miranda pulls the lever beneath the statue of the Goddess of Victory toward the left.
+event_ce007_1_06_s_29,*Clunk*
+event_ce007_1_06_s_30,The statue turns and faces the statue to its left.
+event_ce007_1_06_s_31,Whoa!
+event_ce007_1_06_s_32,The statue moved.
+event_ce007_1_06_s_33,This lever must control the statues somehow.
+event_ce007_1_06_s_34,Hold on a minute...
+event_ce007_1_06_s_35,A statue of the Goddess of Victory.
+event_ce007_1_06_s_36,A statue of a hooded disciple.
+event_ce007_1_06_s_37,A statue of a menacing Rapture.
+event_ce007_1_06_s_38,A statue of an ordinary man and woman.
+event_ce007_1_06_s_39,Each statue had a lever beneath it.
+event_ce007_1_06_s_40,All of these statues can be rotated...
+event_ce007_1_06_s_41,Maybe the direction the statues are facing is connected to this riddle you found.
+event_ce007_1_06_s_42,*Clunk*
+event_ce007_1_06_s_43,"Miranda, don't touch anything! We haven't fully figured out the puzzle yet!"
+event_ce007_1_06_s_44,I didn't move an inch...
+event_ce007_1_06_s_45,It moved on its own!
+event_ce007_1_06_s_46,*Clunk*
+event_ce007_1_06_s_47,I meant the ceiling!
+event_ce007_1_06_s_48,The ceiling?
+event_ce007_1_06_s_49,*Clunk*
+event_ce007_1_06_s_50,The ceiling begins to cave in.
+event_ce007_1_06_s_51,!!
+event_ce007_1_06_s_52,The deceitful gaze invites ruin...
+event_ce007_1_06_s_53,The statue of the Goddess faces the statue of the ordinary man and woman.
+event_ce007_1_06_s_54,Did we trigger a trap by turning a statue the wrong way?
+event_ce007_1_06_s_55,"Miranda, quick! Pull the lever the other way!"
+event_ce007_1_06_s_56,Turn it to face the disciple statue!
+event_ce007_1_06_s_57,G-got it!
+event_ce007_1_06_s_58,Miranda pulls the lever of the statue of the Goddess of Victory to the right.
+event_ce007_1_06_s_59,*Clunk*
+event_ce007_1_06_s_60,The Goddess statue rotates to face the statue on its right.
+event_ce007_1_06_s_61,"As the Goddess looks upon the disciple's statue, the ceiling halts its descent."
+event_ce007_1_06_s_62,W-we almost ended up being sandwiches...
+event_ce007_1_06_s_63,... Very funny.
+event_ce007_1_06_s_64,That lever you pulled last made the ceiling stop.
+event_ce007_1_06_s_65,"Does that mean this is the ""true gaze""?"
+event_ce007_1_06_s_66,Then the disciple statue must represent the prophet...
+event_ce007_1_06_s_67,If Goddess statue represents the False Goddess...
+event_ce007_1_06_s_68,That leaves the Judge and the Sinner...
+event_ce007_1_06_s_69,"Typically, sin is represented by humans..."
+event_ce007_1_06_s_70,"Wh-what should we do now, Jill?"
+event_ce007_1_06_s_71,The Prophet greets the Judge...
+event_ce007_1_06_s_72,"Miranda, could you flip the lever in front of the disciple statue and make it face that statue with the four-legged machine?"
+event_ce007_1_06_s_73,Then next...
+event_ce007_1_06_s_74,Miranda manipulates the levers according to Jill's instructions.
+event_ce007_1_06_s_75,"Thus,"
+event_ce007_1_06_s_76,the statue of the disciple faces the statue of the Rapture.
+event_ce007_1_06_s_77,The statue of the Rapture faces the statue of the man and woman.
+event_ce007_1_06_s_78,The statue of the man and woman faces the Goddess statue.
+event_ce007_1_06_s_79,"And the Goddess statue, in turn, faces the disciple statue."
+event_ce007_1_06_s_80,Is it done?
+event_ce007_1_06_s_81,"Yes, for now."
+event_ce007_1_06_s_82,"I'm still not entirely sure if this is the ""true gaze""."
+event_ce007_1_06_s_83,Oh man... The last thing I want is to get squashed by this ceiling and turned into a sandwich.
+event_ce007_1_06_s_84,... You and me both.
+event_ce007_1_06_s_85,*Click*
+event_ce007_1_06_s_86,Did you hear that?
+event_ce007_1_06_s_87,I'm pretty sure it came from near the bookshelf.
+event_ce007_1_06_s_88,*Rumble*
+event_ce007_1_06_s_89,The bookshelf begins to slowly slide to the side.
+event_ce007_1_06_s_90,"Soon,"
+event_ce007_1_06_s_91,a hidden passage is revealed behind it.
+event_ce007_1_06_e_title,Find A Way Out: B
+event_ce007_1_06_e_1,At the end of the secret passage.
+event_ce007_1_06_e_2,A tense and alert Miranda and Jill come upon a laboratory.
+event_ce007_1_06_e_3,"Unlike the mansion's decrepit exterior,"
+event_ce007_1_06_e_4,the lab is equipped with surprisingly modern equipment.
+event_ce007_1_06_e_5,However...
+event_ce007_1_06_e_6,Oh my...
+event_ce007_1_06_e_7,Aaahh... Aahhh...
+event_ce007_1_06_e_8,*Gaaaaaahhh*
+event_ce007_1_06_e_9,The corpses strewn throughout make it clear that the research being conducted here was far from ordinary.
+event_ce007_1_06_e_10,All these b-bodies...!
+event_ce007_1_06_e_11,"Shattered oversized incubation tubes fill the room, from which various corpses with unnaturally developed muscles protrude."
+event_ce007_1_06_e_12,All the bodies are completely torn to shreds.
+event_ce007_1_06_e_13,...
+event_ce007_1_06_e_14,Jill averts her eyes from the horrifying sight.
+event_ce007_1_06_e_15,In an area lined with multiple computer terminals.
+event_ce007_1_06_e_16,Documents bearing Umbrella Corporation's logo are scattered everywhere.
+event_ce007_1_06_e_17,Damn it... even here...
+event_ce007_1_06_e_18,*Cough cough*
+event_ce007_1_06_e_19,Miranda! We've got a survivor over here!
+event_ce007_1_06_e_20,Lead us...
+event_ce007_1_06_e_21,... What did you say?
+event_ce007_1_06_e_22,Jill brought her ear closer to the researcher collapsed on the ground.
+event_ce007_1_06_e_23,"Human life falls into oblivion, throwing the world into turmoil."
+event_ce007_1_06_e_24,New life has been created; a cruel distortion of all things sacred.
+event_ce007_1_06_e_25,Merciless judges descend from the skies.
+event_ce007_1_06_e_26,Do not resist with thy feeble human strength.
+event_ce007_1_06_e_27,The end is nigh.
+event_ce007_1_06_e_28,God.
+event_ce007_1_06_e_29,Guide these foolish mortals to their reckoning.
+event_ce007_1_06_e_30,The end... These foolish mortals... Distortion of all things sacred... Throwing the world into turmoil... End is nigh...
+event_ce007_1_06_e_31,Do not resist... Merciless judges descend from the skies... Do not resist...
+event_ce007_1_06_e_32,God.
+event_ce007_1_06_e_33,Guide.
+event_ce007_1_06_e_34,Us.
+event_ce007_1_06_e_35,Our reckoning.
+event_ce007_1_06_e_36,...
+event_ce007_1_06_e_37,...
+event_ce007_1_06_e_38,...
+event_ce007_1_06_e_39,"The researcher collapses, blood gushing from his mouth."
+event_ce007_1_06_e_40,A gaping hole has been torn through the center of his torso.
+event_ce007_1_06_e_41,It's as if something had forced its way out from within.
+event_ce007_1_06_e_42,"... So, that's how things unfolded in Raccoon City."
+event_ce007_1_06_e_43,All because of a virus...
+event_ce007_1_06_e_44,An entire city was wiped...
+event_ce007_1_06_e_45,"Family, friends, loved ones... all gone. Vanished..."
+event_ce007_1_06_e_46,...
+event_ce007_1_06_e_47,Anyway.
+event_ce007_1_06_e_48,We can't let the same thing happen here.
+event_ce007_1_06_e_49,We need to investigate this area; leave no stone unturned.
+event_ce007_1_06_e_50,I'm also worried about your colleague who went missing.
+event_ce007_1_06_e_51,It seems Miranda and Jill went all the way inside.
+event_ce007_1_06_e_52,Why don't we start our search here?
+event_ce007_1_06_e_53,OK... Let's do that.
+event_ce007_1_06_e_54,After that...
+event_ce007_1_06_e_55,*Click*
+event_ce007_1_06_e_56,Claire and Quiry begin checking the nearby rooms one by one.
+event_ce007_1_06_e_57,*Click*
+event_ce007_1_06_e_58,The pair discovers...
+event_ce007_1_06_e_59,*Click*
+event_ce007_1_06_e_60,When they arrive at the third room...
+event_ce007_1_06_e_61,Is this...
+event_ce007_1_06_e_62,Under the bed lies a weathered notebook.
+event_ce007_1_06_e_63,"When Claire picks it up,"
+event_ce007_1_06_e_64,*Rustle*
+event_ce007_1_06_e_65,a single photograph falls out.
+event_ce007_1_06_e_66,It seems to be a photo of a mother and daughter.
+event_ce007_1_06_e_67,They seem to have had a close relationship.
+event_ce007_1_06_e_68,Hmm...
+event_ce007_1_06_e_69,Having trouble seeing it?
+event_ce007_1_06_e_70,Want to take a closer look?
+event_ce007_1_06_e_71,Claire holds the photo closer to Quiry.
+event_ce007_1_06_e_72,The faded faces of mother and daughter begin to come into focus.
+event_ce007_1_06_e_73,...!
+event_ce007_1_06_e_74,It's Elseria Nine and Deipara from Case #8.
+event_ce007_1_06_e_75,Deipara?
+event_ce007_1_06_e_76,REBORN EVIL: TO BE CONTINUED
+event_ce007_1_06_e_77,Perilous Siege Safe House.
+event_ce007_1_06_e_78,I knew something felt off.
+event_ce007_1_06_e_79,Mission Code: VII-1 / Declassified
+event_ce007_1_06_e_80,'The Ark and a Proposal for Humanity's Salvation'
+event_ce007_1_06_e_81,"'Within the insular society of the Ark, the activities of Perilous Siege proved remarkably effective.'"
+event_ce007_1_06_e_82,'All traces of evil within the Ark were soon eradicated.'
+event_ce007_1_06_e_83,'However.'
+event_ce007_1_06_e_84,'Evil is the darker side of the coin which must exist for justice to persist.'
+event_ce007_1_06_e_85,"'Therefore, a proposal to maintain justice and oversee Perilous Siege has been drafted.'"
+event_ce007_1_06_e_86,'The following is the tentative proposal.'
+event_ce007_1_06_e_87,*Flip*
+event_ce007_1_06_e_88,'2. Formation of Pro-Rapture Radical Group.'
+event_ce007_1_06_e_89,'Public awareness of Raptures continues to decline.'
+event_ce007_1_06_e_90,'The attached survey suggests this is due to the fact ordinary citizens rarely encounter Raptures personally.'
+event_ce007_1_06_e_91,"'Therefore, pro-Rapture radical groups are to receive clandestine support.'"
+event_ce007_1_06_e_92,'This is intended to foment hostility towards Raptures among the general public.'
+event_ce007_1_06_e_93,So... He has a hand in this too?
+event_ce007_1_06_e_94,X.
+event_ce007_2_01_s_title,Memento: A
+event_ce007_2_01_s_1,"Human life falls into oblivion, throwing the world into turmoil."
+event_ce007_2_01_s_2,"New life has been created, a cruel distortion of all things sacred."
+event_ce007_2_01_s_3,Merciless Judges descend from the skies.
+event_ce007_2_01_s_4,Do not resist with thy feeble human strength.
+event_ce007_2_01_s_5,"The end is nigh, God."
+event_ce007_2_01_s_6,Guide these foolish mortals to their reckoning.
+event_ce007_2_01_s_7,Life was ordinary.
+event_ce007_2_01_s_8,The lazy days I spent with Mom and Dad.
+event_ce007_2_01_s_9,I can still remember them perfectly.
+event_ce007_2_01_s_10,Gathering at the dinner table every evening to talk about our day.
+event_ce007_2_01_s_11,"All of us lounging around, cozily watching TV together."
+event_ce007_2_01_s_12,The quiet little conversations we'd have before falling asleep.
+event_ce007_2_01_s_13,"Dad, I'm back."
+event_ce007_2_01_s_14,...
+event_ce007_2_01_s_15,Have you had dinner? I haven't had mine yet.
+event_ce007_2_01_s_16,Mind if I eat here?
+event_ce007_2_01_s_17,I packed some food.
+event_ce007_2_01_s_18,...
+event_ce007_2_01_s_19,Nothing special happened today.
+event_ce007_2_01_s_20,"I got off school, then ran a quick errand."
+event_ce007_2_01_s_21,Came straight here after.
+event_ce007_2_01_s_22,Mom's doing the same as always.
+event_ce007_2_01_s_23,I guess work's been keeping her busy. She said she'd be back late again tonight.
+event_ce007_2_01_s_24,...
+event_ce007_2_01_s_25,Um...
+event_ce007_2_01_s_26,Shall we watch some TV?
+event_ce007_2_01_s_27,"And now, our next news story."
+event_ce007_2_01_s_28,A string of disappearances has recently taken place within the Ark.
+event_ce007_2_01_s_29,This has prompted a growing movement among citizens criticizing the Central Government's handling of the situation.
+event_ce007_2_01_s_30,"Pretty unsettling, huh?"
+event_ce007_2_01_s_31,That's all the news has been reporting lately.
+event_ce007_2_01_s_32,With all the disappearances happening... there've been all kinds of rumors swirling about.
+event_ce007_2_01_s_33,Some say people are being abducted and used as test subjects for biological experiments.
+event_ce007_2_01_s_34,Or that there are corrupted Nikkes running around wreaking havoc.
+event_ce007_2_01_s_35,Don't you think both scenarios sound kind of ridiculous?
+event_ce007_2_01_s_36,...
+event_ce007_2_01_s_37,"See? You think it's nonsense too, right?"
+event_ce007_2_01_s_38,...
+event_ce007_2_01_s_39,"I mean, it does seem odd. How could anyone be carrying out biological experiments in a place as safe as the Ark?"
+event_ce007_2_01_s_40,"And if a Nikke really had gone rogue, surely she would've been caught and been on the news by now?"
+event_ce007_2_01_s_41,Don't you think I'm right?
+event_ce007_2_01_s_42,...
+event_ce007_2_01_s_43,Please say I'm right...
+event_ce007_2_01_s_44,Please...
+event_ce007_2_01_s_45,Say something.
+event_ce007_2_01_s_46,Don't just lie there...
+event_ce007_2_01_s_47,...
+event_ce007_2_01_s_48,Dad.
+event_ce007_2_01_s_49,Ever since you got hurt on the surface...
+event_ce007_2_01_s_50,Mom's been acting weird...
+event_ce007_2_01_s_51,"At first, she started mumbling weird things,"
+event_ce007_2_01_s_52,scribbling strange red eyes all over the walls of the house.
+event_ce007_2_01_s_53,Now she barely comes home.
+event_ce007_2_01_s_54,All she ever does is work at the center.
+event_ce007_2_01_s_55,I have no idea if she's eating.
+event_ce007_2_01_s_56,Or if she's getting any sleep...
+event_ce007_2_01_s_57,I don't know anything anymore.
+event_ce007_2_01_s_58,...
+event_ce007_2_01_s_59,"Compared to the old days,"
+event_ce007_2_01_s_60,everything's different now.
+event_ce007_2_01_s_61,Everything...
+event_ce007_2_01_s_62,...
+event_ce007_2_01_s_63,I'm sorry. I know I promised I wouldn't complain in front of you.
+event_ce007_2_01_s_64,"But tomorrow,"
+event_ce007_2_01_s_65,I'm going to visit the center where Mom works.
+event_ce007_2_01_s_66,I'm worried about her. Maybe I should bring her something to eat.
+event_ce007_2_01_s_67,Things can't go on like this.
+event_ce007_2_01_s_68,...
+event_ce007_2_01_s_69,"Anyway, sweet dreams."
+event_ce007_2_01_s_70,I'll drop by again.
+event_ce007_2_01_s_71,'Counseling Hours'
+event_ce007_2_01_s_72,Weekdays / 09:00-20:00
+event_ce007_2_01_s_73,Weekends / Closed
+event_ce007_2_01_s_74,Huh? Has she always had weekends off?
+event_ce007_2_01_s_75,Then why did she come into work today?
+event_ce007_2_01_s_76,*Knock knock*
+event_ce007_2_01_s_77,Mom?
+event_ce007_2_01_s_78,...
+event_ce007_2_01_s_79,*Knock knock*
+event_ce007_2_01_s_80,"... I'm coming in, okay?"
+event_ce007_2_01_s_81,*Creeeeak*
+event_ce007_2_01_s_82,... No one's here.
+event_ce007_2_01_s_83,I guess I'll just leave the lunchbox...?
+event_ce007_2_01_s_84,The end... nigh...
+event_ce007_2_01_s_85,Guide... foolish mortals...
+event_ce007_2_01_s_86,Hmm? What's that sound?
+event_ce007_2_01_s_87,The sound appears to be coming from behind the bookshelf.
+event_ce007_2_01_s_88,"One of the bookshelves is slightly out of place, leaving a narrow gap."
+event_ce007_2_01_s_89,"Through the gap, a stairway stretches far down, leading underground."
+event_ce007_2_01_s_90,...?
+event_ce007_2_01_s_91,Mom? Are you in there?
+event_ce007_2_01_s_92,Judges... descend... the skies...
+event_ce007_2_01_s_93,Do not resist... human strength...
+event_ce007_2_01_s_94,!!
+event_ce007_2_01_s_95,In front of an altar where a Rapture statue is enshrined.
+event_ce007_2_01_s_96,A group of people are fervently murmuring a prayer.
+event_ce007_2_01_s_97,And...
+event_ce007_2_01_s_98,Mom...?!
+event_ce007_2_01_s_99,In the middle of it all was Deipara's mother.
+event_ce007_2_01_e_title,Memento: B
+event_ce007_2_01_e_1,"That day, I tore through Mom's room in a panic."
+event_ce007_2_01_e_2,Every wall was covered from top to bottom in red eyes—all of them staring at the same spot.
+event_ce007_2_01_e_3,"A spot where I uncovered a Rapture core,"
+event_ce007_2_01_e_4,along with some records about the Torch of Salvation.
+event_ce007_2_01_e_5,"Human life falls into oblivion, throwing the world into turmoil."
+event_ce007_2_01_e_6,"New life has been created, a cruel distortion of all things sacred."
+event_ce007_2_01_e_7,Merciless Judges—Raptures—descend from the skies.
+event_ce007_2_01_e_8,The end is nigh.
+event_ce007_2_01_e_9,Fear not. Stand before the Judge and reveal yourself.
+event_ce007_2_01_e_10,The surface is the altar of God.
+event_ce007_2_01_e_11,Death is the path to salvation.
+event_ce007_2_01_e_12,Embrace the end.
+event_ce007_2_01_e_13,"Beneath the flames of judgment, the Torch of Salvation shall be kindled."
+event_ce007_2_01_e_14,"As I began to realize what Mom had gotten herself into,"
+event_ce007_2_01_e_15,I finally understood what those red eyes at home were meant to represent...
+event_ce007_2_01_e_16,A chill ran down my spine.
+event_ce007_2_01_e_17,"Even then, I couldn't turn to anyone for help."
+event_ce007_2_01_e_18,Revealing anything about the Torch of Salvation
+event_ce007_2_01_e_19,could result in Mom being captured and punished.
+event_ce007_2_01_e_20,I'm back.
+event_ce007_2_01_e_21,"I don't think I can stomach anything today, so I came empty-handed."
+event_ce007_2_01_e_22,I hope that's okay.
+event_ce007_2_01_e_23,...
+event_ce007_2_01_e_24,"Oh, did you see the news?"
+event_ce007_2_01_e_25,They said they found Rapture parts in the home of one of the missing families.
+event_ce007_2_01_e_26,"So freaky! Rapture parts, of all things..."
+event_ce007_2_01_e_27,...
+event_ce007_2_01_e_28,You know...
+event_ce007_2_01_e_29,People keep going missing.
+event_ce007_2_01_e_30,"People who I used to see at the counseling center, I mean."
+event_ce007_2_01_e_31,...
+event_ce007_2_01_e_32,Dad... I'm scared...
+event_ce007_2_01_e_33,"If this keeps up, Mom might disappear too..."
+event_ce007_2_01_e_34,What if I'm left all alone?
+event_ce007_2_01_e_35,...
+event_ce007_2_01_e_36,I'm sorry. I'm being weak again.
+event_ce007_2_01_e_37,For the time being...
+event_ce007_2_01_e_38,I don't think I can come here.
+event_ce007_2_01_e_39,I think... I have to be away for a bit.
+event_ce007_2_01_e_40,I'm worried about Mom. I can't just sit by and do nothing.
+event_ce007_2_01_e_41,...
+event_ce007_2_01_e_42,Please pray that everything will turn out okay.
+event_ce007_2_01_e_43,I'll be ba—
+event_ce007_2_01_e_44,"Next time, I'll come with Mom."
+event_ce007_2_01_e_45,I promise.
+event_ce007_2_01_e_46,...
+event_ce007_2_01_e_47,...
+event_ce007_2_01_e_48,...
+event_ce007_2_01_e_49,"I don't think I'll be able to keep that promise, Dad."
+event_ce007_2_01_e_50,The cult leader who started the Torch of Salvation...
+event_ce007_2_01_e_51,turned out to be Mom.
+event_ce007_2_01_e_52,...
+event_ce007_2_01_e_53,...
+event_ce007_2_01_e_54,...
+event_ce007_2_01_e_55,"I didn't catch all the details, but they said they intend on using a virus to purify the Ark."
+event_ce007_2_01_e_56,They say death is the path to salvation...
+event_ce007_2_01_e_57,...
+event_ce007_2_01_e_58,...
+event_ce007_2_01_e_59,...
+event_ce007_2_01_e_60,Don't worry.
+event_ce007_2_01_e_61,I'll do whatever it takes.
+event_ce007_2_01_e_62,I'll find a way to atone for what my mom has done.
+event_ce007_2_01_e_63,That was the final entry in Deipara's journal.
+event_ce007_2_01_e_64,...
+event_ce007_2_01_e_65,...
+event_ce007_2_01_e_66,Um...
+event_ce007_2_01_e_67,"You said your colleague followed Deipara all the way here, right?"
+event_ce007_2_01_e_68,Then we've got to find them.
+event_ce007_2_01_e_69,Both Deipara and your colleague.
+event_ce007_2_01_e_70,And everyone else who's gone missing.
+event_ce007_2_01_e_71,"For a few moments, Quiry stares at the journal Claire had been reading aloud from, then finally speaks up."
+event_ce007_2_01_e_72,... Yes.
+event_ce007_2_01_e_73,Absolutely.
+event_ce007_2_01_e_74,"After that,"
+event_ce007_2_01_e_75,we need to make sure they'll never be able to do this again.
+event_ce007_2_01_e_76,I'm sick of watching viruses rob people of what's precious to them.
+event_ce007_2_01_e_77,D-do you think we can really handle this on our own...?
+event_ce007_2_01_e_78,"C'mon, Quiry. I believe in you."
+event_ce007_2_01_e_79,Are you saying you don't have faith in me?
+event_ce007_2_01_e_80,"Wh-what?! No, I-I didn't mean it like that!"
+event_ce007_2_01_e_81,...
+event_ce007_2_01_e_82,O-okay. Let's give it a try.
+event_ce007_2_01_e_83,It's also my duty as a police officer.
+event_ce007_2_01_e_84,Yes. That's the spirit.
+event_ce007_2_01_e_85,I like that confidence.
+event_ce007_2_01_e_86,"Anyway, I'm starting to get worried. We haven't heard a peep from Jill since she went after Miranda."
+event_ce007_2_01_e_87,I don't think there's anything else to investigate here.
+event_ce007_2_01_e_88,Shall we head over there now?
+event_ce007_2_02_s_title,Looming Dread: A
+event_ce007_2_02_s_1,Inside a secret room hidden deep within the annex.
+event_ce007_2_02_s_2,"Jill and Miranda stand frozen in the lab, their eyes fixed on a monitor."
+event_ce007_2_02_s_3,Are you two okay?
+event_ce007_2_02_s_4,Why are you just standing there like that...?
+event_ce007_2_02_s_5,Huh...?
+event_ce007_2_02_s_6,"It's hard to explain, but..."
+event_ce007_2_02_s_7,"Is it just me, or does this room look kind of red?"
+event_ce007_2_02_s_8,...
+event_ce007_2_02_s_9,Um... Claire?
+event_ce007_2_02_s_10,Probably better if you don't look...
+event_ce007_2_02_s_11,Why...?
+event_ce007_2_02_s_12,Just trust me.
+event_ce007_2_02_s_13,Claire averts her eyes from the corpses and turns to the monitor.
+event_ce007_2_02_s_14,An experiment log recorded by a researcher is displayed on the screen.
+event_ce007_2_02_s_15,"""Holy Elixir of the Judge, 6th Trial Results..."
+event_ce007_2_02_s_16,Engineered using the same methodology employed in developing Umbrella Corporation's T-Virus.
+event_ce007_2_02_s_17,Modification of the holy elixir obtained from the body of the Judge located at coordinates RAC 10.1.
+event_ce007_2_02_s_18,Successful development of the NEO-Virus.
+event_ce007_2_02_s_19,"When injected into organic tissue, the NEO-Virus initiates gene restructuring."
+event_ce007_2_02_s_20,Notable improvements in physical strength and regenerative ability were observed.
+event_ce007_2_02_s_21,"Shows potential to temporarily stand against Nikkes,"
+event_ce007_2_02_s_22,the new humanity who oppose the divine.
+event_ce007_2_02_s_23,"The following video compares the effects of varying dosage levels."""
+event_ce007_2_02_s_24,"Claire touches the screen, and a video begins to play."
+event_ce007_2_02_s_25,On the dark screen...
+event_ce007_2_02_s_26,Uaaaargh!
+event_ce007_2_02_s_27,*Choking* Ugh... Gasp...
+event_ce007_2_02_s_28,*Crack crack*
+event_ce007_2_02_s_29,Aaaaaaaaaaaah!
+event_ce007_2_02_s_30,Blood-curdling screams ring out.
+event_ce007_2_02_s_31,"Figures can be seen writhing and convulsing, their entire bodies contorted."
+event_ce007_2_02_s_32,"Some, desperate to relieve the agonizing pain, scratch at their faces with such ferocity that their skin tears off."
+event_ce007_2_02_s_33,Urghh... Ahh...
+event_ce007_2_02_s_34,...
+event_ce007_2_02_s_35,"Miranda, absorbed in the video, suddenly clings tightly to Jill's arm."
+event_ce007_2_02_s_36,"Jill trembles, her face contorting in fury."
+event_ce007_2_02_s_37,"The higher the dosage, the greater the increase in physical and regenerative abilities."
+event_ce007_2_02_s_38,"However, genetic mutation occurs too rapidly, ultimately causing the body to break down."
+event_ce007_2_02_s_39,The virus exhibits signs indicative of seeking new hosts.
+event_ce007_2_02_s_40,"Additionally, regardless of dosage, all test subjects exhibit significant cognitive decline."
+event_ce007_2_02_s_41,Could this be effectively used in future plans...?
+event_ce007_2_02_s_42,Future plans?
+event_ce007_2_02_s_43,"Jill silently taps at the monitor, opening a new window."
+event_ce007_2_02_s_44,'PROJECT: REBORN EVIL'
+event_ce007_2_02_s_45,"Human life falls into oblivion, throwing the world into turmoil."
+event_ce007_2_02_s_46,"The new life—Nikke—has been created, a cruel distortion of all things sacred."
+event_ce007_2_02_s_47,"In order for the Judge to guide humanity to its reckoning, we, the Torch of Salvation,"
+event_ce007_2_02_s_48,have initiated Project Reborn Evil.
+event_ce007_2_02_s_49,The NEO-Virus will be widely disseminated throughout the Ark.
+event_ce007_2_02_s_50,"Amidst the ensuing chaos, the Judge shall be led into the Ark."
+event_ce007_2_02_s_51,"Once humanity is offered to the Judge and evil is purified,"
+event_ce007_2_02_s_52,Project Reborn Evil will be deemed complete.
+event_ce007_2_02_s_53,Evil shall be purified through the reckoning.
+event_ce007_2_02_s_54,God.
+event_ce007_2_02_s_55,Guide these foolish mortals to their reckoning.
+event_ce007_2_02_s_56,...
+event_ce007_2_02_s_57,...
+event_ce007_2_02_s_58,...
+event_ce007_2_02_s_59,Until evil is purified...
+event_ce007_2_02_s_60,10:01:03
+event_ce007_2_02_s_61,10:01:02
+event_ce007_2_02_s_62,10:01:01
+event_ce007_2_02_s_63,... Damn it.
+event_ce007_2_02_s_64,"Jill, does it say anything about how to shut this project down?"
+event_ce007_2_02_s_65,These are the only records left.
+event_ce007_2_02_s_66,But...
+event_ce007_2_02_s_67,Jill points to a corner of the lab.
+event_ce007_2_02_s_68,"After reviewing the 'PROJECT: REBORN EVIL' file,"
+event_ce007_2_02_s_69,a hidden passage opened up.
+event_ce007_2_02_s_70,In the direction Jill is pointing to...
+event_ce007_2_02_s_71,A passage leading deeper underground has been revealed.
+event_ce007_2_02_e_title,Looming Dread: B
+event_ce007_2_02_e_1,Death is not the end.
+event_ce007_2_02_e_2,Death is purification.
+event_ce007_2_02_e_3,The purification of this world begins with death.
+event_ce007_2_02_e_4,The Merciless Judges descend.
+event_ce007_2_02_e_5,I was happy.
+event_ce007_2_02_e_6,The lazy days I spent with my husband and my daughter.
+event_ce007_2_02_e_7,I can still remember them perfectly.
+event_ce007_2_02_e_8,Gathering at the dinner table every evening to talk about our day.
+event_ce007_2_02_e_9,"All of us lounging around, cozily watching TV together."
+event_ce007_2_02_e_10,The quiet little conversations we'd have before falling asleep.
+event_ce007_2_02_e_11,*Beep beep beep*
+event_ce007_2_02_e_12,The patient's vital signs are stable.
+event_ce007_2_02_e_13,Unfortunately...
+event_ce007_2_02_e_14,He remains unconscious for reasons that are still undetermined.
+event_ce007_2_02_e_15,"At this stage, we can only continue to monitor his condition."
+event_ce007_2_02_e_16,... May I ask what really happened on the surface?
+event_ce007_2_02_e_17,"From what I've heard, he had an encounter with a Lord-class Rapture."
+event_ce007_2_02_e_18,"Thankfully, the Nikkes who were recovered didn't suffer any brain damage."
+event_ce007_2_02_e_19,They'll be able to return to the battlefield once they're given new bodies...
+event_ce007_2_02_e_20,As for your husband... I can't say for sure.
+event_ce007_2_02_e_21,A man named Miles Carter came to the center.
+event_ce007_2_02_e_22,He used to be a commander.
+event_ce007_2_02_e_23,"After all the horrifying things he experienced on the surface, he now suffers from PTSD."
+event_ce007_2_02_e_24,He's been drowning himself in alcohol for years now.
+event_ce007_2_02_e_25,*Beep beep beep*
+event_ce007_2_02_e_26,Did you endure such horrific experiences too?
+event_ce007_2_02_e_27,Is that why you're refusing to open your eyes?
+event_ce007_2_02_e_28,*Beep beep beep*
+event_ce007_2_02_e_29,You know... The Nikkes who went up to the surface with you...
+event_ce007_2_02_e_30,They're returning to the battlefield today.
+event_ce007_2_02_e_31,So why aren't you...?
+event_ce007_2_02_e_32,*Beep beep beep*
+event_ce007_2_02_e_33,I have to go.
+event_ce007_2_02_e_34,Sweet dreams.
+event_ce007_2_02_e_35,*Beep beep beep*
+event_ce007_2_02_e_36,...
+event_ce007_2_02_e_37,*Creeeeak*
+event_ce007_2_02_e_38,Elseria Nine.
+event_ce007_2_02_e_39,I've been waiting for you.
+event_ce007_2_02_e_40,Huh? Me?
+event_ce007_2_02_e_41,Who might you be...?
+event_ce007_2_02_e_42,If you're planning on visiting the center...
+event_ce007_2_02_e_43,"Here, take this."
+event_ce007_2_02_e_44,Your husband asked me to deliver it.
+event_ce007_2_02_e_45,What's this...?
+event_ce007_2_02_e_46,The eyes of the Judge...
+event_ce007_2_02_e_47,... are the Torch of Salvation.
+event_ce007_2_02_e_48,Human life... the world into turmoil.
+event_ce007_2_02_e_49,New life... a cruel distortion.
+event_ce007_2_02_e_50,Merciless Judges... descend from the skies.
+event_ce007_2_02_e_51,The end is...
+event_ce007_2_02_e_52,Fear not...
+event_ce007_2_02_e_53,...
+event_ce007_2_02_e_54,Reveal yourself...
+event_ce007_2_02_e_55,...
+event_ce007_2_02_e_56,...
+event_ce007_2_02_e_57,I can't make out the rest.
+event_ce007_2_02_e_58,Thick black lines obscure parts of the text.
+event_ce007_2_02_e_59,"Eventually, they go on to fill the entire page."
+event_ce007_2_02_e_60,*Flip*
+event_ce007_2_02_e_61,I turn to the next page.
+event_ce007_2_02_e_62,Countless eyes stare at me from the pages.
+event_ce007_2_02_e_63,"Between the crimson eyes, faintly inscribed words can be seen."
+event_ce007_2_02_e_64,Fear not... Stand before the Judge and reveal yourself...
+event_ce007_2_02_e_65,The surface... is the altar of God...
+event_ce007_2_02_e_66,Death is the path to salvation...
+event_ce007_2_02_e_67,*Beep beep beep*
+event_ce007_2_02_e_68,Death is the path to salvation...
+event_ce007_2_02_e_69,Death is salvation...
+event_ce007_2_02_e_70,Death...
+event_ce007_2_02_e_71,*Beep beep beep*
+event_ce007_2_02_e_72,... Salvation.
+event_ce007_2_02_e_73,Death... is the path to salvation.
+event_ce007_2_02_e_74,Death is the path that leads to salvation.
+event_ce007_2_02_e_75,Death is the true path to salvation.
+event_ce007_2_02_e_76,*Beep beep beep*
+event_ce007_2_02_e_77,Embrace the end.
+event_ce007_2_02_e_78,"Beneath the flames of judgment,"
+event_ce007_2_02_e_79,the Torch of Salvation shall be kindled.
+event_ce007_2_02_e_80,*Beeeeeeep*
+event_ce007_2_02_e_81,...
+event_ce007_2_02_e_82,...
+event_ce007_2_02_e_83,Go on ahead and wait for us.
+event_ce007_2_02_e_84,Deipara and I will follow.
+event_ce007_2_02_e_85,We're returning to the happy days we once had.
+event_ce007_2_02_e_86,*Flip*
+event_ce007_2_02_e_87,New... revelation... Holy... Elixir discovered...
+event_ce007_2_02_e_88,RAC10.1RAC10.1RAC10.1RAC10.1RAC10.1RAC10.1RAC10.1RAC10.1
+event_ce007_2_02_e_89,REBORNLIVE
+event_ce007_2_02_e_90,*Flip*
+event_ce007_2_02_e_91,"Eliser, Mia, Veloa, Evan, Kael, Marco..."
+event_ce007_2_02_e_92,They ascended to the surface and received salvation from the Judges.
+event_ce007_2_02_e_93,"Miles Carter, Lucas, Emily Cole, Iris Monroe..."
+event_ce007_2_02_e_94,They consumed the Holy Elixir of the Judge and were reborn as greater beings.
+event_ce007_2_02_e_95,Elseria Nine. Deipara.
+event_ce007_2_02_e_96,Through the Holy Elixir of the Judge—the NEO-Virus—
+event_ce007_2_02_e_97,"they aim to purify the evil within the Ark,"
+event_ce007_2_02_e_98,and thereafter receive salvation from the Judge.
+event_ce007_2_02_e_99,Poli.
+event_ce007_2_02_e_100,A traitor hidden within the order.
+event_ce007_2_02_e_101,A new breed of human that defies the natural order.
+event_ce007_2_02_e_102,Intended as a sacrificial offering before the sacred purification ritual.
+event_ce007_2_02_e_103,Currently reflecting on her sins in the reformation chamber beneath the altar.
+event_ce007_2_02_e_104,...
+event_ce007_2_02_e_105,...
+event_ce007_2_02_e_106,...
+event_ce007_2_02_e_107,Embrace the end.
+event_ce007_2_02_e_108,"Beneath the flames of judgment, the Torch of Salvation shall be kindled."
+event_ce007_2_02_e_109,"With that, the cult leader's journal comes to an end."
+event_ce007_2_02_e_110,...
+event_ce007_2_02_e_111,My head is spinning.
+event_ce007_2_02_e_112,These are the ramblings of someone deeply involved in a cult.
+event_ce007_2_02_e_113,Of course any normal person would get dizzy reading this.
+event_ce007_2_02_e_114,"D lets out a sigh. Without me noticing, she had quietly come over to read the journal."
+event_ce007_2_02_e_115,Have you contacted the higher-ups?
+event_ce007_2_02_e_116,Yes.
+event_ce007_2_02_e_117,Blaze Out squad is due to arrive in two hours.
+event_ce007_2_02_e_118,"And until then, we just lay around a bit?"
+event_ce007_2_02_e_119,No.
+event_ce007_2_02_e_120,"We need to resolve whatever problems we can, then get out of here."
+event_ce007_2_02_e_121,Unless we want to go down in flames along with the mansion.
+event_ce007_2_02_e_122,Sounds like fun.
+event_ce007_2_02_e_123,...
+event_ce007_2_02_e_124,"I say we resolve as many issues as we can,"
+event_ce007_2_02_e_125,then get out of here before this place burns down.
+event_ce007_2_02_e_126,This is our plan going forward.
+event_ce007_2_02_e_127,"Now, first things first..."
+event_ce007_2_02_e_128,"Let's find this ""reformation chamber"" where Poli's being held."
+event_ce007_2_03_s_title,Reliving the Present: A
+event_ce007_2_03_s_1,"Hold on, the mansion's going up in flames?"
+event_ce007_2_03_s_2,What are you talking about?
+event_ce007_2_03_s_3,I thought we've discussed this.
+event_ce007_2_03_s_4,This is the Ark's protocol for dealing with outbreaks.
+event_ce007_2_03_s_5,...
+event_ce007_2_03_s_6,So their idea of an epidemic response plan...
+event_ce007_2_03_s_7,Is to burn everything down...
+event_ce007_2_03_s_8,It's not just this place...
+event_ce007_2_03_s_9,Am I right?
+event_ce007_2_03_s_10,You are.
+event_ce007_2_03_s_11,They will torch all the residences around the mansion as well.
+event_ce007_2_03_s_12,"If they deem the situation to be critical,"
+event_ce007_2_03_s_13,"they might even reduce the entire Outer Rim to ashes,"
+event_ce007_2_03_s_14,to stop the disease from reaching the Ark.
+event_ce007_2_03_s_15,What? Then what about the people living in the Outer Rim?
+event_ce007_2_03_s_16,"{AccountData.NickName}, don't be so naive."
+event_ce007_2_03_s_17,"Between the Ark and the Outer Rim, you already know which one the Central Government will prioritize."
+event_ce007_2_03_s_18,Besides...
+event_ce007_2_03_s_19,Surely you understand how dangerous a contagious disease would be in an enclosed space like the Ark.
+event_ce007_2_03_s_20,The Central Government will go with the best option available to them.
+event_ce007_2_03_s_21,As they always do.
+event_ce007_2_03_s_22,This isn't the best option...
+event_ce007_2_03_s_23,They're just taking the easy way out.
+event_ce007_2_03_s_24,Sacrificing the few to save the many.
+event_ce007_2_03_s_25,Exactly.
+event_ce007_2_03_s_26,That's precisely why the Central Government sees this as the best option.
+event_ce007_2_03_s_27,A tale as old as time...
+event_ce007_2_03_s_28,Going with whatever's most convenient.
+event_ce007_2_03_s_29,What if...
+event_ce007_2_03_s_30,What if we put a stop to whatever the Torch of Salvation is up to?
+event_ce007_2_03_s_31,Will Blaze Out still intervene then?
+event_ce007_2_03_s_32,Only if we can prove there's no risk of the NEO-Virus spreading any further.
+event_ce007_2_03_s_33,I doubt they would intentionally stir trouble.
+event_ce007_2_03_s_34,You said Blaze Out's scheduled to arrive in two hours?
+event_ce007_2_03_s_35,That's right.
+event_ce007_2_03_s_36,Then we've still got time...
+event_ce007_2_03_s_37,Let's reassess our next move.
+event_ce007_2_03_s_38,"D, Ada."
+event_ce007_2_03_s_39,What do you think we should do?
+event_ce007_2_03_s_40,I need your input to decide our next course of action.
+event_ce007_2_03_s_41,So let's start with that.
+event_ce007_2_03_s_42,I'm fine with whatever.
+event_ce007_2_03_s_43,"As long as we honor our deal, I'm game."
+event_ce007_2_03_s_44,D?
+event_ce007_2_03_s_45,My stance hasn't changed.
+event_ce007_2_03_s_46,"I say we resolve as many issues as we can,"
+event_ce007_2_03_s_47,then get out of here before this place burns down.
+event_ce007_2_03_s_48,This can be our course of action from here on out.
+event_ce007_2_03_s_49,"So, you're taking the easy way out too? You can't be serious."
+event_ce007_2_03_s_50,...
+event_ce007_2_03_s_51,"Since entering the Outer Rim and on our way to the mansion,"
+event_ce007_2_03_s_52,we didn't encounter a single mutated creature or infected person.
+event_ce007_2_03_s_53,That means the virus hasn't spread beyond the mansion yet.
+event_ce007_2_03_s_54,"So, we still have a chance to prove"
+event_ce007_2_03_s_55,that the NEO-Virus won't spread any further.
+event_ce007_2_03_s_56,"Haha, that's the spirit."
+event_ce007_2_03_s_57,I did say we should resolve as many issues as possible.
+event_ce007_2_03_s_58,"All right. First, we rescue Poli. Then we find a way to deal with this NEO-Virus situation."
+event_ce007_2_03_s_59,...
+event_ce007_2_03_s_60,"Now, where do we start looking?"
+event_ce007_2_03_s_61,*Sigh*
+event_ce007_2_03_s_62,"According to these journals, Poli's ""reflecting on her sins"" in the reformation chamber beneath the altar."
+event_ce007_2_03_s_63,"If she hasn't been sacrificed yet, that's where she's being held."
+event_ce007_2_03_s_64,There's got to be a passage to the reformation chamber somewhere here.
+event_ce007_2_03_s_65,"Somewhere here, huh..."
+event_ce007_2_03_s_66,"We just need to find whatever opens this secret passage, right?"
+event_ce007_2_03_s_67,Yes.
+event_ce007_2_03_s_68,"Are you just gonna stand there all day, Ada?"
+event_ce007_2_03_s_69,Of course not. Our deal is still on.
+event_ce007_2_03_s_70,"But I must say, I'm surprised."
+event_ce007_2_03_s_71,I had you pegged as a puppet who mindlessly follows orders.
+event_ce007_2_03_s_72,Not a chance.
+event_ce007_2_03_s_73,Let's cut the chit-chat and find that passage.
+event_ce007_2_03_s_74,Right away.
+event_ce007_2_03_e_title,Reliving the Present: B
+event_ce007_2_03_e_1,"As we search the second floor of the mansion, Ada calls us to the front of the altar."
+event_ce007_2_03_e_2,"Among bowls, blades, and ornaments of unknown purpose,"
+event_ce007_2_03_e_3,"lies a Rapture core glowing red, looking as ominous as ever."
+event_ce007_2_03_e_4,"Looks pretty suspicious to me, don't you think?"
+event_ce007_2_03_e_5,You're definitely right about that.
+event_ce007_2_03_e_6,It's extremely odd for a Rapture core to just be sitting here like this.
+event_ce007_2_03_e_7,"D, look over there."
+event_ce007_2_03_e_8,D stares silently at the altar for a moment before finally speaking.
+event_ce007_2_03_e_9,Nice find.
+event_ce007_2_03_e_10,"{AccountData.NickName}, forget the core."
+event_ce007_2_03_e_11,Focus on what's around it.
+event_ce007_2_03_e_12,Around it?
+event_ce007_2_03_e_13,"Prompted by D's words, I glance back at the altar again."
+event_ce007_2_03_e_14,The Rapture core.
+event_ce007_2_03_e_15,The bowls and blades.
+event_ce007_2_03_e_16,And the candles faintly illuminating the area.
+event_ce007_2_03_e_17,*Sssshh*
+event_ce007_2_03_e_18,"Every so often, a cold breeze sweeps through, and the candle flames flicker."
+event_ce007_2_03_e_19,Trails of smoke drift toward the platform behind the altar.
+event_ce007_2_03_e_20,Hmmm?
+event_ce007_2_03_e_21,"Upon closer inspection, the smoke is being drawn into a narrow crack in the platform."
+event_ce007_2_03_e_22,I knock on the platform.
+event_ce007_2_03_e_23,*Thunk*
+event_ce007_2_03_e_24,A dull echo rings out from behind.
+event_ce007_2_03_e_25,I'm guessing there's a hidden space behind this.
+event_ce007_2_03_e_26,Bingo. That means our next step is...
+event_ce007_2_03_e_27,"Ada rummages around the altar,"
+event_ce007_2_03_e_28,and points the Rapture core toward the platform.
+event_ce007_2_03_e_29,*Click*
+event_ce007_2_03_e_30,*Rumble*
+event_ce007_2_03_e_31,"The platform slides open, revealing a hidden passageway behind it."
+event_ce007_2_03_e_32,I'll go first.
+event_ce007_2_03_e_33,Ada grins and slips behind the platform.
+event_ce007_2_03_e_34,I peer in and am greeted by a staircase descending deep underground.
+event_ce007_2_03_e_35,"Let's head down, D."
+event_ce007_2_03_e_36,All right.
+event_ce007_2_03_e_37,Stay sharp. We don't know what's waiting for us down there.
+event_ce007_2_03_e_38,"We walk down the long corridor when Ada, who's ahead of us, stops abruptly."
+event_ce007_2_03_e_39,What is it?
+event_ce007_2_03_e_40,See for yourself.
+event_ce007_2_03_e_41,"As Ada steps aside, something piled up in layers comes into view."
+event_ce007_2_03_e_42,"From regular civilian clothing,"
+event_ce007_2_03_e_43,"to work, school, police, nurse, and military uniforms,"
+event_ce007_2_03_e_44,a variety of clothes are piled up together.
+event_ce007_2_03_e_45,A name tag on one of the military uniforms suddenly catches my eye.
+event_ce007_2_03_e_46,'Miles Carter'
+event_ce007_2_03_e_47,Are these the clothes worn by the missing?
+event_ce007_2_03_e_48,There's more.
+event_ce007_2_03_e_49,Ada gestures silently.
+event_ce007_2_03_e_50,Several mass-produced Nikkes lie collapsed beyond the pile of clothes.
+event_ce007_2_03_e_51,The condition of their bodies paints a clear picture of what went on in here.
+event_ce007_2_03_e_52,A traitor hidden within the order...
+event_ce007_2_03_e_53,Suddenly...
+event_ce007_2_03_e_54,*Bang bang*
+event_ce007_2_03_e_55,Gunshots ring out.
+event_ce007_2_03_e_56,Is it coming from below us...?
+event_ce007_2_03_e_57,"Poli, snap out of it! Poli!"
+event_ce007_2_03_e_58,Deep within the corridor.
+event_ce007_2_03_e_59,*Gaaaaaaahhhhhhh*
+event_ce007_2_03_e_60,*Bang bang*
+event_ce007_2_03_e_61,"Quiry, fire the rocket launcher!"
+event_ce007_2_03_e_62,R-roger!
+event_ce007_2_03_e_63,Figures can be seen engaged in combat with a creature howling ferociously.
+event_ce007_2_03_e_64,Miranda and... Quiry?
+event_ce007_2_03_e_65,But who are the other two?
+event_ce007_2_03_e_66,Do you know them?
+event_ce007_2_03_e_67,Yeah.
+event_ce007_2_03_e_68,"Well, they look like they're in a tight spot."
+event_ce007_2_03_e_69,We should go help th—
+event_ce007_2_03_e_70,*Whoosh*
+event_ce007_2_03_e_71,"Out of nowhere, an axe flies in from behind, striking the creature dead-on."
+event_ce007_2_03_e_72,*Crack*
+event_ce007_2_03_e_73,"D charges forward to grab the axe,"
+event_ce007_2_03_e_74,promptly slamming it back into the creature's exposed core in its lower half.
+event_ce007_2_03_e_75,*Whoosh*
+event_ce007_2_03_e_76,*Gaaaaaaahhhhhhh*
+event_ce007_2_03_e_77,"By the time D pulls the axe free again,"
+event_ce007_2_03_e_78,the creature has ceased its shrieking.
+event_ce007_2_intermission_01_title,The Jail
+event_ce007_2_intermission_01_1,Ughhhh...
+event_ce007_2_intermission_01_2,"Poli, are you awake?!"
+event_ce007_2_intermission_01_3,... Miranda?
+event_ce007_2_intermission_01_4,Are you hurt?
+event_ce007_2_intermission_01_5,And... Quiry?
+event_ce007_2_intermission_01_6,Wh-what are you two doing here...?
+event_ce007_2_intermission_01_7,!!
+event_ce007_2_intermission_01_8,Deipara...!
+event_ce007_2_intermission_01_9,Now's not the time to be standing around!
+event_ce007_2_intermission_01_10,Deipara's headed to the surface...!
+event_ce007_2_intermission_01_11,"Calm down, Poli."
+event_ce007_2_intermission_01_12,You don't look so good.
+event_ce007_2_intermission_01_13,"Poli attempts to stand up, but promptly drops back down."
+event_ce007_2_intermission_01_14,It's clear she's suffered a great deal while trapped here.
+event_ce007_2_intermission_01_15,"Commander, you're here too..."
+event_ce007_2_intermission_01_16,Hmmm?
+event_ce007_2_intermission_01_17,I see some unfamiliar faces here...
+event_ce007_2_intermission_01_18,About that...
+event_ce007_2_intermission_01_19,This is Jill and Claire!
+event_ce007_2_intermission_01_20,They were escaping from Raccoon City when their vision turned blurry.
+event_ce007_2_intermission_01_21,"The next thing they knew, they ended up in this mansion."
+event_ce007_2_intermission_01_22,What?
+event_ce007_2_intermission_01_23,So they got dragged in from another world through the D-Wave too.
+event_ce007_2_intermission_01_24,"Everyone, mind if I say something?"
+event_ce007_2_intermission_01_25,I explain the D-Wave in detail.
+event_ce007_2_intermission_01_26,So that's why things weren't adding up.
+event_ce007_2_intermission_01_27,Another world...
+event_ce007_2_intermission_01_28,"But we can still return to our own world, right?"
+event_ce007_2_intermission_01_29,"Sure, all we've got to do is wake up the Gatekeeper."
+event_ce007_2_intermission_01_30,Then let's go and get this Gatekeeper thing outta bed!
+event_ce007_2_intermission_01_31,Before we do that...
+event_ce007_2_intermission_01_32,There's something I want to ask.
+event_ce007_2_intermission_01_33,Does Umbrella Corporation also exist in this world?
+event_ce007_2_intermission_01_34,Umbrella Corporation?
+event_ce007_2_intermission_01_35,"Yes, it seems like Umbrella Corporation is behind what happened in the mansion."
+event_ce007_2_intermission_01_36,Hmm...
+event_ce007_2_intermission_01_37,"No, I don't believe I've ever heard of Umbrella Corporation in our world."
+event_ce007_2_intermission_01_38,Those documents we found in the mansion are the only data we have on Umbrella.
+event_ce007_2_intermission_01_39,But we'll have to dig a little deeper to get the full picture.
+event_ce007_2_intermission_01_40,So they don't exist here... but then why...?
+event_ce007_2_intermission_01_41,...
+event_ce007_2_intermission_01_42,Claire.
+event_ce007_2_intermission_01_43,Let's hold off on waking up the Gatekeeper for now.
+event_ce007_2_intermission_01_44,Why?
+event_ce007_2_intermission_01_45,You heard him.
+event_ce007_2_intermission_01_46,Although we don't know precisely what's going on...
+event_ce007_2_intermission_01_47,It's clear that Umbrella has a some kind of influence on this world.
+event_ce007_2_intermission_01_48,We can't let this stand.
+event_ce007_2_intermission_01_49,We have to make things right before leaving.
+event_ce007_2_intermission_01_50,Make things right...
+event_ce007_2_intermission_01_51,Claire looks at Quiry.
+event_ce007_2_intermission_01_52,Um...
+event_ce007_2_intermission_01_53,"You said your colleague followed Deipara all the way here, right?"
+event_ce007_2_intermission_01_54,Then we've got to find them.
+event_ce007_2_intermission_01_55,Both Deipara and your colleague.
+event_ce007_2_intermission_01_56,And everyone else who's gone missing.
+event_ce007_2_intermission_01_57,"After that,"
+event_ce007_2_intermission_01_58,we need to make sure they'll never be able to do this again.
+event_ce007_2_intermission_01_59,I'm sick of watching viruses rob people of what's precious to them.
+event_ce007_2_intermission_01_60,D-do you think we can really handle this on our own...?
+event_ce007_2_intermission_01_61,"C'mon, Quiry. I believe in you."
+event_ce007_2_intermission_01_62,Are you saying you don't have faith in me?
+event_ce007_2_intermission_01_63,*Sigh*
+event_ce007_2_intermission_01_64,"If we leave things like this, it'll bug me endlessly, and I won't be able to focus on finding my brother."
+event_ce007_2_intermission_01_65,All right.
+event_ce007_2_intermission_01_66,Might as well give it a shot.
+event_ce007_2_intermission_01_67,"So, where do we begin—"
+event_ce007_2_intermission_01_68,Hold up.
+event_ce007_2_intermission_01_69,I really thankful everyone's offering their help.
+event_ce007_2_intermission_01_70,But there is still something left to verify.
+event_ce007_2_intermission_01_71,Verify?
+event_ce007_2_intermission_01_72,Yes.
+event_ce007_2_intermission_01_73,I still haven't heard that person's introduction
+event_ce007_2_intermission_01_74,"Poli's eyes drift toward D, who is sitting silently in the corner."
+event_ce007_2_intermission_01_75,"At some point, without me noticing, she has changed into a police uniform."
+event_ce007_2_intermission_01_76,Agent Winters. B.S.T.
+event_ce007_2_intermission_01_77,B.S.T.?
+event_ce007_2_intermission_01_78,Biohazard Strike Team.
+event_ce007_2_intermission_01_79,We deal with any incidents inside the Ark involving biohazards.
+event_ce007_2_intermission_01_80,"After merging with the A.C.P.U.,"
+event_ce007_2_intermission_01_81,We've been tasked to deal with the current incident involving the virus.
+event_ce007_2_intermission_01_82,"My my, very impressive."
+event_ce007_2_intermission_01_83,"Effective immediately, I'll be joining your team. I presume I can count on your cooperation?"
+event_ce007_2_intermission_01_84,Commander {AccountData.NickName} will be personally leading this operation.
+event_ce007_2_intermission_01_85,H-huh?
+event_ce007_2_intermission_01_86,"Is there a problem, Commander?"
+event_ce007_2_intermission_01_87,It seems D doesn't want anyone to know that she's with Perilous Siege.
+event_ce007_2_intermission_01_88,I'll play along for now.
+event_ce007_2_intermission_01_89,Ahem.
+event_ce007_2_intermission_01_90,"We could use any help you can give us, Poli."
+event_ce007_2_intermission_01_91,Okay... I'll do my best.
+event_ce007_2_intermission_01_92,"I'm kind of in rough shape though, so I might need some assistance from you all."
+event_ce007_2_intermission_01_93,I believe that covers all the introductions...
+event_ce007_2_intermission_01_94,"Shall we move on, Commander?"
+event_ce007_2_intermission_01_95,Uh... right.
+event_ce007_2_intermission_01_96,"Okay, let's go over the situation again,"
+event_ce007_2_intermission_01_97,and share what we've all found in the mansion so far.
+event_ce007_2_04_s_title,The March to Survive: A
+event_ce007_2_04_s_1,Torch of Salvation.
+event_ce007_2_04_s_2,"A cult that refers to Raptures as judges descended from the heavens,"
+event_ce007_2_04_s_3,"who will guide all foolish mortals to their reckoning,"
+event_ce007_2_04_s_4,and the cult firmly believes that it will lead them to salvation in the process.
+event_ce007_2_04_s_5,The founder of this group is Elseria Nine.
+event_ce007_2_04_s_6,"– She was reportedly in despair, as her husband—a former commander—remains comatose."
+event_ce007_2_04_s_7,"– It is believed that she received a Rapture core from an unknown individual, which served as the catalyst for the cult's founding."
+event_ce007_2_04_s_8,"After establishing the Torch of Salvation, Elseria enticed patients and visitors at the counseling center to join the cult."
+event_ce007_2_04_s_9,They began holding regular gatherings at a mansion in the Outer Rim.
+event_ce007_2_04_s_10,– Some cultists were even sent to the surface and offered as sacrifices to the Raptures.
+event_ce007_2_04_s_11,All individuals who went missing in the past two weeks have been linked to the Torch of Salvation.
+event_ce007_2_04_s_12,Clothes were found at the entrance of the reformation chamber.
+event_ce007_2_04_s_13,The timeline of the disappearances coincides with the D-WAVE incident.
+event_ce007_2_04_s_14,– The disappearances began after cult members were used as test subjects during the development of the NEO-Virus.
+event_ce007_2_04_s_15,The NEO-Virus.
+event_ce007_2_04_s_16,"Building upon the T-Virus, which hails from another world,"
+event_ce007_2_04_s_17,it is synthesized by refining a holy elixir extracted from a Rapture's body.
+event_ce007_2_04_s_18,This particular Rapture is located at coordinates RAC 10.1.
+event_ce007_2_04_s_19,"When injected into organic matter, the virus significantly enhances physical and regenerative abilities."
+event_ce007_2_04_s_20,"However, side effects include bodily deterioration, significant cognitive decline, and increased violent tendencies."
+event_ce007_2_04_s_21,"Spreading the NEO-Virus within the Ark to incite chaos,"
+event_ce007_2_04_s_22,"and using the resulting confusion to allow the Raptures in, was all part of the Torch of Salvation's plans"
+event_ce007_2_04_s_23,– This operation was code-named Project: Reborn Evil.
+event_ce007_2_04_s_24,"– If the situation is not resolved within two hours,"
+event_ce007_2_04_s_25,– Blaze Out will initiate a full-scale purge.
+event_ce007_2_04_s_26,Does that about sum it up?
+event_ce007_2_04_s_27,It sounds like we've settled on a plan.
+event_ce007_2_04_s_28,We're here to put a stop to the Project Reborn Evil. Is that it?
+event_ce007_2_04_s_29,"When you put it like that, it sounds simple enough."
+event_ce007_2_04_s_30,It sure doesn't feel that way to me...
+event_ce007_2_04_s_31,"Still, all we can do is try."
+event_ce007_2_04_s_32,"With these many supercops in our midst, I'm sure things will work out somehow."
+event_ce007_2_04_s_33,"Yeah! Everything will turn out fine, somehow!"
+event_ce007_2_04_s_34,But... who exactly is this supercop you're talking about?
+event_ce007_2_04_s_35,*Sigh*
+event_ce007_2_04_s_36,... I think that's about everything for now.
+event_ce007_2_04_s_37,"Next, we need to figure out how to stop Project Reborn Evil from taking place."
+event_ce007_2_04_s_38,"First, we stop the NEO-Virus from spreading outside the mansion."
+event_ce007_2_04_s_39,"Second, we prevent the Raptures from infiltrating the Ark."
+event_ce007_2_04_s_40,These two are what really matters.
+event_ce007_2_04_s_41,...
+event_ce007_2_04_s_42,You mentioned earlier that that's the way to the lab?
+event_ce007_2_04_s_43,Yeah. We came down from that side.
+event_ce007_2_04_s_44,Makes sense.
+event_ce007_2_04_s_45,"{AccountData.NickName}, if it's all right with you, I'll handle the virus."
+event_ce007_2_04_s_46,Huh?
+event_ce007_2_04_s_47,I've got a few ideas in mind.
+event_ce007_2_04_s_48,But it's a plan that requires Agent Winters from the B.S.T.
+event_ce007_2_04_s_49,"What do you say, Winters? Want to try your luck with me?"
+event_ce007_2_04_s_50,"D... er, Agent Winters, are you up to it?"
+event_ce007_2_04_s_51,No issues on my end.
+event_ce007_2_04_s_52,"All right then, I'll leave the virus to Ada and Agent Winters."
+event_ce007_2_04_s_53,As for the Raptures...
+event_ce007_2_04_s_54,About the Raptures.
+event_ce007_2_04_s_55,There's something I wanted to share.
+event_ce007_2_04_s_56,What's that?
+event_ce007_2_04_s_57,Well...
+event_ce007_2_04_s_58,"I was caught by the cultists not long after sneaking into the mansion,"
+event_ce007_2_04_s_59,"so I'm embarrassed to say, I didn't discover anything noteworthy."
+event_ce007_2_04_s_60,"But, I did come across something that could serve as a clue."
+event_ce007_2_04_s_61,And what's that?
+event_ce007_2_04_s_62,"Um, basically..."
+event_ce007_2_04_s_63,"Up until a moment ago, Deipara was being held here with me."
+event_ce007_2_04_s_64,"But the cult leader came and took her away, just before all of you arrived."
+event_ce007_2_04_s_65,"While she was here, I heard her say something."
+event_ce007_2_04_s_66,"""All preparations are complete. It's time to head to the surface to face our reckoning."""
+event_ce007_2_04_s_67,!!
+event_ce007_2_04_s_68,"Winters, do you happen to know if there's an abandoned elevator nearby?"
+event_ce007_2_04_s_69,"There's one elevator left, but it's supposed to be decommissioned."
+event_ce007_2_04_s_70,Coordinates?
+event_ce007_2_04_s_71,I'll ask my partner to send it over right away.
+event_ce007_2_04_s_72,All right. Do it as fast as you can.
+event_ce007_2_04_s_73,"The, while Ada and Winters are handling the virus,"
+event_ce007_2_04_s_74,the rest of us will make sure the cult leader doesn't make it to the surfa—
+event_ce007_2_04_s_75,*Thud*
+event_ce007_2_04_s_76,!!
+event_ce007_2_04_s_77,*Thud thud thud*
+event_ce007_2_04_s_78,*Gaaaaaahhhhhhh*
+event_ce007_2_04_s_79,That noise...
+event_ce007_2_04_s_80,... I knew things wouldn't be this easy.
+event_ce007_2_04_s_81,"Poli, can you move?"
+event_ce007_2_04_s_82,...
+event_ce007_2_04_s_83,I'll be fine.
+event_ce007_2_04_s_84,You all go on ahead.
+event_ce007_2_04_s_85,I can at least buy you some time.
+event_ce007_2_04_e_title,The March to Survive: B
+event_ce007_2_04_e_1,*Clack*
+event_ce007_2_04_e_2,*Thud*
+event_ce007_2_04_e_3,...
+event_ce007_2_04_e_4,*Clack*
+event_ce007_2_04_e_5,*Thud*
+event_ce007_2_04_e_6,...
+event_ce007_2_04_e_7,*Clack*
+event_ce007_2_04_e_8,*Thud*
+event_ce007_2_04_e_9,*Sigh*
+event_ce007_2_04_e_10,I told you it was okay to go ahead.
+event_ce007_2_04_e_11,Why did you two decide to stay?
+event_ce007_2_04_e_12,B-because you can't even stand up properly right now.
+event_ce007_2_04_e_13,"I could say the same about you, Miranda."
+event_ce007_2_04_e_14,I-I'm fine—
+event_ce007_2_04_e_15,*Thud thud thud*
+event_ce007_2_04_e_16,*Thud thud thud thud thud*
+event_ce007_2_04_e_17,*Gulp*
+event_ce007_2_04_e_18,The thunderous sound echoing down the passage grows closer.
+event_ce007_2_04_e_19,This feels like a nightmare.
+event_ce007_2_04_e_20,...
+event_ce007_2_04_e_21,"Wouldn't you agree, Miranda?"
+event_ce007_2_04_e_22,Yes. Wait. Huh?
+event_ce007_2_04_e_23,I said this feels like something out of a nightmare.
+event_ce007_2_04_e_24,Wh-which part exactly?
+event_ce007_2_04_e_25,... Aren't you going to pinch me to make sure I'm not dreaming?
+event_ce007_2_04_e_26,Are you sure you're okay?
+event_ce007_2_04_e_27,You're shaking pretty badly.
+event_ce007_2_04_e_28,That sound keeps reminding me of something.
+event_ce007_2_04_e_29,"That abomination we ran into earlier,"
+event_ce007_2_04_e_30,and all those things we saw in the lab. They keep popping up in my head...
+event_ce007_2_04_e_31,So my body just keeps shaking.
+event_ce007_2_04_e_32,"It's all very scary, isn't it?"
+event_ce007_2_04_e_33,Y-yeah...
+event_ce007_2_04_e_34,I figured.
+event_ce007_2_04_e_35,It's not too late. You can still leave and catch up to the others if you want.
+event_ce007_2_04_e_36,We'll take care of the creature.
+event_ce007_2_04_e_37,That's right. You don't have to stay behind just because of me.
+event_ce007_2_04_e_38,B-before...
+event_ce007_2_04_e_39,When the Ark was in danger...
+event_ce007_2_04_e_40,"There was something you said, Poli..."
+event_ce007_2_04_e_41,That we're police officers...
+event_ce007_2_04_e_42,So protecting civilians... and keeping the Ark safe...
+event_ce007_2_04_e_43,That's what police officers are meant to do...
+event_ce007_2_04_e_44,That's why I'm choosing to stay behind.
+event_ce007_2_04_e_45,"In order for the others to solve the problems at hand,"
+event_ce007_2_04_e_46,someone needs to keep the creature distracted.
+event_ce007_2_04_e_47,"Only then can we protect the civilians, and keep the Ark safe."
+event_ce007_2_04_e_48,*Thud thud thud thud thud*
+event_ce007_2_04_e_49,*Thud thud thud thud thud thud thud*
+event_ce007_2_04_e_50,!!
+event_ce007_2_04_e_51,"I-I may not be able to stop the trembling, but..."
+event_ce007_2_04_e_52,*Tap*
+event_ce007_2_04_e_53,Poli?
+event_ce007_2_04_e_54,Poli places a hand on top of Miranda's head.
+event_ce007_2_04_e_55,"Thanks, Miranda."
+event_ce007_2_04_e_56,For choosing to stay behind for that reason.
+event_ce007_2_04_e_57,I'm so glad.
+event_ce007_2_04_e_58,Looks like there are solid cops in this world too.
+event_ce007_2_04_e_59,"Miranda,"
+event_ce007_2_04_e_60,you were asking earlier who the supercop was.
+event_ce007_2_04_e_61,"Y-yes, I'm still curious about that."
+event_ce007_2_04_e_62,"Well, I don't think we need to look any further."
+event_ce007_2_04_e_63,Huh?
+event_ce007_2_04_e_64,*Gaaaaaaahhhhh*
+event_ce007_2_04_e_65,*Click*
+event_ce007_2_04_e_66,"From one supercop to another,"
+event_ce007_2_04_e_67,let's take this thing down.
+event_ce007_2_05_s_title,Mournful Pursuit: A
+event_ce007_2_05_s_1,*Whoosh*
+event_ce007_2_05_s_2,*Crack*
+event_ce007_2_05_s_3,*Gaaaaaaahhhhh*
+event_ce007_2_05_s_4,"Beneath D's axe, the grotesque creature that attacked the lab lets out its final cry."
+event_ce007_2_05_s_5,Aren't you done yet?
+event_ce007_2_05_s_6,"Patience is a virtue, D. Your boyfriend might not like it if you act like that!"
+event_ce007_2_05_s_7,"Or should I say, Winters?"
+event_ce007_2_05_s_8,"... When it's just us, you can call me D."
+event_ce007_2_05_s_9,D yanks the axe out from the core and glances toward Ada.
+event_ce007_2_05_s_10,*Clack* *Clatter*
+event_ce007_2_05_s_11,*Clack clack*
+event_ce007_2_05_s_12,"Despite the pitched battle occurring right beside her,"
+event_ce007_2_05_s_13,"Ada, without so much as a glance, remains hunched over a computer terminal, typing furiously at the keyboard."
+event_ce007_2_05_s_14,"Judging by the countless black windows and lines of commands being inputted, it seems she's trying to hack in."
+event_ce007_2_05_s_15,"If this isn't going to work, say it now."
+event_ce007_2_05_s_16,We need to come up with another plan.
+event_ce007_2_05_s_17,Yeah yeah.
+event_ce007_2_05_s_18,Ada resumes clacking away at the keyboard.
+event_ce007_2_05_s_19,*Clack* *Tap*
+event_ce007_2_05_s_20,*Clack clack*
+event_ce007_2_05_s_21,"Deeming herself incapable of contributing at the computer, D heads towards the incubation chamber."
+event_ce007_2_05_s_22,"Corpses lie scattered outside the broken chamber, across a sea of shattered glass."
+event_ce007_2_05_s_23,"They're a horrific sight, but D gazes at them unflinchingly."
+event_ce007_2_05_s_24,"She reads the names written on each hospital gown aloud, one by one."
+event_ce007_2_05_s_25,... Edward Monroe. Lily Monroe. Blake.
+event_ce007_2_05_s_26,It is as if she's making a vow to remember them all.
+event_ce007_2_05_s_27,"Once finished, she then approaches the grotesque creature she's just taken down."
+event_ce007_2_05_s_28,... Hrrngh!
+event_ce007_2_05_s_29,*Whoosh*
+event_ce007_2_05_s_30,"Her axe carves an arc through the air, leaving a black streak."
+event_ce007_2_05_s_31,The creature is cleaved in two.
+event_ce007_2_05_s_32,"The upper body of a mass-produced Nikke, and the lower limbs of a Rapture."
+event_ce007_2_05_s_33,The dog tags are...
+event_ce007_2_05_s_34,...
+event_ce007_2_05_s_35,Found them.
+event_ce007_2_05_s_36,BH-1996322.
+event_ce007_2_05_s_37,*Clack clack*
+event_ce007_2_05_s_38,*Tap*
+event_ce007_2_05_s_39,"Ada, who had been typing away at the keyboard, suddenly froze."
+event_ce007_2_05_s_40,What is it?
+event_ce007_2_05_s_41,Just curious what you're doing.
+event_ce007_2_05_s_42,Are you looking for someone?
+event_ce007_2_05_s_43,No.
+event_ce007_2_05_s_44,What then?
+event_ce007_2_05_s_45,I'm memorizing their names so I can verify them when we get back to the Ark.
+event_ce007_2_05_s_46,That way I can find out who they were.
+event_ce007_2_05_s_47,And?
+event_ce007_2_05_s_48,"I need to find out why they came to believe in the Torch of Salvation,"
+event_ce007_2_05_s_49,"and all the things they've done along the way,"
+event_ce007_2_05_s_50,before I can make an objective judgment about their deaths.
+event_ce007_2_05_s_51,That's the only way...
+event_ce007_2_05_s_52,"Only by knowing what led to all this,"
+event_ce007_2_05_s_53,can we prevent a second Torch of Salvation from rising.
+event_ce007_2_05_s_54,...
+event_ce007_2_05_s_55,Can I ask you something?
+event_ce007_2_05_s_56,Does working behind a wall of anonymity ever get tiring?
+event_ce007_2_05_s_57,"If you were to die, no one would ever know what you've done."
+event_ce007_2_05_s_58,Or that you even had these thoughts.
+event_ce007_2_05_s_59,It doesn't matter.
+event_ce007_2_05_s_60,"If my actions tip the cosmic scales even slightly toward the side of good,"
+event_ce007_2_05_s_61,I'll do whatever it takes for justice.
+event_ce007_2_05_s_62,More importantly...
+event_ce007_2_05_s_63,There's someone now who will remember me.
+event_ce007_2_05_s_64,Someone who will remember you...
+event_ce007_2_05_s_65,That's great.
+event_ce007_2_05_s_66,"Enough talk, let's finish this."
+event_ce007_2_05_s_67,That reminds me...
+event_ce007_2_05_s_68,Ada pulls up a new window on the monitor.
+event_ce007_2_05_s_69,At the bottom of the document titled Project: Reborn Evil...
+event_ce007_2_05_s_70,Evil purified in...
+event_ce007_2_05_s_71,09:23:00
+event_ce007_2_05_s_72,09:23:00
+event_ce007_2_05_s_73,09:23:00
+event_ce007_2_05_s_74,The countdown that had been ticking down has come to a halt.
+event_ce007_2_05_s_75,The NEO-Virus won't spread to the Ark.
+event_ce007_2_05_s_76,"I've also wiped all data related to the T-Virus, so don't worry too much."
+event_ce007_2_05_s_77,*Sigh*
+event_ce007_2_05_s_78,"You could have told me that earlier, you know."
+event_ce007_2_05_s_79,"I'll take that as a ""thank you."""
+event_ce007_2_05_s_80,Now then...
+event_ce007_2_05_s_81,"Ada stretches, then begins rummaging through the pockets of the researchers lying motionless beside the computer."
+event_ce007_2_05_s_82,Why don't we see what kind of people we're dealing with?
+event_ce007_2_05_s_83,"Hey D, did you know?"
+event_ce007_2_05_s_84,"Usually among researchers like these,"
+event_ce007_2_05_s_85,there's always bound to be one that still has a tiny shred of a conscience left—
+event_ce007_2_05_s_86,enough to stash a vaccine somewhere.
+event_ce007_2_05_s_87,"Out of nowhere, Ada reveals a vaccine sample in her hand."
+event_ce007_2_05_s_88,Now that I've got a hold of this... our deal's complete.
+event_ce007_2_05_s_89,Our deal?
+event_ce007_2_05_s_90,"Without another word, Ada begins to head out of the lab."
+event_ce007_2_05_s_91,Ada?
+event_ce007_2_05_s_92,You sure you don't need to go?
+event_ce007_2_05_s_93,"To check in on your boyfriend, I mean."
+event_ce007_2_05_s_94,...
+event_ce007_2_05_s_95,Guess I should.
+event_ce007_2_05_s_96,"As D exits the lab, a cool breeze brushes past her ear."
+event_ce007_2_05_s_97,Ada is perched on the windowsill of a wide-open window.
+event_ce007_2_05_s_98,Take this.
+event_ce007_2_05_s_99,Ada tosses something.
+event_ce007_2_05_s_100,... What's this?
+event_ce007_2_05_s_101,It is a USB drive adorned with ornate engravings.
+event_ce007_2_05_s_102,A pair of perfectly balanced scales is etched into the surface.
+event_ce007_2_05_s_103,Consider it payment for your honesty.
+event_ce007_2_05_s_104,Well then.
+event_ce007_2_05_s_105,"With that, Ada fires a hook shot and vanishes out the window."
+event_ce007_2_05_e_title,Mournful Pursuit: B
+event_ce007_2_05_e_1,"Behind the mansion, along the path leading to the elevator,"
+event_ce007_2_05_e_2,a veritable mountain of garbage is piled up.
+event_ce007_2_05_e_3,Ugh...
+event_ce007_2_05_e_4,It reeks.
+event_ce007_2_05_e_5,I can't believe they put a trash dump right behind the mansion.
+event_ce007_2_05_e_6,How do they stand being so close to this stench?
+event_ce007_2_05_e_7,Hmm...
+event_ce007_2_05_e_8,Guess they just get used to it.
+event_ce007_2_05_e_9,What?
+event_ce007_2_05_e_10,"The residents here pick through heaps of trash dumped from the Ark, searching for anything they can salvage."
+event_ce007_2_05_e_11,They make a living selling what they find.
+event_ce007_2_05_e_12,You just have to learn to live with the smell if you want to survive out in the Outer Rim.
+event_ce007_2_05_e_13,Ahh... let me get this straight.
+event_ce007_2_05_e_14,They make ends meet by selling trash dumped from the Ark.
+event_ce007_2_05_e_15,"And putting up with smells like this,"
+event_ce007_2_05_e_16,is the reality people face in this world?
+event_ce007_2_05_e_17,... Yes.
+event_ce007_2_05_e_18,Reality is unforgiving no matter where you go.
+event_ce007_2_05_e_19,...
+event_ce007_2_05_e_20,Quiry?
+event_ce007_2_05_e_21,...
+event_ce007_2_05_e_22,Quiry fidgets with her rocket launcher in silence.
+event_ce007_2_05_e_23,"Hey, Quiry...?"
+event_ce007_2_05_e_24,Y-yes?
+event_ce007_2_05_e_25,A penny for your thoughts?
+event_ce007_2_05_e_26,Oh...
+event_ce007_2_05_e_27,I just thinking...
+event_ce007_2_05_e_28,I-is it really okay?
+event_ce007_2_05_e_29,Is what okay?
+event_ce007_2_05_e_30,I-I can't help but think that someone other than me should have tagged along.
+event_ce007_2_05_e_31,"Someone with more field experience, like Agent Winters from B.S.T."
+event_ce007_2_05_e_32,Or someone who's more suited for combat.
+event_ce007_2_05_e_33,"You were blasting things left and right with that rocket launcher,"
+event_ce007_2_05_e_34,and now you second-guess yourself?
+event_ce007_2_05_e_35,"Before this, most of what I'd done had been administrative work."
+event_ce007_2_05_e_36,"Except under special circumstances, Poli or Miranda typically handle field operations..."
+event_ce007_2_05_e_37,Saving all of humanity...
+event_ce007_2_05_e_38,"Such a monumental task is better left to someone else, not me..."
+event_ce007_2_05_e_39,Come on. None of that stuff matters.
+event_ce007_2_05_e_40,I was just an ordinary college student.
+event_ce007_2_05_e_41,"But I survived Raccoon City, and now I'm surviving just fine here too."
+event_ce007_2_05_e_42,It's what's in here that counts. Our hearts.
+event_ce007_2_05_e_43,Claire lightly taps her chest with her fist.
+event_ce007_2_05_e_44,"Watching Claire, Quiry mutters quietly."
+event_ce007_2_05_e_45,That's what counts...?
+event_ce007_2_05_e_46,You came all the way to this dangerous place because you wanted to save your friend.
+event_ce007_2_05_e_47,"And not only did you rescue Poli, you did it with style."
+event_ce007_2_05_e_48,"That means you can save Deipara, too."
+event_ce007_2_05_e_49,"Hell, you can even save all of humanity."
+event_ce007_2_05_e_50,You've got what it takes.
+event_ce007_2_05_e_51,Y-you think so?
+event_ce007_2_05_e_52,Of course.
+event_ce007_2_05_e_53,And there's more good news.
+event_ce007_2_05_e_54,What's that...?
+event_ce007_2_05_e_55,"You're not alone, because you've got me."
+event_ce007_2_05_e_56,"So...? That's comforting, right?"
+event_ce007_2_05_e_57,A faint smile crosses Quiry's face at Claire's playful words.
+event_ce007_2_05_e_58,"Yeah, I feel really reassured."
+event_ce007_2_05_e_59,See?
+event_ce007_2_05_e_60,...
+event_ce007_2_05_e_61,So it's what's inside that counts... What's inside...
+event_ce007_2_05_e_62,Whew...
+event_ce007_2_05_e_63,Quiry grips the launcher tightly with what seemed like newfound resolve.
+event_ce007_2_05_e_64,Shall we keep moving?
+event_ce007_2_05_e_65,Yes!
+event_ce007_2_05_e_66,I spot the elevator K told us about in the distance.
+event_ce007_2_05_e_67,"Here too, huh."
+event_ce007_2_05_e_68,"We can't catch a break, can we?"
+event_ce007_2_05_e_69,In front of the elevator stood more of the same creatures we've been fighting all this time.
+event_ce007_2_05_e_70,*Clack*
+event_ce007_2_05_e_71,Quiry lifts her loaded launcher.
+event_ce007_2_05_e_72,I-I'll take the lead!
+event_ce007_2_05_e_73,...
+event_ce007_2_05_e_74,After the battle. In front of the elevator.
+event_ce007_2_05_e_75,Hah... hahahah...
+event_ce007_2_05_e_76,Elseria Nine lies on the ground in a heap.
+event_ce007_2_05_e_77,Her abdomen is torn open.
+event_ce007_2_05_e_78,It looks like one of those monsters got to her.
+event_ce007_2_05_e_79,Life falls into oblivion... into turmoil.
+event_ce007_2_05_e_80,Cruel distortion... of all things sacred.
+event_ce007_2_05_e_81,"Cold, metallic judges... descend."
+event_ce007_2_05_e_82,Do not resist...
+event_ce007_2_05_e_83,The end is... nigh.
+event_ce007_2_05_e_84,Guide... these foolish mortals...
+event_ce007_2_05_e_85,... Elseria Nine.
+event_ce007_2_05_e_86,The plan you and the Torch of Salvation put together is doomed to fail.
+event_ce007_2_05_e_87,... Fail?
+event_ce007_2_05_e_88,That's right.
+event_ce007_2_05_e_89,Doing this won't save anyone.
+event_ce007_2_05_e_90,Hah... hahahah...
+event_ce007_2_05_e_91,Heathens like you wouldn't understand...
+event_ce007_2_05_e_92,"Just you wait. On the day of reckoning, we'll see who is saved."
+event_ce007_2_05_e_93,Death... is the path to salvation.
+event_ce007_2_05_e_94,Death is the path that leads to salvation...
+event_ce007_2_05_e_95,Death is...
+event_ce007_2_05_e_96,... Salvation.
+event_ce007_2_05_e_97,"While tending to the delirious cult leader's wounds, Quiry shakes her head."
+event_ce007_2_05_e_98,...
+event_ce007_2_05_e_99,"Suddenly, the cult leader starts speaking to someone other than those of us present."
+event_ce007_2_05_e_100,Her eyes lose focus and their light gradually dims.
+event_ce007_2_05_e_101,"You're waiting for me, aren't you?"
+event_ce007_2_05_e_102,I told you... Deipara and I would come...
+event_ce007_2_05_e_103,We'd return... to the happy days we once had...
+event_ce007_2_05_e_104,And receive salvation...
+event_ce007_2_05_e_105,... With Deipara?
+event_ce007_2_05_e_106,Deipara...
+event_ce007_2_05_e_107,...
+event_ce007_2_05_e_108,Deipara's... in the elevator...
+event_ce007_2_05_e_109,What... what have I done...?
+event_ce007_2_05_e_110,The elevator?
+event_ce007_2_05_e_111,"Inside the elevator, countless homemade explosives cover the floor."
+event_ce007_2_05_e_112,*Beep beep beep*
+event_ce007_2_05_e_113,00:14:25
+event_ce007_2_05_e_114,00:14:24
+event_ce007_2_05_e_115,00:14:23
+event_ce007_2_05_e_116,A countdown display in the center ticks down one second at a time like a time bomb.
+event_ce007_2_05_e_117,In addition to the bombs...
+event_ce007_2_05_e_118,...
+event_ce007_2_05_e_119,I spot Deipara lying on the floor.
+event_ce007_2_05_e_120,!!
+event_ce007_2_05_e_121,"Claire, don't! It's too dangerous!"
+event_ce007_2_05_e_122,"Quiry holds back Claire, who was about to rush into the array of bombs."
+event_ce007_2_05_e_123,But—!
+event_ce007_2_05_e_124,Countless bombs.
+event_ce007_2_05_e_125,The timer slowly ticking down.
+event_ce007_2_05_e_126,"And Deipara, lying in the middle of it all."
+event_ce007_2_05_e_127,Claire's eyes dart back and forth before she shuts them.
+event_ce007_2_05_e_128,"Then, seemingly recalling someone, she utters a name."
+event_ce007_2_05_e_129,The young girl she met in her own world...
+event_ce007_2_05_e_130,... Sherry.
+event_ce007_2_05_e_131,"I'm sorry, Quiry."
+event_ce007_2_05_e_132,Claire shakes off Quiry.
+event_ce007_2_05_e_133,"Ignoring the bombs,"
+event_ce007_2_05_e_134,Claire rushes straight toward Deipara.
+event_ce007_2_05_e_135,Are you okay?
+event_ce007_2_05_e_136,...
+event_ce007_2_05_e_137,"Deipara remains limp, and doesn't respond."
+event_ce007_2_05_e_138,She's still breathing...
+event_ce007_2_05_e_139,Distinct needle marks can be seen on Deipara's shoulder.
+event_ce007_2_05_e_140,No...
+event_ce007_2_05_e_141,...
+event_ce007_2_05_e_142,"Claire, fall back now."
+event_ce007_2_05_e_143,She might be infected by the virus...
+event_ce007_2_05_e_144,I don't care!
+event_ce007_2_05_e_145,I can't leave her like this.
+event_ce007_2_05_e_146,"And even if she is infected,"
+event_ce007_2_05_e_147,"as long as there's a vaccine,"
+event_ce007_2_05_e_148,we'll be able to treat her somehow...
+event_ce007_2_05_e_149,I don't know if a vaccine exists in this world...
+event_ce007_2_05_e_150,But it's better than giving up on her without doing anything...
+event_ce007_2_05_e_151,... It's always better to put up a fight.
+event_ce007_2_05_e_152,!!
+event_ce007_2_05_e_153,Is this what you're looking for?
+event_ce007_2_05_e_154,Ada holds a syringe filled with a red liquid.
+event_ce007_2_05_e_155,That's...
+event_ce007_2_05_e_156,I told you I wouldn't let the NEO-Virus
+event_ce007_2_05_e_157,"leave this mansion, right?"
+event_ce007_2_05_e_158,You'd better use it quickly.
+event_ce007_2_05_e_159,And I do mean quickly.
+event_ce007_2_05_e_160,*Beep beep beep*
+event_ce007_2_05_e_161,We should probably do something about these explosives while we're at it.
+event_ce007_2_05_e_162,Oh... I-I'll do it!
+event_ce007_2_05_e_163,I've memorized all the procedures for handling explosives circulated in the Ark!
+event_ce007_2_05_e_164,All right. Once they're taken care of...
+event_ce007_2_05_e_165,I think we've done everything we can here.
+event_ce007_2_05_e_166,Wouldn't you agree?
+event_ce007_2_05_e_167,... Yeah. Looks like it.
+event_ce007_2_05_e_168,*Cough cough*
+event_ce007_2_05_e_169,"Deipara, can you hear me?!"
+event_ce007_2_05_e_170,Don't move. I'm going to give you something that'll help you.
+event_ce007_2_05_e_171,It's going to sting a little.
+event_ce007_2_05_e_172,Looks like we still have a few loose ends to tie up.
+event_ce007_2_05_e_173,Loose ends such as...
+event_ce007_2_05_e_174,RAC 10.1...
+event_ce007_2_05_e_175,The location where the virus' components are found.
+event_ce007_2_05_e_176,"If we want to put an end to all this, we'll need to take care of that too."
+event_ce007_2_05_e_177,Exactly.
+event_ce007_2_05_e_178,"Once things settle down here, we'll take care of it."
+event_ce007_2_05_e_179,"Well then, since our deal has concluded..."
+event_ce007_2_05_e_180,Guess this is where I make my exit.
+event_ce007_2_05_e_181,"Oh, right. That woman, Elseria Nine, was it?"
+event_ce007_2_05_e_182,She was holding onto something important.
+event_ce007_2_05_e_183,I'd suggest you look into it.
+event_ce007_2_05_e_184,You might find something...interesting.
+event_ce007_2_05_e_185,Well then...
+event_ce007_2_05_e_186,I leave it to you.
+event_ce007_2_05_e_187,Be sure you make the right decisions.
+event_ce007_2_05_e_188,Ada?
+event_ce007_2_05_e_189,"By the time I turned around, Ada was already gone."
+event_ce007_2_05_e_190,The inside of the elevator is in complete disarray.
+event_ce007_2_05_e_191,*Beep beep beep*
+event_ce007_2_05_e_192,"Elseria Nine's vision fades, and memories of the past flash before her eyes."
+event_ce007_2_05_e_193,*Beep beep beep*
+event_ce007_2_05_e_194,Gathering at the dinner table every evening to talk about our day.
+event_ce007_2_05_e_195,"All of us sprawled out, watching TV together in comfort."
+event_ce007_2_05_e_196,The quiet little conversations we'd have before falling asleep.
+event_ce007_2_05_e_197,*Beep beep beep*
+event_ce007_2_05_e_198,"Memories of those happier days begin to fade,"
+event_ce007_2_05_e_199,and are replaced by new ones.
+event_ce007_2_05_e_200,*Beep beep beep*
+event_ce007_2_05_e_201,"Her husband's hospital room,"
+event_ce007_2_05_e_202,where she stood witnessing his final moments.
+event_ce007_2_05_e_203,!!
+event_ce007_2_05_e_204,The eyes of Elseria Nine and those of her husband lock.
+event_ce007_2_05_e_205,*Beeeeeeep*
+event_ce007_2_06_s_title,Last Judgement: A
+event_ce007_2_06_s_1,"Two hours, three minutes, and fifty seconds."
+event_ce007_2_06_s_2,You're three minutes and fifty seconds behind schedule.
+event_ce007_2_06_s_3,What were you planning to do if I hadn't held up Blaze Out at the Outer Rim entrance?
+event_ce007_2_06_s_4,K?
+event_ce007_2_06_s_5,K gives a subdued wave.
+event_ce007_2_06_s_6,Her body is slightly singed in several places.
+event_ce007_2_06_s_7,What happened to you?
+event_ce007_2_06_s_8,"Oh, this?"
+event_ce007_2_06_s_9,Ran into a real nasty piece of work.
+event_ce007_2_06_s_10,"But don't worry, my cover's still intact."
+event_ce007_2_06_s_11,"Anyway, I heard from {AccountData.NickName}."
+event_ce007_2_06_s_12,Sounds like things are pretty much wrapped up on your end?
+event_ce007_2_06_s_13,... Yeah.
+event_ce007_2_06_s_14,"By that look on your face, I take it things didn't pan out well?"
+event_ce007_2_06_s_15,...
+event_ce007_2_06_s_16,What about the cult leader and Deipara?
+event_ce007_2_06_s_17,Over there.
+event_ce007_2_06_s_18,"K sees Deipara sobbing, her arms wrapped around her knees,"
+event_ce007_2_06_s_19,K furrows her brow upon seeing the cult leader collapsed nearby.
+event_ce007_2_06_s_20,You're right. Things ended badly.
+event_ce007_2_06_s_21,Still...
+event_ce007_2_06_s_22,"If her expression is any indication, I'd say the cult leader paid for her sins."
+event_ce007_2_06_s_23,...
+event_ce007_2_06_s_24,What did you decide about the mansion?
+event_ce007_2_06_s_25,"Blaze Out plans to torch the place, along with the nearby residential areas."
+event_ce007_2_06_s_26,Told me to get out before it's too late.
+event_ce007_2_06_s_27,So they've decided there's no point leaving it standing?
+event_ce007_2_06_s_28,"Well, I guess?"
+event_ce007_2_06_s_29,"Be it the NEO-Virus, or the Torch of Salvation,"
+event_ce007_2_06_s_30,it seems they're nipping both in the bud for good.
+event_ce007_2_06_s_31,Maybe they want to bury the fact that any of this ever happened.
+event_ce007_2_06_s_32,...
+event_ce007_2_06_s_33,"I already checked. There aren't any survivors, so don't make that face."
+event_ce007_2_06_s_34,... Thanks.
+event_ce007_2_06_s_35,"Speaking of which, where are {AccountData.NickName} and the others?"
+event_ce007_2_06_s_36,I thought you were with them?
+event_ce007_2_06_s_37,They went to the surface.
+event_ce007_2_06_s_38,Said they're ending this mess.
+event_ce007_2_06_s_39,Why did you follow them?
+event_ce007_2_06_s_40,I've got something to wrap up here.
+event_ce007_2_06_s_41,And what's that?
+event_ce007_2_06_s_42,They said Ada vanished the moment she handed over the vaccine sample.
+event_ce007_2_06_s_43,I'm going after her.
+event_ce007_2_06_s_44,"So yeah, I'm heading off now."
+event_ce007_2_06_s_45,Make sure you look after Deipara.
+event_ce007_2_06_s_46,Later.
+event_ce007_2_06_s_47,What?
+event_ce007_2_06_s_48,Hey! Do I look like a babysitter...
+event_ce007_2_06_s_49,D steps out of the mansion.
+event_ce007_2_06_s_50,... to you?
+event_ce007_2_06_s_51,"Upon reaching the surface, we head towards the coordinates RAC 10.1."
+event_ce007_2_06_s_52,*Flap*
+event_ce007_2_06_s_53,Jill is intently studying a scripture.
+event_ce007_2_06_s_54,It is the scripture that Elseria Nine clung onto until her dying breath.
+event_ce007_2_06_s_55,"""Thus spoke the Lord."
+event_ce007_2_06_s_56,Salvation lies beneath the Merciless Judges.
+event_ce007_2_06_s_57,Imbibe the holy elixir and cast off the sins of your mortal flesh.
+event_ce007_2_06_s_58,"Be reborn as a greater being."""
+event_ce007_2_06_s_59,Doesn't seem to be anything particularly noteworthy.
+event_ce007_2_06_s_60,"Yeah, just seems these strange prayers from the start..."
+event_ce007_2_06_s_61,*Flap*
+event_ce007_2_06_s_62,...!
+event_ce007_2_06_s_63,"Upon turning a page, Jill's jaw drops in surprise."
+event_ce007_2_06_s_64,What is it?
+event_ce007_2_06_s_65,Jill turns the scripture toward me.
+event_ce007_2_06_s_66,Something is inscribed in red lettering.
+event_ce007_2_06_s_67,RAC 10.1.
+event_ce007_2_06_s_68,Beneath the Merciless Judges.
+event_ce007_2_06_s_69,The altar where the Holy Elixir of the Judge flows.
+event_ce007_2_06_s_70,There is a revelation.
+event_ce007_2_06_s_71,Revelation? What revelation...?
+event_ce007_2_06_s_72,Could it be something that's written after?
+event_ce007_2_06_s_73,Jill continues to skim through the scripture.
+event_ce007_2_06_s_74,"Apparently, some documents appeared one day, scattered around the altar."
+event_ce007_2_06_s_75,The research papers detailing the T-Virus experiments that we saw earlier.
+event_ce007_2_06_s_76,The believers of the Torch of Salvation
+event_ce007_2_06_s_77,regarded this as a way to fulfill their destiny.
+event_ce007_2_06_s_78,A revelation from God.
+event_ce007_2_06_s_79,"""Umbrella will pave the way forward for us."""
+event_ce007_2_06_s_80,"After these initial sentences, all that follows is writing praising Umbrella Corporation."
+event_ce007_2_06_s_81,"They didn't have access to any information about the D-WAVE or other worlds,"
+event_ce007_2_06_s_82,so they deified those Umbrella documents as holy relics.
+event_ce007_2_06_s_83,"Since, to them, the information they needed suddenly materialized out of nowhere."
+event_ce007_2_06_s_84,... Looks like we got our answer.
+event_ce007_2_06_s_85,Those that got caught in the D-WAVE and crossed over...
+event_ce007_2_06_s_86,"Wasn't just us, but these documents too?"
+event_ce007_2_06_s_87,That seems to be the case.
+event_ce007_2_06_s_88,K said she'd handle disposing of all those documents.
+event_ce007_2_06_s_89,"Well, now that that's cleared up,"
+event_ce007_2_06_s_90,Let's focus on the task at hand.
+event_ce007_2_06_s_91,Seems we've arrived.
+event_ce007_2_06_s_92,To where it all began.
+event_ce007_2_06_s_93,How awful...
+event_ce007_2_06_s_94,Yeah.
+event_ce007_2_06_s_95,"Amongst the ruins, I spot an altar in the distance."
+event_ce007_2_06_s_96,Several unarmed bodies are sprawled around it.
+event_ce007_2_06_s_97,Their expressions are peaceful.
+event_ce007_2_06_s_98,I assume that's the target?
+event_ce007_2_06_s_99,"An enormous Rapture stands behind the bodies, looking strangely out of place."
+event_ce007_2_06_s_100,"It remains motionless, as if rooted to the ground."
+event_ce007_2_06_s_101,"Commander, requesting permission to engage."
+event_ce007_2_06_s_102,"Are you sure about this, Poli?"
+event_ce007_2_06_s_103,You should have gone back to the Ark along with Deipara.
+event_ce007_2_06_s_104,I'm sure. I'm totally fine.
+event_ce007_2_06_s_105,"Miranda and Quiry are here, after all."
+event_ce007_2_06_s_106,"And we've got Jill and Claire, too."
+event_ce007_2_06_s_107,That's right! The supercops are all assembled!
+event_ce007_2_06_s_108,"You're really fixated on that word, aren't you?"
+event_ce007_2_06_s_109,I-it's probably because no one's ever called her that before.
+event_ce007_2_06_s_110,...
+event_ce007_2_06_s_111,All right.
+event_ce007_2_06_s_112,Commence engagement.
+event_ce007_2_06_s_113,"Okay then, let's do this."
+event_ce007_2_06_s_114,"It may look like it's lodged in the ground, but all the same, don't let your guard down."
+event_ce007_2_06_s_115,We don't know what it's capable of.
+event_ce007_2_06_s_116,Understood!
+event_ce007_2_06_s_117,Encounter!
+event_ce007_2_06_e_title,Last Judgement: B
+event_ce007_2_06_e_1,*Boom*
+event_ce007_2_06_e_2,"With a thunderous crash, the Rapture collapses."
+event_ce007_2_06_e_3,"Good work, everyone."
+event_ce007_2_06_e_4,Whew...
+event_ce007_2_06_e_5,"So, that's a wrap on this whole virus mess, right?"
+event_ce007_2_06_e_6,Hmm...
+event_ce007_2_06_e_7,An ominous-looking fluid seeps from the Rapture's carcass.
+event_ce007_2_06_e_8,That must be the fluid the Torch of Salvation regards as the Holy Elixir of the Judge.
+event_ce007_2_06_e_9,"To make sure we don't have a repeat of this incident,"
+event_ce007_2_06_e_10,it's probably best if we send it to M.M.R. for analysis.
+event_ce007_2_06_e_11,I'll request an investigation into this.
+event_ce007_2_06_e_12,We can't let something like this ever happen again.
+event_ce007_2_06_e_13,The A.C.P.U. will keep a close eye on it.
+event_ce007_2_06_e_14,We'll make sure this mess doesn't take place again.
+event_ce007_2_06_e_15,That's reassuring.
+event_ce007_2_06_e_16,I'm glad the Ark has people like you looking after it.
+event_ce007_2_06_e_17,Hehe.
+event_ce007_2_06_e_18,We've got to do our best so that our citizens can feel safe.
+event_ce007_2_06_e_19,That's right!
+event_ce007_2_06_e_20,I'll work even harder so I won't be nervous next time!
+event_ce007_2_06_e_21,I'm rooting for you.
+event_ce007_2_06_e_22,"So, all we have to do now is take down the Rapture called Gatekeeper, right?"
+event_ce007_2_06_e_23,Where do we find it?
+event_ce007_2_06_e_24,I'm all warmed up. Let's go in there and finish this fast!
+event_ce007_2_06_e_25,About that...
+event_ce007_2_06_e_26,Ah!
+event_ce007_2_06_e_27,I have a question!
+event_ce007_2_06_e_28,Yes?
+event_ce007_2_06_e_29,Have you two always been this... radiant?
+event_ce007_2_06_e_30,Light is emanating from Jill and Claire's bodies.
+event_ce007_2_06_e_31,That can only mean one thing.
+event_ce007_2_06_e_32,Gatekeeper has awakened.
+event_ce007_2_06_e_33,"Jill, Claire. It's time to go home."
+event_ce007_2_06_e_34,"W-wait, they're leaving? Just like that?"
+event_ce007_2_06_e_35,"After going through all that, you don't even get to see the Ark?!"
+event_ce007_2_06_e_36,It's all right.
+event_ce007_2_06_e_37,I've fulfilled my duty as a cop—to protect civilians and defend the Ark.
+event_ce007_2_06_e_38,That alone is reason enough for me to end up in this world.
+event_ce007_2_06_e_39,"Wouldn't you agree, Miranda?"
+event_ce007_2_06_e_40,... Yes.
+event_ce007_2_06_e_41,You're right.
+event_ce007_2_06_e_42,Thank you. For everything.
+event_ce007_2_06_e_43,Miranda salutes Jill and Claire with pride.
+event_ce007_2_06_e_44,"Seeing this, Poli and Quiry mirrors Miranda and salutes them too."
+event_ce007_2_06_e_45,"Despite the confusion of being thrust into another world, the three of you still went out of your way to help us."
+event_ce007_2_06_e_46,"You never gave up, and never faltered in the face of danger."
+event_ce007_2_06_e_47,"And for that, I can't thank you enough."
+event_ce007_2_06_e_48,"Aww, it's the least we could do."
+event_ce007_2_06_e_49,Now you're making me blush.
+event_ce007_2_06_e_50,By the way.
+event_ce007_2_06_e_51,"Quiry, I'm counting on you to look after Deipara."
+event_ce007_2_06_e_52,Take good care of her.
+event_ce007_2_06_e_53,She's... going to feel pretty alone.
+event_ce007_2_06_e_54,Got it. Leave it to me.
+event_ce007_2_06_e_55,"And... Winters, was it?"
+event_ce007_2_06_e_56,Send her my regards as well.
+event_ce007_2_06_e_57,I certainly will.
+event_ce007_2_06_e_58,Well then... seems like it's time to go.
+event_ce007_2_06_e_59,...
+event_ce007_2_06_e_60,"Claire waves, and Jill salutes in silence, as their bodies become enveloped in light."
+event_ce007_2_06_e_61,*Flash*
+event_ce007_2_06_e_62,"Soon, the light dissipates, and the two women vanish."
+event_ce007_2_06_e_63,In a back alley of the Outer Rim.
+event_ce007_2_06_e_64,"In the distance, a mansion is ablaze."
+event_ce007_2_06_e_65,... Didn't expect to find you here.
+event_ce007_2_06_e_66,I wanted to see how everything wrapped up.
+event_ce007_2_06_e_67,You're late.
+event_ce007_2_06_e_68,I thought you'd show up a little sooner.
+event_ce007_2_06_e_69,Ada holds something up and waves it.
+event_ce007_2_06_e_70,It's the tracker D planted.
+event_ce007_2_06_e_71,So you knew.
+event_ce007_2_06_e_72,"So, what can I do for you?"
+event_ce007_2_06_e_73,...
+event_ce007_2_06_e_74,K told me.
+event_ce007_2_06_e_75,"Jill and Claire got pulled into this world through a D-WAVE only a few hours ago, but you?"
+event_ce007_2_06_e_76,You've been in the Ark for two weeks now.
+event_ce007_2_06_e_77,That's right.
+event_ce007_2_06_e_78,Had a nice little tour of the Ark.
+event_ce007_2_06_e_79,A fascinating place. More to it than I expected.
+event_ce007_2_06_e_80,What kind of deal did you make with X?
+event_ce007_2_06_e_81,You know perfectly well I won't answer that.
+event_ce007_2_06_e_82,"A moment later, Ada's body is enveloped in light..."
+event_ce007_2_06_e_83,I guess we'll have to cut our conversation short.
+event_ce007_2_06_e_84,!!
+event_ce007_2_06_e_85,"Since you came all the way out here, let me give you a little parting gift, D."
+event_ce007_2_06_e_86,"People like us, who work in the shadows,"
+event_ce007_2_06_e_87,we must always have an ace hidden up our sleeve.
+event_ce007_2_06_e_88,Ready to use whenever we need it.
+event_ce007_2_06_e_89,Catch my drift?
+event_ce007_2_06_e_90,...
+event_ce007_2_06_e_91,Well? No parting words?
+event_ce007_2_06_e_92,Thanks.
+event_ce007_2_06_e_93,I appreciate you helping us see this through.
+event_ce007_2_06_e_94,"... Well then, see you around."
+event_ce007_2_06_e_95,"Take care, D."
+event_ce007_2_06_e_96,*Flash*
+event_ce007_2_06_e_97,"In an instant, Ada is gone, leaving D alone in the back alley."
+event_ce007_2_06_e_98,An ace up the sleeve...
+event_ce007_2_06_e_99,In D's hand is the USB Ada gave her.
+event_ce007_2_06_e_100,Is that why you gave this to me?
+event_ce007_2_06_e_101,...
+event_ce007_2_06_e_102,D soon disappears into the shadows.
+event_ce007_2_epilogue_title,Free From Fear
+event_ce007_2_epilogue_1,Another job well done.
+event_ce007_2_epilogue_2,Both the D-WAVE and NEO-Virus incidents have been resolved.
+event_ce007_2_epilogue_3,Is it really over?
+event_ce007_2_epilogue_4,"Yes, at least on the surface."
+event_ce007_2_epilogue_5,I have a few questions.
+event_ce007_2_epilogue_6,Feel free to ask.
+event_ce007_2_epilogue_7,"But as you're well aware, I can only answer within the limits of what can be disclosed."
+event_ce007_2_epilogue_8,I'm sure you understand.
+event_ce007_2_epilogue_9,Understood. Well then...
+event_ce007_2_epilogue_10,"First, about the D-Wave."
+event_ce007_2_epilogue_11,Do you know why Gatekeeper woke up even though there was no battle?
+event_ce007_2_epilogue_12,"This is only my hunch,"
+event_ce007_2_epilogue_13,but I suspect the Gatekeeper may have awakened after experiencing a dream it found... satisfying.
+event_ce007_2_epilogue_14,Or perhaps it was a nightmare.
+event_ce007_2_epilogue_15,Like everything involving the NEO-Virus being resolved?
+event_ce007_2_epilogue_16,Possibly.
+event_ce007_2_epilogue_17,We'll likely get another chance to verify this during the next D-WAVE event.
+event_ce007_2_epilogue_18,Is that all you're curious about?
+event_ce007_2_epilogue_19,One more thing.
+event_ce007_2_epilogue_20,"During the mission, we encountered a strange monster that was a fusion of a Rapture and a Nikke."
+event_ce007_2_epilogue_21,Has their identity been uncovered?
+event_ce007_2_epilogue_22,"Unfortunately, I'm not at liberty to discuss that."
+event_ce007_2_epilogue_23,I see...
+event_ce007_2_epilogue_24,...
+event_ce007_2_epilogue_25,It wasn't the NEO-Virus that caused it.
+event_ce007_2_epilogue_26,That much I can tell you.
+event_ce007_2_epilogue_27,So it wasn't infected with the NEO-Virus...
+event_ce007_2_epilogue_28,"In any case, well done with this mission."
+event_ce007_2_epilogue_29,You must be tired. Get some rest.
+event_ce007_2_epilogue_30,"After submitting my report, I visit the infirmary for a check-up."
+event_ce007_2_epilogue_31,All vitals are normal.
+event_ce007_2_epilogue_32,So I can head back to the Commander's Room?
+event_ce007_2_epilogue_33,Yes. There shouldn't be any issues.
+event_ce007_2_epilogue_34,"By the way, how's Deipara?"
+event_ce007_2_epilogue_35,"Since she was directly injected with the virus, we'll need to continue monitoring her."
+event_ce007_2_epilogue_36,"However, it's unlikely to affect her daily life."
+event_ce007_2_epilogue_37,"Thanks to the vaccine sample you provided, research is progressing smoothly."
+event_ce007_2_epilogue_38,Glad to hear it.
+event_ce007_2_epilogue_39,What about the fluid from the Rapture's body?
+event_ce007_2_epilogue_40,Are you analyzing that too?
+event_ce007_2_epilogue_41,...
+event_ce007_2_epilogue_42,"I'm sorry,"
+event_ce007_2_epilogue_43,but I'm not authorized to answer that.
+event_ce007_2_epilogue_44,It's all right. I figured.
+event_ce007_2_epilogue_45,I'll stop bothering you and head out.
+event_ce007_2_epilogue_46,"Oh. Before you do,"
+event_ce007_2_epilogue_47,would you like to speak with Deipara?
+event_ce007_2_epilogue_48,Are you feeling better?
+event_ce007_2_epilogue_49,"Yes, thanks to you."
+event_ce007_2_epilogue_50,Quiry was here only a moment ago.
+event_ce007_2_epilogue_51,You just missed her.
+event_ce007_2_epilogue_52,She was?
+event_ce007_2_epilogue_53,She said she'll keep stopping by from time to time.
+event_ce007_2_epilogue_54,... She's probably just looking out for me.
+event_ce007_2_epilogue_55,Especially after everything that's happened.
+event_ce007_2_epilogue_56,...
+event_ce007_2_epilogue_57,"Still, I'm grateful to you and everyone else."
+event_ce007_2_epilogue_58,You stopped my mother before she could cause any more damage...
+event_ce007_2_epilogue_59,... I failed.
+event_ce007_2_epilogue_60,I tried to take responsibility for her sins...
+event_ce007_2_epilogue_61,Tried to stop her any way I could...
+event_ce007_2_epilogue_62,And this is how it turned out.
+event_ce007_2_epilogue_63,Deipara points to the injection mark on her neck with a self-deprecating smile.
+event_ce007_2_epilogue_64,If only I hadn't tried to fix everything on my own...
+event_ce007_2_epilogue_65,If I had gone to the police...
+event_ce007_2_epilogue_66,If I had told the Central Government... none of this would've happened.
+event_ce007_2_epilogue_67,This is all because I tried to protect my mother.
+event_ce007_2_epilogue_68,All those people in that mansion...
+event_ce007_2_epilogue_69,And in the Ark...
+event_ce007_2_epilogue_70,"Deipara, that wasn't your fault."
+event_ce007_2_epilogue_71,Deipara lowers her head and cries for a long time.
+event_ce007_2_epilogue_72,All I can do is pat her on the back.
+event_ce007_2_epilogue_73,"You know, I made a promise to Quiry."
+event_ce007_2_epilogue_74,I promised that I'd take responsibility for what happened.
+event_ce007_2_epilogue_75,Take responsibility?
+event_ce007_2_epilogue_76,Yes.
+event_ce007_2_epilogue_77,If...
+event_ce007_2_epilogue_78,"If I can become a police officer,"
+event_ce007_2_epilogue_79,"and stop something like this from ever happening again,"
+event_ce007_2_epilogue_80,maybe that can be my way of atoning for what happened.
+event_ce007_2_epilogue_81,But I'm not sure if I'll actually make it.
+event_ce007_2_epilogue_82,My grades in school aren't that great.
+event_ce007_2_epilogue_83,You'll be fine.
+event_ce007_2_epilogue_84,It's what's inside you that matters.
+event_ce007_2_epilogue_85,What's inside...
+event_ce007_2_epilogue_86,...
+event_ce007_2_epilogue_87,All right. I'll give it my best shot.
+event_ce007_2_epilogue_88,"On the way back to the Commander's Room,"
+event_ce007_2_epilogue_89,the streets are abuzz with nocturnal noise.
+event_ce007_2_epilogue_90,All the pedestrians have no idea what it takes to keep things this way.
+event_ce007_2_epilogue_91,Memories of the mansion come flooding back.
+event_ce007_2_epilogue_92,"In order to stop the plot devised by the Torch of Salvation,"
+event_ce007_2_epilogue_93,Nikkes and people from another world fought alongside each other.
+event_ce007_2_epilogue_94,"Thanks to them, this place can remain peaceful."
+event_ce007_2_epilogue_95,"As my reminiscence comes to a close,"
+event_ce007_2_epilogue_96,my talk with Deipara lingers in my mind.
+event_ce007_2_epilogue_97,"... Atonement, huh."
+event_ce007_2_epilogue_98,...
+event_ce007_2_epilogue_99,I have to keep trying. Harder than before.
+event_ce007_2_epilogue_100,No taking the easy way out.
+event_ce007_2_epilogue_101,"I need to do whatever I can, as best I can."
+event_ce007_2_epilogue_102,"With renewed resolve, I close my eyes."
+event_ce007_2_epilogue_103,"Ada, Jill, and Claire..."
+event_ce007_2_epilogue_104,"I hope that, one day, they can return to their normal everyday lives."
+event_ce007_2_epilogue_105,REBORN EVIL: END
+event_ce007_2_epilogue_106,*Ssshhh*
+event_ce007_2_epilogue_107,...
+event_ce007_2_epilogue_108,*Splish* *Splash*
+event_ce007_2_epilogue_109,What're you staring at?
+event_ce007_2_epilogue_110,Taking in the rain?
+event_ce007_2_epilogue_111,No.
+event_ce007_2_epilogue_112,Taking cover from it.
+event_ce007_2_epilogue_113,Huh?
+event_ce007_2_epilogue_114,So... did you check?
+event_ce007_2_epilogue_115,Yeah.
+event_ce007_2_epilogue_116,What do you think?
+event_ce007_2_epilogue_117,That's what I wanted to ask you.
+event_ce007_2_epilogue_118,What do you think?
+event_ce007_2_epilogue_119,Justice must be carried out.
+event_ce007_2_epilogue_120,Yeah?
+event_ce007_2_epilogue_121,...
+event_ce007_2_epilogue_122,"You said Ada gave you this USB, right?"
+event_ce007_2_epilogue_123,It should be enough.
+event_ce007_2_epilogue_124,X created the Torch of Salvation.
+event_ce007_2_epilogue_125,He took those research papers detailing the T-Virus experiments and placed them on that altar found on the surface. It proves he's the one who orchestrated this whole thing.
+event_ce007_2_epilogue_126,"Now,"
+event_ce007_2_epilogue_127,I don't know if there's any point in proving all this though.
+event_ce007_2_epilogue_128,It doesn't matter. I'm not using it yet.
+event_ce007_2_epilogue_129,Then what's your plan?
+event_ce007_2_epilogue_130,I need to keep this hidden.
+event_ce007_2_epilogue_131,So it's ready when I need it.
+event_ce007_2_epilogue_132,*Splish* *Splash*
+event_ce007_2_epilogue_133,D takes the USB from K and walks off into the darkness.
+event_ce007_2_epilogue_134,...
+event_ce007_2_epilogue_135,"So you're gonna uphold justice, are you?"
+event_ce007_2_epilogue_136,Not bad.
+event_ce007_2_epilogue_137,*Splish* *Splash*
+event_ce007_2_epilogue_138,K walks off in the opposite direction.
+event_ce007_2_epilogue_139,*Ssshhh*
+event_ce007_2_epilogue_140,Only the sound of rain remains in the back alley.
+event_ce007_balloon_01_01,...
+event_ce007_balloon_01_02,FBI? No squad goes by that name.
+event_ce007_balloon_02_01,Ugh... it's sooo dark in here.
+event_ce007_balloon_02_02,"Everyone, watch your step so you don't fall!"
+event_ce007_balloon_03_01,A Rapture's core...
+event_ce007_balloon_03_02,This must be reported.
+event_ce007_balloon_04_01,Th-these are... human experiments...!
+event_ce007_balloon_04_02,"Wait, that puppy from earlier... It couldn't have been Poli, could it?"
+event_ce007_balloon_05_01,Poli... Deipara...
+event_ce007_balloon_05_02,Please be safe...
+event_ce007_balloon_06_01,Poli...!
+event_ce007_balloon_06_02,Are you hurt?!
+event_ce007_balloon_07_01,Poli!
+event_ce007_balloon_07_02,Snap out of it!
+event_ce007_balloon_08_01,Ughhh...
+event_ce007_balloon_08_02,...
+event_ce007_balloon_09_01,"Miranda, you're shaking so much."
+event_ce007_balloon_09_02,But thanks for being with me.
+event_ce007_balloon_10_01,Supercop...
+event_ce007_balloon_10_02,"No way, the Supercop is...?!"
+event_ce007_balloon_11_01,I'll work hard so I never bring shame to the name of Supercop!
+event_ce007_balloon_12_01,I also got lots of help from the B.S.T.
+event_ce007_balloon_12_02,I should thank them properly sometime.
+event_ce007_balloon_13_01,"Phew... I'm glad that you're safe, Poli."
+event_ce007_balloon_13_02,And that you're in one piece! I'm so relieved!
+event_ce007_balloon_14_01,It's not over 'til it's over.
+event_ce007_balloon_14_02,Let's look for any traces of unrecorded victims.
+event_ce007_balloon_15_01,"Yep, got it!"
+event_ce007_balloon_15_02,"Be careful not to trip, Quiry!"
+event_ce007_balloon_16_01,Hmm... I'll try my hardest to find it.
+event_ce007_balloon_16_02,Phew...
+event_ce007_balloon_17_01,Ugh... this stench...
+event_ce007_balloon_17_02,I think my nose is gonna go numb...
+event_ce007_balloon_18_01,P-Poli...? Miranda...?
+event_ce007_balloon_18_02,Weren't they just here...?
+event_ce007_balloon_19_01,This place... looks like it belonged to an incredibly rich person.
+event_ce007_balloon_19_02,I wonder who lived here in the past?
+event_ce007_balloon_20_01,"Yeah, if you look closely, it really sparkles!"
+event_ce007_balloon_20_02,*Cough* Though it's really dusty...
+event_ce007_balloon_21_01,"That Rapture's core... Who did Elseria get this from, I wonder?"
+event_ce007_balloon_21_02,"... Tch, this is so frustrating."
+event_ce007_balloon_22_01,*Sigh*
+event_ce007_balloon_22_02,I never want to feel this powerless again.
+event_ce007_balloon_23_01,...
+event_ce007_balloon_23_02,... *Sniffle*
+event_ce007_balloon_24_01,"Alrighty, looks like we're just about done here!"
+event_ce007_balloon_24_02,"Great job, everyone!"
+event_ce007_balloon_25_01,*Sigh* When will I ever finish all these reports?
+event_ce007_balloon_25_02,"Great job, everyone!"

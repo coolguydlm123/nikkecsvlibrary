@@ -330,6 +330,9 @@ piece_94,Vesti: Tactical Upgrade's Spare Body
 piece_95,Eunhwa: Tactical Upgrade's Spare Body
 piece_143,Milk: Blooming Bunny's Spare Body
 piece_315,Ade: Agent Bunny's Spare Body
+piece_840,Ada's Spare Body
+piece_841,Jill's Spare Body
+piece_842,Claire's Spare Body
 consume_exp,Battle Data Set
 consume_exp2,Core Dust
 consume_gold,Credit
@@ -377,6 +380,7 @@ random_box_ssr_cash,Gem Support Box III
 random_box_r_gold,Credit Support Box I
 random_box_sr_gold,Credit Support Box II
 random_box_ssr_gold,Credit Support Box III
+randombox_highquality_summon,High-Quality Access Records
 random_box_r_equipment_desc,"An old equipment support box provided by the Central Government.
 The shabby exterior betrays the fact of it being a hand-me-down from several squads before you."
 random_box_sr_equipment_desc,"An equipment support box that anyone belonging to the Central Government can receive.
@@ -402,6 +406,9 @@ Acts as a salary for the military."
 random_box_ssr_gold_desc,"A support box containing a large number of credits given to commanders who have made a difference.
 Think of it as an incentive.
 Enough that you could afford to splurge a little, but doesn't quite measure up to the cost of one's life."
+randombox_highquality_summon_desc,"Collect a certain amount and use it for a chance to get SSR Nikkes or High-Quality Perfect Molds.
+
+<color=#0EA0FF>Some Nikkes, including Pilgrims and Over-spec Nikkes, are excluded.</color>"
 select_box_ssr_characterskillmaterial_element,Code Manual Selection Box
 select_box_ssr_characterskillmaterial_element_desc,Open to select a Code Manual of your choosing.
 select_box_ssr_characterskillmaterial_A,Skill Manual Selection Box
@@ -1514,6 +1521,17 @@ story_event_currency_material_088_desc,"Obtaining intel isn't difficult, nor is 
 Where to use: Event Shop
 
 ※ When the event ends, each remaining Intel List will be exchanged for 200 Credits."
+story_event_ticket_material_090,Herb
+story_event_ticket_material_090_desc,"Just because plants have similar colors doesn't mean they have the same properties. To avoid accidentally ingesting something poisonous, at least learn what each herb looks like ahead of time. —Flora
+Where to use: Event Stage Entry
+
+* Automatically replenishes up to 5 at 05:00 (UTC+9) daily.
+* Unable to replenish when 5 or more are owned."
+story_event_currency_material_090,Mixed Herb
+story_event_currency_material_090_desc,"Mixing herbs of three or more colors creates the best medicine. But if that's too much, I recommend combining green and red herbs instead. —Flora
+Where to use: Event Shop
+
+* When the event ends, each remaining Mixed Herbs will be exchanged for 200 Credits."
 story_event_currency_material_1003,Heart Clock
 story_event_currency_material_1003_desc,"The time in Snowfield Hot Spring will begin to elapse when you use this.
 Time cannot be reversed, so please make your choice carefully.
@@ -1763,6 +1781,12 @@ Why not give her a lucky headband so she can be blessed with the energy of the l
 
 ※ Exclusive currency for Rouge's Costume Gacha. 
 ※ When the event ends, each remaining Lucky Headband will be exchanged for 120 free Gems."
+box_gacha_event_currency_material_024,A.C.P.U. ID Card
+box_gacha_event_currency_material_024_desc,"Freeze! A.C.P.U.!
+This ID card proves her identity while she is on a secret mission. Let's keep her identity hidden while she investigates the mansion.
+
+* Exclusive currency for D: Killer Wife's Costume Gacha.
+* When the event ends, each remaining A.C.P.U. ID Card will be exchanged for 120 Free Gems."
 gacha_board_event_currency_material_001,5X5 Gacha Ticket
 gacha_board_event_currency_material_001_desc,"A ticket used in 5X5 SUPPLIES.
 
@@ -2986,6 +3010,10 @@ It's said that the higher the number, the better your luck is.
 Unfortunately, Rouge has never managed to roll a six."
 story_event_ticket_material_048_desc_archive,"A badge given to all participants of the event. It features a design packed with a certain person's unique tastes, so be careful not to lose it. Without it, you won't be able to participate."
 story_event_currency_material_048_desc_archive,"A key awarded only to the first-place winner of the event. Let's open the display case with excitement, though no one knows for sure if this is the right key."
+story_event_ticket_material_075_desc_archive,"When memories of the past turn into yearning and overflow, the mermaid makes bubbles.
+She waits for the day she can see those beloved faces again."
+story_event_currency_material_075_desc_archive,"Even chains of different colors intertwine into one as they collide and live together.
+This chain will surely become a force to overcome all misfortunes and hardships in this world."
 story_event_ticket_material_1001_desc_archive,"A hard drive containing recordings of Snow White's daily search efforts.
 By recording the present, there may be a chance of resurrecting long-forgotten memories from the past."
 story_event_currency_material_1001_desc_archive,"The data chip Snow White uses to record the items she collected.
@@ -3048,6 +3076,9 @@ Be sure to think twice before making a final decision."
 MaterialName_5310307,Elysion Perfect Mold
 MaterialName_5310308,Missilis Perfect Mold
 MaterialName_5310309,Tetra Perfect Mold
+MaterialName_5310307_01,Elysion Perfect Mold Old Ver.
+MaterialName_5310308_01,Missilis Perfect Mold Old Ver.
+MaterialName_5310309_01,Tetra Perfect Mold Old Ver.
 MaterialDescription_5310307,"Collect enough items for a 100% chance of recruiting SSR Nikkes from Elysion.
 
 Certain Nikkes, however, are excluded and cannot be recruited.
@@ -3471,6 +3502,24 @@ Check Probability Info for the list of Nikkes who are available for recruitment.
 piece_summon_01,"Collect a certain amount of this item and use it to recruit SR or SSR Nikkes.
 
 <color=#0EA0FF>Pilgrims, Over-spec Nikkes, and other specific Nikkes are excluded.</color>"
+piece_59011,High-Quality Perfect Mold
+piece_59012,Elysion Perfect Mold
+piece_59013,Missilis Perfect Mold
+piece_59014,Tetra Perfect Mold
+piece_59015,Pilgrim/Over-spec Perfect Mold
+piece_59011_01,"Collect a certain amount to recruit SSR Nikkes.
+
+<color=#0EA0FF>Some Nikkes, including Pilgrims and Over-spec Nikkes, are excluded.</color>"
+piece_59012_01,"Collect a certain amount to recruit Nikkes from Elysion.
+
+<color=#0EA0FF>Elysion's Over-spec Nikkes are excluded.</color>"
+piece_59013_01,"Collect a certain amount to recruit Nikkes from Missilis.
+
+<color=#0EA0FF>Missilis' Over-spec Nikkes are excluded.</color>"
+piece_59014_01,"Collect a certain amount to recruit Nikkes from Tetra.
+
+<color=#0EA0FF>Tetra's Over-spec Nikkes are excluded.</color>"
+piece_59015_01,Collect a certain amount to recruit Pilgrim or Over-spec Nikkes.
 selectbox_ssr_free_nikke_2.5,2.5th Anniversary Nikke Selection Box
 selectbox_ssr_free_nikke_2.5_desc,"Use this to select a Nikke to join your squad.
 Please choose carefully."

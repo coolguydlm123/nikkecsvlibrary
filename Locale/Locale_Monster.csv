@@ -777,6 +777,10 @@ Key,Value
 2410020141_name,Tombstone Z.E.U.S.
 2410020151_name,Tombstone D.M.T.R.
 2410030111_name,Plate H.S.T.A.
+2410030121_name,Plate P.S.I.D.
+2410030131_name,Plate A.N.M.I.
+2410030141_name,Plate Z.E.U.S.
+2410030151_name,Plate D.M.T.R.
 2410030234_name,Plate A.N.M.I.
 2420010141_name,Loud Mouth Z.E.U.S.
 2420020111_name,Dual Ring H.S.T.A.
@@ -841,6 +845,9 @@ Key,Value
 3421040151_name,Rebuild Vulcan R D.M.T.R.
 3420050141_name,Doctor Z.E.U.S.
 3420050224_name,Doctor P.S.I.D.
+3420060111_name,Heavy Metal H.S.T.A.
+3420060121_name,Heavy Metal P.S.I.D.
+3420060131_name,Heavy Metal A.N.M.I.
 3420060141_name,Heavy Metal Z.E.U.S.
 3420060151_name,Heavy Metal D.M.T.R.
 3420070121_name,Replica Red Shoes P.S.I.D.
@@ -907,6 +914,7 @@ Key,Value
 4520020141_name,Providence Z.E.U.S.
 1520540111_name,Hologram Kraken H.S.T.A.
 2510050131_name,Ziz A.N.M.I.
+1510190121_name,Merciless Judge P.S.I.D.
 2220080111_name,Snowball H.S.T.A.
 2220080121_name,Snowball P.S.I.D.
 2220080131_name,Snowball A.N.M.I.
@@ -1056,6 +1064,7 @@ Key,Value
 4520020141_appearance_name,Providence
 1520540111_appearance_name,Hologram Kraken
 2510050131_appearance_name,Ziz
+151019121_appearance_name,Merciless Judge
 1120010111_appearance_name,Shank
 1120010121_appearance_name,Shank
 1120010131_appearance_name,Shank

@@ -1003,6 +1003,7 @@ Deals {core_damage_rate}% damage when attacking core.</color>"
 1999206_name,Increase Element Damage
 1999780_name,Increase Damage of Attacks at Effective Range
 2000035_name,Buffer
+2000168_name,Baptism Ceremony
 showlockon_des,Powerful attack that Nikkes can take cover from and avoid
 penetration_des,Attack that pierces cover
 breakcol_des,Can be interrupted by destroying the Cancel Ring
@@ -1084,7 +1085,7 @@ isfixedtarget_des,Taunt and Attract are not possible
 33311_description,"■ Affects {description_value_01} ally unit(s) with the lowest HP.
 <color=#00AEFF>Potency of HP restored ▲ {description_value_02}% for {description_value_03} sec.</color>"
 33312_description,"■ Affects {description_value_01} ally unit(s) with the lowest HP.
-<color=#00AEFF>Recover ▲ {description_value_02}% HP for {description_value_03} sec.</color>"
+<color=#00AEFF>Recover {description_value_02}% HP for {description_value_03} sec.</color>"
 33313_description,"■ Affects {description_value_01} ally unit(s) with the lowest HP.
 <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.</color>"
 43321_name,Attacker Magazine
@@ -1126,6 +1127,7 @@ damageratiopenetration_per_add_des,Increase Organic Damage by {function_value02}
 damagereduction_per_add_des,Decreases damage taken by {function_value02}%
 damagereduction_per_dec_des,Increases damage taken by {function_dec_value02}%.
 gluttonydamagereduction_per_add_des,Decreases damage taken by {function_value02}% (except for damage dealt to interruption parts).
+gluttonystatdef_per_add_des,Increases DEF for all parts except Interruption Parts by {function_value02}%.
 damageshare_per_add_des,Distributes damage among ally unit(s) who shares the damage taken.
 defignoredamage_int_add_des,{function_value01}% True Damage.
 drainhp_per_add_des,Restores {function_value02}% of attack damage as HP.
@@ -1188,7 +1190,7 @@ stun_int_add_des_resist,Stun (cannot be dispelled).
 plusdebuffcount_add_des,Increase Debuff Stack Count
 debuffremove_des,Dispel Debuff
 statreloadtime_per_add_des_resist,Decreases Reloading Speed by {function_value02}% (cannot be dispelled).
-nikkedamage_des,Additional damage to Nikke.
+nikkedamage_des,Additional damage to Nikke
 silence_int_add_des_resist,Unable to use Burst Skill (cannot be dispelled).
 laser_damage_per_sec_des,Sustained damage every 1 sec.
 drain_rapture_des,Absorbs nearby Raptures.
@@ -1234,6 +1236,10 @@ Critical Rate ▲ {description_value_01}% for {description_value_02} round(s).</
 24302_description,"■ Affects the target(s) when attacking with full charge.
 <color=#00AEFF>Taunt for {description_value_01} sec.</color> 
 ■ Affects self.
+<color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>"
+24302_description_1,"■ Activates when hitting a target with a Full Charge attack. Affects the target.
+<color=#00AEFF>Taunts for {description_value_01} sec.</color>
+■ Activates when attacking with Full Charge. Affects self.
 <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>"
 14303_description,"■ Affects all allies.
  <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.
@@ -1656,6 +1662,9 @@ Critical Damage ▲ {description_value_04}% for {description_value_05} sec.</col
 22321_description,"■ There is a {description_value_03}% chance of activating when attacked. Affects all allies.
 <color=#00AEFF>Damage Taken ▼ {description_value_01}% for {description_value_02} sec.</color>"
 22322_description,"■ Activates when attacking with Full Charge. Affects the target(s).
+<color=#00AEFF>Taunt for {description_value_01} sec.
+ATK ▼ {description_value_02}% for {description_value_03} sec.</color>"
+22322_description_1,"■ Activates when hitting a target with a Full Charge attack. Affects the target.
 <color=#00AEFF>Taunt for {description_value_01} sec.
 ATK ▼ {description_value_02}% for {description_value_03} sec.</color>"
 12323_description,"■ Affects self.
@@ -2636,7 +2645,7 @@ Damage Taken ▼ {description_value_02}% for {description_value_03} sec.</color>
 10004_2_add_des,"However, this effect will be immediately lost upon being hit by area-based or multi-target attacks."
 10004_3_add_des,The effect will disappear once all allies aside from self are out of action.
 10005_1_add_des,This effect will remove debuffs from those who receive it.
-10005_2_add_des,"If the number of dispels is less than the number of dispellable debuffs, debuffs will be affected in the order that they were applied."
+10005_2_add_des,"If the number of debuffs on the target exceeds the number that can be dispelled, the earliest debuffs will be dispelled first."
 10006_1_add_des,"The effect protects Nikkes from being knocked out when an attack deals damage that exceeds their HP. Instead, they will survive with the lowest HP possible."
 10006_2_add_des,"Despite being in the state of indomitability, they will still be out of action upon suffering instant-kill attacks."
 10006_3_add_des,"Before activating indomitability, they will immediately be out of action when hit by an instant-kill attack."
@@ -2818,7 +2827,7 @@ Three times: <word_group=10009>Superior Elemental Code Attack Damage</word_group
 ■ Affects all allies.
 <color=#00AEFF>Max HP ▲ {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>"
 10023_1_add_des,Installs a shield in front.
-10023_2_add_des,This skill cannot be dispelled by buff skills.
+10023_2_add_des,This skill cannot be dispelled by buff-removal skills.
 10023_3_add_des,"The shared protective shield will set up a defensive cover in front of the target. With the target in the center, this shield protects self and allies from attacks."
 10024_1_add_des,Installs a decoy next to the Nikke to serve as a substitute that takes on attacks.
 10024_2_add_des,This skill cannot be dispelled by buff skills.
@@ -3284,7 +3293,7 @@ DEF ▲ {description_value_07}% of caster's DEF for {description_value_08} sec.<
 ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>"
 10039_1_add_des,Target acquiring this effect gains immunity against the designated number of debuffs.
 10039_2_add_des,"When the effect is granted, it will dispel debuffs the target is inflicted with at the time."
-10039_3_add_des,"If the number of debuffs on the target is more than the designated number of the effect, the earliest debuffs will be dispelled first."
+10039_3_add_des,"If the number of debuffs on the target exceeds the number that can be dispelled, the earliest debuffs will be dispelled first."
 10039_4_add_des,"If there is no debuff applied or debuff has been dispelled, the corresponding number of debuff immunity effects will be deducted."
 40151_name,Defense Up HC
 40152_name,Anti Code HC
@@ -4924,7 +4933,7 @@ changemaxskillcooltime2_per_add_des,Reduces cooldown time of Skill 2 by {functio
 10082_1_add_des,Refers to Burst 3 allies that lead to Full Burst according to the Nikkepedia.
 10082_2_add_des,"Examples of Burst 3 Nikkes that lead to Full Burst are Privaty, Alice, and Scarlet."
 10082_3_add_des,Rapi: Red Hood is still considered Burst 3 even when her Burst type changes due to her skill.
-10082_4_add_des,All Burst Nikkes such as Red Hood is not included.
+10082_4_add_des,All Burst Nikkes such as Red Hood are not included.
 20411_name,Scale of Righteousness
 20412_name,Execution of Righteousness
 10413_name,Means of Righteousness
@@ -5343,13 +5352,13 @@ ATK ▲ {description_value_03}% continuously.</color>"
 11433_name,Embarrassment Explosion
 21431_description,"■ Activates when performing Full Charge attacks. Affects self.
 <color=#00AEFF>Gains Pierce for {description_value_01} sec.</color>
-■ Activates when Full Charge lasts for {description_value_07} sec or more, and self is not in the Embarrassment state. Affects self.
+■ Activates when not in the Embarrassment state and when Full Charge lasts for {description_value_07} sec or more. Affects self.
 <color=#00AEFF>Embarrassment:
-Function: Performs <word_group=10087>Forced Reload</word_group> at reduced reloading speed, increasing attack capabilities and dealing <word_group=10019>Distributed Damage</word_group> instead.
+Function: <word_group=10087>Forcefully reloads</word_group> at reduced reloading speed, but increases attack capabilities and deals <word_group=10019>Distributed Damage</word_group>.
 Effect 1: Affects all enemies. Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.
-Effect 2: Affects self. Removes {description_value_08}% of bullets.
-Effect 3: Affects self. Fixes reloading speed at {description_value_03}% reduction. <word_group=10088>Applies to {description_value_04} reload(s)</word_group>.
-Effect 4: Affects self. <word_group=10087>Forcefully reloads</word_group>.
+Effect 2: Affects self. Removes {description_value_08}% of ammo.
+Effect 3: Affects self. {description_value_03}% reduced reloading speed for <word_group=10088>{description_value_04} reload(s)</word_group>.
+Effect 4: Affects self. <word_group=10087>Forced Reload</word_group>.
 Effect 5: Affects self. ATK ▲ {description_value_05}% for {description_value_06} sec.</color>"
 21432_description,"■ Activates only when in Embarrassment status. Affects self.
 <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_01}% continuously.</color>
@@ -5367,3 +5376,96 @@ forcedreload_des,Enters into Forced Reload state.
 10087_3_add_des,"During Forced Reload, other ammo reload effects will not be applied."
 10088_1_add_des,The effect lasts for the specified number of Forced Reloads.
 10088_2_add_des,"Upon reloading to maximum ammo capacity, a Forced Reload is counted and consumed."
+28411_name,Magnum Ammo
+28412_name,Acid Ammo
+18413_name,Supercop
+28411_description,"■ Activates at the start of battle and upon reloading to Max Ammunition. Affects self.
+<color=#00AEFF>Magnum Ammo: Normal Attack Damage <word_group=10029>Multiplier</word_group> ▲ {description_value_01}% for {description_value_02} round(s).</color> 
+■ Activates when using Burst Skill. Affects self.
+<color=#00AEFF>True Damage ▲ {description_value_03}% for {description_value_04} sec.</color>"
+28412_description,"■ Activates at the start of battle and upon reloading to Max Ammunition. Affects self.
+<color=#00AEFF>Acid Ammo
+Function: Upon reloading to Max Ammunition, only the first round deals sustained damage to the target.
+Effect: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_02} sec.</color>
+■ Activates when entering Full Burst. Affects self.
+<color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>"
+18413_description,"■ Affects self.
+<color=#00AEFF>Fixes reloading speed at {description_value_01}% increase for {description_value_02} sec.
+Removes {description_value_05}% of bullets.
+<word_group=10087>Forced Reload</word_group>
+Hit Rate ▲ {description_value_06}% for {description_value_07} sec.
+Attack Damage ▲ {description_value_08}% for {description_value_09} sec.
+Normal attacks deal True Damage for {description_value_10} sec.</color>"
+28421_name,Green Herb
+28422_name,Temporary Barricade
+18423_name,R+G+B
+28421_description,"■ Activates when landing {description_value_01} Full Charge attack(s). Affects {description_value_02} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+<color=#00AEFF>Green Herb: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> max HP as HP.</color>"
+28422_description,"■ Activates when using Burst Skill. Affects all allies.
+<color=#00AEFF>Blue Herb: Generates a <word_group=10023>shield</word_group> with {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>"
+18423_description,"■ Affects all allies.
+<color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> max HP as HP.
+<word_group=10005>Dispels {description_value_02} debuff(s)</word_group>.</color>"
+sk_name_Pitiless Judge_Shot_01,Hand of Salvation
+sk_name_Pitiless Judge_Shot_03,Cutting Words
+sk_name_Pitiless Judge_Shot_04,Wandering Salvation
+sk_name_Pitiless Judge_Shot_05,Choice of Salvation
+sk_name_Pitiless Judge_Shot_06,Baptism Ceremony
+sk_name_Pitiless Judge_Shot_14,Words of Salvation
+sk_name_Pitiless Judge_Shot_15,Embrace of Salvation
+sk_name_Pitiless Judge_Shot_16,Breath of Salvation
+sk_name_Pitiless Judge_Shot_17,Noxious Breath of Salvation
+sk_desc_Pitiless Judge_Bio_Shot_01,"Attacks with its tentacles, dealing damage to a single Nikke."
+sk_desc_Pitiless Judge_Bio_Shot_03,"Fires multiple projectiles from its mouth, dealing damage to Nikkes.
+Projectiles can be intercepted."
+sk_desc_Pitiless Judge_Bio_Shot_04,"Fires a burst of energy from its mouth, dealing damage to Nikkes."
+sk_desc_Pitiless Judge_Bio_Shot_05,"Fires a laser, dealing damage to a single Nikke."
+sk_desc_Pitiless Judge_Bio_Shot_06,"Covers its whole body in slime, significantly increasing DEF of all parts except Cancel Rings."
+sk_desc_Pitiless Judge_Bio_Shot_14,"Fires projectiles from its mouth, dealing damage to a single Nikke.
+The Nikke who is hit will be temporarily rendered immobile."
+sk_desc_Pitiless Judge_Bio_Shot_15,"Gathers its tentacles and swings them with great force, dealing damage to all Nikkes."
+sk_desc_Pitiless Judge_Bio_Shot_16,"Spews gas, dealing damage to all Nikkes.
+Generates a code barrier to defend against attacks when Cancel Rings are active.
+While the barrier is up, only Electric Code Nikkes can deal damage."
+sk_desc_Pitiless Judge_Bio_Shot_16_Normal,"Spews gas, dealing damage to all Nikkes."
+sk_desc_Pitiless Judge_Bio_Shot_17,"Spews a large amount of gas, dealing significant damage to all Nikkes.
+Can only be stopped through Special Interruption. Should an attempt at Special Interruption fail, the gas will deal significant damage to all Nikkes."
+28401_name,Covert Support
+28402_name,Flash Grenade
+18403_name,Secret Agent
+28401_description,"■ Activates when entering Full Burst. Affects all <word_group=10082>Burst Stage {description_value_07}</word_group> allies who previously cast their Burst Skill.
+<color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.
+True damage ▲ {description_value_03}% for {description_value_04} sec.
+Recovers {description_value_05}% of damage as HP for {description_value_06} sec.</color>"
+28402_description,"■ Activates during Full Burst. Affects <word_group=10020>enemies within attack range</word_group> nearest to the crosshair every {description_value_01} sec.
+<color=#00AEFF>Flash Grenade Toss: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as True Damage.</color>
+■ Activates when using Burst Skill. Affects self.
+<color=#00AEFF>Flash Grenade Toss activation time condition ▼ {description_value_03} sec for {description_value_04} sec.</color>"
+18403_description,"■ Affects self.
+<color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
+True Damage ▲ {description_value_03}% for {description_value_04} sec.
+Special Modification
+Function: Decreases Charge Speed but increases Charge Damage for {description_value_05} round(s).
+Effect 1: Charge Speed ▼ {description_value_06}%.
+Effect 2: Charge Damage ▲ {description_value_07}%.</color>"
+25211_description_1,"■ Activates when attacking with Full Charge and self is in Maillard status. Affects all allies.
+<color=#00AEFF>Maillard <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
+■ Activates when attacking with Full Charge and self is in Blanching status. Affects all allies.
+<color=#00AEFF>Blanching <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
+■ Activates after landing {description_value_04} normal attack(s) without Full Charge. Affects all allies.
+<color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.
+Removes Blanching.</color>
+■ Activates after maintaining {description_value_08} Full Charge status for more than {description_value_07} sec. Affects all allies.
+<color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.
+Removes Maillard.</color>"
+25212_description_1,"■ Activates after landing {description_value_02} normal attack(s) without Full Charge. Affects all allies not in Reliable Cooking status.
+<color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the caster's DEF for {description_value_04} sec.
+<word_group=10005>Dispels 1 debuff</word_group>.</color>
+■ Activates after maintaining {description_value_06} Full Charge status for more than {description_value_05} sec. Affects all allies not in Reliable Cooking status.
+<color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the caster's DEF for {description_value_08} sec.
+<word_group=10005>Dispels 1 debuff</word_group>.</color>
+■ Activates when entering Full Burst. Affects all allies in Maillard or Blanching status.
+<color=#00AEFF>ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.</color>"
+10089_1_add_des,"When allies are healed with accumulated recovery, the caster's ""increases potency of HP granted"" effect does not apply."
+10089_2_add_des,"When allies receive healing from accumulated recovery, the target's ""increases potency of HP restored"" effect does not apply."
+10089_3_add_des,Recovery by accumulated recovery is considered a healing effect.

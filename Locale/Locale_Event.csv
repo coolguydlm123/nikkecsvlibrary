@@ -2602,7 +2602,7 @@ P.S. Strong things must be made even stronger."
 tower_defense_hero_slot_open_info_title,Unlock Nikke Slot
 tower_defense_hero_slot_open_info_description,Unlock a Nikke slot to build a new Nikke Tower.
 event_tower_defense_refund_title,Demolish Tower
-event_tower_defense_refund_description,Demolish the tower to reclaim {0} Gold(s).
+event_tower_defense_refund_description,Demolish the tower to reclaim {0} gold.
 event_td_open_condition_stage_clear,Available after clearing Event Stage {0}.
 event_td_open_condition_td_stage_clear,Available after clearing Mini Game Stage {0}.
 event_td_open_condition_time,Available in {0}
@@ -3029,7 +3029,7 @@ td_skill_description_synchronize_lv1,"T.A.L.O.S. activates its Nano Coating at r
 It shares its abilities with 2 nearby towers."
 td_skill_description_synchronize_lv2,"Enhances the Nano Coating effect, allowing T.A.L.O.S. to share its abilities with towers at a greater distance."
 td_skill_description_synchronize_lv3,"Enhances the Nano Coating effect, allowing T.A.L.O.S. to share its ability with up to 4 towers."
-td_skill_description_sevendwarvesV_lv1,"Snow White fires Seven Dwarfs V missiles at regular intervals.
+td_skill_description_sevendwarvesV_lv1,"Snow White fires Seven Dwarves V missiles at regular intervals.
 
 The 4 missiles penetrate the enemy defense and deal significant damage in a small range."
 td_skill_description_sevendwarvesV_lv2,Increases Seven Dwarves V missiles' damage and expands its damage range.
@@ -8630,6 +8630,269 @@ Magnet: Sucks in all items visible on the screen.
 Chocolate: Recovers Ade's HP.
 Shield: Provides temporary immunity to damage from obstacles. Can only be used once.
 Blueprint Fragment: Collect 4 to enter the hidden route in Coin Rush."
+event_bh_wave,Wave
+event_bh_exp,EXP
+event_bh_shop,Shop
+event_bh_none_count_ban,No weapon removals left.
+event_bh_ban_weapon,Weapon Removal
+event_bh_remaining_count,Remaining attempt(s): {0}
+event_bh_none_count_reroll,No refresh attempts left.
+event_bh_reroll,Refresh
+event_bh_start_battle,Start Battle
+event_bh_invetory_empty,"No weapon equipped.
+Please equip an equipment before entering battle."
+event_bh_select_passive,Select Trait
+event_bh_passive_select,Select
+event_bh_inventory_upgrade,Expand Inventory
+event_bh_unventory_upgrade_point,Inventory Expansion Points: {0}
+event_bh_reset,Reset
+event_bh_cant_reset,Unable to reset.
+event_bh_confirm_inventory_upgrade,Expansion completed.
+event_bh_must_use_upgrade_point,"There are still inventory expansion points left.
+Make sure to use them all."
+event_bh_warning_lost_weapon,"You may lose a large number of weapons.
+Refresh anyway?"
+event_bh_weapon_infomation,Weapons Info
+event_bh_weapon_status,Status
+event_bh_weapon_atk,ATK
+event_bh_weapon_reload_time,Reload Time
+event_bh_weapon_focus_target,Set Goal
+event_bh_focus_target_near,Nearby Target
+event_bh_focus_target_random,Random Target
+event_bh_weapon_atk_range,Range
+event_bh_weapon_skill,Skill
+event_bh_none_weapon_skill,No skill
+event_bh_close,Close
+event_bh_pause,Pause
+event_bh_have_passive,Option in effect
+event_bh_ban_weapon_list,Removed Weapons
+event_bh_continue,Continue
+event_bh_quick_end,Quick End
+event_bh_result,RESULT
+event_bh_result_point,Total Points
+event_bh_data_new,New
+event_bh_kill_monster_count,Enemies killed
+event_bh_gain_gold,Remaining Gold
+event_bh_statistics,Stats
+event_bh_back,Return
+event_bh_restart,Restart
+event_bh_lack_daily_target_score,Target score not reached.
+event_bh_reward_already_acquired,You have obtained the Daily Reward.
+event_bh_notice_inventory_cant_empty,The inventory must have at least 1 weapon equipped.
+event_bh_notice_gold_reroll,Not enough gold. Unable to refresh.
+event_bh_gold_reroll,{0} / {1}
+event_bh_weapon_tag_projectile,Normal Attack
+event_bh_weapon_tag_range,AoE Attack
+event_bh_weapon_tag_pierce,Pierce Attack
+event_bh_passive_tag,Unique
+event_bh_keep_weapon_count,Weapon storage capacity: {0}
+event_bh_notice_keep_weapon_count,The maximum number of weapons you can store is {0}.
+event_bh_statistics_no_data,No damage recorded.
+event_bh_total_gain_gold,Total Gold Earned
+event_bh_consume_gold,Gold Spent
+event_bh_total_passive_value,Traits
+event_bh_inventory,Inventory
+event_bh_retain_passive,Trait Obtained
+event_bh_notice_cant_move_weapon,You can't move or merge weapons in current screen.
+event_bh_notice_none_select_weapon,No weapon selected.
+event_bh_notice_none_select_passive,No trait selected.
+event_bh_enhance,Upgrade
+event_bh_album,Collection
+event_bh_mission,Challenge
+event_bh_tutorial,Tutorial
+event_bh_game_start,Start Game
+event_bh_chrarcter_select,Select Character
+event_bh_do_not_play_lock_chrarcter,Locked characters cannot be used.
+event_bh_unlock_date,Available after {0}
+event_bh_enhance_level,Level: {0}
+event_bh_enhance_level_max,Level: Max
+event_bh_level_up_cost,Cost
+event_bh_notice,Confirm
+event_bh_notice_reset,"Consumed currency will be returned after an acquired skill is reset.
+Reset anyway?"
+event_bh_cancle,Cancel
+event_bh_not_enough_gold,Not enough gold.
+event_bh_max_level_notice,Max level has been reached.
+event_bh_collection_rate,Collection Rate
+event_bh_none_collect_weapon,This weapon is not yet obtained.
+event_bh_lock_weapon,This weapon is locked.
+event_bh_weapon_open_date,Claimable after {0}
+event_bh_daily_reward_target_point,Target score: {0}
+event_bh_notice_none_enhance,No enhanced element selected.
+event_bh_weapon_name_01,Bow Gun
+event_bh_weapon_name_02,Submachine Gun
+event_bh_weapon_name_03,Grenade Launcher
+event_bh_weapon_name_04,Shotgun
+event_bh_weapon_name_05,Assault Rifle
+event_bh_weapon_name_06,Pistol
+event_bh_weapon_name_07,Sniper Rifle
+event_bh_weapon_name_08,Flamethrower
+event_bh_weapon_name_09,Laser Cannon
+event_bh_weapon_name_10,Grenade
+event_bh_weapon_description_01,"Shoots arrows, dealing damage to enemies."
+event_bh_weapon_description_02,"Continuously fires a large number of bullets, dealing damage to enemies."
+event_bh_weapon_description_03,"Launches explosive grenades, dealing damage to enemies."
+event_bh_weapon_description_04,"Fires bullets in a fan-shaped arc, dealing damage to enemies."
+event_bh_weapon_description_05,"Continuously fires bullets, dealing damage to enemies."
+event_bh_weapon_description_06,"Fires bullets, dealing damage to enemies."
+event_bh_weapon_description_07,"Fires bullets that can pierce enemies, dealing damage to them."
+event_bh_weapon_description_08,"Shoots flames within a certain range, dealing damage to enemies."
+event_bh_weapon_description_09,"Fires laser beams that can pierce enemies, dealing damage to them."
+event_bh_weapon_description_10,"Throws grenades, dealing damage to enemies."
+event_bh_weapon_01_skill_description_01,"Shoots <color=#00AEFF>3</color> arrows at once, dealing damage to enemies."
+event_bh_weapon_01_skill_description_02,"Arrows ricochet <color=#00AEFF>{0} time(s)</color>, dealing damage to the enemies they hit."
+event_bh_weapon_01_skill_description_03,"Arrows ricochet <color=#00AEFF>{0} time(s)</color>, dealing damage to the enemies they hit."
+event_bh_weapon_02_skill_description_01,Increases the number of bullets during continuous firing.
+event_bh_weapon_02_skill_description_02,Fires a critical bullet after <color=#00AEFF>{0} shot(s)</color>. The bullet is guaranteed to be a critical hit.
+event_bh_weapon_03_skill_description_01,Has a chance to fire acidic bullets. Enemies hit by these bullets are afflicted with a DEF-reducing debuff for a certain duration.
+event_bh_weapon_03_skill_description_02,"Fires a fragmenting bullet after <color=#00AEFF>{0} shot(s)</color>. The bullet explodes into <color=#00AEFF>{1} shards</color>, hitting nearby enemies."
+event_bh_weapon_04_skill_description_01,Increases the number of bullets fired per shot.
+event_bh_weapon_04_skill_description_02,"Fires an explosive bullet after <color=#00AEFF>{0} shot(s)</color>. The bullet explodes on contact with enemies, unleashing an AoE attack."
+event_bh_weapon_05_skill_description_01,Gains an ATK buff for a certain duration after killing enemies.
+event_bh_weapon_05_skill_description_02,Has a chance to fire an enhanced bullet. The bullet deals additional damage to enemies it hits.
+event_bh_weapon_06_skill_description_01,Increases the number of bullets fired per shot.
+event_bh_weapon_06_skill_description_02,Fires bullets that ignore monsters' DEF.
+event_bh_weapon_07_skill_description_01,Deals DoT to enemies hit by these bullets for a certain duration.
+event_bh_weapon_07_skill_description_02,Has a chance to instantly kill enemies. Does not apply to bosses.
+event_bh_weapon_08_skill_description_01,Increases the duration of firing flames.
+event_bh_weapon_08_skill_description_02,Increases attack range and creates a blaze zone that deals sustained damage within the attack area.
+event_bh_weapon_09_skill_description_01,Increases the size of the laser cannon.
+event_bh_weapon_09_skill_description_02,Electrocutes enemies hit by the laser cannon. Electrocuted enemies take additional damage when hit.
+event_bh_weapon_10_skill_description_01,"After the grenade explodes, it creates an area that reduces movement speed."
+event_bh_weapon_10_skill_description_02,"Converts grenades into flash grenades. Upon detonation, it creates a field that slows movement speed and has a chance to inflict Stun."
+event_bh_subweapon_name_01,Medal
+event_bh_subweapon_name_02,Gold
+event_bh_subweapon_name_03,Buttstock
+event_bh_subweapon_name_04,Spiked Barricade
+event_bh_subweapon_name_05,Tool Set
+event_bh_subweapon_name_06,Silencer
+event_bh_subweapon_name_07,Scope
+event_bh_subweapon_name_08,Stimpack
+event_bh_subweapon_description_01,"A medal faded with time, yet still carrying the glory of the past."
+event_bh_subweapon_description_02,A shiny gold coin.
+event_bh_subweapon_description_03,A buttstock that absorbs recoil.
+event_bh_subweapon_description_04,A barricade fortified with spikes.
+event_bh_subweapon_description_05,A tool set used for repairing the barricade.
+event_bh_subweapon_description_06,A silencer that conceals the shooter's position.
+event_bh_subweapon_description_07,A scope that helps achieve more precise shooting.
+event_bh_subweapon_description_08,An injector that grants great strength with mild side effects when used.
+event_bh_subweapon_01_skill_description_01,Increases EXP gained from killing enemies by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_02_skill_description_01,Increases Gold gained from killing enemies by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_03_skill_description_01,Increases damage by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_04_skill_description_01,Increases the barricade's HP by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_04_skill_description_02,Reflects damage to attackers when the barricade is hit.
+event_bh_subweapon_05_skill_description_01,Restores <color=#00AEFF>{1}</color> of the barricade's HP every <color=#00AEFF>{0} sec</color>.
+event_bh_subweapon_06_skill_description_01,Increases critical rate by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_07_skill_description_01,Increases critical damage multiplier by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_07_skill_description_02,<color=#FF0000>Increases reload time by {0}%.</color>
+event_bh_subweapon_08_skill_description_01,Increases damage by <color=#00AEFF>{0}%</color>.
+event_bh_subweapon_08_skill_description_02,<color=#FF0000>Decreases the barricade's HP by {0}%.</color>
+event_bh_enhance_passive_name_01,EXP Gain Increase
+event_bh_enhance_passive_name_02,Gold Gain Increase
+event_bh_enhance_passive_name_03,ATK Increase
+event_bh_enhance_passive_name_04,High-Grade Weapon In Shop
+event_bh_enhance_passive_name_05,Enhanced Monsters
+event_bh_enhance_passive_name_06,Weapon Removal UP
+event_bh_enhance_passive_name_07,Refresh Attempt Increase
+event_bh_enhance_passive_name_08,Barricade HP Increase
+event_bh_enhance_passive_name_09,Inventory Expansion
+event_bh_enhance_passive_name_10,Trait Options Increase
+event_bh_enhance_passive_description_01,Increases EXP gained from killing monsters.
+event_bh_enhance_passive_description_02,Increases Gold gained from killing monsters.
+event_bh_enhance_passive_description_03,Increases the ATK of all weapons.
+event_bh_enhance_passive_description_04,High-grade weapons may appear in the Shop.
+event_bh_enhance_passive_description_05,"There's a certain probability that enhanced monsters will appear. They give additional EXP, Gold, and points.
+<color=#FF0000>※ Note: Monsters will be enhanced after acquiring this option.</color>"
+event_bh_enhance_passive_description_06,Increases the number of weapon removals in the Shop.
+event_bh_enhance_passive_description_07,Increases the number of refresh attempts in the Shop.
+event_bh_enhance_passive_description_08,Increases the barricade's HP.
+event_bh_enhance_passive_description_09,Grants inventory expansion points when the game starts.
+event_bh_enhance_passive_description_10,Has a chance to increase the number of options available when selecting a trait.
+event_bh_select_passive_name_01_01,EXP Gain Increase I
+event_bh_select_passive_name_01_02,EXP Gain Increase II
+event_bh_select_passive_name_01_03,EXP Gain Increase III
+event_bh_select_passive_name_02_01,Gold Gain Increase I
+event_bh_select_passive_name_02_02,Gold Gain Increase II
+event_bh_select_passive_name_02_03,Gold Gain Increase III
+event_bh_select_passive_name_03_01,Damage Increase I
+event_bh_select_passive_name_03_02,Damage Increase II
+event_bh_select_passive_name_03_03,Damage Increase III
+event_bh_select_passive_name_04_01,Range Increase I
+event_bh_select_passive_name_04_02,Range Increase II
+event_bh_select_passive_name_04_03,Range Increase III
+event_bh_select_passive_name_05_01,AoE Attack Damage Increase I
+event_bh_select_passive_name_05_02,AoE Attack Damage Increase II
+event_bh_select_passive_name_05_03,AoE Attack Damage Increase III
+event_bh_select_passive_name_06_01,Normal Attack Damage Increase I
+event_bh_select_passive_name_06_02,Normal Attack Damage Increase II
+event_bh_select_passive_name_06_03,Normal Attack Damage Increase III
+event_bh_select_passive_name_07_01,Pierce Attack Damage Increase I
+event_bh_select_passive_name_07_02,Pierce Attack Damage Increase II
+event_bh_select_passive_name_07_03,Pierce Attack Damage Increase III
+event_bh_select_passive_name_08_01,AoE Attack Reload Time Decrease I
+event_bh_select_passive_name_08_02,AoE Attack Reload Time Decrease II
+event_bh_select_passive_name_08_03,AoE Attack Reload Time Decrease III
+event_bh_select_passive_name_09_01,Normal Attack Reload Time Decrease I
+event_bh_select_passive_name_09_02,Normal Attack Reload Time Decrease II
+event_bh_select_passive_name_09_03,Normal Attack Reload Time Decrease III
+event_bh_select_passive_name_10_01,Pierce Attack Reload Time Decrease I
+event_bh_select_passive_name_10_02,Pierce Attack Reload Time Decrease II
+event_bh_select_passive_name_10_03,Pierce Attack Reload Time Decrease III
+event_bh_select_passive_name_11_01,Reload Time Decrease I
+event_bh_select_passive_name_11_02,Reload Time Decrease II
+event_bh_select_passive_name_11_03,Reload Time Decrease III
+event_bh_select_passive_name_12_01,Blaze Zone Duration Increase I
+event_bh_select_passive_name_12_02,Blaze Zone Duration Increase II
+event_bh_select_passive_name_12_03,Blaze Zone Duration Increase III
+event_bh_select_passive_name_13_01,Debuff Duration Increase I
+event_bh_select_passive_name_13_02,Debuff Duration Increase II
+event_bh_select_passive_name_13_03,Debuff Duration Increase III
+event_bh_select_passive_name_14_01,DoT Duration Increase I
+event_bh_select_passive_name_14_02,DoT Duration Increase II
+event_bh_select_passive_name_14_03,DoT Duration Increase III
+event_bh_select_passive_name_15_01,Knockback Distance Increase I
+event_bh_select_passive_name_15_02,Knockback Distance Increase II
+event_bh_select_passive_name_15_03,Knockback Distance Increase III
+event_bh_select_passive_name_16_01,Enhanced Monster Chance Increase I
+event_bh_select_passive_name_16_02,Enhanced Monster Chance Increase II
+event_bh_select_passive_name_16_03,Enhanced Monster Chance Increase III
+event_bh_select_passive_name_17_01,Burst Skill Damage Increase I
+event_bh_select_passive_name_17_02,Burst Skill Damage Increase II
+event_bh_select_passive_name_17_03,Burst Skill Damage Increase III
+event_bh_select_passive_description_01,Increases EXP gained from killing monsters by <color=#00AEFF>{0}%</color>.
+event_bh_select_passive_description_02,Increases Gold gained from killing monsters by <color=#00AEFF>{0}%</color>.
+event_bh_select_passive_description_03,Increases all weapon damage by <color=#00AEFF>{0}%</color>.
+event_bh_select_passive_description_04,Increases initial attack range by <color=#00AEFF>{0}%</color>.
+event_bh_select_passive_description_05,"Increases AoE attack damage by <color=#00AEFF>{0}%</color>.
+<color=#FFC000>Applicable Weapons: Grenade Launcher, Flamethrower, Grenade</color>"
+event_bh_select_passive_description_06,"Increases normal attack damage by <color=#00AEFF>{0}%</color>
+<color=#FFC000>Applicable Weapons: Submachine Gun, Shotgun, Assault Rifle, Pistol</color>"
+event_bh_select_passive_description_07,"Increases pierce attack damage by <color=#00AEFF>{0}%</color>.
+<color=#FFC000>Applicable Weapons: Bow Gun, Sniper Rifle, Laser Cannon</color>"
+event_bh_select_passive_description_08,"Decreases AoE attack reload time by <color=#00AEFF>{0}%</color>.
+<color=#FFC000>Applicable Weapons: Grenade Launcher, Flamethrower, Grenade</color>"
+event_bh_select_passive_description_09,"Decreases normal attack reload time by <color=#00AEFF>{0}%</color>.
+<color=#FFC000>Applicable Weapons: Submachine Gun, Shotgun, Assault Rifle, Pistol</color>"
+event_bh_select_passive_description_10,"Decreases pierce attack reload time by <color=#00AEFF>{0}%</color>.
+<color=#FFC000>Applicable Weapons: Bow Gun, Sniper Rifle, Laser Cannon</color>"
+event_bh_select_passive_description_11,Decreases all weapons' reload time by <color=#00AEFF>{0}%</color>.
+event_bh_select_passive_description_12,Increases blaze zone duration by <color=#00AEFF>{0} sec</color>.
+event_bh_select_passive_description_13,Increases debuff duration by <color=#00AEFF>{0} sec</color>.
+event_bh_select_passive_description_14,Increases DoT duration by <color=#00AEFF>{0} sec</color>.
+event_bh_select_passive_description_15,Increases knockback distance by <color=#00AEFF>{0} m</color>
+event_bh_select_passive_description_16,"Increases the probability of enhanced monsters appearing by <color=#00AEFF>{0}%</color>.
+They give additional EXP, Gold, and points.
+<color=#FF0000>※ Note: Monsters will be enhanced after acquiring this option.</color>"
+event_bh_select_passive_description_17,Increases Burst Skill damage by <color=#00AEFF>{0}%</color>.
+event_bh_character_name_01,Jill
+event_bh_character_name_02,Claire
+event_bh_character_name_03,Ada
+even_bh_character_skill_name_01,Carpet Bombing
+even_bh_character_skill_name_02,Overhaul
+even_bh_character_skill_name_03,Barrel Roll
+even_bh_character_skill_description_01,"Initiates continuous bombing, dealing damage to enemies."
+even_bh_character_skill_description_02,Performs maintenance to restore the barricade's HP and grants a reload time reduction effect for a certain duration.
+even_bh_character_skill_description_03,"Rolls multiple barrels, knocking back enemies hit."
 coinsinrush_FieldChange_01,The display in Coin Rush has been hacked!
 coinsinrush_NpcChange_01,I run into someone unexpected.
 coinsinrush_NpcChange_02,Setting up a base to carry out the mission.
@@ -8640,3 +8903,117 @@ coinsinrush_NpcChange_06,Ade has brought items that could be useful for the miss
 coinsinrush_NpcChange_07,Helping the Commander escape.
 coinsinrush_NpcChange_08,Rouge has brought the Coin Rush staff.
 coinsinrush_NpcChange_09,Velvet has been captured.
+event_bh_mission_name_01,"Challenge - Earn 20,000 points in a run"
+event_bh_mission_name_02,"Challenge - Earn 40,000 points in a run"
+event_bh_mission_name_03,"Challenge - Earn 60,000 points in a run"
+event_bh_mission_name_04,"Challenge - Earn 80,000 points in a run"
+event_bh_mission_name_05,"Challenge - Accumulate 10,000 remaining Gold in total"
+event_bh_mission_name_06,"Challenge - Accumulate 30,000 remaining Gold in total"
+event_bh_mission_name_07,"Challenge - Accumulate 50,000 remaining Gold in total"
+event_bh_mission_name_08,"Challenge - Accumulate 70,000 remaining Gold in total"
+event_bh_mission_name_09,Challenge - Use a skill 15 times
+event_bh_mission_name_10,Challenge - Use a skill 40 times
+event_bh_mission_name_11,Challenge - Use a skill 70 times
+event_bh_mission_name_12,Challenge - Use a skill 100 times
+event_bh_mission_name_13,Challenge - Play as Jill 5 times
+event_bh_mission_name_14,Challenge - Play as Claire 5 times
+event_bh_mission_name_15,Challenge - Play as Ada 5 times
+CE007_FieldChange_01,"The door to the basement, where dark secrets lie hidden, has opened."
+CE007_FieldChange_02,The threat of the Torch of Salvation has been repelled.
+CE007_NPCChange_01,The people from the other world have left.
+event_ce007_narrativesign_title_01,Torch of Salvation Prayer Times
+event_ce007_narrativesign_title_02,Dorm Rules
+event_ce007_narrativesign_title_03,Dorm Rules
+event_ce007_narrativesign_title_04,Dorm Rules
+event_ce007_narrativesign_title_05,Someone's Note
+event_ce007_narrativesign_title_06,Someone's Note
+event_ce007_narrativesign_title_07,Someone's Note
+event_ce007_narrativesign_title_08,Torch of Salvation Doctrine
+event_ce007_narrativesign_description_01,"Morning Prayer - 06:00–07:00
+Noon Prayer - 11:00–12:00
+Afternoon Prayer - 14:00–15:00
+Evening Prayer - 17:00–18:00
+Repentance Prayer - 20:00–21:00
+Night Prayer - 23:00–00:00
+※ Let us all strive for true salvation.
+Late arrival or absence from prayers is strictly prohibited."
+event_ce007_narrativesign_description_02,"1. The curfew must be strictly observed. Prior authorization is required for outings.
+2. If you hear a child's voice calling for help after 23:00, ignore it."
+event_ce007_narrativesign_description_03,"3. Do not open the windows after sunset.
+3-A. If any gaps are found in the windows, report immediately."
+event_ce007_narrativesign_description_04,"5. If anyone loses consciousness, do not approach or touch them. Report immediately.
+6. Actively participate in the Ritual of Salvation. Remember that all restrictions and trials exist for the sake of salvation."
+event_ce007_narrativesign_description_05,"Honestly, I can handle anything... but that meat? I just can't stomach it.
+Every mealtime is pure torture...
+I'd rather eat the grass from the flowerpots.
+I'm only telling you this, so if you ever get really hungry, quietly pick some and eat it. Just don't get caught!"
+event_ce007_narrativesign_description_06,"I can't take it anymore.
+To hell with their so-called salvation, I've seen it all.
+Corpses piled up like trash...
+I'm running away tonight. You'd better come to your senses, and fast.
+Remember to burn this note."
+event_ce007_narrativesign_description_07,Traitor
+event_ce007_narrativesign_description_08,"You who have lost your way need not grieve.
+The judge already guides humanity toward salvation.
+Foolish humans, do not resist."
+event_bh_tutorial_title_01,Salvation Breakers
+event_bh_tutorial_title_02,Shop
+event_bh_tutorial_title_03,Trait Selection
+event_bh_tutorial_title_04,Inventory Expansion
+event_bh_tutorial_title_05,Upgrade
+event_bh_tutorial_desc_01,"■ Salvation Breakers is a mini game where you merge and upgrade weapons to stop incoming monsters.
+■ Efficiently upgrade your characters in the Shop that appears after a wave ends, or through trait selections that appear when leveling up.
+■ Except for using Burst Skill, all battles proceed automatically."
+event_bh_tutorial_desc_02,"Waves and Monsters
+
+■ Monsters come in waves, and you must survive a total of 99 waves.
+■ Monsters are divided into Minion, Elite, and Boss classes. Elites and Bosses appear in specific waves.
+■ Some Minions and Elites are special monsters with skills."
+event_bh_tutorial_desc_03,"Shop
+
+■ The Shop opens after a wave ends.
+■ It consists of two sections: Inventory and Weapons.
+■ You can manage your inventory or remove unused weapons in the Shop.
+■ Drag and drop weapons from the Weapons section into the Inventory to equip them.
+■ Weapons placed in the Inventory will be used in battles.
+■ When the Shop opens, new weapons will appear in the Weapons section, where you can also store weapons temporarily.
+■ Weapons in the Weapons section will disappear when the next wave begins."
+event_bh_tutorial_desc_04,"Inventory Management
+
+■ Weapons can be freely moved between the Inventory and Weapons sections, as long as their size does not exceed the inventory capacity.
+■ Stacking weapons of the same type and rarity allows them to be merged. Merging increases the weapon's rarity and improves its performance.
+■ Weapon merging can be performed in both the Inventory and Weapons sections."
+event_bh_tutorial_desc_05,"Weapon Types
+
+■ There are two types of weapons: Weapons and Sub-weapons.
+■ Tap the Weapon icon to view the weapon info.
+■ Weapons attack at regular intervals, dealing damage to monsters.
+■ Each weapon has its own tag, and traits are applied according to the tags it has.
+■ Sub-weapons cannot attack directly, but they provide options that are useful in battle."
+event_bh_tutorial_desc_06,"Refreshing and Removing Weapons
+
+■ Refreshing will remove all weapons in the Weapons section and replace them with a fixed number of new weapons.
+■ Once all free refresh attempts are used, refreshing will cost Gold.
+■ You can also remove unwanted weapons. Removed weapons will no longer appear in the Weapons section."
+event_bh_tutorial_desc_07,"Trait Selection
+
+■ Defeating monsters grants EXP. Earn a certain amount of EXP to conduct upgrades.
+■ When leveling up, you can select traits that provide different effects.
+■ Traits are divided into Phase I, II, and III. As the phases increase, higher-phase traits may appear.
+■ By default, 3 options are presented, but you can gain an additional option through upgrades.
+■ Multiple ordinary traits of the same type can be owned at the same time, while unique traits can only be obtained once per game."
+event_bh_tutorial_desc_08,"Enhanced Monsters
+
+■ When you have the Enhanced Monsters trait, enhanced monsters may appear in battles.
+■ Enhanced monsters have higher HP than ordinary monsters and give additional EXP, Gold, and points.
+■ With this trait, you can aim for higher scores."
+event_bh_tutorial_desc_09,"Inventory Expansion
+
+■ You can expand your inventory after clearing specific waves.
+■ Tap your desired area to temporarily expand it, then tap the Complete Expansion button to confirm the expansion.
+■ You cannot proceed to the next wave until all Inventory Expansion Points are used.
+■ Weapons can be placed in expanded areas."
+event_bh_tutorial_desc_10,"Upgrade
+
+■ Defeat monsters to earn Gold, which can be used to acquire useful skills for your characters.
+■ Use the Reset button to get back spent Gold and reset skill levels."
