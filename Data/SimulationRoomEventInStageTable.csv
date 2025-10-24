@@ -3,7 +3,8 @@ id,stage_group_id,event_main_type,event_sub_type,is_repeated,weight
 2,1000,Battle,EliteBattle,True,10000
 3,100,Battle,NormalBattle,True,10000
 4,1,Selection,Maintenance,True,10000
-5,20000,Battle,EventBossBattle,True,10000
+5,1000000,Battle,SpecialBattle,True,10000
+6,20000,Battle,EventBossBattle,True,10000
 100001,100010,Selection,Maintenance,False,10000
 200001,201100,Battle,EliteBattle,False,10000
 200002,201100,Battle,NormalBattle,False,10000
@@ -74,7 +75,6 @@ id,stage_group_id,event_main_type,event_sub_type,is_repeated,weight
 300042,309999,Selection,RandomSelection,True,100
 300043,300099,Selection,Maintenance,False,20
 300044,300099,Selection,RandomSelection,True,100
-5,1000000,Battle,SpecialBattle,True,10000
 300055,302013,Battle,EliteBattle,True,9500
 300056,302013,Selection,RandomSelection,False,250
 300057,302013,Selection,Maintenance,False,250

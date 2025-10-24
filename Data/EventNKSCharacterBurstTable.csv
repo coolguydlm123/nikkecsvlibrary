@@ -1,4 +1,4 @@
-id,character_Id,ItemsAction_group_Id,burst_activeTime,cooldown_time,kill_cooldown_subTime
+id,character_id,itemsaction_group_id,burst_activetime,cooldown_time,kill_cooldown_subtime
 1,1,500101,350,2000,2
 2,2,500201,300,2000,2
 3,3,500301,300,2000,2

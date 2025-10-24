@@ -1,4 +1,4 @@
-id,field_type,is_use_state_change_condition,state_change_condition_stage,is_use_spawn_condition,spawn_condition_stage
-301601,Event,True,106110105.0,,
-302001,Event,True,107910112.0,,
-302002,Event,,,True,108010101.0
+id,field_type,is_use_spawn_condition,spawn_condition_stage,spawn_condition_time,is_use_despawn_condition,despawn_condition_stage,despawn_condition_time,is_use_state_change_condition,state_change_condition_stage,state_change_condition_time
+301601,Event,False,0,10000000,False,0,-207705728,True,106110105,-207705728
+302001,Event,False,0,10000000,False,0,-207705728,True,107910112,-207705728
+302002,Event,True,108010101,10000000,False,0,-207705728,False,0,-207705728

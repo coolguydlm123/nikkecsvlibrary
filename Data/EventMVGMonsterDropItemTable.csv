@@ -1,4 +1,4 @@
-id,desc,currencyType,currencyValue,currencyResource
+id,desc,currencytype,currencyvalue,currencyresource
 100,10골드,MVGGold,10,fx_mvg_dropitem_gold_small
 101,12골드,MVGGold,12,fx_mvg_dropitem_gold_small
 102,15골드,MVGGold,15,fx_mvg_dropitem_gold_small

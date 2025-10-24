@@ -82,3 +82,6 @@ id,group,order,name,description,mission_list_group,point_resource,init_type
 8603,86,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,8603,None,None
 8801,88,1,Locale_System:DAILY_MISSION,Locale_System:DAILY_MISSION_INFO,8801,None,Daily
 8803,88,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,8803,None,None
+9001,90,1,Locale_System:DAILY_MISSION,Locale_System:DAILY_MISSION_INFO,9001,None,Daily
+9003,90,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,9003,None,None
+9203,92,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,9203,None,None

@@ -14,4 +14,7 @@ id,voice_field_go_sound_cue,voice_field_touch_sound_cue
 10201101,c5618_eve_fieldgo,c5618_eve_fieldtouch
 10201201,c5605_fieldgo,c5605_fieldtouch
 10241101,c5128_field_go,
+10261101,voice_mute,voice_mute
+10261201,voice_mute,voice_mute
+10261301,voice_mute,voice_mute
 1999101,c010_eventfield_spgo,

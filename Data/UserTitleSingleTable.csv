@@ -21,6 +21,7 @@ id,resource_id
 126,usertitle_simulationroom_overclock_infinite_iron
 131,usertitle_melodiesofvictory
 132,usertitle_1000days
+133,usertitle_jofftour
 204,usertitle_jinxplayer
 205,usertitle_phantomthief
 206,usertitle_lifeagain
@@ -40,3 +41,4 @@ id,resource_id
 220,usertitle_boomtheghost
 221,usertitle_absolute
 222,usertitle_coinsinrush
+223,usertitle_goninjathief

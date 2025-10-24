@@ -1,4 +1,5 @@
-id,sidestory_name,previous_story_desc
-1,Locale_System:SIDESTORY_TITLE_01,Locale_System:SIDESTORY_01_PREV_DESC
-2,Locale_System:SIDESTORY_TITLE_02,Locale_System:SIDESTORY_02_PREV_DESC
-3,Locale_System:SIDESTORY_TITLE_03,Locale_System:SIDESTORY_03_PREV_DESC
+id,sidestory_name,open_condition_hour,previous_story_desc,open_condition_stage_list/0/open_condition_stage,open_condition_stage_list/1/open_condition_stage,open_condition_stage_list/2/open_condition_stage
+1,Locale_System:SIDESTORY_TITLE_01,0,Locale_System:SIDESTORY_01_PREV_DESC,0,0,0
+2,Locale_System:SIDESTORY_TITLE_02,0,Locale_System:SIDESTORY_02_PREV_DESC,0,0,0
+3,Locale_System:SIDESTORY_TITLE_03,0,Locale_System:SIDESTORY_03_PREV_DESC,0,0,0
+4,Locale_System:SIDESTORY_TITLE_04,0,Locale_System:SIDESTORY_04_PREV_DESC,0,0,0

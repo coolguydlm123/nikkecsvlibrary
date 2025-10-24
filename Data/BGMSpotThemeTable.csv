@@ -85,11 +85,11 @@ id,theme,bgm_loop
 84,CityForestUnder,bgm_chapter33_spot_outbreak_b
 85,CityForestUnder,bgm_chapter34_spot_readytogo_a
 86,CityForestUnder,bgm_chapter34_spot_readytogo_b
-87,lostsector,bgm_lostsector_spot_1
-88,lostsector,bgm_lostsector_spot_2
-89,lostsector,bgm_lostsector_spot_3
-90,lostsector,bgm_lostsector_spot_4
-91,lostsector,bgm_lostsector_spot_5
+87,Lostsector,bgm_lostsector_spot_1
+88,Lostsector,bgm_lostsector_spot_2
+89,Lostsector,bgm_lostsector_spot_3
+90,Lostsector,bgm_lostsector_spot_4
+91,Lostsector,bgm_lostsector_spot_5
 92,SwamplandJungle,bgm_chapter35_spot_canthisbetheend_a
 93,SwamplandJungle,bgm_chapter35_spot_canthisbetheend_b
 94,SwamplandJungle,bgm_chapter36_spot_mindover_a

@@ -1,4 +1,4 @@
-id,group_Id,resource_Id,tileType,BasicTile
+id,group_id,resource_id,tiletype,basictile
 1,1,NKS_Tbg_snowland_T_notWalkable_C_LeftUp,NotWalkable_Corner_LeftUp,False
 2,1,NKS_Tbg_snowland_T_notWalkable_C_RightUp,NotWalkable_Corner_RightUp,False
 3,1,NKS_Tbg_snowland_T_notWalkable_C_LeftDown,NotWalkable_Corner_LeftDown,False

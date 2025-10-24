@@ -50,3 +50,5 @@ id,event_id,prologue_scenario,dungeon_id,album_category_group,ui_prefab,archive_
 10058,40058,event_jinxplayer_prologue,58,1058,jinxplayer,7123058,7122058
 10048,40048,,48,1048,goldencoinrush_part1,7123048,7122048
 10049,40049,,49,1049,goldencoinrush_part2,7123048,7122048
+10075,40075,,75,1075,unbreakablesphere_part1,7123075,7122075
+10076,40076,,76,1076,unbreakablesphere_part2,7123075,7122075

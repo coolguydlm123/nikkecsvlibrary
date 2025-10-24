@@ -1,4 +1,4 @@
-id,group_id,Language,movie_link,subtitles
+id,group_id,language,movie_link,subtitles
 opening_pv01_en,opening_pv01,en,https://cloud.nikke-kr.com/media/ch01_end_en.mp4,https://cloud.nikke-kr.com/media/ch01_end_en.srt
 opening_pv01_ja,opening_pv01,ja,https://cloud.nikke-kr.com/media/ch01_end_ja.mp4,https://cloud.nikke-kr.com/media/ch01_end_ja.srt
 opening_pv01_ko,opening_pv01,ko,https://cloud.nikke-kr.com/media/ch01_end_ko.mp4,https://cloud.nikke-kr.com/media/ch01_end_ko.srt

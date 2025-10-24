@@ -1,4 +1,4 @@
-id,event_id,ui_icon,ui_video,Description,GunAsset
+id,event_id,ui_icon,ui_video,description,gunasset
 191,81901,MiniGameEVA/Skill/eva2_jw_icon01.png,40009,a,EVA9/Dev1level1/EVA9_D1_L1_Weapon
 192,81901,MiniGameEVA/Skill/eva2_jw_icon01.png,40009,a,EVA9/Dev1level2/EVA9_D1_L2_Weapon
 193,81901,MiniGameEVA/Skill/eva2_jw_icon01.png,40009,a,EVA9/Dev1level3/EVA9_D1_L3_Weapon

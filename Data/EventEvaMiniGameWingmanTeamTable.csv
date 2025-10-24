@@ -1,3 +1,3 @@
-id,event_id,Name,Description,IconAsset,UnlockLevel,UnlockDescription,Demonstration,Group,DamageCoefficient,FluctuationCoefficient/0,FluctuationCoefficient/1
-4003,81901,1,a,a,1,a,a,1_0#2_1,1.0,1.0,1.0
-4004,81901,1,a,a,1,a,a,3_0#4_1,1.0,1.0,1.0
+id,event_id,name,description,iconasset,unlocklevel,unlockdescription,demonstration,group,damagecoefficient,fluctuationcoefficient/0/name,fluctuationcoefficient/0/value,fluctuationcoefficient/1/name,fluctuationcoefficient/1/value
+4003,81901,1,a,a,1,a,a,1_0#2_1,0,fluctuationcoefficient,0,fluctuationcoefficient,0
+4004,81901,1,a,a,1,a,a,3_0#4_1,0,fluctuationcoefficient,0,fluctuationcoefficient,0

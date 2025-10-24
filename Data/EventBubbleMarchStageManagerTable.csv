@@ -3,3 +3,7 @@ id,stage_manager_group,difficulty_type,difficulty_group_id,name_localkey,open_co
 201,101,Normal,201,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0
 301,101,Hard,301,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0
 401,101,Challenge,401,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0
+1101,102,Easy,1101,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0
+1201,102,Normal,1201,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0
+1301,102,Hard,1301,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0
+1401,102,Challenge,1401,Locale_Event:EventMVG_upgrade_shop_upgrade_b,0,0

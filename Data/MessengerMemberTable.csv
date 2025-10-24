@@ -108,6 +108,7 @@ crust,Nikke,Locale_Character:521_name,Locale_Character:521_intro,si_c521_00_s,sn
 mori,Nikke,Locale_Character:590_name,Locale_Character:590_intro,si_c590_00_s,sns_bg_default
 arcana,Nikke,Locale_Character:581_name,Locale_Character:581_intro,si_c581_00_s,sns_bg_default
 sora,Nikke,Locale_Character:532_name,Locale_Character:532_intro,si_c532_00_s,sns_bg_default
+papillon,Nikke,Locale_Character:890_name,Locale_Character:890_intro,si_c890_00_s,sns_bg_default
 neon_s,Nikke,Locale_Character:11_name,Locale_Character:14_intro,si_c014_00_s,sns_bg_default
 mary_s,Nikke,Locale_Character:130_name,Locale_Character:132_intro,si_c132_00_s,sns_bg_default
 ludmilla_w,Nikke,Locale_Character:190_name,Locale_Character:194_intro,si_c194_00_s,sns_bg_default
@@ -152,6 +153,7 @@ vesti_t,Nikke,Locale_Character:91_name,Locale_Character:94_intro,si_c094_00_s,sn
 eunhwa_t,Nikke,Locale_Character:92_name,Locale_Character:95_intro,si_c095_00_s,sns_bg_default
 ade_b,Nikke,Locale_Character:310_name,Locale_Character:315_intro,si_c315_00_s,sns_bg_default
 milk_b,Nikke,Locale_Character:141_name,Locale_Character:143_intro,si_c143_00_s,sns_bg_default
+delta_n,Nikke,Locale_Character:20_name,Locale_Character:23_intro,si_c023_00_s,sns_bg_default
 andersen,NPC,Locale_Character:903_name,Locale_Character:903_intro,si_c903_00_s,sns_bg_default
 syuen,NPC,Locale_Character:901_name,Locale_Character:901_intro,si_c901_00_s,sns_bg_default
 mustang,NPC,Locale_Character:902_name,Locale_Character:902_intro,si_c902_00_s,sns_bg_default

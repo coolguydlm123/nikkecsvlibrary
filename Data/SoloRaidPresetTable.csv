@@ -231,3 +231,11 @@ id,preset_group_id,difficulty_type,quick_battle_type,character_lv,wave_open_cond
 10029006,10029,Common,StageClear,0,10029005,6,6702901,185,0,184,1,True,Locale_System:bba001_name,Locale_System:bba001_description,si_bba001_zeus,full_bba001_zeus,3641306,3641206
 10029007,10029,Common,StageClear,0,10029006,7,6702901,200,0,195,1,True,Locale_System:bba001_name,Locale_System:bba001_description,si_bba001_zeus,full_bba001_zeus,3641307,3641207
 10029008,10029,Trial,StageClear,400,10029007,8,6702902,390,904,400,1,True,Locale_System:bba001_name,Locale_System:bba001_description,si_bba001_zeus,full_bba001_zeus,0,0
+10030001,10030,Common,StageClear,0,0,1,6703001,45,0,54,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641301,3641201
+10030002,10030,Common,StageClear,0,10030001,2,6703001,85,0,92,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641302,3641202
+10030003,10030,Common,StageClear,0,10030002,3,6703001,120,0,125,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641303,3641203
+10030004,10030,Common,StageClear,0,10030003,4,6703001,145,0,142,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641304,3641204
+10030005,10030,Common,StageClear,0,10030004,5,6703001,175,0,169,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641305,3641205
+10030006,10030,Common,StageClear,0,10030005,6,6703001,185,0,184,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641306,3641206
+10030007,10030,Common,StageClear,0,10030006,7,6703001,200,0,195,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641307,3641207
+10030008,10030,Trial,StageClear,400,10030007,8,6703002,390,904,400,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,0,0

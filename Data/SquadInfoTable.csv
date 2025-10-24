@@ -6,7 +6,7 @@ id,squad,squad_name,squad_description,resource_id
 5,Absolute,Locale_Character:absolut_name,Locale_Character:squad_absolut_info,img_logo_squad
 6,Wardress,Locale_Character:wardress_name,Locale_Character:squad_wardress_info,img_logo_squad
 7,Triangle,Locale_Character:triangle_name,Locale_Character:squad_triangle_info,img_logo_squad
-8,777,Locale_Character:777_name,Locale_Character:squad_777_info,img_logo_squad
+8,_777,Locale_Character:777_name,Locale_Character:squad_777_info,img_logo_squad
 9,MightyTools,Locale_Character:mightytools_name,Locale_Character:squad_mightytools_info,img_logo_squad
 10,Pioneer,Locale_Character:pioneer_name,Locale_Character:squad_pioneer_info,img_logo_squad
 11,Inherit,Locale_Character:inherit_name,Locale_Character:squad_inherit_info,img_logo_squad
@@ -38,11 +38,11 @@ id,squad,squad_name,squad_description,resource_id
 37,SchoolCircle,Locale_Character:schoolcircle_name,Locale_Character:squad_schoolcircle_info,img_logo_squad
 38,Heretic,Locale_Character:heretic_name,Locale_Character:squad_heretic_info,img_logo_squad
 39,Aegis,Locale_Character:aegis_name,Locale_Character:squad_aegis_info,img_logo_squad
-40,A.F.F.,Locale_Character:a.f.f._name,Locale_Character:squad_a.f.f._info,img_logo_squad
+40,A_F_F_,Locale_Character:a.f.f._name,Locale_Character:squad_a.f.f._info,img_logo_squad
 41,EnikkChild,Locale_Character:enikkchild_name,Locale_Character:squad_enikkchild_info,img_logo_squad
-42,ce_01,Locale_Character:ce_01_name,Locale_Character:squad_ce_01_info,img_logo_squad
-43,ce002_01,Locale_Character:ce002_01_name,Locale_Character:squad_ce002_01_info,img_logo_squad
-44,ce002_02,Locale_Character:ce002_02_name,Locale_Character:squad_ce002_02_info,img_logo_squad
+42,Ce_01,Locale_Character:ce_01_name,Locale_Character:squad_ce_01_info,img_logo_squad
+43,Ce002_01,Locale_Character:ce002_01_name,Locale_Character:squad_ce002_01_info,img_logo_squad
+44,Ce002_02,Locale_Character:ce002_02_name,Locale_Character:squad_ce002_02_info,img_logo_squad
 46,Akademeia,Locale_Character:akademeia_name,Locale_Character:squad_akademeia_info,img_logo_squad
 47,DazzlingPearl,Locale_Character:dazzlingpearl_name,Locale_Character:squad_dazzlingpearl_info,img_logo_squad
 48,Goddess,Locale_Character:goddess_name,Locale_Character:squad_goddess_info,img_logo_squad
@@ -59,3 +59,4 @@ id,squad,squad_name,squad_description,resource_id
 59,CE006_02,Locale_Character:ce006_02_name,Locale_Character:squad_ce006_02_info,img_logo_squad
 60,CE006_03,Locale_Character:ce006_03_name,Locale_Character:squad_ce006_03_info,img_logo_squad
 61,OverTheHorizon,Locale_Character:overthehorizon_name,Locale_Character:squad_overthehorizon_info,img_logo_squad
+62,CE007,Locale_Character:ce007_name,Locale_Character:squad_ce007_info,img_logo_squad

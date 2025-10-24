@@ -101,3 +101,5 @@ id,gacha_type,gacha_id,is_char_premium,is_wish_list_default
 100,Character,253201,True,False
 101,Character,209301,True,False
 102,Character,209501,True,False
+103,Character,209401,True,False
+104,Character,331501,True,False

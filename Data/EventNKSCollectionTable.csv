@@ -1,4 +1,4 @@
-id,collectionCategory,versionType,ItemID,particle,collection_hintLocale
+id,collectioncategory,versiontype,itemid,particle,collection_hintlocale
 1,NKSWeapon,MOG1,200101,fx_minigame_NKS_fx_common_lightBlink_01,Locale_Event:NKS_Collection_Hint_01
 2,NKSWeapon,MOG1,200201,,Locale_Event:NKS_Collection_Hint_02
 3,NKSWeapon,MOG1,200301,fx_minigame_NKS_fx_common_lightBlink_01,Locale_Event:NKS_Collection_Hint_03

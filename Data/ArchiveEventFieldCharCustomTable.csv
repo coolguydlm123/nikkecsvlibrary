@@ -7,3 +7,7 @@ id,voice_field_go_sound_cue,voice_field_touch_sound_cue
 10161201,c511_corrosion_fieldgo,c511_mute_fieldgo
 10161301,c511_guilty_fieldgo,c511_mute_fieldgo
 10161401,c511_mute_fieldgo,c511_mute_fieldgo
+10191101,c513_fieldgo_01,
+10191201,c513_fieldgo_02,
+10191301,c513_fieldgo_03,
+10191401,c513_fieldgo_04,

@@ -1,5 +1,5 @@
-id,event_id,CharacterAsset,WeaponSets/0
-1,81901,Wingman2,401
-2,81901,Wingman2,402
-3,81901,Wingman2-L,403
-4,81901,Wingman2-R,404
+id,event_id,characterasset,weaponsets/0/name,weaponsets/0/value
+1,81901,Wingman2,weaponsets,401
+2,81901,Wingman2,weaponsets,402
+3,81901,Wingman2-L,weaponsets,403
+4,81901,Wingman2-R,weaponsets,404

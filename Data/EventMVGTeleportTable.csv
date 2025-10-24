@@ -1,4 +1,4 @@
-id,roomAddressableName,socketPointID,localeName,resourceImage
+id,roomaddressablename,socketpointid,localename,resourceimage
 101,C1_1_06,3101,Locale_Event:EventMVG_Teleport_C101_Name,img_mvg_teleport_01
 102,C1_1_08,3102,Locale_Event:EventMVG_Teleport_C102_Name,img_mvg_teleport_02
 201,C2_1_05,3201,Locale_Event:EventMVG_Teleport_C201_Name,img_mvg_teleport_03

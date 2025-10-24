@@ -1,6 +1,6 @@
-id,name,name_english,order,team_type,clear_limit,core_resource,corp_icon,day_of_week/0,day_of_week/1,day_of_week/2,day_of_week/3,day_of_week/4,day_of_week/5,day_of_week/6
-ALL,Locale_System:TOWER_MAIN_NAME,Locale_System:TOWER_MAIN_NAME_ENG,1,TowerBase,0,None,None,0,1,2,3.0,4.0,5.0,6.0
-ELYSION,Locale_System:TOWER_ELYSION_NAME,Locale_System:TOWER_ELYSION_NAME_ENG,2,TowerElysion,3,ele_bg_elysiontower,icn_corp_01,0,1,4,,,,
-MISSILIS,Locale_System:TOWER_MISSILIS_NAME,Locale_System:TOWER_MISSILIS_NAME_ENG,3,TowerMissilis,3,ele_bg_missilistower,icn_corp_02,0,2,5,,,,
-TETRA,Locale_System:TOWER_TETRA_NAME,Locale_System:TOWER_TETRA_NAME_ENG,4,TowerTetra,3,ele_bg_tetratower,icn_corp_03,0,3,6,,,,
-OVERSPEC,Locale_System:TOWER_PILGRIMOVERSPEC_NAME,Locale_System:TOWER_PILGRIMOVERSPEC_NAME_ENG,5,TowerOverspec,3,ele_bg_overspectower,icn_corp_04_06,0,2,3,,,,
+id,name,name_english,order,team_type,clear_limit,core_resource,corp_icon,day_of_week/0/name,day_of_week/0/value,day_of_week/1/name,day_of_week/1/value,day_of_week/2/name,day_of_week/2/value,day_of_week/3/name,day_of_week/3/value,day_of_week/4/name,day_of_week/4/value,day_of_week/5/name,day_of_week/5/value,day_of_week/6/name,day_of_week/6/value
+ALL,Locale_System:TOWER_MAIN_NAME,Locale_System:TOWER_MAIN_NAME_ENG,1,TowerBase,0,None,None,day_of_week,0,day_of_week,1,day_of_week,2,day_of_week,3.0,day_of_week,4.0,day_of_week,5.0,day_of_week,6.0
+ELYSION,Locale_System:TOWER_ELYSION_NAME,Locale_System:TOWER_ELYSION_NAME_ENG,2,TowerElysion,3,ele_bg_elysiontower,icn_corp_01,day_of_week,0,day_of_week,1,day_of_week,4,,,,,,,,
+MISSILIS,Locale_System:TOWER_MISSILIS_NAME,Locale_System:TOWER_MISSILIS_NAME_ENG,3,TowerMissilis,3,ele_bg_missilistower,icn_corp_02,day_of_week,0,day_of_week,2,day_of_week,5,,,,,,,,
+TETRA,Locale_System:TOWER_TETRA_NAME,Locale_System:TOWER_TETRA_NAME_ENG,4,TowerTetra,3,ele_bg_tetratower,icn_corp_03,day_of_week,0,day_of_week,3,day_of_week,6,,,,,,,,
+OVERSPEC,Locale_System:TOWER_PILGRIMOVERSPEC_NAME,Locale_System:TOWER_PILGRIMOVERSPEC_NAME_ENG,5,TowerOverspec,3,ele_bg_overspectower,icn_corp_04_06,day_of_week,0,day_of_week,2,day_of_week,3,,,,,,,,

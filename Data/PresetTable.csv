@@ -1,2 +1,2 @@
-id,base_lobby_background,setting_title,team/0/preset_team_type,team/1/preset_team_type,team/2/preset_team_type,team/3/preset_team_type,team/4/preset_team_type,team/0/preset_shooters/0,team/1/preset_shooters/0,team/2/preset_shooters/0,team/3/preset_shooters/0,team/4/preset_shooters/0
-1,1001,1,None,None,None,None,None,0,0,0,0,0
+id,base_lobby_background,setting_title,team/0/preset_team_type,team/1/preset_team_type,team/2/preset_team_type,team/3/preset_team_type,team/4/preset_team_type,team/0/preset_shooters/0/name,team/0/preset_shooters/0/value,team/1/preset_shooters/0/name,team/1/preset_shooters/0/value,team/2/preset_shooters/0/name,team/2/preset_shooters/0/value,team/3/preset_shooters/0/name,team/3/preset_shooters/0/value,team/4/preset_shooters/0/name,team/4/preset_shooters/0/value
+1,1001,1,None,None,None,None,None,preset_shooters,0,preset_shooters,0,preset_shooters,0,preset_shooters,0,preset_shooters,0

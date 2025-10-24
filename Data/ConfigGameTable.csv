@@ -119,13 +119,13 @@ SynchroDeviceSlotUnlockAmount,500
 SynchroDeviceSlotWaitingTimeCurrencyType,99
 SynchroDeviceSlotWaitingTimeAmount,1
 SynchroDeviceMaxLv,0
-SynchroDeviceSlotWaitingTime,240
+SynchroDeviceSlotWaitingTime,0
 OutpostFastCompCurrencyTime,20
 CharacterPieceExpItemValue,10
 AcquireCharacterMaterialValue,0
 ArenaSpecialMatchRefreshCoolTimeSec,10
 CharacterLevelResetCurrencyType,99
-CharacterLevelResetAmount,10
+CharacterLevelResetAmount,0
 ArenaSpecialBoxRewardLimitTimeSec,86400
 ArenaSpecialBoxRewardLimitValue1,9999
 ArenaSpecialBoxRewardItemType,Currency
@@ -252,3 +252,4 @@ cooperation_report_match_count,3
 cooperation_report_release_normal_play_count,3
 cooperation_report_remain_time,600
 MaxMuseumRecordLoadCount,4
+TutorialNickNameFreeChangeCampaignStageId,6001001

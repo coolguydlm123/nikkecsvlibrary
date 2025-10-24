@@ -124,3 +124,13 @@ id,group_id,order,scenario_title_loacle,scenario_group_id,scenario_open_conditio
 123,5022,3,Locale_NikkeEpisode:d_nikke_vesti_03_title,d_nikke_vesti_03,d_nikke_vesti_02
 124,5022,4,Locale_NikkeEpisode:d_nikke_vesti_04_title,d_nikke_vesti_04,d_nikke_vesti_03
 125,5022,5,Locale_NikkeEpisode:d_nikke_vesti_05_title,d_nikke_vesti_05,d_nikke_vesti_04
+126,5016,1,Locale_NikkeEpisode:d_nikke_poli_01_title,d_nikke_poli_01,
+127,5016,2,Locale_NikkeEpisode:d_nikke_poli_02_title,d_nikke_poli_02,d_nikke_poli_01
+128,5016,3,Locale_NikkeEpisode:d_nikke_poli_03_title,d_nikke_poli_03,d_nikke_poli_02
+129,5016,4,Locale_NikkeEpisode:d_nikke_poli_04_title,d_nikke_poli_04,d_nikke_poli_03
+130,5016,5,Locale_NikkeEpisode:d_nikke_poli_05_title,d_nikke_poli_05,d_nikke_poli_04
+131,3003,1,Locale_NikkeEpisode:d_nikke_delta_01_title,d_nikke_delta_01,
+132,3003,2,Locale_NikkeEpisode:d_nikke_delta_02_title,d_nikke_delta_02,d_nikke_delta_01
+133,3003,3,Locale_NikkeEpisode:d_nikke_delta_03_title,d_nikke_delta_03,d_nikke_delta_02
+134,3003,4,Locale_NikkeEpisode:d_nikke_delta_04_title,d_nikke_delta_04,d_nikke_delta_03
+135,3003,5,Locale_NikkeEpisode:d_nikke_delta_05_title,d_nikke_delta_05,d_nikke_delta_04

@@ -74,6 +74,10 @@ id,group_id,prefab_id
 10073,10073,sbmini_popup_guide_ce006
 10074,10074,merge_popup_guide_btg
 10075,10075,roperunning_popup_guide_coinsinrush
+10076,10076,bhmini_popup_guide_ce007
+10077,10077,bhmini_popup_guide_ce007
+10078,10078,bhmini_popup_guide_ce007
+10079,10079,bhmini_popup_guide_ce007
 20001,20001,View - ContentGuidePopupMiniGame
 20002,20002,View - ContentGuidePopupMiniGame
 20003,20003,View - ContentGuidePopupMiniGame
@@ -87,3 +91,4 @@ id,group_id,prefab_id
 20011,20011,View - ContentGuidePopupMiniGame
 20012,20012,View - ContentGuidePopupMiniGame
 20013,20013,View - ContentGuidePopupMiniGame
+20014,20014,View - ContentGuidePopupMiniGame
