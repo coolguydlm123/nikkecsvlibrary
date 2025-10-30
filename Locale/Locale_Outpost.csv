@@ -294,6 +294,9 @@ With just a simple glance, the large Ferris wheel can impress everyone."
 While a bit shabby, it gets the job done."
 1000_construction_description,"A new building is under construction.
 We apologize for any inconvenience caused."
+1000_33603_description,"A research facility devoted to enhancing hexacodes.
+It manages both BIOS and blocks. 
+A burning passion for exploring the surface permeates this place."
 2000_100_description,Temporary data for testing. This is an Armory.
 2000_200_description,Temporary data for testing. This is a Command Center.
 2000_300_description,Temporary data for testing. This is a Radio tower.
@@ -378,3 +381,4 @@ outpost_building_name_outdoorpool,Outdoor Swimming Pool
 outpost_building_name_flowerpark,Flower Park
 outpost_building_name_event_building_01,Guest Camp
 outpost_building_name_construction,Construction Site
+outpost_building_name_hexacode,Code Research Center

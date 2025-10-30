@@ -17,4 +17,11 @@ id,voice_field_go_sound_cue,voice_field_touch_sound_cue
 10261101,voice_mute,voice_mute
 10261201,voice_mute,voice_mute
 10261301,voice_mute,voice_mute
+10271101,c5138_fieldgo_01,voice_mute
+10271201,c5138_fieldgo_02,voice_mute
+10271301,c5138_fieldgo_03,voice_mute
+10271401,c5138_fieldgo_04,voice_mute
+10271501,c5138_fieldgo_05,voice_mute
+10271601,c5138_fieldgo_06,voice_mute
+10271701,c5138_fieldgo_07,voice_mute
 1999101,c010_eventfield_spgo,

@@ -249,6 +249,22 @@ EVENT_QUEST_DESC_1000714,Mecha Shifty's Last Day in the Ark
 EVENT_QUEST_DESC_1000715,Mecha Shifty's Journey's End
 EVENT_QUEST_DESC_1000716,A Day That Feels Like a Lie
 EVENT_QUEST_DESC_1000717,-
+EVENT_QUEST_NAME_1000801,Go to the Command Center
+EVENT_QUEST_NAME_1000802,Go to the Lobby
+EVENT_QUEST_NAME_1000803,Go to the Outpost
+EVENT_QUEST_NAME_1000804,Go to the Maid Cafe
+EVENT_QUEST_NAME_1000805,Go to the Police Station
+EVENT_QUEST_NAME_1000806,Go to the Hotel
+EVENT_QUEST_NAME_1000807,Go to the Command Center
+EVENT_QUEST_NAME_1000808,"Yes, Commander"
+EVENT_QUEST_DESC_1000801,Bashful and Girly
+EVENT_QUEST_DESC_1000802,A Sinister Plan
+EVENT_QUEST_DESC_1000803,Yes-Woman Training
+EVENT_QUEST_DESC_1000804,First Lesson: The Spell That Makes Food Delicious
+EVENT_QUEST_DESC_1000805,Second Lesson: The Stolen Hamburger Incident
+EVENT_QUEST_DESC_1000806,Final Lesson(...?): The Big O's Assassin
+EVENT_QUEST_DESC_1000807,Unexpected Implementation: Yes-Woman
+EVENT_QUEST_DESC_1000808,-
 FAVORITE_QUEST_NAME_502001,Enter the Outpost
 FAVORITE_QUEST_NAME_502002,Go to the Command Center
 FAVORITE_QUEST_NAME_502003,Go to the Toy Store

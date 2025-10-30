@@ -1,0 +1,3 @@
+id,world_id,recovery_type,hp_recovery_value,time,cost/0/cost_type,cost/0/cost_id,cost/0/cost_value,cost/1/cost_type,cost/1/cost_id,cost/1/cost_value,cost/2/cost_type,cost/2/cost_id,cost/2/cost_value
+4001,4,RecoveryToSquad,10000,4320,SurfaceCurrency,104000001,2000,SurfaceCurrency,104000003,600,SurfaceCurrency,104000004,2400
+4002,4,ReturnToUnit,10000,72000,SurfaceCurrency,104000001,2000,SurfaceCurrency,104000003,600,SurfaceCurrency,104000004,2400

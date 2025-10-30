@@ -112,6 +112,9 @@ id,type,order_id,event_id,gacha_provide_count_type,use_daily_discount_one,daily_
 10051,GachaPickup,265949,70110,OneAndTen,False,0,32002,2105,False,0,0,base_gacha_type_pickup_special_c840,Limited,510201,0,5000002,0,0,EVENT_BANNER_GACHA_C840_S,5402,1,0,10,5200,1,0,10,99,300,0,3000
 10052,GachaPickup,265948,70111,OneAndTen,False,0,32002,2106,False,0,0,base_gacha_type_pickup_special_c841,Limited,510301,0,5000002,0,0,EVENT_BANNER_GACHA_C841_S,5402,1,0,10,5200,1,0,10,99,300,0,3000
 10053,GachaPickup,265947,70112,OneAndTen,False,0,22003,2107,False,0,0,base_gacha_type_pickup,None,510401,0,5000002,0,0,EVENT_BANNER_GACHA_C023_S,5200,1,0,10,99,300,0,3000,0,0,0,0
+10054,GachaPickup,265946,70113,OneAndTen,False,80008,22003,2108,False,0,0,base_gacha_type_pickup_special_c223,Special,510501,0,5000002,0,0,EVENT_BANNER_GACHA_C223_S,5200,1,0,10,99,300,0,3000,0,0,0,0
+10055,GachaPickup,265945,70114,OneAndTen,False,80009,22003,2109,False,0,0,base_gacha_type_pickup_special_c262,Special,510601,0,5000002,0,0,EVENT_BANNER_GACHA_C262_S,5200,1,0,10,99,300,0,3000,0,0,0,0
+10056,GachaSelectup,465944,70115,OneAndTen,False,80010,42002,2110,False,0,0,base_gacha_type_pickup_return_02,Special,510701,0,5000002,0,0,EVENT_BANNER_GACHA_SELECT_01_S,5502,1,0,10,5200,1,0,10,99,300,0,3000
 1001,GachaStepup,475999,70040,OneOnly,False,0,22003,1000,False,0,0,base_gacha_type_stepup,None,0,1,0,0,0,,0,0,0,0,99,100,0,0,0,0,0,0
 1002,GachaStepup,475998,70040,TenOnly,False,0,22003,1000,False,0,0,base_gacha_type_stepup,None,0,1,0,0,1001,,0,0,0,0,99,0,0,1500,0,0,0,0
 1003,GachaStepup,475997,70040,TenOnly,False,0,22003,1000,False,0,0,base_gacha_type_stepup,None,0,1,0,0,1002,,0,0,0,0,99,0,0,2000,0,0,0,0

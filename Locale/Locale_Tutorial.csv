@@ -872,6 +872,23 @@ collection_change_exp_R,"Stage 6
 0 EXP"
 collection_change_exp_SR,"Stage 2
 0 EXP"
+tuto_hexacode_element_title_01,Hexacodes
+tuto_hexacode_element_01_description,"Hello, Commander!
+This is a place where you can enhance the codes and combat power of your Nikkes."
+tuto_hexacode_element_02_description,A hexacode consists of five codes. Enhancing each code boosts the stats of all Nikkes with the same element.
+tuto_hexacode_element_03_description,"Let's dive deeper into it. First, select the Fire board."
+tuto_hexacode_board_01_description,"On each hexacode board, you can equip blocks to enhance the corresponding code. 
+This is the board for Fire. It's empty at the moment, but as you explore the surface, you'll find blocks to fill it with in no time!"
+tuto_hexacode_board_02_description,"Now, let's take a look at some blocks."
+tuto_hexacode_block_title_01,Hexacode Blocks
+tuto_hexacode_block_01_description,This is where you can view and equip blocks.
+tuto_hexacode_block_02_description,This is where all of your blocks are stored. Only blocks with the same code as the current board are displayed.
+tuto_hexacode_block_03_description,There are three types of hexacode blocks. You can use different combinations of them to fill the board.
+tuto_hexacode_block_04_description,"Hm, can't seem to find a good space for your blocks? Try rotating them! You might just find the perfect spot!"
+tuto_hexacode_block_05_description,"Once you select the block you want to use, you can place it on the board."
+tuto_hexacode_block_06_description,Blocks are found mainly on the surface. Try to explore as much as you can!
+tuto_haxacode_block_type,Block Types
+tuto_haxacode_block_rotation,Block Rotation
 tuto_campaign_quick_battle_title_01,Quick Battle
 tuto_campaign_quick_battle_description_01,"Commander, before you move, let me explain something."
 tuto_campaign_quick_battle_description_02,You can now use the Quick Battle feature on the surface.
@@ -882,3 +899,7 @@ tuto_campaign_quick_battle_description_00,"Commander, the Quick Battle tutorial 
 Let me continue!"
 campaign_quick_battle_true,Quick Battle available
 campaign_quick_battle_false,Quick Battle unavailable
+tuto_story_mode_title_01,Story Mode
+tuto_story_mode_description_01,A new mode is now available that allows you to experience the story more comfortably.
+tuto_story_mode_description_02,"Compared to Normal Mode, the Raptures in Story Mode are weaker and fewer in number, making it easier to progress."
+tuto_story_mode_description_03,"However, please note that locked content can only be unlocked by clearing Normal Mode."

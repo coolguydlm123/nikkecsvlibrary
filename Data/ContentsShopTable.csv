@@ -83,3 +83,4 @@ id,shop_type,shop_category,shop_npc_resource_id,price_color_normal,currency_info
 9008801,EventShop,ShopStoryEvent,0,FFFFFF,True,None,Locale_System:SHOP_EVENT_STORY_88_SHOP_TAB,Locale_System:SHOP_NAME_EVENT_STORY,NoRenew,0,0,False,6001001,90088,0,ele_logo_normal,EVENT_BANNER_COINSINRUSH,True,2062
 9009001,EventShop,ShopStoryEvent,0,FFFFFF,True,None,Locale_System:SHOP_EVENT_STORY_90_SHOP_TAB,Locale_System:SHOP_NAME_EVENT_STORY,NoRenew,0,0,False,6001001,90090,0,ele_logo_normal,EVENT_BANNER_CE007,True,2063
 9009201,EventShop,ShopStoryEvent,0,FFFFFF,True,None,Locale_System:SHOP_EVENT_STORY_92_SHOP_TAB,Locale_System:SHOP_NAME_EVENT_STORY,NoRenew,0,0,False,6001001,90092,0,ele_logo_normal,EVENT_BANNER_GONINJATHIEF,True,2064
+9009301,EventShop,ShopStoryEvent,0,FFFFFF,True,None,Locale_System:SHOP_EVENT_STORY_93_SHOP_TAB,Locale_System:SHOP_NAME_EVENT_STORY,NoRenew,0,0,False,6001001,90093,0,ele_logo_normal,EVENT_BANNER_GODDESSFALL,True,2065

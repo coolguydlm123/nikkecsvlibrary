@@ -105,6 +105,7 @@ id,use_condition_type,use_condition_value,name_localkey,description_localkey,res
 9303002,None,0,Locale_Item:bundle_box_2024_new_year,Locale_Item:bundle_box_2024_new_year_desc,icn_consume_bundlebox_2024_new_year,Consume,BundleBox,SSR,BundleBox,3002,None,1,1,False,0,9999999
 9303003,None,0,Locale_Item:bundle_box_event_2nd_anniversary_present,Locale_Item:bundle_box_event_2nd_anniversary_present_desc,icn_consume_bundlebox_event_2nd_anniversary_present,Consume,BundleBox,SSR,BundleBox,3003,None,1,1,False,0,9999999
 9303004,None,0,Locale_Item:bundle_box_2025_new_year,Locale_Item:bundle_box_2025_new_year_desc,icn_consume_bundlebox_2025_new_year,Consume,BundleBox,SSR,BundleBox,3004,None,1,1,False,0,9999999
+9303005,None,0,Locale_Item:bundle_box_event_3rd_anniversary_present,Locale_Item:bundle_box_event_3rd_anniversary_present_desc,icn_consume_bundlebox_event_3rd_anniversary_present,Consume,BundleBox,SSR,BundleBox,3005,None,1,1,False,0,9999999
 9304001,None,0,Locale_Item:bundle_box_coop_ranking_equipment_exp,Locale_Item:bundle_box_coop_ranking_equipment_exp_desc,icn_consume_bundlebox_coop_ranking_equipment_exp,Consume,BundleBox,SSR,BundleBox,4001,None,1,1,False,0,9999999
 9401001,None,0,Locale_Item:random_box_r_item,Locale_Item:random_box_r_item_desc,icn_consume_randombox_item_r,Consume,ItemRandomBoxList,R,ItemRandomBox,9410102,None,1,1,False,0,9999999
 9401002,None,0,Locale_Item:random_box_sr_item,Locale_Item:random_box_sr_item_desc,icn_consume_randombox_item_sr,Consume,ItemRandomBoxList,SR,ItemRandomBox,9410202,None,1,1,False,0,9999999
@@ -260,6 +261,9 @@ id,use_condition_type,use_condition_value,name_localkey,description_localkey,res
 9440108,None,0,Locale_Item:randombox_favoriteitem_material_05,Locale_Item:randombox_favoriteitem_material_05_desc,icn_consume_randombox_favoriteitem_material_03,Consume,ItemRandomBoxList,SSR,ItemRandomBox,9440108,None,1,1,False,0,9999999
 9440109,None,0,Locale_Item:randombox_favoriteitem_material_06,Locale_Item:randombox_favoriteitem_material_06_desc,icn_consume_randombox_favoriteitem_material_03,Consume,ItemRandomBoxList,SSR,ItemRandomBox,9440109,None,1,1,False,0,9999999
 9440110,None,0,Locale_Item:randombox_favoriteitem_material_07,Locale_Item:randombox_favoriteitem_material_07_desc,icn_consume_randombox_favoriteitem_material_03,Consume,ItemRandomBoxList,SSR,ItemRandomBox,9440110,None,1,1,False,0,9999999
+9450011,None,0,Locale_Item:randombox_hexa_block_t1,Locale_Item:randombox_hexa_block_t1_desc,icn_consume_randombox_hexa_block_t1,Consume,ItemRandomBoxList,R,ItemRandomBox,9450011,None,1,1,True,10,9999999
+9450012,None,0,Locale_Item:randombox_hexa_block_t2,Locale_Item:randombox_hexa_block_t2_desc,icn_consume_randombox_hexa_block_t2,Consume,ItemRandomBoxList,R,ItemRandomBox,9450012,None,1,1,True,10,9999999
+9450013,None,0,Locale_Item:randombox_hexa_block_t3,Locale_Item:randombox_hexa_block_t3_desc,icn_consume_randombox_hexa_block_t3,Consume,ItemRandomBoxList,R,ItemRandomBox,9450013,None,1,1,True,10,9999999
 9490001,None,0,Locale_Item:randombox_wipeout_item_01_name,Locale_Item:randombox_wipeout_item_desc,icn_consume_selectbox,Consume,ItemRandomBoxList,R,ItemRandomBox,110001,None,1,1,False,0,9999999
 9490002,None,0,Locale_Item:randombox_wipeout_item_02_name,Locale_Item:randombox_wipeout_item_desc,icn_consume_selectbox,Consume,ItemRandomBoxList,SR,ItemRandomBox,110002,None,1,1,False,0,9999999
 9490003,None,0,Locale_Item:randombox_wipeout_equipment_01_name,Locale_Item:randombox_wipeout_equipment_desc,icn_consume_randombox_equipment_r,Consume,ItemRandomBoxList,R,ItemRandomBox,101100,None,1,1,False,0,9999999
@@ -307,6 +311,7 @@ id,use_condition_type,use_condition_value,name_localkey,description_localkey,res
 9602001,None,0,Locale_Item:selectbox_ssr_free_nikke_1.5,Locale_Item:selectbox_ssr_free_nikke_1.5_desc,icn_consume_selectbox_ssr_free_nikke_1.5,Consume,Box,SSR,SelectBoxRowCharacter,2,None,0,1,True,1,9999999
 9602002,None,0,Locale_Item:selectbox_ssr_free_nikke_2,Locale_Item:selectbox_ssr_free_nikke_2_desc,icn_consume_selectbox_ssr_free_nikke_2,Consume,Box,SSR,SelectBoxRowCharacter,3,None,0,1,True,1,9999999
 9602003,None,0,Locale_Item:selectbox_ssr_free_nikke_2.5,Locale_Item:selectbox_ssr_free_nikke_2.5_desc,icn_consume_selectbox_ssr_free_nikke_2.5,Consume,Box,SSR,SelectBoxRowCharacter,4,None,0,1,True,1,9999999
+9602004,None,0,Locale_Item:selectbox_ssr_free_nikke_3,Locale_Item:selectbox_ssr_free_nikke_3_desc,icn_consume_selectbox_ssr_free_nikke_3,Consume,Box,SSR,SelectBoxRowCharacter,5,None,0,1,True,1,9999999
 9603001,None,0,Locale_Item:select_box_piece_ssr_favorite_s01,Locale_Item:select_box_piece_ssr_favorite_s01_desc,icn_consume_selectbox_nikke,Consume,Box,SSR,SelectBoxRowCharacter,3001,None,0,1,True,1,9999999
 9603002,None,0,Locale_Item:select_box_piece_ssr_favorite_s02,Locale_Item:select_box_piece_ssr_favorite_s02_desc,icn_consume_selectbox_nikke,Consume,Box,SSR,SelectBoxRowCharacter,3002,None,0,1,True,1,9999999
 9603003,None,0,Locale_Item:select_box_piece_ssr_favorite_s01_02,Locale_Item:select_box_piece_ssr_favorite_s01_02_desc,icn_consume_selectbox_nikke,Consume,Box,SSR,SelectBoxRowCharacter,3003,None,0,1,True,1,9999999

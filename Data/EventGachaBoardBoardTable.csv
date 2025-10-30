@@ -5,3 +5,9 @@ id,group,horizontal_slot_value,vertical_slot_value,number,is_repeat,slot_reward_
 4,1,5,5,4,False,1,3020115
 5,1,5,5,5,False,1,3020116
 6,1,5,5,6,True,1,3020117
+10201,2,5,5,1,False,2,3020212
+10202,2,5,5,2,False,2,3020213
+10203,2,5,5,3,False,2,3020214
+10204,2,5,5,4,False,2,3020215
+10205,2,5,5,5,False,2,3020216
+10206,2,5,5,6,True,1,3020217

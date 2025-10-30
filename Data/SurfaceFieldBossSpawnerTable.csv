@@ -1,0 +1,5 @@
+id,contents_type,boss_monster_id,monster_lv,interaction_range,interaction_marker_resource,is_use_wave_battle,wave_difficulty
+240201,Suppress,-1539661759,0,1,sprite_btn_floating_interaction_surface_wavetrigger,False,None
+240301,Suppress,-1519650859,0,1,sprite_btn_floating_interaction_surface_wavetrigger,False,None
+240401,Suppress,-1529639459,0,1,sprite_btn_floating_interaction_surface_wavetrigger,False,None
+950201,Suppress,-1519649859,0,1,sprite_btn_floating_interaction_surface_wavetrigger,False,None

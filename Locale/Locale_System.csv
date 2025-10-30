@@ -1,5 +1,5 @@
 Key,Value
-PREPARING,Preparing
+PREPARING,Preparing...
 TOUCH_ANYWHEARE,Tap to continue.
 TOUCH_TO_NEXT,Tap to continue.
 TOUCH_TO_NEXTCONTENTS,Tap to go to the following area.
@@ -101,6 +101,7 @@ DAILY_REWARD,Daily Reward
 SEASON_REWARD,Season Reward
 FIXED_PARTY,Preset Squad
 QUICK_BATTLE,Quick Battle
+QUICK_BATTLE_WEEKLY,Weekly Quick Battle
 QUICK_BATTLE_DENIED_DESC,Not enough Power to launch Quick Battle.
 QUICK_BATTLE_DENIED_DESC_2,Clear the stage at least once to activate Quick Battle.
 QUICK_BATTLE_DENIED_DESC_3,Unable to launch Quick Battle in cleared or locked stages.
@@ -118,6 +119,7 @@ NONE,None
 GUIDE,Guide
 START,Campaign
 START_EN,Campaign
+MAIN_CHAPTER,Main Chapter
 notice,Notice
 confirm,Confirm
 cancel,Cancel
@@ -344,6 +346,8 @@ BACKGROUND_FILL,Fill Background
 RAPTURE_PARTS_RANKING,Rusted Bone
 RAPTURE_PARTS_RANKING_DESC,"A scrap metal that's shaped like a bone for some reason. Although it looks useless, Volt is very fond of it.
 Can be used in the Recycling Shop."
+HEXACODE_CURRENCY,Hexabridge
+HEXACODE_CURRENCY_DESC,"A catalyst used in numerous hexacode-related tasks. Its sparkling hexagonal particles are so mesmerizing, you might lose track of time watching them."
 COMPANY_MISSILIS,Missilis
 COMPANY_MISSILIS_EN,Missilis
 COMPANY_MISSILIS_FULL,Missilis Industry
@@ -428,8 +432,10 @@ MONSTER_GRADE_LORD_EN,Lord
 MONSTER_GRADE_LORD,Lord
 MONSTER_GRADE_TYRANT_EN,Tyrant
 MONSTER_GRADE_TYRANT,Tyrant
-MONSTER_GRADE_HERETIC_EN,HERETIC
+MONSTER_GRADE_HERETIC_EN,Heretic
 MONSTER_GRADE_HERETIC,Heretic
+MONSTER_GRADE_QUEEN_EN,Queen
+MONSTER_GRADE_QUEEN,Queen
 MONSTER_NAME_UNKNOWN,?????
 MONSTER_CODE_UNKNOWN,"Code: ???
 Grade: ???"
@@ -541,6 +547,10 @@ FILTER_LOOK_UNAQUIRED,Display Unobtained
 FILTER_IS_GET,Ownership
 FILTER_GET,Owned
 FILTER_NOT_GET,Not Owned
+FILTER_HEXACODE_BLOCK_FUNCTION,Function Filter
+FLITER_HEXACODE_BLOCK_FUNCTION_CATEGORY_A,Function A
+FLITER_HEXACODE_BLOCK_FUNCTION_CATEGORY_B,Function B
+FLITER_HEXACODE_BLOCK_FUNCTION_CATEGORY_C,Function C
 SORTING_FUNCTION,Sort
 SORTING_DESC,Please select a category to sort by.
 SORTING_COMBAT_POWER,Power
@@ -593,6 +603,7 @@ STOCK_COUNT,Owned
 STOCK,Owned
 ITEM_COLLECTIONITEM_LEVELUP,Collection Item Maintenance
 ITEM_FAVORITEITEM_LEVELUP,Favorite Item Maintenance
+ITEM_HEXACODE,Hexacode
 ITEM_CONSUME_BUNDLE_BOX,Bundle Box
 BUNDLE_BOX_ITEM_INFO_DESC,◆ Obtain all the following.
 SELECT_BOX_ITEM_INFO_UI_DESC,◆ Get the corresponding number of selected items.
@@ -871,12 +882,17 @@ SUMMON_SCROLL_CHARACTER_CE007_DESC,"A special voucher that can only be used duri
 * Unused Recruit Vouchers will be deleted after the event ends."
 SUMMON_SELECTUP_BUTTON,Select Recruit
 SUMMON_SELECTUP_DESC,Recruit a limited Nikke of your choice!
+SUMMON_PILGRIM_SELECTUP_DESC,Recruit the Pilgrim of your choice!
 SUMMON_SELECTUP_POPUP_DESC,Recruits List
 SUMMON_SELECTUP_MAX_GRADE,"The selected Nikke has either reached the maximum Limit Break or you own the maximum number of Spare Bodies.
 Body Labels will be obtained instead.
 Recruit anyway?"
 SUMMON_SCROLL_SELECT_01,Selective Recruitment Voucher
 SUMMON_SCROLL_SELECT_01_DESC,"A Recruit Voucher that can only be used during the Selective Recruitment in September 2025.
+(Cannot be used for other recruitments.)
+
+* Unused Recruit Vouchers will be deleted after the Selective Recruitment ends."
+SUMMON_SCROLL_SELECT_02_DESC,"A special voucher that can only be used in the 3rd Anniversary Selective Recruitment.
 (Cannot be used for other recruitments.)
 
 * Unused Recruit Vouchers will be deleted after the Selective Recruitment ends."
@@ -924,6 +940,8 @@ STAGE_DIFFICULTY_HARD,Hard
 STAGE_DIFFICULTY_HARD_EN,Hard
 STAGE_DIFFICULTY_EXTREME,Extreme
 STAGE_DIFFICULTY_EXTREME_EN,Extreme
+STAGE_DIFFICULTY_STORY,Story
+STAGE_DIFFICULTY_STORY_EN,Story
 STAGE_COMPLETE,Mission Complete
 STAGE_COMPLETE_EN,Mission Complete
 STAGE_DEFEAT,Mission Failed
@@ -1310,6 +1328,15 @@ CHARACTER_FACE_ANIMATION_LIST_RAGE_01_ARM,Enraged (Armed)
 CHARACTER_FACE_ANIMATION_LIST_SMILE_01_ARM,Smiling (Armed)
 CHARACTER_FACE_ANIMATION_LIST_VOID_01_ARM,Empty (Armed)
 CHARACTER_FACE_ANIMATION_LIST_SLEEP_01_EYEPATCH,Asleep (Eye Patch)
+CHARACTER_FACE_ANIMATION_LIST_SLEEP_01_MASK,Asleep (Mask)
+CHARACTER_FACE_ANIMATION_LIST_ANGRY_01_EYE,Angry (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_DELIGHT_01_EYE,Joyful (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_IDLE_01_EYE,Default (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_RAGE_01_EYE,Enraged (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_SAD_01_EYE,Sad (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_SURPRISE_01_EYE,Surprised (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_WORRY_01_EYE,Worried (Eyes Open)
+CHARACTER_FACE_ANIMATION_LIST_SMILE_01_EYE,Smiling (Eyes Open)
 CUBE_MANAGEMENT,Cube Management
 CUBE_MANAGEMENT_UI_DESC_1,You can equip or replace Harmony Cubes.
 CUBE_MANAGEMENT_UI_DESC_2,You can equip or replace Harmony Cubes.
@@ -1433,7 +1460,7 @@ COSTUME_BASIC_COSTUME_CATEGORY,Default Clothes
 COSTUME_BASIC_COSTUME_DESC,"Default Nikke outfit.
 Obtained upon recruitment."
 COSTUME_IS_WEARING,This costume has been equipped.
-COSTUME_CHANGED,Costume changed
+COSTUME_CHANGED,Costume changed.
 COSTUME_IS_ABLE_TO_WEAR,Tap on the current Costume to change.
 COSTUME_IS_NOT_GAINED,Unable to obtain Costume.
 COSTUME_NOT_ENOUGH_COSTUME,Not enough Costumes. Unable to upgrade.
@@ -1781,6 +1808,8 @@ SHOP_EVENT_STORY_84_SHOP_TAB,Utopia Market
 SHOP_EVENT_STORY_86_SHOP_TAB,ELYSION P.X.
 SHOP_EVENT_STORY_88_SHOP_TAB,AGENT SUPPLIES
 SHOP_EVENT_STORY_90_SHOP_TAB,ITEM BOX
+SHOP_EVENT_STORY_92_SHOP_TAB,Inside Ninja's Ceiling
+SHOP_EVENT_STORY_93_SHOP_TAB,Eden Store
 SHOP_NEXT_ITEM_ENTRY_LEFT_TIME,Restock Time
 SHOP_ITEM_PRICE,Price
 SHOP_NAME_NORMAL,You can purchase items you need at any time.
@@ -2332,6 +2361,8 @@ GUILD_RAID_RANK_DESC_05,"A Rapture whose true form is a building.
 Our enemies are everywhere. It's imperative we remain vigilant."
 INTERCEPT_BATTLE_GIVE_UP_WARNING_DESC,Giving up now will cause you to lose an attempt. Give up anyway?
 INTERCEPT_QUICK_BATTLE_ERROR_TODAY_PLAY_DATA_NULL,Quick Battle is available after playing once every day.
+INTERCEPT_REWARD_STEP_INFO,Stage Reached
+INTERCEPT_QUICK_BATTLE_DESC,Quick Battle is available after the first time you play each week.
 GUILD_RAID_BASIC_NAME_01,Level D
 GUILD_RAID_BASIC_NAME_02,Level S
 GUILD_RAID_ENG,Intercept
@@ -2422,7 +2453,7 @@ INTERCEPT_SPECIAL_2_STAGE_DESC,"A monster who rules the underground world.
 The momentum of its giant drill must be stopped."
 INTERCEPT_SPECIAL_3_STAGE_DESC,"A special individual who captures and remolds Nikkes into Rapture parts.
 It's time to avenge the countless Nikkes who have fallen prey."
-INTERCEPT_SPECIAL_4_STAGE_DESC,"It thinks like a human and talk like a human.
+INTERCEPT_SPECIAL_4_STAGE_DESC,"It thinks like a human and talks like a human.
 Its existence itself is a riddle wrapped within a mystery, as next to nothing is known about it."
 INTERCEPT_SPECIAL_5_STAGE_DESC,"A Nikke that has been modified by Raptures and made stronger than either.
 It's capable of ending someone's life in an instant."
@@ -2647,7 +2678,7 @@ mbg001_psid_name,Alteisen
 mcg001_re_name,Rebuild Spook
 bbg006_zeus_name,Ultra
 mca003_re_name,Rebuild Fingers
-mcg007_name,Red Shoes
+mcg007_name,Replica Red Shoes
 ecg007_name,RunWay
 ecg004_re_name,Rebuild Armstrong
 eca001_re_name,Rebuild Obelisk
@@ -4177,6 +4208,9 @@ POPUP_SHOPTRADE_CONTENTS_OPEN_DESC,Exchange Shop Unlocked
 POPUP_ARCADE_CONTENTS_OPEN_DESC,Arcade Unlocked
 POPUP_SIMULATIONROOMSIMPLE_CONTENTS_OPEN_DESC,Quick Simulation Unlocked
 POPUP_SOLORAIDMUSEUM_CONTENTS_OPEN_DESC,Solo Raid Museum Unlocked
+POPUP_SIMULATIONROOMSIMPLEREWARDONLY_CONTENTS_OPEN_DESC,Auto Clear for Quick Simulation Unlocked
+POPUP_HEXACODE_CONTENTS_OPEN_DESC,Hexacodes Unlocked
+POPUP_SURFACE_CONTENTS_OPEN_DESC,Surface Unlocked
 TOAST_AUTOEQUIP,Gear equipped.
 TOAST_AUTOEQUIP_FAIL,No gear to equip or replace.
 TOAST_AUTOLIFT,All gear unequipped.
@@ -4340,11 +4374,14 @@ SYSTEM_VIEW_6067,Anomaly Interception
 SYSTEM_VIEW_130001,Dragon Dungeon Run
 SYSTEM_VIEW_150001,New Year Bonus
 SYSTEM_VIEW_140003,Pirate Cafe
+SYSTEM_VIEW_14001,Surface
+SYSTEM_VIEW_14030,Surface
 SYSTEM_VIEW_180001,BFG CLEAN UP!
 SYSTEM_VIEW_21101,Solo Raid Museum
 SYSTEM_VIEW_21102,Solo Raid Museum
 SYSTEM_VIEW_190001,MADE IN RUSH
 SYSTEM_VIEW_210008,SALVATION BREAKERS
+SYSTEM_VIEW_25000,Hexacodes
 SARENA_RANK_CHALLENGER_NAME,Challenger
 SARENA_RANK_DIA_NAME,Diamond
 SARENA_RANK_PLATINUM_NAME,Platinum
@@ -4779,6 +4816,11 @@ SETTING_BATTLE_SKILL_CUT_SCENE_ONCE,Once
 SETTING_BATTLE_SKILL_CUT_SCENE_ONCE_SKIP,Skip to Show Simple
 SETTING_BATTLE_SKILL_CUT_SCENE_SIMPLE,Simple
 SETTING_BATTLE_SKILL_CUT_SCENE_OFF,Off
+SETTING_BATTLE_SKILL_CUT_SCENE_SIMPLE_SETTINGS_TITLE,Simple Cutscene Mode
+SETTING_BATTLE_SKILL_CUT_SCENE_SIMPLE_SETTINGS_STANDING,Standing
+SETTING_BATTLE_SKILL_CUT_SCENE_SIMPLE_SETTINGS_BATTLE,Combat
+SETTING_BATTLE_SKILL_CUT_SCENE_SIMPLE_SETTINGS_DESC,Sets the animation to be played in the simple skill cutscene. Cannot be changed during battle.
+SETTING_BATTLE_CAN_NOT_CHANGE,Cannot be changed during battle.
 SETTING_BATTLE_AUTO_FOCUS,Change Nikkes automatically during Auto Combat
 SETTING_BATTLE_AUTO_FOCUS_ALL,Always
 SETTING_BATTLE_AUTO_FOCUS_USE_SKILL,During Skills
@@ -5576,6 +5618,12 @@ HELP_GACHA_SELECTUP_04,Change Recruit
 HELP_GACHA_SELECTUP_05,You can freely change the selected Nikke in the recruits list with no limit on the number of changes.
 HELP_GACHA_SELECTUP_06,Mileage Tickets
 HELP_GACHA_SELECTUP_07,Get a Gold Mileage Ticket every time you conduct a Selective Recruitment.
+HELP_GACHA_SELECTUP_03_01,"If the recruits list consists of limited-time Nikkes, any unselected ones will not appear."
+HELP_GACHA_SELECTUP_04_01,"If the recruits list consists of ordinary Nikkes, unselected ones may still appear according to the probability rates for their rarity and manufacturer."
+HELP_GACHA_SELECTUP_05_01,Change Recruit
+HELP_GACHA_SELECTUP_06_01,You can freely change the selected Nikke in the recruits list with no limit on the number of changes.
+HELP_GACHA_SELECTUP_07_01,Mileage Tickets
+HELP_GACHA_SELECTUP_08,Get a Gold Mileage Ticket every time you conduct a Selective Recruitment.
 HELP_ALBUM_01,Recollection
 HELP_ALBUM_01_01,The place to replay plot-related cutscenes that have already happened in the game.
 HELP_ALBUM_02,Recollection Rules
@@ -6840,6 +6888,8 @@ ITEM_EXCHANGE_10084_MAIL_DESC,Each Premium Tea Bag has been exchanged for 200 Cr
 ITEM_EXCHANGE_10086_MAIL_DESC,Each Elysion Meal Ticket has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10088_MAIL_DESC,Each Intel List has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10090_MAIL_DESC,Each Mixed Herb has been exchanged for 200 Credits.
+ITEM_EXCHANGE_10092_MAIL_DESC,Each Ninja Thief's Shuriken has been exchanged for 200 Credits.
+ITEM_EXCHANGE_10093_MAIL_DESC,Each Eden Point has been exchanged for 200 Credits.
 ITEM_EXCHANGE_11001_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11001_MAIL_DESC,Each Bunny Costume Ticket has been exchanged for 120 free Gems.
 ITEM_EXCHANGE_11002_MAIL_TITLE,Costume Ticket Exchange
@@ -6886,6 +6936,10 @@ ITEM_EXCHANGE_11025_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11025_MAIL_DESC,Each Lucky Headband has been exchanged for 120 free Gems.
 ITEM_EXCHANGE_11026_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11026_MAIL_DESC,Each A.C.P.U. ID Card has been exchanged for 120 Free Gems.
+ITEM_EXCHANGE_11027_MAIL_TITLE,Costume Ticket Exchange
+ITEM_EXCHANGE_11027_MAIL_DESC,Each Old Key has been exchanged for 120 Free Gems.
+ITEM_EXCHANGE_11028_MAIL_TITLE,Costume Ticket Exchange
+ITEM_EXCHANGE_11028_MAIL_DESC,Each Golden Lotus has been exchanged for 120 Free Gems.
 ITEM_EXCHANGE_EVENT_CURRENCY_MAIL_TITLE,Event Shop Currency Exchange
 AUTO_CHARGE_ITEM_CHARGE_REMAIN_TIME,Replenish in
 AUTO_CHARGE_ITEM_CHARGE_COUNT,Replenishment Amount
@@ -7616,6 +7670,8 @@ INAPP_SHOP_SUB_CATEGORY_PERFECTIONIST_FUNCTION,Perfectionist
 INAPP_SHOP_SUB_CATEGORY_PUREMONSTER_FUNCTION,Pure Monster
 INAPP_SHOP_SUB_CATEGORY_COINSINRUSH_FUNCTION,COINS IN RUSH
 INAPP_SHOP_SUB_CATEGORY_CE007_FUNCTION,REBORN EVIL
+INAPP_SHOP_SUB_CATEGORY_GONINJATHIEF_FUNCTION,GO! NINJA THIEF!
+INAPP_SHOP_SUB_CATEGORY_GODDESSFALL_FUNCTION,GODDESS FALL
 INAPP_SHOP_STEPUP_CANNOT_BUY,You need to buy the package for the previous Step.
 CASH_SHOP_CUSTOM_PACKAGE_EDIT_TITLE,Edit Custom Package
 CASH_SHOP_CUSTOM_PACKAGE_EDIT_DESC,"Please select the items you want.
@@ -7967,6 +8023,10 @@ Surrounded by energy shields, it soars through the air at high speeds while atta
 bbg009_bh_psid_name,The Merciless Judge
 bbg009_bh_psid_description,"An entity created by Torch of Salvation to judge mankind's sins.
 Shrouded in a thick defensive barrier, it seeks to enforce its verdict on humanity."
+xba002_dmtr_name,Queen 001
+xba002_dmtr_description,"An entity that has long been circling in orbit, waiting.
+The Rapture Queen—the root cause of it all.
+She wields power and abilities befitting her name."
 QUICK_BATTLE_POPUP_DESC,"Conduct Quick Battles for a specified number of times.
 Receive rewards based on the number of battles conducted."
 QUICK_BATTLE_POPUP_EXPECTED_REWARD,Obtainable rewards per battle
@@ -8304,6 +8364,7 @@ RECORD_EVENT_TITLE_36,BEAUTY FULL SHOT
 RECORD_EVENT_TITLE_37,JINX PLAYER
 RECORD_EVENT_TITLE_38,GOLDEN COIN RUSH
 RECORD_EVENT_TITLE_39,UNBREAKABLE SPHERE
+RECORD_EVENT_TITLE_40,Phantom Thief vs Detective
 RECORD_COLLABO_TITLE_1,YOU CAN (NOT) EVADE
 RECORD_REWARD_INFO_1,NO CALLER ID NORMAL
 RECORD_REWARD_INFO_2,NO CALLER ID HARD
@@ -8956,6 +9017,116 @@ FAVORITEITEM_FAVORITE_ITEM_INFO_TITLE,Item Maintenance
 FAVORITEITEM_FAVORITE_ITEM_INFO_DESC,This is a Favorite Item exclusive for {0}.
 FAVORITEITEM_FAVORITE_FILTER_TITLE,Claimable
 FAVORITEITEM_FAVORITE_FILTER_BUTTON_1,Favorite Item
+HEXACODE_SYSTEM_TITLE,Hexacodes
+HEXACODE_EQUIPMENT_INFO,Hexacode Info
+HEXACODE_EQUIPMENT_OPTION,Hexacode Effects
+HEXACODE_EQUIP_BUTTON,Equip
+HEXACODE_SHIFT_BUTTON,Switch
+HEXACODE_CHANGE_BUTTON,Change
+HEXACODE_BOARD_SLOT_OPEN_BUTTON,Unlock Slots
+HEXACODE_AUTO_EQUIP_BUTTON,Auto Equip
+HEXACODE_SAVE_DATA_BUTTON,Save
+HEXACODE_ALL_CLEAR_BUTTON,Unequip All
+HEXACODE_BLOCK_OPTION_TITLE,Block Effects
+HEXACODE_BLOCK_STATUS_TITLE,Block Attributes
+HEXACODE_BIOS_OPTION_TITLE,BIOS Effects
+HEXACODE_BIOS_SHORT_NAME,BIOS
+HEXACODE_BLOCK_SHORT_NAME,Block
+HEXACODE_OPTION_NAME,Effect
+HEXACODE_OPTION_GRADE,Grade {0}
+HEXACODE_FILTER_MAIN_OPTION,First Function
+HEXACODE_FILTER_SUB1_OPTION,Second Function
+HEXACODE_FILTER_SUB2_OPTION,Third Function
+HEXACODE_FILTER_FUNCTION,Function
+HEXACODE_FILTER_BLOCK,Block Type
+HEXACODE_SELECT_ELEMENT_DESC,"Equip a hexacode and upgrade its elemental codes.
+This will increase the attributes for Nikkes of each code."
+HEXACODE_SELECT_ELEMENT_DESC_BETA,"Equip a hexacode and upgrade its elemental codes.
+<color=#FF0000>During the beta period, attributes enhanced by hexacodes will be converted to combat power and applied only to surface-related content.</color>"
+HEXACODE_LOBBY_DESC,BIOS effects will activate based on the blocks equipped.
+HEXACODE_BIOS_EQUIP_PLEASE_DESC,Please equip a BIOS.
+HEXACODE_BIOS_EQUIP_TITLE,Equip BIOS
+HEXACODE_BIOS_EQUIP_DESC,Please select the BIOS you wish to equip.
+HEXACODE_BIOS_EQUIP_MAX_DESC,Values applied at max level
+HEXACODE_BIOS_EQUIP_MAX_STEP_POINT_DESC,Level {0} maximum points: {1}
+HEXACODE_BIOS_EQUIP_NONE_BIOS_DESC,There are no BIOSes to equip.
+HEXACODE_BIOS_EQUIP_NONE_BIOS_NOT_EQUIP_DESC,Unable to equip. You have no BIOSes.
+HEXACODE_BIOS_EQUIP_COMPLETE_DESC,BIOS equipped.
+HEXACODE_BIOS_SHIFT_TITLE,Switch BIOS
+HEXACODE_BIOS_SHIFT_DESC,Please select the BIOS you wish to switch.
+HEXACODE_BIOS_SHIFT_UESD_DESC,This BIOS is currently equipped.
+HEXACODE_BIOS_SHIFT_COMPLETE_DESC,BIOS switched.
+HEXACODE_BIOS_OPTION_LIST_DESC,BIOS effects will be activated once enough points have been accumulated.
+HEXACODE_BIOS_OPTION_LIST_ACCUMULATED_POINT,Points accumulated: {0}
+HEXACODE_BIOS_OPTION_LIST_STEP,Level {0}
+HEXACODE_BLOCK_EQUIP_NONE_BLOCK_DESC,There are no blocks to equip.
+HEXACODE_BLOCK_EQUIP_DESC,Select and drag a block to equip it.
+HEXACODE_BLOCK_SELECT_DESC,The selected block will be equipped onto the board.
+HEXACODE_BLOCK_CHANGE_BLOCK_DESC,You can replace a block and equip it on the board.
+HEXACODE_BLOCK_CHANGE_DISABLE,There are no blocks to replace.
+HEXACODE_BLOCK_CHANGE_INFO,The block has been replaced.
+HEXACODE_BLOCK_CHANGE_ALL_UNEQUIP_INFO,"The block has been replaced.
+The previous block has been removed."
+HEXACODE_BLOCK_EQUIP_ROTATION_CLEAR_DESC,"Blocks can be rotated, moved, or unequipped."
+HEXACODE_BLOCK_EQUIP_IMPOSSIBLE_DESC,Blocks cannot be equipped outside the board. Please select a valid location.
+HEXACODE_BLOCK_EQUIP_ALL_BLOCK_EQUIP_DESC,All blocks have been equipped.
+HEXACODE_BLOCK_EQUIP_AUTO_DESC,"Any currently equipped blocks may be changed when auto-equipping.
+Are you sure you want to proceed?"
+HEXACODE_BLOCK_EQUIP_SAVE_DATA_PLEASE_DESC,"Blocks equipped.
+Please press the Save button."
+HEXACODE_BLOCK_EQUIP_AUTO_NONE_CHANGE_DESC,No blocks have been changed.
+HEXACODE_BLOCK_EQUIP_SHIFT_BLOCK_DESC,"The current block will be switched out.
+Are you sure you want to proceed?
+Press the Save button to save changes."
+HEXACODE_BLOCK_EQUIP_NOT_SHIFT_DESC,Unable to equip when two or more blocks are overlapping.
+HEXACODE_BLOCK_EQUIP_CLEAR_DESC,Drag a block here to unequip it.
+HEXACODE_BLOCK_EQUIP_CLEAR_NONE_BLOCK_DESC,There are no blocks to unequip.
+HEXACODE_BLOCK_EQUIP_CLEAR_POPUP_DESC,Unequip all blocks?
+HEXACODE_BLOCK_EQUIP_CLEAR_COMPLETE_DESC,All blocks have been unequipped.
+HEXACODE_BLOCK_EQUIP_SAVE_DATA_NONE_CHANGE_DESC,No changes have been made.
+HEXACODE_BLOCK_EQUIP_SAVE_DATA_COMPLETE_DESC,Saved
+HEXACODE_BLOCK_EQUIP_NOT_SAVE_DATA_DESC,Changes have not been saved. Would you like to save now?
+HEXACODE_BLOCK_CHANGE_SAVE_TITLE,Block Change Info
+HEXACODE_BLOCK_CHANGE_SAVE_DESC,Do you want to save the changes?
+HEXACODE_BLOCK_NO_CHANGE_DESC,Block info was not changed.
+HEXACODE_BLOCK_CHANGE_RESET_INFO,Data has been reset to the most recent save.
+HEXACODE_BLOCK_CHANGED_CANCEL_INFO,The block was not replaced.
+HEXACODE_BLOCK_MOVE_CANCEL_INFO,The block has not been moved.
+HEXACODE_BOARD_SLOT_OPEN_DESC,You can equip more blocks as you unlock slots on the board.
+HEXACODE_BOARD_SLOT_OPEN_ALL_ELEMENT_DESC,"The following number of slots can be unlocked.
+Unlocked slots apply to all elements."
+HEXACODE_BOARD_SLOT_OPEN_END_DESC,Press the Back button to exit.
+HEXACODE_BOARD_SLOT_COUNT_TITLE,Slots
+HEXACODE_BOARD_SLOT_COST_TITLE,Cost
+HEXACODE_BOARD_SLOT_OPEN_POPUP_DESC,"Unlock the indicated number of slots?
+Unlocked slots apply to all elements."
+HEXACODE_BOARD_SLOT_OPEN_COMPLETE_DESC,Slots unlocked.
+HEXACODE_BOARD_SLOT_OPEN_FAIL_COST_DESC,Unable to unlock. Not enough funds.
+HEXACODE_BOARD_SLOT_OPEN_MAX_DESC,All slots have been unlocked.
+HEXACODE_BUILDING_LOCK_TITLE,Hexacode Locked
+HEXACODE_BUILDING_LOCK_DESC,Increases attributes for Nikkes with matching elements.
+HEXACODE_BUILDING_UNLOCK_TITLE,Hexacode Unlock Conditions
+HEXACODE_BUILDING_UNLOCK_TIP,Move to Outpost ▶ Construct Code Research Center
+HEXACODE_ITEM_OPTION_RANDOM_TITLE,Random
+HEXACODE_BIOS_ITEM_OPTION_ALL_RANDOM_DESC,"Adds a random element (Fire, Water, Iron, Electric, or Wind) and three random BIOS effects."
+HEXACODE_BIOS_ITEM_OPTION_RANDOM_DESC,Adds three random BIOS effects.
+HEXACODE_BLOCK_ITEM_OPTION_ALL_RANDOM_DESC,"Adds a random element (Fire, Water, Iron, Electric, or Wind) and a random function within the block."
+HEXACODE_BLOCK_ITEM_OPTION_RANDOM_DESC,Adds a random function within the block.
+HEXACODE_BETA_INFO,"Once the beta is over, hexacode items and data will be reset.
+During the beta period, attributes enhanced by hexacodes will be converted to combat power and applied only to surface-related content."
+HEXACODE_BETA_END_DATE_TITLE,End of Beta
+HEXACODE_PRESET_HSTA_TITLE,Fire Hexacode Board
+HEXACODE_PRESET_PSID_TITLE,Water Hexacode Board
+HEXACODE_PRESET_ANMI_TITLE,Wind Hexacode Board
+HEXACODE_PRESET_ZEUS_TITLE,Electric Hexacode Board
+HEXACODE_PRESET_DMTR_TITLE,Iron Hexacode Board
+HEXACODE_BETA_INFO_TITLE,Hexacode Beta
+HEXACODE_BETA_INFO_DESC,"Hexacode data obtained during the beta period will reset when the beta ends.
+Blocks obtained during the beta period will also be reset."
+SURFACE_BETA_INFO_TITLE,Surface Beta
+SURFACE_BETA_INFO_DESC,Surface play data obtained during the beta period will be reset when the beta ends.
+SURFACE_BETA_MISSION_REWARD_MAIL_TITLE,Unclaimed Surface Mission Rewards
+SURFACE_BETA_MISSION_REWARD_MAIL_DESC,Here are your mission rewards that were not claimed during the surface beta period.
 CONTENT_NAME_SIDESTORY,Side Story
 SIDESTORY_PART,PART
 SIDESTORY_STAGE,STAGE
@@ -8991,6 +9162,7 @@ HELP_SIDESTORY_05_01,The Nikkes participating in the battles and their attribute
 SIDESTORY_TITLE_01,SECOND AFFECTION
 SIDESTORY_TITLE_02,WORDLESS
 SIDESTORY_TITLE_03,MUDFISH
+SIDESTORY_TITLE_04,EDEN SPEAR
 SIDESTORY_01_PREV_DESC,"The Side Story picks up from Campaign Chapter 14.
 You may have difficulties understanding the story if you haven't watched the Prequel.
 However, you can still proceed with gameplay without watching the Prequel."
@@ -9000,6 +9172,9 @@ However, you can still proceed with gameplay without watching the Prequel."
 SIDESTORY_03_PREV_DESC,"The Side Story picks up from Campaign Chapter 32 and the event story OLD TALES.
 You may have difficulties understanding the story if you haven't watched the Prequel.
 However, you can still proceed with gameplay without watching the Prequel."
+SIDESTORY_04_PREV_DESC,"This story takes place after Campaign Chapter 26 and the Last Kingdom story event. It may be difficult to understand the plot if you haven't experienced these prior stories. However, you can still play through this story without finishing the others first."
+SIDESTORY_RECOMMEND_DESC_01,"This story is the prequel to the ongoing event, GODDESS FALL."
+SIDESTORY_RECOMMEND_MISSION_DESC_01,Clear Side Story EDEN SPEAR: EDEN SPEAR-13
 LOBBY_SHORTCUT_SIDESTORY,Side Story
 LOBBY_SHORTCUT_ARCHIVE,Archives
 PROBABILITY_NOTATION_OUTPOST_BATTLE_DESC,"Usually displayed to 4 decimal places with the 5th digit rounded.
@@ -9034,6 +9209,10 @@ PROBABILITY_NOTATION_EVENT_BOX_GACHA_DESC,"Special Rewards will start appearing 
 Rewards that have already appeared will not reappear. The probability of change at this point = the displayed probability based on the basic probability/(100% - sum of the probabilities of the excluded rewards)."
 PROBABILITY_NOTATION_CONTENTS_SHOP_DESC,The item and price that appear in each slot are determined by probability. The probability of each item appearing in a slot is calculated separately.
 PROBABILITY_NOTATION_CONTENTS_SHOP_SLOT_TITLE,No. {product_order} Slot
+PROBABILITY_NOTATION_HEXACODE_BIOS_DESC,"Decimals are always displayed up to four places, rounded up from the fifth digit.
+The first, second, and third BIOS effects each have individual probabilities. The second and third effects may have their grades changed."
+PROBABILITY_NOTATION_HEXACODE_BLOCK_DESC,"Decimals are always displayed up to four places, rounded up from the fifth digit.
+Blocks are provided with set functions. Blocks and their functions each have their own probabilities."
 INTERCEPT_NKS_MINI_GAME_ENEMY_INFO_DESC,MOG 2.0 Coming Soon...
 ARCHIVE_MINIGAME_HELPTIP_WHITEMEMORY_TITLE,About White Memory
 ARCHIVE_MINIGAME_HELPTIP_WHITEMEMORY_DESC,■ Complete the search log as Snow White.
@@ -9062,7 +9241,7 @@ ARCHIVE_MINIGAME_HELPTIP_CORALISLAND_DESC,■ A mini game where you take photos 
 ARCHIVE_MINIGAME_HELPTIP_LETSPLAYSODA_TITLE,"About Let's Play, Soda!"
 ARCHIVE_MINIGAME_HELPTIP_LETSPLAYSODA_DESC,■ This is a mini game where you take on various challenges in Coin Rush with Soda.
 ARCHIVE_MINIGAME_HELPTIP_BUBBLEMARCH_TITLE,About Bubble March
-ARCHIVE_MINIGAME_HELPTIP_BUBBLEMARCH_DESC,Bubble March is a mini game where bubble-made minions and Raptures destroy each other's towers.
+ARCHIVE_MINIGAME_HELPTIP_BUBBLEMARCH_DESC,■ Bubble March is a mini game where bubble-made minions and Raptures destroy each other's towers.
 HELPTIP_RUNNINGSODA_STORY_TITLE,"Run, Soda! - Story Mode"
 HELPTIP_RUNNINGSODA_STORY_DESC,"■ This is an obstacle course game. 
 ■ Tap the screen to make Soda jump. (Shortcut: Space bar)
@@ -9338,6 +9517,12 @@ USERTITLE_NAME_COINSINRUSH,COINS IN RUSH Special Title
 USERTITLE_NAME_NIKKE_5150,Milk: Blooming Bunny's Exclusive Title
 USERTITLE_NAME_NIKKE_5151,Ade: Agent Bunny's Exclusive Title
 USERTITLE_NAME_JOFFTOUR,Traveler of the Millennium City
+USERTITLE_NAME_GONINJATHIEF,GO! NINJA THIEF! Special Title
+USERTITLE_NAME_NIKKE_5154,Delta: Ninja Thief's Exclusive Title
+USERTITLE_NAME_GODDESSFALL,Goddess Fall Special Title
+USERTITLE_NAME_NIKKE_5155,Nayuta's Exclusive Title
+USERTITLE_NAME_NIKKE_5156,Liberalio's Exclusive Title
+USERTITLE_NAME_NIKKE_5157,Chime's Exclusive Title
 USERTITLE_DESCRIPTION_DEFAULTTITLE,"Title for New Face.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_INFRACORELV_20,"Title for Ready to Strike.
@@ -9732,6 +9917,18 @@ USERTITLE_DESCRIPTION_NIKKE_5151,"Exclusive title for Ade: Agent Bunny.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_JOFFTOUR,"Special title for Journey to the Millennium City.
 Can be used on the profile."
+USERTITLE_DESCRIPTION_GONINJATHIEF,"Special title for GO! NINJA THIEF!
+Can be used on the profile."
+USERTITLE_DESCRIPTION_NIKKE_5154,"Exclusive title for Delta: Ninja Thief.
+Can be used on the profile."
+USERTITLE_DESCRIPTION_GODDESSFALL,"Special title for Goddess Fall.
+Can be used on the profile."
+USERTITLE_DESCRIPTION_NIKKE_5155,"Exclusive title for Nayuta.
+Can be used on the profile."
+USERTITLE_DESCRIPTION_NIKKE_5156,"Exclusive title for Liberalio.
+Can be used on the profile."
+USERTITLE_DESCRIPTION_NIKKE_5157,"Exclusive title for Chime.
+Can be used on the profile."
 USERTITLE_CONTENTS_DESC_DEFAULTTITLE,Default Title
 USERTITLE_CONDITION_INFRACORELV,Upgrade Infrastructure Core Activity to Lv. 20
 USERTITLE_CONDITION_USERLV,Reach Commander Lv. 100
@@ -9788,6 +9985,8 @@ USERTITLE_CONTENTS_DESC_BOOMTHEGHOST,Can be obtained from the shop in the story 
 USERTITLE_CONTENTS_DESC_ABSOLUTE,Can be obtained from the shop in the story event ABSOLUTE.
 USERTITLE_CONTENTS_DESC_COINSINRUSH,Can be obtained from the shop in the story event COINS IN RUSH.
 USERTITLE_CONTENTS_DESC_JOFFTOUR,Obtain by progressing through Journey to the Millennium City
+USERTITLE_CONTENTS_DESC_GONINJATHIEF,Can be obtained from the shop in the story event GO! NINJA THIEF!.
+USERTITLE_CONTENTS_DESC_GODDESSFALL,Can be obtained from the shop in the story event Goddess Fall.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1007,Watch all of D's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1010,Watch all of Laplace's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1012,Watch all of Sakura's episodes in Advise.
@@ -10156,6 +10355,10 @@ USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5148,Watch all of Vesti: Tactica
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5149,Watch all of Eunhwa: Tactical Upgrade's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5150,Watch all of Milk: Blooming Bunny's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5151,Watch all of Ade: Agent Bunny's episodes in Advise.
+USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5154,Watch all of Delta: Ninja Thief's episodes in Advise.
+USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5155,Watch all of Nayuta's episodes in Advise.
+USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5156,Watch all of Liberalio's episodes in Advise.
+USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5157,Watch all of Chime's episodes in Advise.
 USERTITLE_CONDITION_MAXATTRACTIVE_3004,Reach the maximum Bond Level with Rumani.
 USERTITLE_CONDITION_MAXATTRACTIVE_5123,Reach the maximum Bond Level with Rapunzel: Pure Grace.
 USERTITLE_CONDITION_MAXATTRACTIVE_5124,Reach the maximum Bond Level with Cinderella.
@@ -10183,6 +10386,10 @@ USERTITLE_CONDITION_MAXATTRACTIVE_5148,Reach the maximum Bond Level with Vesti: 
 USERTITLE_CONDITION_MAXATTRACTIVE_5149,Reach the maximum Bond Level with Eunhwa: Tactical Upgrade.
 USERTITLE_CONDITION_MAXATTRACTIVE_5150,Reach the maximum Bond Level with Milk: Blooming Bunny.
 USERTITLE_CONDITION_MAXATTRACTIVE_5151,Reach the maximum Bond Level with Ade: Agent Bunny.
+USERTITLE_CONDITION_MAXATTRACTIVE_5154,Reach the maximum Bond Level with Delta: Ninja Thief.
+USERTITLE_CONDITION_MAXATTRACTIVE_5155,Reach the maximum Bond Level with Nayuta.
+USERTITLE_CONDITION_MAXATTRACTIVE_5156,Reach the maximum Bond Level with Liberalio.
+USERTITLE_CONDITION_MAXATTRACTIVE_5157,Reach the maximum Bond Level with Chime.
 USERTITLE_CONDITION_4OVERLOAD_3004,Complete Rumani's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5123,Complete Rapunzel: Pure Grace's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5124,Complete Cinderella's Equipment Modification.
@@ -10210,6 +10417,10 @@ USERTITLE_CONDITION_4OVERLOAD_5148,Complete Vesti: Tactical Upgrade's Equipment 
 USERTITLE_CONDITION_4OVERLOAD_5149,Complete Eunhwa: Tactical Upgrade's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5150,Complete Milk: Blooming Bunny's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5151,Complete Ade: Agent Bunny's Equipment Modification.
+USERTITLE_CONDITION_4OVERLOAD_5154,Complete Delta: Ninja Thief's Equipment Modification.
+USERTITLE_CONDITION_4OVERLOAD_5155,Complete Nayuta's Equipment Modification.
+USERTITLE_CONDITION_4OVERLOAD_5156,Complete Liberalio's Equipment Modification.
+USERTITLE_CONDITION_4OVERLOAD_5157,Complete Chime's Equipment Modification.
 USERTITLE_CONDITION_SIMULATIONROOMOVERCLOCK50,Clear the Simulation Room Overclock with a ratio higher than 50.
 USERTITLE_CONDITION_SIMULATIONROOMOVERCLOCKINFINITEOPTION_1,Clear Simulation Room Overclock with the Code Match: H.S.T.A. option.
 USERTITLE_CONDITION_SIMULATIONROOMOVERCLOCKINFINITEOPTION_2,Clear Simulation Room Overclock with the Code Match: P.S.I.D. option.
@@ -10371,6 +10582,10 @@ USERTITLE_ASSEMBLY_NIKKE_5148,Vesti's Commander
 USERTITLE_ASSEMBLY_NIKKE_5149,Eunhwa's Junior Blockhead
 USERTITLE_ASSEMBLY_NIKKE_5150,Milk's Pal
 USERTITLE_ASSEMBLY_NIKKE_5151,Ade's Master
+USERTITLE_ASSEMBLY_NIKKE_5154,Delta's Commander
+USERTITLE_ASSEMBLY_NIKKE_5155,Nayuta's Great Hero
+USERTITLE_ASSEMBLY_NIKKE_5156,Liberalio's Human
+USERTITLE_ASSEMBLY_NIKKE_5157,Chime's Rapscallion
 TOAST_AUTO_SELECT_NOT_ENOUGH_ITEM,No items available.
 TOAST_AUTO_SELECT_NOT_ENOUGH_CREDIT,Not enough currency. Unable to select materials.
 TOGGLE_TEXT_CORP_TIER_9,Display Manufacturer Tier 9
@@ -10553,6 +10768,14 @@ LOBBY_DECO_BACKGROUND_WHALEYBACK_NAME,Whaley's Back
 LOBBY_DECO_BACKGROUND_RAPTILIONHOUSE_NAME,Raptilion's House
 LOBBY_DECO_BACKGROUND_RAPTILIONFARM_NAME,Raptilion's Vegetable Garden
 LOBBY_DECO_BACKGROUND_DANCEPRACTICEROOM_NAME,Practice Room
+LOBBY_DECO_BACKGROUND_WHITEARK_1,The White Ark I
+LOBBY_DECO_BACKGROUND_WHITEARK_2,The White Ark II
+LOBBY_DECO_BACKGROUND_DARKMATTERFILTER,Dark Matter Filter
+LOBBY_DECO_BACKGROUND_EDENLANDINGSTRIP,Eden Runway
+LOBBY_DECO_BACKGROUND_BROKENEDENLOBBY,Destroyed Eden Lobby
+LOBBY_DECO_BACKGROUND_DISTANTEDEN,Eden in the Distance
+LOBBY_DECO_BACKGROUND_BROKENEDEN,Destroyed Eden
+LOBBY_DECO_BACKGROUND_BROKENEDENLANDINGSTRIP,Destroyed Eden Runway
 TOAST_DESC_ARCHIVE_RECORD_UNLOCK,Event Quest unlocked.
 TOAST_DESC_ARCHIVE_EVENT_QUEST_DEACTIVATE,Event Quest disabled.
 TAB_ARCHIVE_STORY_EVENT,Story Event
@@ -10622,6 +10845,408 @@ ARCADE_GAME_TITLE_05,Dessert Rush
 ARCADE_GAME_TITLE_06,In The Mirror
 ARCADE_GAME_TITLE_07,"Let's Play, Soda!"
 ARCADE_GAME_TITLE_08,Bubble March
+SURFACE_TITLE,Surface
+CHAPTER_DOT_NUMBER_NAME,CHAPTER. {0}
+SURFACE_BTN_OCCUPATION_PROGRESS_DESC,Occupation Progress {0}/{1}
+SURFACE_BUILDING_POPUP_TITLE_REPAIR,Repair
+SURFACE_BUILDING_POPUP_BTN_REPAIR,Repair
+SURFACE_BUILDING_POPUP_DESC_REPAIR,A feature to repair structures.
+SURFACE_BUILDING_POPUP_CONFIRM_REPAIR,Repair the structure?
+SURFACE_BUILDING_POPUP_CANCEL_REPAIR,"Cancel repair?
+The currency consumed will be returned upon cancellation."
+SURFACE_BUILDING_CANNOT_REPAIR,Unable to repair.
+SURFACE_BUILDING_POPUP_COMPLETE_REPAIR,{0} repaired
+SURFACE_BUILDING_POPUP_COMPLETE_LEVEL_UP,{0} upgraded
+SURFACE_BUILDING_LEVEL,Lv. {0}
+SURFACE_BUILDING_CONDITION,Condition
+SURFACE_BUILDING_POPUP_TITLE_LEVEL_UP,Upgrade
+SURFACE_BUILDING_POPUP_BTN_LEVEL_UP,Upgrade
+SURFACE_BUILDING_POPUP_DESC_LEVEL_UP,A feature to upgrade structures.
+SURFACE_BUILDING_POPUP_CONFIRM_LEVEL_UP,Upgrade the structure?
+SURFACE_BUILDING_POPUP_CANCEL_LEVEL_UP,"Cancel upgrade?
+The currency consumed will be returned upon cancellation."
+SURFACE_BUILDING_POPUP_RETURN_CURRENCY,Returned Currency
+SURFACE_BUILDING_POPUP_TITLE_INFO,Structure Info
+SURFACE_BUILDING_POPUP_DESC_INFO,View the basic information of structures here.
+SURFACE_BUILDING_POPUP_BTN_FAST_COMP,Complete Now
+SURFACE_BUILDING_REPAIR,Repairing
+SURFACE_BUILDING_LEVEL_UP,Upgrading
+SURFACE_RESEARCH_IN_PROGRESS,Researching
+SURFACE_DURATION_TIME,Remaining Time
+SURFACE_BUILDING_COMPLETE_REPAIR,Repair complete
+SURFACE_BUILDING_COMPLETE_LEVEL_UP,Construction complete
+SURFACE_BUILDING_COMPLETE_RESEARCH,Research complete
+SURFACE_BUILDING_COMPLETE_PRODUCE,Production complete
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_CORE_POWDER_TITLE,Core Powder Max Amount
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_GODDESIUM_TITLE,Goddesium Max Amount
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_GEONIC_TITLE,Geonic Max Amount
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_NEO_TITANIUM_TITLE,Neo Titanium Max Amount
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_DESC,{0}
+SURFACE_BUILDING_FUNCTION_PRODUCE_CORE_POWDER_TITLE,Core Powder Production Amount
+SURFACE_BUILDING_FUNCTION_PRODUCE_GODDESIUM_TITLE,Goddesium Production Amount
+SURFACE_BUILDING_FUNCTION_PRODUCE_GEONIC_TITLE,Geonic Production Amount
+SURFACE_BUILDING_FUNCTION_PRODUCE_NEO_TITANIUM_TITLE,Neo Titanium Production Amount
+SURFACE_BUILDING_FUNCTION_PRODUCE_DESC,{0}
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_CORE_POWDER_TITLE,Core Powder Max Production
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_GODDESIUM_TITLE,Goddesium Max Production
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_GEONIC_TITLE,Geonic Max Production
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_NEO_TITANIUM_TITLE,Neo Titanium Max Production
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_DESC,{0}
+SURFACE_BUILDING_FUNCTION_INCREASE_TEAM_MAXIMUM_TITLE,Increase Nikke Slot
+SURFACE_BUILDING_FUNCTION_INCREASE_TEAM_MAXIMUM_DESC,{0}
+SURFACE_BUILDING_POPUP_FAST_COMP_DESC,Complete construction now?
+SURFACE_RESEARCH_FUNCTION_PRODUCE_CORE_POWDER_TITLE,Increase Core Powder Production Amount
+SURFACE_RESEARCH_FUNCTION_PRODUCE_GODDESIUM_TITLE,Increase Goddesium Production Amount
+SURFACE_RESEARCH_FUNCTION_PRODUCE_GEONIC_TITLE,Increase Geonic Production Amount
+SURFACE_RESEARCH_FUNCTION_PRODUCE_NEO_TITANIUM_TITLE,Increase Neo Titanium Production Amount
+SURFACE_FIELD_SUDDEN_EVENT_TITLE,Sudden Event
+SURFACE_FIELD_CONFIRM_SELECTION_TITLE,Confirm Selection
+SURFACE_FIELD_SUDDEN_EVENT_RESULT_TITLE,Selection Result
+CORE_POWDER,Core Powder
+CORE_POWDER_DESC,A material made by finely crushing and compressing Rapture cores. It can be considered a catalyst used for various necessary adjustments to Nikke cores.
+GODDESIUM,Goddesium
+GODDESIUM_DESC,A metal that makes up most of a Nikke's body. It can be extracted using resources from the surface. It is an excellent material widely used for various structures aside from Nikke's body.
+GEONIC,Geonic
+GEONIC_DESC,"A mineral found on the surface. There has been limited research conducted on it as it was only discovered recently, but it has been proven to be an excellent material for various applications."
+NEO_TITANIUM,Neo Titanium
+NEO_TITANIUM_DESC,"A metal extracted from resources on the surface. It is extremely sturdy and flexible, even surpassing Goddesium in terms of durability. It is perfect for use as a defensive material."
+GEONIC_BATTERY,Geonic Battery
+GEONIC_BATTERY_DESC,An ultra-high-condensation battery produced by smelting Geonic. It is essential for maintaining optical camouflage.
+ENEMY_LIGHT,Rapture Lite
+ENEMY_LIGHT_DESC,"A metal from Rapture armors that has degraded after being buried in the ground for a long time. It is abundant due to the surface being occupied by Raptures over a prolonged period, but advanced technology is required to extract it.
+
+A metal that is essential for producing optical camouflage. Is it somewhat similar to smearing monster blood on oneself to deceive the monster?"
+HACKING_DEVICE_NAME,Hacking Device
+HACKING_DEVICE_DESC,A device used when hacking gateways.
+SURFACE_HEADQUARTERS_POPUP_TITLE,Headquarters
+SURFACE_HEADQUARTERS_POPUP_DESCRIPTION,"A temporary headquarters for surface reclamation, commonly known as the Headquarters.
+
+It's a key facility that serves as the starting point for surface reclamation.
+
+In every sense, it functions as a true command center, where you can carry out essential tasks such as squad formation, research, statistics, and purification."
+SURFACE_HEADQUARTERS_RESEARCH,Research
+SURFACE_HEADQUARTERS_CURRENT_SITUATION,Surface Status
+SURFACE_HEADQUARTERS_BATTLE,Battle
+SURFACE_HEADQUARTERS_CONVENIENCE,Convenience
+SURFACE_HEADQUARTERS_CURRENT_SITUATION_POPUP_DESCRIPTION,Restore the HP of your Nikkes.
+SURFACE_HEADQUARTERS_CURRENT_SITUATION_ARTICLE_BUILDING,Building
+SURFACE_HEADQUARTERS_CURRENT_SITUATION_ARTICLE_RESEARCH,Research
+SURFACE_HEADQUARTERS_CURRENT_SITUATION_ARTICLE_TEAM,Nikke (Squad)
+SURFACE_LODGING_POPUP_TITLE,Dormitory
+SURFACE_LODGING_POPUP_DESCRIPTION,"A lodging facility specialized for field-deployed Nikkes, commonly known as the Dormitory.
+
+Nikkes spend most of their time here when they are not on surface missions or engaged in combat."
+SURFACE_HOSPITAL_POPUP_TITLE,Hospital
+SURFACE_HOSPITAL_POPUP_DESCRIPTION,"A temporary repair center, commonly known as the Hospital.
+
+It's a simple yet crucial facility where injured Nikkes are treated."
+SURFACE_HOSPITAL_RECOVERY,Squad Recovery
+SURFACE_HOSPITAL_RECOVERY_ALL_SELECT,Auto Select
+SURFACE_HOSPITAL_RETURN_TO_UNIT,Nikke Recovery
+SURFACE_HOSPITAL_RETURN_COMPLETED,Recovery Complete
+SURFACE_HOSPITAL_RETURN_TARGET,Recovery Target
+SURFACE_HOSPITAL_RETURN_TARGET_SLOT_LIST,Recovery Status
+SURFACE_HOSPITAL_TIME_REQUIRED_TO_RECOVERY,Time Required
+SURFACE_HOSPITAL_RETURN_TARGET_EMPTY,There are no targets to heal within the squad.
+SURFACE_HOSPITAL_RETURN_UNIT_DESC,Fully recover the HP of Nikkes who are not in squads.
+SURFACE_HOSPITAL_RETURN_TIME_DESC,Materials and time will be consumed in proportion to the amount of HP lost.
+SURFACE_HOSPITAL_RECOVERY_CANCEL,"Upon canceling the recovery, the squad's HP will be restored based on the elapsed time. However, any materials consumed will not be refunded.
+
+Cancel anyway?"
+SURFACE_HOSPITAL_RECOVERY_COMPLETE_TOAST,Recovery Complete
+SURFACE_HOSPITAL_RECOVERY_CONFIRM,"Restore the HP of the selected squad?
+The squad will not be available until its recovery is complete."
+SURFACE_HOSPITAL_RECOVERY_LIST_EMPTY_TOAST,No squad available for recovery.
+SURFACE_HOSPITAL_RECOVERY_PROGRESS,Recovering
+SURFACE_HOSPITAL_RECOVERY_LIST_EMPTY,No squads near the hospital require healing.
+SURFACE_HOSPITAL_BUILDING_RECOVERY_BTN,Recover
+SURFACE_HOSPITAL_SQUAD_RECOVERY_BTN,Recover
+SURFACE_HOSPITAL_CHARACTER_RECOVERY_BTN,Recover
+SURFACE_HOSPITAL_RECOVERY_MAX_COUNT,Already recovering at max capacity.
+SURFACE_FACTORY_POPUP_TITLE,Factory
+SURFACE_FACTORY_POPUP_DESCRIPTION,"A temporary workshop on the surface, commonly known as the Factory.
+
+This facility produces a range of tools to support surface exploration. The presence of these tools can greatly affect exploration efficiency, making the facility essential for smooth operations."
+SURFACE_FACTORY_PRODUCE_SLOT_LIST,Production Status
+SURFACE_FACTORY_PRODUCE,Produce
+SURFACE_FACTORY_PRODUCE_ITEM_DESC_OPTICAL_CAMOUFLAGE,Optical camouflage generator description (temporary)
+SURFACE_FACTORY_PRODUCE_ITEM_DESC_ENERGY,Energy description (temporary)
+SURFACE_FACTORY_PRODUCE_CONFIRM,Produce this item?
+SURFACE_STORAGE_POPUP_TITLE,Warehouse
+SURFACE_STORAGE_POPUP_DESCRIPTION,"A surface resource storage facility, commonly known as the Warehouse. 
+
+It safely stores resources primarily used on the surface, preventing their deterioration. All internal facilities are specialized for resource storage."
+SURFACE_STORAGE_CURRENCY_CUMULATIVE,Total Currency
+SURFACE_STORAGE_POPUP_REFRESH,Updating warehouse info.
+SURFACE_PROCESSING_FACILITY_CORE_POWDER_POPUP_TITLE,Core Powder Processing Plant
+SURFACE_PROCESSING_FACILITY_CORE_POWDER_POPUP_DESCRIPTION,"A facility that processes Core Powder obtained from the surface for easier use.
+
+Dust may scatter, so be sure to wear a dust mask."
+SURFACE_PROCESSING_FACILITY_GODDESIUM_POPUP_TITLE,Goddesium Processing Plant
+SURFACE_PROCESSING_FACILITY_GODDESIUM_POPUP_DESCRIPTION,"A facility that processes Goddesium obtained from the surface for easier use.
+
+This material is said to differ slightly in composition from that used in the Ark."
+SURFACE_PROCESSING_FACILITY_GEONIC_POPUP_TITLE,Geonic Processing Plant
+SURFACE_PROCESSING_FACILITY_GEONIC_POPUP_DESCRIPTION,"A facility that processes Geonic obtained from the surface for easier use.
+
+Be sure never to touch Geonic with your bare hands."
+SURFACE_PROCESSING_FACILITY_NEO_TITANIUM_POPUP_TITLE,Neo Titanium Processing Plant
+SURFACE_PROCESSING_FACILITY_NEO_TITANIUM_POPUP_DESCRIPTION,"A facility that processes Neo Titanium obtained from the surface for easier use.
+
+As this is a metalworking area, it is very noisy. Earplugs are recommended."
+SURFACE_PRODUCE_TITLE,Produce
+SURFACE_PRODUCE_STORAGE_STATUS,Warehouse Status
+SURFACE_PRODUCE_PROCESSING_FACILITY_STATUS,Production Status
+SURFACE_SQUAD_INFO_POPUP_TITLE,Squad Info
+SURFACE_SQUAD_COMBAT_POWER,Squad Power
+SURFACE_SQUAD_HP,Squad HP
+SURFACE_SQUAD,Squad
+SURFACE_SQUAD_SET_FORMATION,Form Squad
+SURFACE_SQUAD_DISBANDING,Disband Squad
+SURFACE_SQUAD_NUM,Squad {0}
+SURFACE_SQUAD_SET_FORMATION_POSSIBLE,Can be formed
+SURFACE_SQUAD_SET_FORMATION_IMPOSSIBLE,Cannot be formed
+SURFACE_SQUAD_SET_FORMATION_POPUP_DESC,A squad can be formed.
+SURFACE_SQUAD_SET_FORMATION_BTN_SAVE,Save
+SURFACE_SQUAD_SET_FORMATION_COMPLETE_TOAST,Squad formation saved.
+SURFACE_SQUAD_SET_FORMATION_CONFIRM_DISBANTDING,Disband squad?
+SURFACE_SQUAD_SET_FORMATION_CONFIRM_TOAST,Squad disbanded.
+SURFACE_SQUAD_SET_FORMATION_CONFIRM_CANNOT_TOAST,"Unable to disband squad.
+A squad can only be disbanded in an occupied area."
+SURFACE_SQUAD_SET_SELECT_LOCATION,Select a location to spawn the squad.
+SURFACE_SQUAD_SET_SELECT_LOCATION_CONFIRM_TOAST,Squad formed.
+SURFACE_SQUAD_SET_SELECT_LOCATION_CONFIRM_CANNOT_TOAST,"Unable to form squad.
+A squad can only be formed in an occupied area."
+SURFACE_SQUAD_FORCED_DISMANTLEMENT,"The squad needs to be disbanded forcefully.
+Disband anyway?"
+SURFACE_SQUAD_CANNOT_EDIT_AND_DISBAND,This squad is currently recovering.
+SURFACE_CANNOT_SQUAD_SET_FORMATION_TOAST,The squad limit has been reached.
+SURFACE_SQUAD_LIST_EMPTY,No squad has been formed yet.
+SURFACE_OCCUPATION_COMPLETE_REWARD,Occupation Completion Rewards
+SURFACE_OCCUPATION_START,Install Now
+SURFACE_OCCUPATION_COMBAT_POWER,Standard Power
+SURFACE_OCCUPATION_TIME,Duration to Occupy
+SURFACE_OCCUPATION_INFO,Occupation Info
+SURFACE_BATTLE_MODE_OCCUPATION,Occupation Battle
+SURFACE_BATTLE_MODE_DEFENCE_PHASE,Defense Battle
+SURFACE_AREA_SCALE_SMALL,Small-Scale Area
+SURFACE_AREA_SCALE_SMALL_DESC,Temporary description for small-scale area
+SURFACE_AREA_SCALE_MEDIUM,Medium-Scale Area
+SURFACE_AREA_SCALE_MEDIUM_DESC,Temporary description for medium-scale area
+SURFACE_AREA_SCALE_LARGE,Large-Scale Area
+SURFACE_AREA_SCALE_LARGE_DESC,Temporary description for large-scale area
+SURFACE_OCCUPATION_REWARD_DESC,Unlock rewards when occupation is complete
+SURFACE_OCCUPATION_OPTICAL_CAMOUFLAGE_HP,Durability
+SURFACE_OCCUPATION_OPTICAL_CAMOUFLAGE_BATTERY,Battery
+SURFACE_OCCUPATION_TIME_TO_START,Until start of occupation
+SURFACE_OCCUPATION_TIME_TO_COMPLETE,Until occupation is complete
+SURFACE_DEFENCE_TIME_TO_START,Until start of defense
+SURFACE_DEFENCE_TIME_TO_COMPLETE,Time until defense ends
+SURFACE_OCCUPATION_IN_PROGRESS,In progress
+SURFACE_OCCUPATION_CONFIRM,"Once the occupation begins, it cannot be canceled until it is complete.
+Begin occupation?"
+SURFACE_OCCUPATION_AREA_MANAGE,Manage
+SURFACE_OCCUPATION_RETRIEVE_OPTICAL_CAMOUFLAGE,Retrieve the remains of the optical camouflage?
+SURFACE_OCCUPATION_OPEN_CONDITION_DESCRIPTION,{0} is fully occupied once the installation is done.
+SURFACE_GATEWAY_OPEN_CONDITION_DESCRIPTION,{0} and {1} opens once hacking is done.
+SURFACE_GATEWAY_IN_PROGRESS,Hacking...
+SURFACE_GATEWAY_OPEN_START,Start Hacking
+SURFACE_GATEWAY_NAME,Gateway
+SURFACE_GATEWAY_RETRIEVE_HACKING_ITEM,Retrieve the remains of the hacking device?
+SURFACE_SECTOR_NAME_01,Sector 01
+SURFACE_SECTOR_NAME_02,Sector 02
+SURFACE_SECTOR_NAME_03,Sector 03
+SURFACE_SECTOR_NAME_04,Sector 04
+SURFACE_OBJECT_NAME_OPTICAL_CAMOUFLAGE,Optical Camouflage Generator
+SURFACE_OBJECT_DESC_OPTICAL_CAMOUFLAGE,Produces the optical camouflage generator required for occupation.
+SURFACE_OBJECT_NAME_HOLOGRAM_COMPUTER,Holographic Terminal
+SURFACE_OBJECT_DESC_HOLOGRAM_COMPUTER,A device used to hack gates.
+SURFACE_OBJECT_NAME_CALLING_SIGNAL_GENERATOR,Calling Signal Generator
+SURFACE_OBJECT_DESC_CALLING_SIGNAL_GENERATOR,A calling signal generator that disrupts the movement of Raptures.
+SURFACE_OBJECT_CALLING_SIGNAL_GENERATOR_SELECT_LOCATION,Select the installation location.
+SURFACE_OBJECT_ENERGY,Energy
+SURFACE_OBJECT_DESC_ENERGY,Energy can increase the duration of optical camouflage.
+SURFACE_MAX_AMOUNT_CALLING_SIGNAL_GENERATOR_NAME,Install Calling Signal Generator
+SURFACE_MAX_AMOUNT_CALLING_SIGNAL_GENERATOR_DESC,({0}/{1})
+SURFACE_OBJECT_CALLING_SIGNAL_GENERATOR_REPAIR,Repair
+SURFACE_OBJECT_CALLING_SIGNAL_GENERATOR_DESTROY,Destroy
+SURFACE_OBJECT_CALLING_SIGNAL_GENERATOR_HIDE,Hide
+SURFACE_ITEM_NAME_SUPPRESS_TICKET,Expedition Ticket
+SURFACE_ITEM_DESC_SUPPRESS_TICKET,This is an expedition ticket.
+SURFACE_ITEM_NAME_RAPID_DEPLOYMENT_TICKET,Rapid Deployment Ticket
+SURFACE_ITEM_DESC_RAPID_DEPLOYMENT_TICKET,A ticket used for rapid deployment.
+SURFACE_ITEM_NAME_RAPID_DEPLOYMENT_FREE_TICKET,Free Rapid Deployment Ticket
+SURFACE_ITEM_DESC_RAPID_DEPLOYMENT_FREE_TICKET,A rapid deployment ticket that is issued for free every day.
+SURFACE_QUEST_TITLE,Surface Mission
+SURFACE_QUEST_LIST_TITLE,Mission List
+SURFACE_QUEST_OBTAIN,Accept
+SURFACE_QUEST_PROGRESS,In Progress
+SURFACE_QUEST_COMPLETE,Complete
+SURFACE_FIELD_EXPIRED_QUEST,The mission has ended.
+SURFACE_FIELD_WAVE_TRIGGER_SQUAD_COUNT_INFO,It is recommended for {0} squad(s) to join this battle.
+SURFACE_FIELD_WAVE_QUICK_START,Quick Start
+SurfaceSuppressRewardListTitle,Rewards List
+SurfaceSuppressRewardButton,Claim Rewards
+SURFACE_FIELD_SUPPRESS_REWARD_TICKET_LACK_TITLE,Not Enough Tickets
+SURFACE_FIELD_SUPPRESS_REWARD_TICKET_LACK_DESCRIPTION,You don't have enough tickets to claim rewards.
+SURFACE_FIELD_SUPPRESS_REWARD_EXPIRED,The time limit for claiming rewards has ended.
+SUFRACE_CHARACTER_INFO_TITLE,Surface Character Info
+SUFRACE_CHARACTER_INFO_COMBAT_POWER,Surface Combat Power
+SURFACE_TROOP_CATEGORY_TITLE,Squad Specialties
+SUFRACE_CHARACTER_INFO_CATEGORY_NAME_STRIKE,Strike Squad
+SUFRACE_CHARACTER_INFO_CATEGORY_NAME_DEFENSE,Special Ops Squad
+SUFRACE_CHARACTER_INFO_CATEGORY_NAME_SERVICE,Supporter Squad
+SUFRACE_CHARACTER_INFO_CATEGORY_NAME_LIVERTY,Free Squad
+SUFRACE_CHARACTER_INFO_CATEGORY_NAME_BOSS,Expedition Squad
+SUFRACE_CHARACTER_INFO_CATEGORY_DESC_STRIKE,A squad that specializes in exploration and attacking enemies in non-combat areas. It gains powerful effects when fighting radial Raptures and possesses specialized exploration skills.
+SUFRACE_CHARACTER_INFO_CATEGORY_DESC_DEFENSE,"A squad that boasts high firepower in fields designated as combat areas. Combat areas are locations in which occupation battles, expeditions, and gateway battles occur. This squad performs exceptionally well in these areas."
+SUFRACE_CHARACTER_INFO_CATEGORY_DESC_SERVICE,"A squad that grants beneficial effects to nearby squads in combat areas.
+Combat areas are locations in which occupation battles, expeditions, and gateway battles occur. This squad provides different effects to nearby squads within these areas."
+SUFRACE_CHARACTER_INFO_CATEGORY_DESC_LIVERTY,"A squad specialized in carrying out a variety of missions anytime, anywhere. It is effective across different areas and locations."
+SUFRACE_CHARACTER_INFO_CATEGORY_DESC_BOSS,Specialized for Tyrant-Class Raptures
+SUFRACE_CHARACTER_INFO_DESC_ELEMENT_FIRE,Damage ▲ {0}% when fighting Wind Raptures
+SUFRACE_CHARACTER_INFO_DESC_ELEMENT_WATER,Damage ▲ {0}% when fighting Fire Raptures
+SUFRACE_CHARACTER_INFO_DESC_ELEMENT_WIND,Damage ▲ {0}% when fighting Iron Raptures
+SUFRACE_CHARACTER_INFO_DESC_ELEMENT_ELECTRONIC,Damage ▲ {0}% when fighting Water Raptures
+SUFRACE_CHARACTER_INFO_DESC_ELEMENT_IRON,Damage ▲ {0}% when fighting Electric Raptures
+SUFRACE_CHARACTER_INFO_DESC_DISTANCE_AR,Damage ▲ {0}% when fighting close-range and mid-range Raptures
+SUFRACE_CHARACTER_INFO_DESC_DISTANCE_SMG,Damage ▲ {0}% when fighting close-range and long-range Raptures
+SUFRACE_CHARACTER_INFO_DESC_DISTANCE_SG,Damage ▲ {0}% when fighting close-range and mid-range Raptures
+SUFRACE_CHARACTER_INFO_DESC_DISTANCE_SR,Damage ▲ {0}% when fighting mid-range and long-range Raptures
+SUFRACE_CHARACTER_INFO_DESC_DISTANCE_RL,Damage ▲ {0}% when fighting close-range and long-range Raptures
+SUFRACE_CHARACTER_INFO_DESC_DISTANCE_MG,Damage ▲ {0}% when fighting mid-range and long-range Raptures
+SUFRACE_CHARACTER_INFO_DESC_CLASS_ATTACKER,Squad ATK ▲ {0}%
+SUFRACE_CHARACTER_INFO_DESC_CLASS_DEFENDER,Squad Max HP ▲ {0}%
+SUFRACE_CHARACTER_INFO_DESC_CLASS_SUPPORTER,Squad Recovery ▲ {0}%
+SUFRACE_CHARACTER_DISTANCE_NEAR,Close-Range
+SUFRACE_ CHARACTER _DISTANCE_MID,Mid-Range
+SUFRACE_ CHARACTER _DISTANCE_FAR,Long-Range
+Surface_Character_Distance_Desc,Damage ▲ {1}% when fighting {0} Raptures
+SUFRACE_MONSTER_INFO_TITLE,Monster Info
+SUFRACE_MONSTER_INFO_MONSTER_COMBAT_POWER,Monster combat power
+SUFRACE_MONSTER_INFO_PLATOON_COMBAT_POWER,Adjacent Squad Power
+SUFRACE_MONSTER_INFO_ELEMENT,Code Info
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_WEAK_FIRE,"When attacked, damage taken ▲ {0}% per Water Code Nikke in the attacking squad"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_WEAK_WATER,"When attacked, damage taken ▲ {0}% per Electric Code Nikke in the attacking squad"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_WEAK_WIND,"When attacked, damage taken ▲ {0}% per Fire Code Nikke in the attacking squad"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_WEAK_ELECTRONIC,"When attacked, damage taken ▲ {0}% per Iron Code Nikke in the attacking squad"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_WEAK_IRON,"When attacked, damage taken ▲ {0}% per Wind Code Nikke in the attacking squad"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_STRONG_FIRE,"When attacking, damage dealt to Wind Code Nikkes ▲ {0}%"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_STRONG_WATER,"When attacking, damage dealt to Fire Code Nikkes ▲ {0}%"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_STRONG_WIND,"When attacking, damage dealt to Iron Code Nikkes ▲ {0}%"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_STRONG_ELECTRONIC,"When attacking, damage dealt to Water Code Nikkes ▲ {0}%"
+SUFRACE_MONSTER_INFO_ELEMENT_DESC_STRONG_IRON,"When attacking, damage dealt to Electric Code Nikkes ▲ {0}%"
+SUFRACE_MONSTER_INFO_CLASS,Class Info
+SUFRACE_MONSTER_INFO_DISTANCE,Range Info
+SUFRACE_MONSTER_INFO_DISTANCE_DESC,"When attacked, damage taken ▲ {0}% per Nikke in the attacking squad with a weapon this enemy is weak to"
+SUFRACE_MONSTER_INFO_SKILL,Skill Info
+Surface_Monster_Distance_DESC,"When attacked, damage taken ▲ {1}% per Nikke with a(n) {0} in the attacking squad"
+Surface_Monster_Attacker_DESC,Has higher ATK than other monsters.
+Surface_Monster_Defender_DESC,Has higher HP than other monsters.
+Surface_Monster_Surporter_DESC,Enhances the abilities of other monsters.
+SUFRACE_MONSTER_ELEMENT_FIRE,Fire H.S.T.A.
+SUFRACE_MONSTER_ELEMENT_WATER,Water P.S.I.D.
+SUFRACE_MONSTER_ELEMENT_WIND,Wind A.N.M.I.
+SUFRACE_MONSTER_ELEMENT_ELECTRONIC,Electric Z.E.U.S.
+SUFRACE_MONSTER_ELEMENT_IRON,Iron D.M.T.R.
+SUFRACE_MONSTER_DISTANCE_NEAR,NEAR
+SUFRACE_MONSTER_DISTANCE_MID,MID
+SUFRACE_MONSTER_DISTANCE_FAR,FAR
+SURFACE_RESEARCH_BTN,Research
+SURFACE_RESEARCH_CATEGORY_COMBAT_TRAINING,Battle
+SURFACE_RESEARCH_CATEGORY_CONVENIENCE_TECHNOLOGY,Utility and Technology
+SURFACE_RESEARCH_CATEGORY_BUILD_PRODUCE,Construction and Production
+SURFACE_RESEARCH_NOT_IN_PROGRESS,No ongoing research.
+SURFACE_RESEARCH_INFORMATION,Research Info
+SURFACE_RESEARCH_CONDITION,Research Conditions
+SURFACE_RESEARCH_IN_PROGRESS_SYSTEM_POPUP,Do you wish to conduct research?
+SURFACE_RESEARCH_LEVEL_MAX,Max research level reached
+SURFACE_RESEARCH_COMPLETE,{0} Lv. {1} completed.
+SURFACE_RESEARCH_CANCEL_SYSTEM_POPUP,Cancel the ongoing research?
+SURFACE_RESEARCH_CANCEL_TOAST,The ongoing research has been canceled.
+SURFACE_RESEARCH_NOT_ENOUGH_OPEN_CONDITION,Research conditions not met.
+SURFACE_RESEARCH_NOT_ENOUGH_CURRENCY,Not enough currency for research.
+SURFACE_RESEARCH_NOT_ENOUGH_CONDITION_BUILDING,Reach Lv. {0}
+SURFACE_RESEARCH_NOT_ENOUGH_CONDITION_RESEARCH,Reach Lv. {0}
+SURFACE_RESEARCH_CONDITION_LABEL_RESEARCH,Research
+SURFACE_RESEARCH_CONDITION_LABEL_BUILDING,Building
+SURFACE_RESEARCH_NONE_CONDITION,No research conditions.
+SURFACE_RESEARCH_FUNCTION_INTEGER,{0}
+SURFACE_RESEARCH_FUNCTION_PERCENT,{0}%
+SURFACE_RESEARCH_FUNCTION_ID_LV,Lv. {0}
+SURFACE_RESEARCH_NAME_INCREASE_ATTACKER_STAT,Attacker Enhancement I
+SURFACE_RESEARCH_DESC_INCREASE_ATTACKER_STAT,Increases the ATK of Attacker Nikkes
+SURFACE_RESEARCH_NAME_INCREASE_DEFENDER_STAT,Defender Enhancement I
+SURFACE_RESEARCH_DESC_INCREASE_DEFENDER_STAT,Increases the HP of Defender Nikkes
+SURFACE_RESEARCH_NAME_INCREASE_SUPPORTER_STAT,Supporter Enhancement I
+SURFACE_RESEARCH_DESC_INCREASE_SUPPORTER_STAT,Increases the DEF of Supporter Nikkes
+SURFACE_RESEARCH_NAME_INCREASE_SQUAD_ATK,Squad Attack Training I
+SURFACE_RESEARCH_DESC_INCREASE_SQUAD_ATK,Increases the ATK of Nikkes in the squad
+SURFACE_RESEARCH_NAME_INCREASE_SQUAD_DEF,Squad Defense Training I
+SURFACE_RESEARCH_DESC_INCREASE_SQUAD_DEF,Increases the DEF of Nikkes in the squad
+SURFACE_RESEARCH_NAME_INCREASE_SQUAD_HP,Squad HP Training I
+SURFACE_RESEARCH_DESC_INCREASE_SQUAD_HP,Increases the HP of Nikkes in the squad
+SURFACE_RESEARCH_NAME_INCREASE_SQUAD_BATTLE_POWER_UP,Combat Enhancement Training I
+SURFACE_RESEARCH_DESC_INCREASE_SQUAD_BATTLE_POWER_UP,Increases squad power
+SURFACE_RESEARCH_NAME_INCREASE_PRODUCTION_CORE_POWDER,Core Powder Production I
+SURFACE_RESEARCH_DESC_INCREASE_PRODUCTION_CORE_POWDER,Increases the production amount of Core Powder
+SURFACE_RESEARCH_NAME_INCREASE_PRODUCTION_GODDESIUM,Goddesium Production I
+SURFACE_RESEARCH_DESC_INCREASE_PRODUCTION_GODDESIUM,Increases the production amount of Goddesium
+SURFACE_RESEARCH_NAME_INCREASE_PRODUCTION_GEONIC,Geonic Production I
+SURFACE_RESEARCH_DESC_INCREASE_PRODUCTION_GEONIC,Increases the production amount of Geonic
+SURFACE_RESEARCH_NAME_INCREASE_PRODUCTION_NEO_TITANIUM,Neo Titanium Production I
+SURFACE_RESEARCH_DESC_INCREASE_PRODUCTION_NEO_TITANIUM,Increases the production amount of Neo Titanium
+SURFACE_RESEARCH_NAME_INCREASE_PRODUCTION_SURFACE_CURRENCY,Resource Production Efficiency I
+SURFACE_RESEARCH_DESC_INCREASE_PRODUCTION_SURFACE_CURRENCY,Increases the production amount of all resources
+SURFACE_RESEARCH_NAME_INCREASE_MAX_AMOUNT_CORE_POWDER,Core Powder Storage I
+SURFACE_RESEARCH_DESC_INCREASE_MAX_AMOUNT_CORE_POWDER,Increases the maximum accumulation limit of Core Powder
+SURFACE_RESEARCH_NAME_INCREASE_MAX_AMOUNT_GODDESIUM,Goddesium Storage I
+SURFACE_RESEARCH_DESC_INCREASE_MAX_AMOUNT_GODDESIUM,Increases the maximum accumulation limit of Goddesium
+SURFACE_RESEARCH_NAME_INCREASE_MAX_AMOUNT_GEONIC,Geonic Storage I
+SURFACE_RESEARCH_DESC_INCREASE_MAX_AMOUNT_GEONIC,Increases the maximum accumulation limit of Geonic
+SURFACE_RESEARCH_NAME_INCREASE_MAX_AMOUNT_NEO_TITANIUM,Neo Titanium Storage I
+SURFACE_RESEARCH_DESC_INCREASE_MAX_AMOUNT_NEO_TITANIUM,Increases the maximum accumulation limit of Neo Titanium
+SURFACE_RESEARCH_NAME_INCREASE_MAX_AMOUNT_SURFACE_CURRENCY,Resource Storage Optimization I
+SURFACE_RESEARCH_DESC_INCREASE_MAX_AMOUNT_SURFACE_CURRENCY,Increases the maximum accumulation limit of all resources
+SURFACE_RESEARCH_NAME_INCREASE_SURFACE_BUILDING_LEVEL_UP_TIME,Building Design I
+SURFACE_RESEARCH_DESC_INCREASE_SURFACE_BUILDING_LEVEL_UP_TIME,Increases the repair and upgrade speed for buildings
+SURFACE_RESEARCH_NAME_DECREASE_SURFACE_BUILDING_LEVEL_UP_COST,Efficiency Optimization I
+SURFACE_RESEARCH_DESC_DECREASE_SURFACE_BUILDING_LEVEL_UP_COST,Reduces the repair and upgrade expenses for buildings
+SURFACE_RESEARCH_NAME_DECREASE_FACTORY_PRODUCTION_TIME,Factory Acceleration I
+SURFACE_RESEARCH_DESC_DECREASE_FACTORY_PRODUCTION_TIME,Increases the factory's production speed for items
+SURFACE_RESEARCH_NAME_FACTORY_SLOT_UNLOCK,Production Line Addition I
+SURFACE_RESEARCH_DESC_FACTORY_SLOT_UNLOCK,Unlocks a production slot in the factory
+SURFACE_RESEARCH_NAME_OPEN_BUFF_PARTS_ATK_01,ATK Enhancement Part I
+SURFACE_RESEARCH_NAME_OPEN_BUFF_PARTS_ATK_02,ATK Enhancement Part II
+SURFACE_RESEARCH_DESC_OPEN_BUFF_PARTS_ATK,Unlock ATK Enhancement Part
+SURFACE_RESEARCH_NAME_OPEN_BUFF_PARTS_MAX_HP_01,Max HP Enhancement Part I
+SURFACE_RESEARCH_NAME_OPEN_BUFF_PARTS_MAX_HP_02,Max HP Enhancement Part II
+SURFACE_RESEARCH_DESC_OPEN_BUFF_PARTS_MAX_HP,Unlock ATK Enhancement Part
+SURFACE_RESEARCH_NAME_OPEN_BUFF_PARTS_STAMINA_EFFICIENCY_01,Stamina Efficiency Enhancement Part I
+SURFACE_RESEARCH_NAME_OPEN_BUFF_PARTS_STAMINA_EFFICIENCY_02,Stamina Efficiency Enhancement Part II
+SURFACE_RESEARCH_DESC_OPEN_BUFF_PARTS_STAMINA_EFFICIENCY,Unlock ATK Enhancement Part
+SURFACE_STORAGE_RESEARCH_FUNCTION_VALUE,{0} Lv. {1}
+SURFACE_STORAGE_BUILDING_FUNCTION_VALUE,{0} Lv. {1}
+SURFACE_STORAGE_RESEARCH_FUNCTION_CORE_POWDER,Increase Core Powder Acquisition Effect
+SURFACE_STORAGE_BUILDING_FUNCTION_CORE_POWDER,Base Core Powder Acquisition
+SURFACE_STORAGE_RESEARCH_FUNCTION_GODDESIUM,Increase Goddesium Acquisition Effect
+SURFACE_STORAGE_BUILDING_FUNCTION_GODDESIUM,Base Goddesium Acquisition
+SURFACE_STORAGE_RESEARCH_FUNCTION_GEONIC,Increase Geonic Acquisition Effect
+SURFACE_STORAGE_BUILDING_FUNCTION_GEONIC,Base Geonic Acquisition
+SURFACE_STORAGE_RESEARCH_FUNCTION_NEO_TITANIUM,Increase Neo Titanium Acquisition Effect
+SURFACE_STORAGE_BUILDING_FUNCTION_NEO_TITANIUM,Base Neo Titanium Acquisition
+SURFACE_INVENTORY_NAME,Supply Depot
+SURFACE_INVENTORY_DESC,"View, manage, and allocate supplies to Nikkes on the surface."
+SURFACE_INVENTORY_TAB_01,Consume
+SURFACE_INVENTORY_TAB_02,Materials
+SURFACE_ITEM_DISPLAY_TYPE_01,Surface Currency
+SURFACE_ITEM_DISPLAY_TYPE_02,Surface Materials
+SURFACE_ITEM_DISPLAY_TYPE_03,Surface Consumables
+SURFACE_ITEM_QUANTITY_TITLE,Owned ({0})
+SURFACE_ITEM_QUANTITY_MAX_TITLE,Maximum capacity ({0})
+SURFACE_CURRENCY_MAX_LIMIT_GET_FAIL,Warehouse is full. Unable to obtain.
+SURFACE_STORAGE_MAX_LIMIT_CHANGE,The maximum capacity of the surface warehouse has been changed.
+SURFACE_GAME_EXIT,Leave the surface?
 PURCHASE_TERMS_INFO_ITEMS,"This purchase grants you the right to use this item in Goddess of Victory: NIKKE, subject to the terms specified <color=#EA9797>here</color>."
 PURCHASE_TERMS_INFO_COSTUME_GACHA,"This purchase grants you the right to use any rewards obtained through this costume gacha in Goddess of Victory: NIKKE, subject to the terms specified <color=#EA9797>here</color>."
 PURCHASE_TERMS_INFO_RECRUITMENT,"This purchase grants you the right to use any rewards obtained through this recruitment in Goddess of Victory: NIKKE, subject to the terms specified <color=#EA9797>here</color>."
@@ -10659,6 +11284,42 @@ HELP_TOWER_10,Tetra Tower
 HELP_TOWER_10_01,Open to Nikkes from Tetra (including Tetra Over-spec Nikkes)
 HELP_TOWER_11,Pilgrim/Over-spec Tower
 HELP_TOWER_11_01,Open to Pilgrims and Over-spec Nikkes
+HELP_SURFACE_BUFF_PARTS_TITLE,About Part Purchase
+HELP_SURFACE_BUFF_PARTS_01,Unlocking Parts
+HELP_SURFACE_BUFF_PARTS_01_01,Conduct research on the surface to unlock parts.
+HELP_SURFACE_BUFF_PARTS_01_02,Each kind of part can be unlocked at different levels.
+HELP_SURFACE_BUFF_PARTS_02,Purchasing Parts
+HELP_SURFACE_BUFF_PARTS_02_01,Parts can be purchased for a specified cost.
+HELP_SURFACE_BUFF_PARTS_02_02,Purchased parts provide specific effects to the relevant squad for a certain period of time.
+HELP_SURFACE_BUFF_PARTS_03,Part Effects
+HELP_SURFACE_BUFF_PARTS_03_01,Effects obtained upon purchase vary depending on the type of part.
+HELP_SURFACE_BUFF_PARTS_03_02,Effects obtained upon purchase will become stronger according to the level of the parts.
+HELP_SURFACE_BUFF_PARTS_03_03,"When part effects of the same type are purchased, only the last purchased effect will take effect."
+HELP_HEXA_CODE_TITLE,About Hexacodes
+HELP_HEXA_CODE_01,Hexacode Overview
+HELP_HEXA_CODE_01_01,A system that enhances code attributes through boards of different codes.
+HELP_HEXA_CODE_01_02,Equipping a board with a BIOS and blocks will enhance Nikkes' codes.
+HELP_HEXA_CODE_01_03,Attributes change based on the BIOS and blocks assigned to the board.
+HELP_HEXA_CODE_02,Boards
+HELP_HEXA_CODE_02_01,Boards are where blocks are assigned.
+HELP_HEXA_CODE_02_02,You can unlock slots on a board using currency.
+HELP_HEXA_CODE_02_03,Unlocked slots can be freely used regardless of the code type.
+HELP_HEXA_CODE_03,BIOS
+HELP_HEXA_CODE_03_01,An item that determines the BIOS effects of a hexacode.
+HELP_HEXA_CODE_03_02,Different BIOS effects are activated depending on the rarity and type of the BIOS equipped.
+HELP_HEXA_CODE_03_03,BIOS effects are enhanced according to the functions of the blocks on the board.
+HELP_HEXA_CODE_03_04,Effects that are not enhanced by blocks will not be applied.
+HELP_HEXA_CODE_03_05,BIOSes cannot be used during the beta period.
+HELP_HEXA_CODE_04,Blocks
+HELP_HEXA_CODE_04_01,Items with designated functions that enhance BIOS effects.
+HELP_HEXA_CODE_04_02,There are three types of blocks.
+HELP_HEXA_CODE_04_03,The functions assigned to a block are random.
+HELP_HEXA_CODE_04_04,Blocks can only be placed in unlocked areas of a board. They become active once their placement is saved.
+HELP_HEXA_CODE_04_05,"You can equip, rotate, or switch out a block while placing it on a board."
+HELP_HEXA_CODE_05,Functions
+HELP_HEXA_CODE_05_02,Functions are linked to blocks and are applied when blocks are assigned to a board.
+HELP_HEXA_CODE_05_03,BIOS attributes are enhanced according to the points of the applied functions.
+HELP_HEXA_CODE_05_04,Functions are only applied when they match the BIOS.
 RANKING_TOWER_PILGRIMOVERSPEC_CLEAR,Clear Pilgrim/Over-spec Tower floor {0} cleared.
 TOWER_PILGRIMOVERSPEC_NAME,Pilgrim/Over-spec Tower
 TOWER_PILGRIMOVERSPEC_NAME_ENG,PILGRIM/OVER-SPEC TOWER
@@ -10875,4 +11536,15 @@ WEAPON_EFFECTIVE_RANGE_INFO_LONG_RANGE,Long-Range
 WEAPON_EFFECTIVE_RANGE_INFO_ALL_RANGE,All
 WEAPON_CONTROL_TYPE_NORMAL,Normal
 WEAPON_CONTROL_TYPE_CHARGE,Charge
+MAIN_FORCE_BOOKMARK,Main Nikke
 TOWER_AUTO_START_BUTTON,Auto Challenge
+SIDE_STORY_RECOMMENDATION_BTN,Related Story
+SIDE_STORY_SHORT_CUT_TITLE,Go to Story
+SIDE_STORY_SHORT_CUT_DESC,"Go to the side story ""{0}""?"
+SIMULATIONROOM_SIMPLE_REWARD_ONLY_TITLE,Quick Simulation ends immediately when rewards can be claimed.
+SIMULATIONROOM_SIMPLE_HELP_POPUP_DESC_251030,"Quick Simulation differs from the previous Simulation Room process.
+
+- You can choose and obtain any 3 buffs in advance.
+- You can head straight to the final area without going through the middle stages.
+
+* After clearing Campaign Chapter 20, the option to receive rewards without selecting buffs or engaging in battles will become available."

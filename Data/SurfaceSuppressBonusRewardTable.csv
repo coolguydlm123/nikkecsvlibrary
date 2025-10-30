@@ -1,0 +1,5 @@
+id,world_id,suppress_type,order,currency_id,currency_consume
+1401,4,BossRaid,1,99,300
+1402,4,BossRaid,2,99,300
+1403,4,BossRaid,3,99,300
+2401,4,LegionRaid,1,99,300

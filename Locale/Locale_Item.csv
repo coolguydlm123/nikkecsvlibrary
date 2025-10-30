@@ -333,6 +333,7 @@ piece_315,Ade: Agent Bunny's Spare Body
 piece_840,Ada's Spare Body
 piece_841,Jill's Spare Body
 piece_842,Claire's Spare Body
+piece_23,Delta: Ninja Thief's Spare Body
 consume_exp,Battle Data Set
 consume_exp2,Core Dust
 consume_gold,Credit
@@ -1532,6 +1533,32 @@ story_event_currency_material_090_desc,"Mixing herbs of three or more colors cre
 Where to use: Event Shop
 
 * When the event ends, each remaining Mixed Herbs will be exchanged for 200 Credits."
+story_event_ticket_material_092,Ninja Thief's Handbook
+story_event_ticket_material_092_desc,"Everything you need to know to become a Ninja Thief is written in this book. Master its principles and take the test to embark on the path of ninja-thiefdom. Mistakes will not be tolerated.
+
+Where to use: Event Stage Entry
+
+* Up to 5 handbooks are automatically replenished daily at 05:00 (UTC+9).
+* Handbooks will not be replenished if you already have 5 or more."
+story_event_currency_material_092,Ninja Thief's Shuriken
+story_event_currency_material_092_desc,"Ninja Thieves must move in secrecy and silence while carrying out their duty with precision. It is out of this need that a weapon fulfilling all these conditions was made exclusively for them. With this, becoming an official Ninja Thief is surely within reach.
+
+Where to use: Event Shop
+
+* When the event ends, each remaining Ninja Thief's Shuriken will be exchanged for 200 Credits."
+story_event_ticket_material_093,Eden Keycard
+story_event_ticket_material_093_desc,"A keycard that grants access to the different facilities in Eden. Here, you can experience their cutting-edge technology, developed in isolation from the Ark. But of course, you need to work for Eden in exchange.
+
+Where to use: Event Stage Entry
+
+* Up to 5 keycards are automatically replenished daily at 05:00 (UTC+9). 
+* Keycards will not be replenished if you already have 5 or more."
+story_event_currency_material_093,Eden Points
+story_event_currency_material_093_desc,"Eden may have everything, but if everyone were to use resources without restraint, it would cause serious problems. As such, the Eden Point system was introduced as a means of rewarding the pro-active, but it is largely meaningless—the members are so relentlessly active that they have more points than they could ever use.
+
+Where to use: Event Shop
+
+* When the event ends, each remaining Eden Point will be exchanged for 200 Credits."
 story_event_currency_material_1003,Heart Clock
 story_event_currency_material_1003_desc,"The time in Snowfield Hot Spring will begin to elapse when you use this.
 Time cannot be reversed, so please make your choice carefully.
@@ -1787,6 +1814,28 @@ This ID card proves her identity while she is on a secret mission. Let's keep he
 
 * Exclusive currency for D: Killer Wife's Costume Gacha.
 * When the event ends, each remaining A.C.P.U. ID Card will be exchanged for 120 Free Gems."
+box_gacha_event_currency_material_025,Old Key
+box_gacha_event_currency_material_025_desc,"On the day everything ends, she will return to the place she yearns for the most.
+She will engrave the memories of her companions into her heart, open the door with the old key she has carefully kept all this time, and return to her home.
+
+※ Exclusive currency for Red Hood's Costume Gacha.
+※ When the event ends, each remaining Old Key will be exchanged for 120 Free Gems."
+box_gacha_event_currency_material_025_free,Old Key
+box_gacha_event_currency_material_025_free_desc,"On the day everything ends, she will return to the place she yearns for the most.
+She will engrave the memories of her companions into her heart, open the door with the old key she has carefully kept all this time, and return to her home.
+
+* Exclusive currency for Red Hood's Costume Gacha.
+* When the event ends, unused Free Costume Tickets will disappear."
+box_gacha_event_currency_material_026,Golden Lotus
+box_gacha_event_currency_material_026_desc,"The flowers that drifted far away from their source have surely blossomed into beautiful lives of their own. She will always remember those flowers, those lives that bloomed so gloriously.
+
+* Exclusive currency for Nayuta's Costume Gacha.
+* When the event ends, each remaining Golden Lotus will be converted into 120 Free Gems."
+box_gacha_event_currency_material_026_free,Golden Lotus
+box_gacha_event_currency_material_026_free_desc,"The flowers that drifted far away from their source also no doubt blossomed into beautiful lives of their own. She will always remember those flowers, those lives that bloomed so gloriously.
+
+* Exclusive currency for Nayuta's Costume Gacha.
+* When the event ends, unused Free Costume Tickets will disappear."
 gacha_board_event_currency_material_001,5X5 Gacha Ticket
 gacha_board_event_currency_material_001_desc,"A ticket used in 5X5 SUPPLIES.
 
@@ -3014,6 +3063,9 @@ story_event_ticket_material_075_desc_archive,"When memories of the past turn int
 She waits for the day she can see those beloved faces again."
 story_event_currency_material_075_desc_archive,"Even chains of different colors intertwine into one as they collide and live together.
 This chain will surely become a force to overcome all misfortunes and hardships in this world."
+story_event_ticket_material_059_desc_archive,"You don't need much to become a phantom thief. All it takes is a righteous heart, a cape that flutters in the wind, and a mask to hide your true identity. Now, wait for the night to fall."
+story_event_currency_material_059_desc_archive,"Take out the calling card prepared in advance and make your declaration to the villains. Tonight, we will take back that which made others cry.
+Oh, remember to check the spelling before throwing the calling card out."
 story_event_ticket_material_1001_desc_archive,"A hard drive containing recordings of Snow White's daily search efforts.
 By recording the present, there may be a chance of resurrecting long-forgotten memories from the past."
 story_event_currency_material_1001_desc_archive,"The data chip Snow White uses to record the items she collected.
@@ -3629,3 +3681,46 @@ select_box_favoriteitem_material_01_desc,"A box that can be obtained from Solo R
 While typically deemed to be unimportant, these items may be just what someone needs. 
 
 Provides random Favorite Item Maintenance items from Favorite Item Season 1 and 2."
+selectbox_ssr_free_nikke_3,3rd Anniversary Nikke Selection Box
+selectbox_ssr_free_nikke_3_desc,"Use this to select a Nikke to join your squad.
+Please select carefully."
+bundle_box_event_3rd_anniversary_present,3rd Anniversary Present
+bundle_box_event_3rd_anniversary_present_desc,"It's been three years since we started on this path with you, Commander. Our time together has truly been a gift. We promise to stand by your side with unwavering hearts, just as we always have."
+randombox_3rd_anniversary_present,3rd Anniversary Cake
+randombox_3rd_anniversary_present_desc,"Snow White: Hm, so this is a cake... It looks good. Time to eat.
+Nayuta: Hold thee fast, White Snow. A cake is such that the more exquisite its decorations be, the more delightful its taste.
+Snow White: Decorations? What do you mean?
+Nayuta: Folk oft do add garnishes, or e'en inedible ornaments, so long as they be objects of beauty or affection.
+Snow White: No need for anything inedible. Add the garnish.
+Nayuta: Very well. I shall fetch the centipede dumpling White Snow did hide, and place it atop.
+Rapunzel: Argh...
+Scarlet: ...
+Nayuta: I did also bring a book that Persinette doth enjoy. Would it not look fair upon the cake?
+Rapunzel: Th-that's...! The limited-edition spin-off of that passionate, reckless tale! I only just managed to obtain it... Now, the cake's icing on it stirs up my imagination even more...! Ah... Ahhh!
+Snow White: We don't need anything we can't eat. Toss it.
+Scarlet: ...
+Nayuta: Lastly, Young Lady Scarlet.
+Scarlet: I... I shall abstain.
+Nayuta: Behold, my decoration: a numeral ornament for us all, in celebration of our third anniversary.
+Scarlet: Ooh, 'tis rather common by comparison.
+Nayuta: Methought the cake ought have a proper decoration, even if but one.
+Snow White: Now can we eat?
+Nayuta: Aye. Young Lady Scarlet, wilt thou slice the cake into portions suitable for eating?
+Scarlet: Very well. I shall cleave it into four equal parts with precision. Grant me but a moment.
+*Shatter*
+Scarlet: Hmm... Even the plate hath been cloven. Fleetly Fading was famished no doubt.
+Snow White: The cake's been cut. Time to eat.
+Rapunzel: Be careful not to eat the plate.
+Nayuta: ...
+
+* Use it to get a random General Gift."
+randombox_hexa_block_t1,Random Hexacode Block I
+randombox_hexa_block_t2,Random Hexacode Block II
+randombox_hexa_block_t3,Random Hexacode Block III
+randombox_hexa_block_t1_desc,Obtain a random hexacode block of any elemental code.
+randombox_hexa_block_t2_desc,Obtain a random hexacode block of any elemental code.
+randombox_hexa_block_t3_desc,Obtain a random hexacode block of any elemental code.
+hexa_block_name_c,C-Type Block
+hexa_block_name_i,I-Type Block
+hexa_block_name_a,A-Type Block
+hexa_block_desc,"A block that can be placed on a hexacode board, allowing you to enhance the board with the block's functions."

@@ -1,0 +1,7 @@
+id,resource_id,bios_type,hexafunctionpointdata/0/point_rare,hexafunctionpointdata/1/point_rare,hexafunctionpointdata/2/point_rare,hexafunctionpointdata/3/point_rare,hexafunctionpointdata/4/point_rare,hexafunctionpointdata/5/point_rare,hexafunctionpointdata/6/point_rare,hexafunctionpointdata/7/point_rare,hexafunctionpointdata/8/point_rare
+101,hexacode_function_atk,MAIN,0,0,0,1,2,3,4,5,6
+201,hexacode_function_def,MAIN,0,0,0,1,2,3,4,5,6
+301,hexacode_function_hp,SUB_01,0,0,0,1,2,3,4,5,6
+401,hexacode_function_crit_rate,SUB_01,0,0,0,1,2,3,4,5,6
+501,hexacode_function_crit_dem,SUB_02,0,0,0,1,2,3,4,5,6
+601,hexacode_function_chg_dem,SUB_02,0,0,0,1,2,3,4,5,6

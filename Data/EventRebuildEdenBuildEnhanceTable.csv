@@ -1,0 +1,6 @@
+id,buildlevel,perkpoints,requirementmaterialsettingdata/0/requirement_material_id,requirementmaterialsettingdata/0/requirement_material_amount,requirementmaterialsettingdata/1/requirement_material_id,requirementmaterialsettingdata/1/requirement_material_amount
+1,1,0,0,0,0,0
+2,2,1,1101,100,1102,50
+3,3,1,1101,200,1102,75
+4,4,1,1101,500,1103,100
+5,5,1,1101,1200,1103,175

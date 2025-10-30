@@ -187,6 +187,10 @@ usericon_name_515100,Ade: Agent Bunny's Icon
 usericon_name_515200,Ada's Icon
 usericon_name_515300,Jill's Icon
 usericon_name_301700,Claire's Icon
+usericon_name_515400,Delta: Ninja Thief's Icon
+usericon_name_515500,Nayuta's Icon
+usericon_name_515600,Liberalio's Icon
+usericon_name_515700,Chime's Icon
 usericon_name_510101,Red Hood - Nonsense Red's Icon
 usericon_name_501701,Miranda - Thief of Justice's Icon
 usericon_name_508101,Tove - Baseball Fan's Icon
@@ -321,6 +325,11 @@ usericon_name_515301,Jill - Classic's Icon
 usericon_name_515302,Jill - Battle Suit's Icon
 usericon_name_514101,K - Undercover's Icon
 usericon_name_511002,D: Killer Wife - Secret Police's Icon
+usericon_name_512902,Rapi: Red Hood - Cherished Red's Icon
+usericon_name_510102,Red Hood - Retro Days's Icon
+usericon_name_506502,Crown - Glorious Flower's Icon
+usericon_name_513702,Little Mermaid - Beautiful Bubble's Icon
+usericon_name_551501,Nayuta - Wu Wei's Icon
 uf_name_100,Rookie Commander
 uf_name_101,Virtuous Commander
 uf_name_102,Empathic Commander
@@ -392,6 +401,10 @@ uf_name_1000days_event_frame,1000 DAYS Frame
 uf_jofftour_event_frame_01,Traveler of the Millennium City
 uf_name_ce007_event_frame_01,Ada Frame
 uf_name_ce007_event_frame_02,Jill Frame
+uf_name_side_story_frame_05,Eden Frame
+uf_name_rebuildeden_event,Rebuild Eden Frame
+uf_name_surface_beta_frame_01,Guide Frame
+uf_name_surface_beta_frame_02,Professional Guide Frame
 uf_name_soloraid_MotherWhale_tier1,Mother Whale Frame I
 uf_name_soloraid_MotherWhale_tier2,Mother Whale Frame II
 uf_name_soloraid_MotherWhale_tier3,Mother Whale Frame III
@@ -479,9 +492,12 @@ uf_name_soloraid_ziz_03_tier3,Ziz Frame III
 uf_name_soloraid_motherwhale_04_tier1,Mother Whale Z Frame I
 uf_name_soloraid_motherwhale_04_tier2,Mother Whale Z Frame II
 uf_name_soloraid_motherwhale_04_tier3,Mother Whale Z Frame III
-uf_name_soloraid_pitilessjudge_02_tier1,Merciless Judge Frame I
-uf_name_soloraid_pitilessjudge_02_tier2,Merciless Judge Frame II
-uf_name_soloraid_pitilessjudge_02_tier3,Merciless Judge Frame III
+uf_name_soloraid_pitilessjudge_02_tier1,The Merciless Judge Frame I
+uf_name_soloraid_pitilessjudge_02_tier2,The Merciless Judge Frame II
+uf_name_soloraid_pitilessjudge_02_tier3,The Merciless Judge Frame III
+uf_name_soloraid_queen_05_tier1,Queen 001 Frame I
+uf_name_soloraid_queen_05_tier2,Queen 001 Frame II
+uf_name_soloraid_queen_05_tier3,Queen 001 Frame III
 uf_name_soloraid_museum_motherwhale_02_tier1,Replica Mother Whale P Frame I
 uf_name_soloraid_museum_motherwhale_02_tier2,Replica Mother Whale P Frame II
 uf_name_soloraid_museum_motherwhale_02_tier3,Replica Mother Whale P Frame III
@@ -501,6 +517,11 @@ icn_vote_event_02_frame_02_name,Noble Frame
 icn_vote_event_02_frame_03_name,Oriental Frame
 icn_vote_event_02_frame_04_name,Lucky Bunny Frame
 icn_vote_event_02_frame_05_name,Shadow Frame
+icn_vote_event_03_frame_01_name,Deep Red Frame
+icn_vote_event_03_frame_02_name,Mirror Frame
+icn_vote_event_03_frame_03_name,Majestic Frame
+icn_vote_event_03_frame_04_name,Feather Frame
+icn_vote_event_03_frame_05_name,Moonlight Frame
 champion_arena_main_platinum_tier3_frame_00_00_name,Champion Frame I
 champion_arena_main_platinum_tier3_frame_01_01_name,Champion Frame II
 champion_arena_main_platinum_tier3_frame_01_02_name,Champion Frame III
@@ -660,6 +681,15 @@ uf_description_1000days_event_frame,"Thank you for your 24,000 hours of companio
 uf_description_jofftour_event_frame_01,May you have a pleasant journey with the Nikkes.
 uf_description_ce007_event_frame_01,A frame created to remember the enigmatic lady who forged a path through darkness.
 uf_description_ce007_event_frame_02,A frame created to remember the one who fought against evil and strove to uphold justice even in an unfamiliar world.
+uf_description_side_story_frame_05,"For some, it was a new home,
+for others, new possibilities,
+and for others still, a new future.
+Let us remember their paradise, where all these dreams were born."
+uf_description_rebuildeden_event,The once fallen star rises again.
+uf_description_surface_beta_frame_01,"Sincere thanks to you for being among the first to embark on the unknown adventure of the surface.
+Your remarkable experience will be the key to reclaiming the surface anew."
+uf_description_surface_beta_frame_02,"Sincere thanks to you for being among the first to walk the unknown path of the surface.
+Your courageous footsteps will be the cornerstone of reclaiming the surface anew."
 uf_description_soloraid_MotherWhale_tier1,"The proof of your victory against Mother Whale in Solo Raid.
 Everyone will pay their respects to you for your splendid command ability, which has brought down even the colossal whale which once soared high in the sky."
 uf_description_soloraid_MotherWhale_tier2,"The proof of your victory against Mother Whale in Solo Raid.
@@ -849,6 +879,15 @@ uf_description_soloraid_pitilessjudge_02_tier2,"A proof of the battle against th
 The sins wrought by mankind have been put to rest so they can spread no further."
 uf_description_soloraid_pitilessjudge_02_tier3,"A proof of the battle against the Merciless Judge in Solo Raid.
 The sins wrought by mankind have been purged. No hymn of praise for them shall ever be heard on this land again."
+uf_description_soloraid_queen_05_tier1,"The proof of your battle against Queen 001 in Solo Raid.
+You stood against the Rapture Queen—the absolute being—and survived.
+That alone is a monumental feat worthy of being etched into human history."
+uf_description_soloraid_queen_05_tier2,"The proof of your battle against Queen 001 in Solo Raid.
+You stood against the Rapture Queen and dealt significant damage.
+Your great achievement marks a turning point for humanity."
+uf_description_soloraid_queen_05_tier3,"The proof of your battle against Queen 001 in Solo Raid.
+You brought down the Rapture Queen, who once soared beyond the skies, demonstrating the might of humanity.
+Your glorious name shall lead mankind to victory."
 uf_description_soloraid_museum_motherwhale_02_tier1,"The proof of having reviewed the battle against the Water Code Mother Whale in Solo Raid Museum.
 Everyone will pay their respects to you for your splendid command ability, which has brought down even the colossal whale which once soared high in the sky."
 uf_description_soloraid_museum_motherwhale_02_tier2,"The proof of having reviewed the battle against the Water Code Mother Whale in Solo Raid Museum.
@@ -887,6 +926,18 @@ icn_vote_event_02_frame_04_description,"A frame modeled after the Nikke who's al
 If the Bunny Twins hold your hands, bad luck will never fall upon you."
 icn_vote_event_02_frame_05_description,"A frame made to commemorate the Nikke who was as cold as a sharp sword.
 Are those crimson flecks blood or petals? To heighten her strength, she shall once again weld her sword this day."
+icn_vote_event_03_frame_01_description,"A frame modeled after a Nikke who cherished her friends, her teacher, and lofty ideals.
+When the once-empty girl is bathed in crimson light, she will come to realize that defeat no longer exists."
+icn_vote_event_03_frame_02_description,"A frame modeled after a beautiful Nikke who once turned her back on mankind and fell into a slumber.
+The mirror that once showed only darkness now begins to reflect you. Though the ending remains unknown, she will write a beautiful story anew with you."
+icn_vote_event_03_frame_03_description,"A frame modeled after the supreme king of a kingdom on the surface.
+If you find yourself lost and wandering alone, feel free to visit this kingdom. Her Majesty will gladly accept all subjects and treat them equally."
+icn_vote_event_03_frame_04_description,"A frame modeled after a Nikke who truly personifies the word ""lady.""
+Shaded beneath her parasol, she sips tea, but the seat across from her is empty.
+It's unclear whether that seat is meant for you, but one thing's certain: she's waiting for someone.
+Perhaps this is the perfect chance to sit down and chat with her."
+icn_vote_event_03_frame_05_description,"A frame crafted in honor of a wandering swordswoman.
+It shields her from the sun, shelters her from rain and snow, and holds the moonlight close—a precious companion she can no longer be without in her life on the road."
 champion_arena_main_platinum_tier3_frame_00_00_description,A tribute to the champion in Champion Arena.
 champion_arena_main_platinum_tier3_frame_01_01_description,A tribute to the champion in Champion Arena.
 champion_arena_main_platinum_tier3_frame_01_02_description,A tribute to the champion in Champion Arena.
@@ -983,6 +1034,8 @@ bg_boomtheghost_01_name,BOOM! THE GHOST! Premium Background
 bg_absolute_01_name,ABSOLUTE Premium Background
 bg_coinsinrush_01_name,COINS IN RUSH Premium Background
 bg_jofftour_01_name,Journey to the Millennium City Premium Background
+bg_edenspear_01_name,EDEN SPEAR Premium Background
+bg_goddessfall_01_name,Goddess Fall Premium Background
 sticker_bunny777_01_name,BUNNY x 777 Premium Sticker
 sticker_nocallerid_01_name,NO CALLER ID Premium Sticker I
 sticker_nocallerid_02_name,NO CALLER ID Premium Sticker II
@@ -1078,6 +1131,10 @@ sticker_absolute_01_name,ABSOLUTE Premium Sticker I
 sticker_coinsinrush_01_name,COINS IN RUSH Premium Sticker I
 sticker_madeinrush_01_name,MADE IN RUSH Premium Sticker I
 sticker_jofftour_01_name,Journey to the Millennium City Premium Sticker I
+sticker_goninjathief_01_name,GO! NINJA THIEF! Premium Sticker I
+sticker_goddessfall_01_name,Goddess Fall Premium Sticker I
+sticker_rebuildeden_01_name,REBUILD: EDEN Premium Sticker I
+sticker_rebuildeden_02_name,REBUILD: EDEN Premium Sticker II
 bg_bunny777_01_name,BUNNY x 777 Special Background
 bg_nocallerid_01_name,NO CALLER ID Special Background
 bg_bowwowparadise_01_name,BOW WOW PARADISE Special Background
@@ -1121,6 +1178,7 @@ bg_killthelord_01_name,KILL THE LORD Special Background
 bg_arcanearchive_01_name,ARCANE ARCHIVE Special Background
 bg_lordforjustice_01_name,"LORD, FOR JUSTICE Special Background"
 bg_overthehorizon_01_name,OVER THE HORIZON Special Background
+bg_goninjathief_01_name,GO! NINJA THIEF! Special Background
 sticker_bunny777_02_name,BUNNY x 777 Special Sticker I
 sticker_bunny777_03_name,BUNNY x 777 Special Sticker II
 sticker_bunny777_04_name,BUNNY x 777 Special Sticker III
@@ -1258,6 +1316,11 @@ sticker_absolute_03_name,ABSOLUTE Special Sticker II
 sticker_coinsinrush_02_name,COINS IN RUSH Special Sticker I
 sticker_coinsinrush_03_name,COINS IN RUSH Special Sticker II
 sticker_madeinrush_02_name,MADE IN RUSH Special Sticker I
+sticker_goninjathief_02_name,GO! NINJA THIEF! Special Sticker I
+sticker_goninjathief_03_name,GO! NINJA THIEF! Special Sticker II
+sticker_goddessfall_02_name,Goddess Fall Special Sticker I
+sticker_goddessfall_03_name,Goddess Fall Special Sticker II
+sticker_rebuildeden_03_name,REBUILD: EDEN Special Sticker I
 title_bunny777_name,BUNNY x 777 Special Title
 title_nocallerid_name,NO CALLER ID Special Title
 title_bowwowparadise_name,BOW WOW PARADISE Special Title
@@ -1315,6 +1378,8 @@ title_overthehorizon_name,OVER THE HORIZON Special Title
 title_boomtheghost_name,BOOM! THE GHOST! Special Title
 title_absolute_name,ABSOLUTE Special Title
 title_coinsinrush_name,COINS IN RUSH Special Title
+title_goninjathief_name,GO! NINJA THIEF! Special Title
+title_goddessfall_name,Goddess Fall Special Title
 bg_default_00_name,Central Government Supply Background I
 bg_default_01_name,Central Government Supply Background II
 bg_default_02_name,Central Government Supply Background III
@@ -1362,6 +1427,10 @@ Can be used in profile decoration."
 bg_coinsinrush_01_description,"Premium profile background for COINS IN RUSH.
 Can be used in profile decoration."
 bg_jofftour_01_description,"Premium profile background for Journey to the Millennium City.
+Can be used in profile decoration."
+bg_edenspear_01_description,"Premium profile background for EDEN SPEAR.
+Can be used in profile decoration."
+bg_goddessfall_01_description,"Premium profile background for Goddess Fall.
 Can be used in profile decoration."
 sticker_bunny777_01_description,"Premium profile sticker for BUNNY x 777.
 Can be used in profile decoration."
@@ -1553,6 +1622,14 @@ sticker_madeinrush_01_description,"Premium profile sticker for MADE IN RUSH.
 Can be used in profile decoration."
 sticker_jofftour_01_description,"Premium profile sticker for Journey to the Millennium City.
 Can be used in profile decoration."
+sticker_goninjathief_01_description,"Premium profile sticker for GO! NINJA THIEF!
+Can be used in profile decoration."
+sticker_goddessfall_01_description,"Premium profile sticker for Goddess Fall.
+Can be used in profile decoration."
+sticker_rebuildeden_01_description,"Premium profile sticker for REBUILD: EDEN.
+Can be used in profile decoration."
+sticker_rebuildeden_02_description,"Premium profile sticker for REBUILD: EDEN.
+Can be used in profile decoration."
 bg_bunny777_01_description,"Special profile background for BUNNY x 777.
 Can be used in profile decoration."
 bg_nocallerid_01_description,"Special profile background for NO CALLER ID.
@@ -1638,6 +1715,8 @@ Can be used in profile decoration."
 bg_lordforjustice_01_description,"Special profile background for LORD, FOR JUSTICE.
 Can be used in profile decoration."
 bg_overthehorizon_01_description,"Special profile background for OVER THE HORIZON.
+Can be used in profile decoration."
+bg_goninjathief_01_description,"Special profile background for GO! NINJA THIEF!
 Can be used in profile decoration."
 sticker_bunny777_02_description,"Special profile sticker for BUNNY x 777.
 Can be used in profile decoration."
@@ -1913,6 +1992,16 @@ sticker_coinsinrush_03_description,"Special profile sticker for COINS IN RUSH.
 Can be used in profile decoration."
 sticker_madeinrush_02_description,"Special profile sticker for MADE IN RUSH.
 Can be used in profile decoration."
+sticker_goninjathief_02_description,"Special profile sticker for GO! NINJA THIEF!
+Can be used in profile decoration."
+sticker_goninjathief_03_description,"Special profile sticker for GO! NINJA THIEF!
+Can be used in profile decoration."
+sticker_goddessfall_02_description,"Special profile sticker for Goddess Fall.
+Can be used in profile decoration."
+sticker_goddessfall_03_description,"Special profile sticker for Goddess Fall.
+Can be used in profile decoration."
+sticker_rebuildeden_03_description,"Special profile sticker for REBUILD: EDEN.
+Can be used in profile decoration."
 title_bunny777_description,"Special profile title for BUNNY x 777.
 Can be used in profile decoration."
 title_nocallerid_description,"Special profile title for NO CALLER ID.
@@ -2027,6 +2116,10 @@ title_absolute_description,"Special profile title for ABSOLUTE.
 Can be used in profile decoration."
 title_coinsinrush_description,"Special profile title for COINS IN RUSH.
 Can be used in profile decoration."
+title_goninjathief_description,"Special profile title for GO! NINJA THIEF!
+Can be used in profile decoration."
+title_goddessfall_description,"Special profile title for Goddess Fall.
+Can be used in profile decoration."
 bg_default_00_description,"Profile background supplied by the Central Government.
 Can be used in profile decoration."
 bg_default_01_description,"Profile background supplied by the Central Government.
@@ -2085,6 +2178,7 @@ badge_532_name,Sora's Badge Sticker
 badge_93_name,Emma: Tactical Upgrade's Badge Sticker
 badge_94_name,Vesti: Tactical Upgrade's Badge Sticker
 badge_95_name,Eunhwa: Tactical Upgrade's Badge Sticker
+badge_23_name,Delta: Ninja Thief's Badge Sticker
 badge_102_name,Maxwell's Badge Sticker
 badge_160_name,Yuni's Badge Sticker
 badge_82_name,Liter's Badge Sticker
@@ -2179,6 +2273,9 @@ badge_511_name,Cinderella's Badge Sticker
 badge_514_name,Grave's Badge Sticker
 badge_513_name,Little Mermaid's Badge Sticker
 badge_234_name,Dorothy: Serendipity's Badge Sticker
+badge_223_name,Nayuta's Badge Sticker
+badge_262_name,Liberalio's Badge Sticker
+badge_331_name,Chime's Badge Sticker
 badge_10_name,Rapi's Badge Sticker
 badge_11_name,Neon's Badge Sticker
 badge_20_name,Delta's Badge Sticker
@@ -2224,6 +2321,7 @@ badge_532_description,Obtained from Sora's Advice Collection.
 badge_93_description,Obtained from Emma: Tactical Upgrade's Advice Collection.
 badge_94_description,Obtained from Vesti: Tactical Upgrade's Advice Collection.
 badge_95_description,Obtained from Eunhwa: Tactical Upgrade's Advice Collection.
+badge_23_description,Obtained from Delta: Ninja Thief's Advice Collection.
 badge_102_description,Obtained from Maxwell's Advice Collection.
 badge_160_description,Obtained from Yuni's Advice Collection.
 badge_82_description,Obtained from Liter's Advice Collection.
@@ -2318,6 +2416,9 @@ badge_511_description,Obtained from Cinderella's Advice Collection.
 badge_514_description,Obtained from Grave's Advice Collection.
 badge_513_description,Obtained from Little Mermaid's Advice Collection.
 badge_234_description,Obtained from Dorothy: Serendipity's Advice Collection.
+badge_223_description,Obtained from Nayuta's Advice Collection.
+badge_262_description,Obtained from Liberalio's Advice Collection.
+badge_331_description,Obtained from Chime's Advice Collection.
 badge_10_description,Obtained from Rapi's Advice Collection.
 badge_11_description,Obtained from Neon's Advice Collection.
 badge_20_description,Obtained from Delta's Advice Collection.

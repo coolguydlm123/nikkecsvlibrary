@@ -83,3 +83,7 @@ Arcade,StageClear,6002001,Locale_System:CONTENTSOPEN_CONDITION_TITLE,True,True,S
 SimulationRoomSimple,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,True,True,StageClear,6018045,None,0
 CampaignQuickBattle,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,False,False,StageClear,6005026,None,0
 SoloRaidMuseum,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,True,True,StageClear,6006004,None,0
+Campaign_Story,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,False,True,StageClear,6006035,None,0
+SimulationRoomSimpleRewardOnly,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,True,False,StageClear,6020050,None,0
+HexaCode,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,True,True,StageClear,6018045,None,0
+Surface,None,0,Locale_System:CONTENTSOPEN_CONDITION_TITLE,True,False,StageClear,6018045,None,0

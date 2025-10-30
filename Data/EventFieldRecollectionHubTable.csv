@@ -58,3 +58,6 @@ id,group_id,recollection_category_type,scenario_contents_type,scenario_event_id,
 1002601,10026,Album,StoryDungeon,40090,0,10901,Locale_Event:recollection_hub_story_1,,icn_recollection_hub_stroy01,ui_event_bg_ce007_part1
 1002602,10026,Album,StoryDungeon,40091,0,10911,Locale_Event:recollection_hub_story_2,,icn_recollection_hub_stroy02,ui_event_bg_ce007_part2
 1002603,10026,Album,MiniGame,82601,0,30015,Locale_Event:recollection_hub_minigame,,icn_recollection_hub_minigame,
+1002701,10027,Album,StoryDungeon,40093,0,10931,Locale_Event:recollection_hub_story_1,,icn_recollection_hub_stroy01,ui_event_bg_goddessfall_part1
+1002702,10027,Album,StoryDungeon,40094,0,10941,Locale_Event:recollection_hub_story_2,,icn_recollection_hub_stroy02,ui_event_bg_goddessfall_part2
+1002703,10027,Album,MiniGame,82701,0,30016,Locale_Event:recollection_hub_minigame,,icn_recollection_hub_minigame,

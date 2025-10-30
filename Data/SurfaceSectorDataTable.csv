@@ -1,0 +1,6 @@
+id,sector_group,sector,sector_name_localkey,sector_description_localkey,sector_open_condition_type,sector_open_condition_id,coin_collect_reward_group_id
+4001001,4001,1,Locale_System:SURFACE_SECTOR_NAME_01,Locale_System:SURFACE_AREA_SCALE_SMALL,None,0,400101
+4001002,4001,2,Locale_System:SURFACE_SECTOR_NAME_02,Locale_System:SURFACE_AREA_SCALE_SMALL,GatewayWaveComplete,4001,400102
+4001003,4001,3,Locale_System:SURFACE_SECTOR_NAME_03,Locale_System:SURFACE_AREA_SCALE_SMALL,GatewayWaveComplete,4002,400103
+4001004,4001,4,Locale_System:SURFACE_SECTOR_NAME_04,Locale_System:SURFACE_AREA_SCALE_SMALL,GatewayWaveComplete,4003,400104
+5001001,5001,1,Locale_System:SURFACE_SECTOR_NAME_01,Locale_System:SURFACE_AREA_SCALE_SMALL,None,0,500101

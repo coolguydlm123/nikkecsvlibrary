@@ -1,4 +1,4 @@
-id,name_code,attractive_level,condition_scenario_group_id,scenario_title_loacle,attractive_scenario_group_id,reward_id,costume
+id,name_code,attractive_level,condition_scenario_group_id,scenario_title_locale,attractive_scenario_group_id,reward_id,costume
 1,3001,1,,Locale_NikkeEpisode:d_nikke_rapi_01_title,d_nikke_rapi_01,50,0
 2,3001,3,d_nikke_rapi_01,Locale_NikkeEpisode:d_nikke_rapi_02_title,d_nikke_rapi_02,50,0
 3,3001,5,d_nikke_rapi_02,Locale_NikkeEpisode:d_nikke_rapi_03_title,d_nikke_rapi_03,50,0
@@ -789,3 +789,18 @@ id,name_code,attractive_level,condition_scenario_group_id,scenario_title_loacle,
 788,5154,5,d_nikke_delta_ninjathief_02,Locale_NikkeEpisode:d_nikke_delta_ninjathief_03_title,d_nikke_delta_ninjathief_03,50,0
 789,5154,7,d_nikke_delta_ninjathief_03,Locale_NikkeEpisode:d_nikke_delta_ninjathief_04_title,d_nikke_delta_ninjathief_04,50,0
 790,5154,10,d_nikke_delta_ninjathief_04,Locale_NikkeEpisode:d_nikke_delta_ninjathief_05_title,d_nikke_delta_ninjathief_05,50,0
+791,5155,1,,Locale_NikkeEpisode:d_nikke_nayuta_01_title,d_nikke_nayuta_01,50,0
+792,5155,3,d_nikke_nayuta_01,Locale_NikkeEpisode:d_nikke_nayuta_02_title,d_nikke_nayuta_02,50,0
+793,5155,5,d_nikke_nayuta_02,Locale_NikkeEpisode:d_nikke_nayuta_03_title,d_nikke_nayuta_03,50,0
+794,5155,7,d_nikke_nayuta_03,Locale_NikkeEpisode:d_nikke_nayuta_04_title,d_nikke_nayuta_04,50,0
+795,5155,10,d_nikke_nayuta_04,Locale_NikkeEpisode:d_nikke_nayuta_05_title,d_nikke_nayuta_05,50,0
+796,5156,1,,Locale_NikkeEpisode:d_nikke_liberalio_01_title,d_nikke_liberalio_01,50,0
+797,5156,3,d_nikke_liberalio_01,Locale_NikkeEpisode:d_nikke_liberalio_02_title,d_nikke_liberalio_02,50,0
+798,5156,5,d_nikke_liberalio_02,Locale_NikkeEpisode:d_nikke_liberalio_03_title,d_nikke_liberalio_03,50,0
+799,5156,7,d_nikke_liberalio_03,Locale_NikkeEpisode:d_nikke_liberalio_04_title,d_nikke_liberalio_04,50,0
+800,5156,10,d_nikke_liberalio_04,Locale_NikkeEpisode:d_nikke_liberalio_05_title,d_nikke_liberalio_05,50,0
+801,5157,1,,Locale_NikkeEpisode:d_nikke_chime_01_title,d_nikke_chime_01,50,0
+802,5157,3,d_nikke_chime_01,Locale_NikkeEpisode:d_nikke_chime_02_title,d_nikke_chime_02,50,0
+803,5157,5,d_nikke_chime_02,Locale_NikkeEpisode:d_nikke_chime_03_title,d_nikke_chime_03,50,0
+804,5157,7,d_nikke_chime_03,Locale_NikkeEpisode:d_nikke_chime_04_title,d_nikke_chime_04,50,0
+805,5157,10,d_nikke_chime_04,Locale_NikkeEpisode:d_nikke_chime_05_title,d_nikke_chime_05,50,0

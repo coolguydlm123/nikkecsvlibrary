@@ -1,4 +1,4 @@
-id,group_id,order,scenario_title_loacle,scenario_group_id,scenario_open_condition_group_id
+id,group_id,order,scenario_title_locale,scenario_group_id,scenario_open_condition_group_id
 1,5008,1,Locale_NikkeEpisode:d_nikke_blanc_01_title,d_nikke_blanc_01,
 2,5008,2,Locale_NikkeEpisode:d_nikke_blanc_02_title,d_nikke_blanc_02,d_nikke_blanc_01
 3,5008,3,Locale_NikkeEpisode:d_nikke_blanc_03_title,d_nikke_blanc_03,d_nikke_blanc_02
@@ -134,3 +134,8 @@ id,group_id,order,scenario_title_loacle,scenario_group_id,scenario_open_conditio
 133,3003,3,Locale_NikkeEpisode:d_nikke_delta_03_title,d_nikke_delta_03,d_nikke_delta_02
 134,3003,4,Locale_NikkeEpisode:d_nikke_delta_04_title,d_nikke_delta_04,d_nikke_delta_03
 135,3003,5,Locale_NikkeEpisode:d_nikke_delta_05_title,d_nikke_delta_05,d_nikke_delta_04
+136,5041,1,Locale_NikkeEpisode:d_nikke_hongryeon_01_title,d_nikke_hongryeon_01,
+137,5041,2,Locale_NikkeEpisode:d_nikke_hongryeon_02_title,d_nikke_hongryeon_02,d_nikke_hongryeon_01
+138,5041,3,Locale_NikkeEpisode:d_nikke_hongryeon_03_title,d_nikke_hongryeon_03,d_nikke_hongryeon_02
+139,5041,4,Locale_NikkeEpisode:d_nikke_hongryeon_04_title,d_nikke_hongryeon_04,d_nikke_hongryeon_03
+140,5041,5,Locale_NikkeEpisode:d_nikke_hongryeon_05_title,d_nikke_hongryeon_05,d_nikke_hongryeon_04

@@ -1,0 +1,13 @@
+id,group_id,group_prob,prob,condition_type,condition_value,icon_resource,screenfx_resource_id,bgm_resource,effectsettings/0/effect_type,effectsettings/0/effect_value,effectsettings/1/effect_type,effectsettings/1/effect_value
+1,1,2500,4500,None,0,rebuildeden_icon_weather_rain,Rain,event_bgm_rebuildeden_rain,IncreaseAllSlotCreateTime,500,None,0
+2,1,2500,4500,None,0,rebuildeden_icon_weather_rain,Rain,event_bgm_rebuildeden_rain,IncreaseUnitSpd,2000,None,0
+3,1,2500,1000,None,0,rebuildeden_icon_weather_rain,Rain,event_bgm_rebuildeden_rain,IncreaseUnitHireAmount,700,None,0
+4,2,2500,4500,None,0,rebuildeden_icon_weather_storm,Storm,event_bgm_rebuildeden_storm,IncreaseBuildElectronics,5,None,0
+5,2,2500,4500,None,0,rebuildeden_icon_weather_storm,Storm,event_bgm_rebuildeden_storm,IncreaseBuildSynergyEffect,5000,None,0
+6,2,2500,1000,None,0,rebuildeden_icon_weather_storm,Storm,event_bgm_rebuildeden_storm,IncreaseRequirementAmount,10,None,0
+7,3,2500,4500,None,0,rebuildeden_icon_weather_hot,Heat,event_bgm_rebuildeden_heat,DecreaseDispatchResourcePercentage,500,None,0
+8,3,2500,4500,None,0,rebuildeden_icon_weather_hot,Heat,event_bgm_rebuildeden_heat,IncreaseUnitSpd,1000,None,0
+9,3,2500,1000,None,0,rebuildeden_icon_weather_hot,Heat,event_bgm_rebuildeden_heat,AddDispatchFailProbability,500,None,0
+10,4,2500,4500,None,0,rebuildeden_icon_weather_snow,Snow,event_bgm_rebuildeden_snow,DecreaseUnitSpd,1000,None,0
+11,4,2500,4500,None,0,rebuildeden_icon_weather_snow,Snow,event_bgm_rebuildeden_snow,IncreaseBuildSynergyEffect,3000,None,0
+12,4,2500,1000,None,0,rebuildeden_icon_weather_snow,Snow,event_bgm_rebuildeden_snow,DecreaseBuildSynergyEffect,1500,None,0

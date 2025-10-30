@@ -266,6 +266,41 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 9160007,916,event_bgm_ce007_mg_stage2,True,100,Eclipse,7,steelplus,False,FieldItem,55026046
 9160008,916,event_bgm_ce007_mg_stage3,True,89,Crypt,8,steelplus,False,FieldItem,55026047
 9160009,916,event_bgm_ce007_mg_stage4,True,96,Sanctum,9,steelplus,False,FieldItem,55026048
+9170001,917,event_bgm_goddessfall_hurricanes,False,204,Hurricanes,1,Cosmograph (feat. Pernelle),False,FieldItem,55027009
+9170002,917,event_bgm_goddessfall_fromthesky,False,145,From the Sky,2,Cosmograph,False,FieldItem,55027010
+9170003,917,event_bgm_goddessfall_fear,True,127,Fear,3,Cosmograph,False,FieldItem,55027011
+9170004,917,event_bgm_goddessfall_edenspear,True,84,EDEN SPEAR,4,Cosmograph,False,FieldItem,55027012
+9170005,917,event_bgm_goddessfall_coldnessandmercy,True,122,Coldness and mercy,5,DoubleTO,False,FieldItem,55027013
+9170006,917,event_bgm_goddessfall_reason,True,124,Reason,6,Cosmograph (feat. Pernelle),False,FieldItem,55027014
+9170007,917,event_bgm_goddessfall_shield,True,131,Shield,7,"YUMU, LVPS",False,FieldItem,55027015
+9170008,917,event_bgm_goddessfall_drifter,True,74,Drifter,8,Cosmograph,False,FieldItem,55027016
+9170009,917,event_bgm_goddessfall_heap,True,77,Heap,9,Cosmograph,False,FieldItem,55027029
+9170010,917,event_bgm_goddessfall_kingdom,True,114,Kingdom,10,Nauts,False,FieldItem,55027030
+9170011,917,event_bgm_goddessfall_purpose,True,128,Purpose,11,Nauts,False,FieldItem,55027031
+9170012,917,event_bgm_goddessfall_control,True,115,Control,12,Nauts,False,FieldItem,55027032
+9170013,917,event_bgm_goddessfall_rose,True,130,Rose,13,Nauts,False,FieldItem,55027033
+9170014,917,event_bgm_goddessfall_anothermirror,True,123,Another Mirror,14,Cosmograph,False,FieldItem,55027017
+9170015,917,event_bgm_goddessfall_crowner,True,123,Crowner,15,Cosmograph,False,FieldItem,55027018
+9170016,917,event_bgm_goddessfall_themostpowerful,True,117,The most powerful,16,Nauts,False,FieldItem,55027019
+9170017,917,event_bgm_goddessfall_frontline,True,117,Frontline,17,Donghyun Go,False,FieldItem,55027020
+9170018,917,event_bgm_goddessfall_eyes,True,126,eyes,18,Cosmograph,False,FieldItem,55027021
+9170019,917,event_bgm_goddessfall_glorioustitle,True,114,Glorious Title,19,Nauts,False,FieldItem,55027022
+9170020,917,event_bgm_goddessfall_tearsofeden,True,118,Tears of Eden,20,haru,False,FieldItem,55027023
+9170021,917,event_bgm_goddessfall_lastflight,True,117,Last Flight,21,Nauts,False,FieldItem,55027024
+9170022,917,event_bgm_goddessfall_whateverittakes,True,132,Whatever it takes,22,DoubleTO,False,FieldItem,55027025
+9170023,917,event_bgm_goddessfall_onloocker,True,95,onloocker,23,Cosmograph,False,FieldItem,55027026
+9170024,917,event_bgm_goddessfall_assemble,True,127,Assemble,24,DoubleTO,False,FieldItem,55027027
+9170025,917,event_bgm_goddessfall_chime,True,115,Chime,25,Nauts,False,FieldItem,55027028
+9170026,917,bgm_boss_xba002_full,True,206,Sing for the Queen,26,Cosmograph (feat. Pernelle),False,FieldItem,55027034
+9170027,917,event_bgm_goddessfall_001-129129208,True,107,001-129129208,27,DoubleTO,False,FieldItem,55027035
+9170028,917,event_bgm_goddessfall_it,True,100,It,28,Cosmograph,False,FieldItem,55027036
+9170029,917,event_bgm_goddessfall_want,True,141,Want,29,Cosmograph,False,FieldItem,55027037
+9170030,917,event_bgm_goddessfall_hurricanes_inst,True,204,Hurricanes (Inst.),30,Cosmograph,False,FieldItem,55027038
+9170031,917,event_bgm_rebuildeden_default,True,121,Rebuild : EDEN,31,steelplus,False,FieldItem,55027004
+9170032,917,event_bgm_rebuildeden_rain,True,134,Drizzle,32,steelplus,False,FieldItem,55027005
+9170033,917,event_bgm_rebuildeden_storm,True,139,Thunderbyte,33,steelplus,False,FieldItem,55027006
+9170034,917,event_bgm_rebuildeden_heat,True,133,Solar,34,steelplus,False,FieldItem,55027007
+9170035,917,event_bgm_rebuildeden_snow,True,128,Glacier Program,35,steelplus,False,FieldItem,55027008
 9999901,999,event_bgm_tungsten,False,174,TuNGSTeN,1,Hiroyuki SAWANO (feat. mizuki),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 1,1,bgm_title_godnessfall,False,112,The Godness Fall,1,Cosmograph,False,FieldItem,50003201
 2,1,bgm_menu_lobby,True,64,Good Day Commander,2,Cosmograph,False,FieldItem,50004203
@@ -286,6 +321,7 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 18,1,bgm_menu_outpost_2025,True,90,Artificial Shangri-La (retro mix),18,Cosmograph Remixed by NieN,False,Locale,JUKEBOX_OBTAIN_ACHIEVEMENT
 19,1,bgm_menu_shop_2,True,148,Let Me out!!!,19,va1ue,False,Locale,JUKEBOX_OBTAIN_ACHIEVEMENT
 20,1,bgm_menu_museum,True,118,Museum,20,DoubleTO,False,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_NONE
+21,1,bgm_title_threadsofmemory,True,137,Threads of Memory,21,Cosmograph (feat. Pernelle),False,FieldItem,55027039
 2001,2,bgm_lostsector_mazeinabyss_a,True,41,Maze in Abyss,1,Cosmograph,False,FieldItem,50011203
 2002,2,bgm_lostsector_mazeinabyss_b,True,82,Maze in Abyss - Begin -,2,Cosmograph,False,FieldItem,54008203
 2003,2,bgm_lostsector_backandforth_a,True,92,Back and Forth,3,SELECTOR,False,FieldItem,50013203
@@ -405,6 +441,8 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 4061,4,event_bgm_overthehorizon,True,197,"Astronaut Airlines from ""Over the Horizon""",62,Xuxhiz,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 4062,4,event_bgm_goninjathief,True,117,GO! NINJA THIEF!,63,roop,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 4063,4,event_bgm_rapiredhood_costumes,True,196,"Yes, My Commander!",64,NieN (feat. CielA),False,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_REDHOOD_SPECIAL
+4064,4,event_bgm_intothefire,False,231,Into the Fire,65,Cosmograph (feat. Victor Borba),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
+4065,4,event_bgm_intothefire_inst,False,89,Into the Fire (OP Ver.),66,Cosmograph (feat. Victor Borba),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5001,5,bgm_prologue,True,45,Between life and Death,1,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5002,5,bgm_spot_encounter,True,83,ENCOUNTER,2,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5003,5,bgm_spot_counterattack,True,84,Counter Attack,3,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
@@ -654,3 +692,15 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 20032,20,bgm_chapter40_spot_abyssoftheworld_b,True,107,Abyss of the World - Choice -,32,Cosmograph,False,FieldItem,54040202
 20033,20,bgm_story_eh,True,149,E.H.,33,ixia,False,FieldItem,50040205
 20034,20,bgm_boss_eba005_full,True,247,Ziz,34,Cosmograph,False,FieldItem,50040206
+20035,20,bgm_chapter41_field_otherworld,True,116,Other World [Scenario Ver.],35,Feryquitous,False,FieldItem,50041201
+20036,20,bgm_chapter41_field_otherworld_a,True,116,Other World,36,Feryquitous,False,FieldItem,50041202
+20037,20,bgm_chapter41_field_otherworld_b,True,116,Other World - Birth -,37,Feryquitous,False,FieldItem,54041201
+20038,20,bgm_chapter41_spot_utna_a,True,97,Utna,38,Feryquitous,False,FieldItem,50041203
+20039,20,bgm_chapter41_spot_utna_b,True,96,Utna - Birth -,39,Feryquitous Remixed by Cosmograph,False,FieldItem,54041202
+20040,20,bgm_chapter42_field_mistbreathing,True,113,mist breathing [Scenario Ver.],40,Feryquitous Edited by Cosmograph,False,FieldItem,50042201
+20041,20,bgm_chapter42_field_mistbreathing_a,True,113,mist breathing,41,Feryquitous,False,FieldItem,50042202
+20042,20,bgm_chapter42_field_mistbreathing_b,True,113,mist breathing - Only One -,42,Feryquitous Remixed by Cosmograph,False,FieldItem,54242201
+20043,20,bgm_chapter42_spot_arikis_a,True,94,Arkis,43,Feryquitous,False,FieldItem,50042203
+20044,20,bgm_chapter42_spot_arikis_b,True,75,Arkis - Only One -,44,Feryquitous Remixed by Cosmograph,False,FieldItem,54242202
+20045,20,bgm_boss_xbg003,True,155,Only One,45,Donghyun Go,False,FieldItem,50042204
+20046,20,event_bgm_42animation,False,84,Becoming a Star,46,Nauts,False,FieldItem,50042205

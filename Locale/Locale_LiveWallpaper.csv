@@ -75,6 +75,8 @@ live_wallpaper_name_73,BOOM! THE GHOST!
 live_wallpaper_name_74,ABSOLUTE
 live_wallpaper_name_75,COINS IN RUSH
 live_wallpaper_name_76,REBORN EVIL
+live_wallpaper_name_77,GO! NINJA THIEF!
+live_wallpaper_name_78,GODDESS FALL
 live_wallpaper_name_200,Warhead Volley
 live_wallpaper_desc_200,Focus fire!
 live_wallpaper_name_201,Firepower Rules!
@@ -203,8 +205,8 @@ live_wallpaper_name_50381,Walk Training
 live_wallpaper_desc_50381,You are all barking up the wrong tree!
 live_wallpaper_name_50261,Burning Scourge
 live_wallpaper_desc_50261,Now it's my turn! Taste this!
-live_wallpaper_name_50262,Brooding Ocean
-live_wallpaper_desc_50262,Hell hath no fury like a woman whose sleep is disturbed.
+live_wallpaper_name_50262,Submerged World
+live_wallpaper_desc_50262,Hell has no fury like a woman awoken!
 live_wallpaper_name_50282,Resplendent Cherry Blossom
 live_wallpaper_desc_50282,We are the all-seeing eye. We are the organization.
 live_wallpaper_name_50907,State of Emergency
@@ -393,6 +395,12 @@ live_wallpaper_name_50841,Supercop
 live_wallpaper_desc_50841,I'll give you S.T.A.R.S.!
 live_wallpaper_name_50842,R+G+B
 live_wallpaper_desc_50842,This ends here!
+live_wallpaper_name_50023,Secret Technique: Ninja Overdrive
+live_wallpaper_desc_50023,Secret technique! Ninja Overdrive!
+live_wallpaper_name_50223,Asceticism
+live_wallpaper_desc_50223,From torment freed I shall attain enlightenment.
+live_wallpaper_name_50331,For the King
+live_wallpaper_desc_50331,Long live the Crown Kingdom! Hahaha!
 live_wallpaper_name_5010101,Drake Special
 live_wallpaper_desc_5010101,Vroom vrooom vroom!
 live_wallpaper_name_5026001,New World
@@ -441,6 +449,12 @@ live_wallpaper_name_5027201,Game Master
 live_wallpaper_desc_5027201,Shall I put my luck to the test?
 live_wallpaper_name_5004302,Kill the Target
 live_wallpaper_desc_5004302,I'll give you comprehensive instructions.
+live_wallpaper_name_5001602,Power of Inheritance
+live_wallpaper_desc_5001602,I look forward to welcoming the morning with you.
+live_wallpaper_name_5047002,Red Wolf
+live_wallpaper_desc_5047002,"Ahh... Life was great, wasn't it?"
+live_wallpaper_name_5022301,Asceticism
+live_wallpaper_desc_5022301,"With all sins laid upon me, forward shall I press."
 live_wallpaper_name_7021001,Gamekid Evolution
 live_wallpaper_description_7021001,Acquire by completing Exia's Favorite Item Mission
 live_wallpaper_name_7007201,Toy Train Set
@@ -539,6 +553,8 @@ live_wallpaper_description_73,Obtain from the BOOM! THE GHOST! event
 live_wallpaper_description_74,Obtain from the ABSOLUTE event
 live_wallpaper_description_75,Obtain from the COINS IN RUSH event
 live_wallpaper_description_76,Obtain from the REBORN EVIL event
+live_wallpaper_description_77,Obtain from the GO! NINJA THIEF! event
+live_wallpaper_description_78,Obtain from the GODDESS FALL event
 live_wallpaper_description_200,Obtained upon Rapi reaching Limit Break 2
 live_wallpaper_description_201,Obtained upon Neon reaching Limit Break 2
 live_wallpaper_description_202,Obtained upon Anis reaching Limit Break 2
@@ -699,6 +715,9 @@ live_wallpaper_description_50315,Obtained upon Ade: Agent Bunny reaching Limit B
 live_wallpaper_description_50840,Obtained upon Ada reaching Limit Break 3
 live_wallpaper_description_50841,Obtained upon Jill reaching Limit Break 3
 live_wallpaper_description_50842,Obtained upon Claire reaching Limit Break 2
+live_wallpaper_description_50023,Obtained upon Delta: Ninja Thief reaching Limit Break 3
+live_wallpaper_description_50223,Obtained upon Nayuta reaching Limit Break 3
+live_wallpaper_description_50331,Obtained upon Chime reaching Limit Break 3
 live_wallpaper_description_5010101,Obtained upon owning Drake - Villain Racer
 live_wallpaper_description_5026001,Obtained upon owning Modernia - First Affection
 live_wallpaper_description_5081002,Obtained upon owning 2B - YoRHa Uniform 1
@@ -723,3 +742,6 @@ live_wallpaper_description_5022201,Obtained upon owning Scarlet - Racer's High
 live_wallpaper_description_5001601,Obtained upon owning Rapi: Red Hood - Red Flavor
 live_wallpaper_description_5027201,Obtained upon owning Rouge - Unlucky Rabbit
 live_wallpaper_description_5004302,Obtained upon owning D: Killer Wife - Secret Police
+live_wallpaper_description_5001602,Obtained upon owning Rapi: Red Hood - Cherished Red
+live_wallpaper_description_5047002,Obtained upon owning Red Hood - Retro Days
+live_wallpaper_description_5022301,Obtained upon owning Nayuta - Wu Wei

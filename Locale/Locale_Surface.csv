@@ -1,0 +1,1527 @@
+Key,Value
+SURFACE_SELECT_ALL,Select All
+SURFACE_USE_CURRENCY,Use Currency
+SURFACE_NOTICE,Notice
+SURFACE_CONFIRM,Confirm
+SURFACE_NO,Cancel
+SURFACE_ITEM_RECOVERY_CHARACTER_SELECT_CONFIRM,Confirm
+SURFACE_STANDARD_BATTLE_POWER,Standard Power (Average)
+SURFACE_RECOMMEND_SQUAD_COUNT,Standard Squad (Quantity)
+SURFACE_FIRST_CLEAR_REWARD_ITEM_TAG,First
+SURFACE_BATTLE_INFO_UI_DESC,Select an enemy to view their profile.
+SURFACE_ELEMENT_AND_RANGE_BONUS,Element and Range Bonus Effects
+SURFACE_ENEMY_INFO,Enemy Info
+SURFACE_SKILL_INFO,Skill Info
+SURFACE_ENEMY_RANK_TYPE_RADIAL_NAME,Radial
+SURFACE_ENEMY_RANK_TYPE_HIGH_RANK_NAME,High Rank
+SURFACE_ENEMY_RANK_TYPE_RADIAL_DESC,"Enemies are scattered across the surface.
+They don't seem to be carrying out any special mission."
+SURFACE_ENEMY_RANK_TYPE_HIGH_RANK_DESC,"An enemy on a special mission.
+They seem quite strong."
+SURFACE_REWARD_INFO,Reward Info
+SURFACE_PROTECT_TARGET,Protection Target
+SURFACE_ENEMY_RANK_TYPE,Rank Type
+SURFACE_MONSTER_GRADE_MINION_EN,Minion
+SURFACE_MONSTER_GRADE_ELITE_EN,Elite
+SURFACE_MONSTER_GRADE_CENTURION_EN,Centurion
+SURFACE_MONSTER_GRADE_THRASH_EN,Thrash
+SURFACE_PREPARING,Preparing
+SURFACE_BASE_AREA_SHORT_CUT_BTN,Base
+SURFACE_ERROR_TOAST_UNABLE_TO_MOVE,Unable to move.
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_SUPPRESS_BOSSRAID,Defeat the boss.
+SURFACE_CONTENTS_PLAY_TIME_SUPPRESS,Time Limit
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_SUPPRESS_LEGIONRAID_TIMELIMIT_TIME,Defend the target against enemy waves during the time limit.
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_SUPPRESS_LEGIONRAID_TIMELIMIT_SWEEP,Defeat all enemies swarming in during the time limit.
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_SUPPRESS_LEGIONRAID_TIME,Defend the target against enemy waves.
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_SUPPRESS_LEGIONRAID_SWEEP,Defeat all enemies swarming in.
+SURFACE_BONUS_DAMAGE_INFO_TITLE_01,When allied squads attack enemies
+SURFACE_BONUS_DAMAGE_INFO_DESC_01,"If two or more Nikkes with a strong element are included in the squad,
+each of those Nikkes can deal an additional {0} damage."
+SURFACE_BONUS_DAMAGE_INFO_TITLE_02,When enemies attack allied squads
+SURFACE_BONUS_DAMAGE_INFO_DESC_02,Nikkes take {0} additional damage when attacked by enemies with elements they are weak to.
+SURFACE_WEAPON_RANGE_POPUP_DESC,"If two or more Nikkes with weapon types that have the same range are included in the squad, each of those Nikkes can deal 10% additional damage."
+Surface_Troop_Category_Title,Squad Traits
+surface_quest_name_3101001,Defeat monsters in Sector 1
+surface_quest_name_3101002,Retrieve supplies from Sector 1
+surface_quest_name_3101003,Remove Alva Particle in Sector 1
+surface_quest_name_3102001,Defeat monsters in Sector 2
+surface_quest_name_3102002,Retrieve supplies from Sector 2
+surface_quest_name_3102003,Remove Alva Particles in Sector 2
+SURFACE_QUEST_NOT_AVAILABLE,No available missions.
+SURFACE_COIN_COLLECTION_TITLE,Alva Dust Collection
+SURFACE_COIN_PROGRESS_REWARD,Collection Progress
+SURFACE_COIN_PROGRESS_REWARD_GET,Obtain Rewards
+SURFACE_STORAGE_POPUP_REFRESH_ERROR,"Unable to obtain currency due to changes in buildings on the surface.
+Updating information."
+SURFACE_STORAGE_CURRENCY_CUMULATIVE_POPUP_DESC,Effects applied to currency-producing facilities.
+SURFACE_BUILDING_CONDITION_POWER_CUT_TOAST,Currently without power.
+SURFACE_BUILDING_CONDITION_DEACTIVATE_TOAST,Facility in an inactivated area.
+SURFACE_BUILDING_CONDITION_NEEDS_REPAIR_TOAST,Currently requires repair.
+SURFACE_TOAST_BUILDING_LEVEL_MAX,Max facility level reached.
+SURFACE_AREA_CONDITION_REWARD_POPUP_DESC,Area status has been changed. Refunding costs and items.
+SURFACE_SQUAD_SET_LIST_DESCRIPTION,You can view Nikkes available for your squads.
+SURFACE_SQUAD_SET_ERROR_TOAST_BASE_AREA,Squad editing is only available in a base.
+SURFACE_SQUAD_SET_ERROR_TOAST_MOVE,Squad editing is unavailable while moving.
+SURFACE_SQUAD_SET_ERROR_TOAST_NOT_USER_AREA,No squad is present in the base.
+SURFACE_SQUAD_SET_ERROR_TOAST_NOT_ENOUGH_NIKKE,The Nikke limit has been reached.
+SURFACE_SQUAD_SET_ERROR_TOAST_NOT_ENOUGH_TEAM,The squad limit has been reached.
+SURFACE_HOSPITAL_RECOVERY_SQUAD_MAX_AMOUNT,Squad Recovery ({0}/{1})
+SURFACE_HOSPITAL_RETURN_TO_UNIT_COMPLETE_POPUP_TITLE,Recovery
+SURFACE_HOSPITAL_RETURN_TO_UNIT_COMPLETE_POPUP_DESC,Nikke Recovery complete
+SURFACE_HOSPITAL_RECOVERY_ERROR_SQUAD_SELECT,Please select a squad to recover.
+SURFACE_HOSPITAL_RECOVERY_SQUAD_MAX_AMOUNT_LIMIT_OVER,The recovery limit has been reached.
+SURFACE_NIKKE_EDIT_CONDITION_RETIRE,Incapacitated
+SURFACE_FIRST_CLEAR_REWARD_POPUP_OCCUPATION,First Occupation Reward
+SURFACE_FIRST_CLEAR_REWARD_TOUCH_TO_GET_REWARD,Press to claim rewards
+SURFACE_FIRST_CLEAR_REWARD_POPUP_GATEWAY,First Unlock Reward
+SURFACE_OPEN_GATEWAY_POPUP_TITLE,Unlock {0}
+SURFACE_OPEN_GATEWAY_POPUP_DESCRIPTION,The gateway has opened. You can now explore a new sector.
+SURFACE_FIRST_CLEAR_REWARD_POPUP_SUPPRESS,First Expedition Reward
+SURFACE_MISSION_TAB_TUTORIAL,Guide Missions
+SURFACE_MISSION_TAB_TRIAL,Trial Missions
+SURFACE_MISSION_LIST_TITLE_MAIN,Main
+SURFACE_MISSION_LIST_TITLE_SIDE,Side
+SURFACE_MISSION_POPUP_DESCRIPTION,List of missions.
+SURFACE_MISSION_REWARD_BTN_LOCK,Locked
+SURFACE_MISSION_REWARD_BTN_PROGRESS,In progress
+SURFACE_MISSION_REWARD_BTN_SHORT_CUT,Go
+SURFACE_MISSION_REWARD_BTN_RECEIVE,Obtain Rewards
+SURFACE_MISSION_REWARD_BTN_RECEIVE_ALL,Claim All
+SURFACE_MISSION_REWARD_BTN_PROGRESS_TOUCH_TOAST,You have not completed this mission.
+SURFACE_MISSION_MAIN_EMPTY,No available main missions.
+SURFACE_MISSION_SIDE_EMPTY,No available side missions.
+SURFACE_MISSION_REWARD_BTN_LOCK_TOUCH_TOAST,"Mission is locked.
+Unlock {0} to access it."
+SURFACE_TOAST_NOT_OPEN_MISSION_SLOT,No obtainable rewards.
+SURFACE_MISSION_SHORT_CUT_ERROR_TOAST,Unverified area.
+SURFACE_MISSION_MAIN_ALL_CLEAR,Coming soon...
+SURFACE_MISSION_TRIGGER_NAME_GATEWAY,Gateway
+SURFACE_MISSION_TRIGGER_NAME_RESEARCH,Research
+SURFACE_MISSION_TRIGGER_NAME_OCCUPATION,Occupy
+SURFACE_MISSION_TRIGGER_NAME_KILL_MONSTER,Annihilate
+SURFACE_MISSION_TRIGGER_NAME_ITEM_CRAFT,Produce
+SURFACE_MISSION_TRIGGER_NAME_QUEST,Missions
+SURFACE_MISSION_TRIGGER_NAME_EVLA,Purify
+SURFACE_MISSION_TRIGGER_NAME_COLLECT,Explore
+SURFACE_MISSION_TRIGGER_NAME_SUPPRESS,Expedition
+SURFACE_MISSION_TRIGGER_NAME_TEAM_SET,Form
+SURFACE_MISSION_TRIGGER_NAME_BUILD,Facility
+SURFACE_MISSION_TRIGGER_NAME_BETA,Beta Exclusive
+SURFACE_MISSION_TRIGGER_GATEWAY_OPEN,Unlock {0}
+SURFACE_MISSION_TRIGGER_RESEARCH_COMPLETE,Complete {0} Lv. {1}
+SURFACE_MISSION_TRIGGER_OCCUPATION_COMPLETE,Occupy {0}
+SURFACE_MISSION_TRIGGER_KILL_MONSTER_SPECIFIC_SECTOR,Defeat {0} radial Rapture(s)
+SURFACE_MISSION_TRIGGER_ITEM_CRAFT,Produce {0} {1} time(s)
+SURFACE_MISSION_TRIGGER_EVLA_PURIFICATION_COMPLETE,Reach Alva Particle Purification Stage {0}
+SURFACE_MISSION_TRIGGER_COLLECT_FIELD_ITEM,Obtain Treasure Box {0} time(s)
+SURFACE_MISSION_TRIGGER_COLLECT_FIELD_RESOURCE,Obtain Resource Box {0} time(s)
+SURFACE_MISSION_TRIGGER_BUILDING_LEVEL_UP_COMPLETE_STACK,Reach {0} Lv. {1}
+SURFACE_MISSION_TRIGGER_BUILDING_LEVEL_UP_COMPLETE_STACK_DUPLICATION,You can own up to {2} of {0} Lv. {1}
+SURFACE_MISSION_TRIGGER_BOSS_RAID_SUPPRESS_COMPLETE,Complete Boss Expedition in {0}
+SURFACE_MISSION_TRIGGER_LEGION_RAID_SUPPRESS_COMPLETE,Complete Defense Expedition in {0}
+SURFACE_MISSION_TRIGGER_TEAM_SET_COUNT,Form {0} Squad(s)
+SURFACE_MISSION_TRIGGER_CLEAR_QUEST_SECTOR_01,Obtain {0} Holographic Material Lv. 1
+SURFACE_MISSION_TRIGGER_CLEAR_QUEST_SECTOR_02,Obtain {0} Holographic Material Lv. 2
+SURFACE_MISSION_TRIGGER_CLEAR_QUEST_SECTOR_03,Obtain {0} Holographic Material Lv. 3
+SURFACE_MISSION_TRIGGER_CLEAR_QUEST_SECTOR_04,Obtain {0} Holographic Material Lv. 4
+SURFACE_MISSION_TRIGGER_BETA_01,Enter Trial World
+SURFACE_STATUS_BOARD,Status
+SURFACE_ALARM,Notice
+SURFACE_ALARM_TOAST_OCCUPATION_SUCCESS,Occupied!
+SURFACE_ALARM_LIST_OCCUPATION_SUCCESS,Successfully occupied {1} in {0}.
+SURFACE_ALARM_TOAST_OCCUPATION_FAILURE,Occupation Failed
+SURFACE_ALARM_LIST_OCCUPATION_FAILURE,Failed to occupy {1} in {0}.
+SURFACE_ALARM_TOAST_OCCUPATION_BATTERY,Battery Drain
+SURFACE_ALARM_LIST_OCCUPATION_BATTERY,All batteries in {1} within {0} have been depleted.
+SURFACE_ALARM_TOAST_DEFENSE_SUCCESS,Defended!
+SURFACE_ALARM_LIST_DEFENSE_SUCCESS,Successfully defended {1} in {0}.
+SURFACE_ALARM_TOAST_DEFENSE_FAILURE,Defense Failed
+SURFACE_ALARM_LIST_DEFENSE_FAILURE,Failed to defend {1} in {0}.
+SURFACE_ALARM_TOAST_GATEWAY_SUCCESS,Gateway Battle Won!
+SURFACE_ALARM_LIST_GATEWAY_SUCCESS,Successfully hacked the gateway.
+SURFACE_ALARM_TOAST_GATEWAY_FAILURE,Gateway Battle Failed
+SURFACE_ALARM_LIST_GATEWAY_FAILURE,Failed to hack the gateway.
+SURFACE_ALARM_TOAST_SUPPRESS_SUCCESS,Expedition Successful!
+SURFACE_ALARM_LIST_SUPPRESS_SUCCESS,Successfully completed an expedition in {0}.
+SURFACE_ALARM_TOAST_SUPPRESS_FAILURE,Expedition Failed
+SURFACE_ALARM_LIST_SUPPRESS_FAILURE,Failed to complete an expedition in {0}.
+SURFACE_ALARM_TOAST_SUPPRESS_BOSS_RAID_UNLOCK,New Elite Expedition Unlocked
+SURFACE_ALARM_LIST_SUPPRESS_BOSS_RAID_UNLOCK,A new elite expedition has been unlocked in {0}.
+SURFACE_ALARM_TOAST_SUPPRESS_LEGION_RAID_UNLOCK,New Area Defense Unlocked
+SURFACE_ALARM_LIST_SUPPRESS_LEGION_RAID_UNLOCK,A new area defense has been unlocked in {0}.
+SURFACE_ALARM_TOAST_SUPPRESS_BOSS_RAID_HIGH_DIFFICULTY_UNLOCK,Higher Difficulty Unlocked
+SURFACE_ALARM_LIST_SUPPRESS_BOSS_RAID_HIGH_DIFFICULTY_UNLOCK,{0} has been unlocked. A higher difficulty for the elite expedition is now available.
+SURFACE_ALARM_TOAST_SUPPRESS_LEGION_RAID_HIGH_DIFFICULTY_UNLOCK,Higher Difficulty Unlocked
+SURFACE_ALARM_LIST_SUPPRESS_LEGION_RAID_HIGH_DIFFICULTY_UNLOCK,{0} has been unlocked. A higher difficulty for the area defense is now available.
+SURFACE_ALARM_TOAST_QUEST_GROUP_UNLOCK,Expanded Surface Operation Range
+SURFACE_ALARM_LIST_QUEST_GROUP_UNLOCK,A new operation will be added when exploring {0}.
+SURFACE_ALARM_TOAST_DEFEAT_FIELD_MONSTER,Radial Rapture Defeated
+SURFACE_ALARM_LIST_DEFEAT_FIELD_MONSTER,Defeated a radial Rapture in {0} and claimed rewards.
+SURFACE_ALARM_LIST_FACTORY_PAUSE,Power to the {1} factory in {0} has been cut off.
+SURFACE_ALARM_LIST_BUILDING_LEVEL_UP_STOP,The {1} factory in {0} has ceased operation.
+SURFACE_ALARM_LIST_FACTORY_OPERATE,Power has been restored to the {1} factory in {0}.
+SURFACE_ALARM_LIST_BUILDING_PAUSE,Power to the {1} buildings in {0} has been cut off.
+SURFACE_ALARM_LIST_BUILDING_STOP,The {1} buildings in {0} have been reset.
+SURFACE_ALARM_LIST_BUILDING_OPERATE,Power has been restored to the {1} buildings in {0}.
+SURFACE_ALARM_LIST_HOSPITAL_PAUSE,Power to the {1} hospital in {0} has been cut off.
+SURFACE_ALARM_LIST_HOSPITAL_OPERATE,Power has been restored to the {1} hospital in {0}.
+SURFACE_ALARM_LIST_STORAGE_PAUSE,Power to the {1} warehouse in {0} has been cut off.
+SURFACE_ALARM_LIST_STORAGE_OPERATE,Power has been restored to the {1} warehouse in {0}.
+SURFACE_STATISTICS,Stats
+SURFACE_CURRENT_SITUATION_CATEGORY_ATTACKER_ATK,ATK of Attacker Nikkes
+SURFACE_CURRENT_SITUATION_CATEGORY_ATTACKER_HP,HP of Attacker Nikkes
+SURFACE_CURRENT_SITUATION_CATEGORY_DEFENDER_ATK,ATK of Defender Nikkes
+SURFACE_CURRENT_SITUATION_CATEGORY_DEFENDER_HP,HP of Defender Nikkes
+SURFACE_CURRENT_SITUATION_CATEGORY_SUPPORTER_ATK,ATK of Supporter Nikkes
+SURFACE_CURRENT_SITUATION_CATEGORY_SUPPORTER_HP,HP of Supporter Nikkes
+SURFACE_CURRENT_SITUATION_CATEGORY_SQUAD_ATK,Squad ATK
+SURFACE_CURRENT_SITUATION_CATEGORY_SQUAD_HP,Squad HP
+SURFACE_CURRENT_SITUATION_CATEGORY_SQUAD_POWER,Squad Power
+SURFACE_CURRENT_SITUATION_CATEGORY_BUIDING_LEVEL_UP_TIME,Construction Speed
+SURFACE_CURRENT_SITUATION_CATEGORY_BUIDING_LEVEL_UP_COST,Construction Cost
+SURFACE_CURRENT_SITUATION_CATEGORY_RESEARCH_TIME,Research Speed
+SURFACE_CURRENT_SITUATION_CATEGORY_RESEARCH_COST,Research Cost
+SURFACE_CURRENT_SITUATION_CATEGORY_HOSPITAL_TIME,Recovery Speed
+SURFACE_CURRENT_SITUATION_CATEGORY_HOSPITAL_COST,Recovery Cost
+SURFACE_CURRENT_SITUATION_CATEGORY_FACTORY_TIME,Factory Production Time Reduction
+SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_CORE_POWDER,Core Dust Production Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_CORE_POWDER,Core Dust Max Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_CORE_POWDER,Core Dust Max Production
+SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_GODDESIUM,Goddesium Production Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_GODDESIUM,Goddesium Max Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_GODDESIUM,Goddesium Max Production
+SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_GEONIC,Geonic Production Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_GEONIC,Geonic Max Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_GEONIC,Geonic Max Production
+SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_NEO_TITANIUM,Neo Titanium Production Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_NEO_TITANIUM,Neo Titanium Max Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_NEO_TITANIUM,Neo Titanium Max Production
+SURFACE_CURRENT_SITUATION_CATEGORY_DATA_INTEGER,{0}
+SURFACE_CURRENT_SITUATION_CATEGORY_DATA_PERCENT,{0}%
+SURFACE_CURRENT_SITUATION_DATA_TYPE_BUILDING,Building
+SURFACE_CURRENT_SITUATION_DATA_TYPE_RESEARCH,Research
+SURFACE_CURRENT_SITUATION_TOTAL_ITEM_PERCENT,{0}
+SURFACE_CURRENT_SITUATION_TOTAL_ITEM_INTEGER,{0}%
+SURFACE_SQUAD_LIST,Squad List
+SURFACE_SQUAD_EDIT,Edit
+SURFACE_SQUAD_ADD,Add
+SURFACE_CHARACTER_INFO_SQUAD_DISBAND_DESC,Unable to use this feature. The squad has been disbanded.
+SURFACE_BATTLE_START_OCCUPATION,Start Occupation Battle
+SURFACE_NOT_ENOUGH_CURRENCY,Not enough currency.
+SURFACE_CALLING_SIGNAL_GENERATOR_NAME,Calling Signal Generator
+SURFACE_CALLING_SIGNAL_GENERATOR_INSTALL_FULL_DESC,The installation limit for this occupied area has been reached.
+SURFACE_PLAY_INSTALL,Install
+SURFACE_CONTENTS_PLAY_TIME_OCCUPATION,Time Limit
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_OCCUPATION,Defend the optical camouflage against enemy waves during the time limit.
+SURFACE_CONTENTS_PLAY_TIME_DEFENSE_PHASE,Time Limit
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_DEFENSE_PHASE,Defend the optical camouflage against enemy waves during the time limit.
+SURFACE_OCCUPATION_NOT_NEXT_TO_TILE,There must be at least 1 adjacent squad.
+SURFACE_OCCUPATION_RESTORE,Start Restoration
+SURFACE_OCCUPATION_INSTALL_WARNING,1 {0} will be consumed when installation begins.
+SURFACE_OCCUPATION_RESTORE_WARNING,No Optical Camouflage Generator will be consumed when restoration begins.
+SURFACE_OCCUPATION_NEED_ITEM,"The following items are required when attempting to occupy:
+- {0}"
+SURFACE_CHARGE_BATTERY_TITLE,Battery Charging
+SURFACE_UNTIL_BATTERY_DRAIN,Time until battery runs out
+SURFACE_CHARGE_BATTERY_BUTTON,Charge
+SURFACE_BATTERY_MATERIAL_NOT_SELECT,Please select the battery charging materials.
+SURFACE_BATTERY_GAUGE_ALREADY_MAX,"The battery is fully charged.
+Unable to add more charging materials."
+SURFACE_NOT_CHARGE_DRAIN_BATTERY,The battery in the occupied area has run out and cannot be charged.
+SURFACE_REPAIR_DURABILITY_TITLE,Durability Repair
+SURFACE_REPAIR_DURABILITY_BUTTON,Repair
+SURFACE_REPAIR_MATERIAL_NOT_SELECT,Please select the durability repair materials.
+SURFACE_DURABILITY_ALREADY_MAX,"Max durability level reached.
+Unable to add more repair materials."
+SURFACE_NOT_REPAIR_DESTORYED_CALLING_SIGNAL_GENERATOR,The Calling Signal Generator is destroyed and cannot be repaired.
+SURFACE_CALLING_SIGNAL_INSTALL_BUTTON_TEXT,Install {0}
+SURFACE_CANNOT_REPAIR_IN_BATTLE,Unable to repair the calling signal generator while in battle.
+SURFACE_CANNOT_REPAIR_NOT_OCCUPATION,Unable to repair the calling signal generator in an unoccupied area.
+SURFACE_ERROR_TOAST_CANNOT_INSTALL_OUTSIDE_USER_AREA,Unable to install outside the occupied area.
+SURFACE_ERROR_TOAST_CANNOT_INSTALL_SELECT_TILE,Unable to install on the selected tile.
+SURFACE_CALLING_SIGNAL_GENERATOR_INSTALL_CONFIRM,Install the selected call signal generator?
+SURFACE_CALLING_SIGNAL_GENERATOR_INSTALL_COMPLETE,Calling signal generator installation complete!
+SURFACE_OBJECT_DURABILITY,Durability
+SURFACE_FACTORY_PRODUCT_UNLOCK_CONDITION_TITLE,Production Conditions
+SURFACE_FACTORY_NOT_ENOUGH_UNLOCK_CONDITION,Production conditions not met.
+SURFACE_FACTORY_UNLOCK_CONDITION_CATEGORY_01,Region
+SURFACE_FACTORY_UNLOCK_CONDITION_CATEGORY_02,Research
+SURFACE_FACTORY_PRODUCT_REMAIN_COUNT_TITLE,Remaining Attempts
+SURFACE_FACTORY_PRODUCT_ATTEMPTS_EXHAUSTED,All item production attempts have been used up.
+SURFACE_FACTORY_PRODUCT_LIST_TITLE,Production List
+SURFACE_UNLOCK_CONDITION_SECTOR_OPEN_1,Unlock Sector 1
+SURFACE_UNLOCK_CONDITION_SECTOR_OPEN_2,Unlock Sector 2
+SURFACE_UNLOCK_CONDITION_SECTOR_OPEN_3,Unlock Sector 3
+SURFACE_UNLOCK_CONDITION_SECTOR_OPEN_4,Unlock Sector 4
+SURFACE_FACTORY_PRODUCT_SLOT_MAX_STATE,All factory production slots are currently in use.
+SURFACE_FACTORY_ERROR_TOAST_RECEIVE_ALL,No obtainable items.
+SURFACE_STORAGE_ERROR_TOAST_MAX_AMOUNT,The warehouse is full.
+SURFACE_HOSPITAL_RETURN_TO_UNIT_FAST_COMP,Return the selected Nikke instantly?
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_ALL_CURRENCY_TITLE,All Currency Max Amount
+SURFACE_BUILDING_FUNCTION_MAX_AMOUNT_ALL_CURRENCY_DESC,{0}
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_ALL_CURRENCY_TITLE,All Currency Max Production
+SURFACE_BUILDING_FUNCTION_MAX_PRODUCTION_ALL_CURRENCY_DESC,{0}
+SURFACE_BUILDING_FUNCTION_NIKKE_MAXIMUM_TITLE,Nikke Slots
+SURFACE_BUILDING_FUNCTION_NIKKE_MAXIMUM_DESC,{0}
+SURFACE_BUILDING_FUNCTION_HOSPITAL_SLOT_TITLE,Nikke Recovery Slot Unlocked
+SURFACE_BUILDING_FUNCTION_HOSPITAL_SLOT_DESC,{0}
+SURFACE_BUILDING_FUNCTION_HOSPITAL_MAX_AMOUNT_TITLE,Squad Recovery Slots
+SURFACE_BUILDING_FUNCTION_HOSPITAL_MAX_AMOUNT_DESC,{0}
+SURFACE_BUILDING_FUNCTION_HOSPITAL_DECREASE_TIME_TITLE,Recovery Time Reduction
+SURFACE_BUILDING_FUNCTION_HOSPITAL_DECREASE_TIME_DESC,{0}%
+SURFACE_BUILDING_FUNCTION_FACTORY_SLOT_TITLE,Production Slot Unlocked
+SURFACE_BUILDING_FUNCTION_FACTORY_SLOT_DESC,{0}
+SURFACE_BUILDING_FUNCTION_FACTORY_DECREASE_TIME_TITLE,Production Time Reduction
+SURFACE_BUILDING_FUNCTION_FACTORY_DECREASE_TIME_DESC,{0}%
+SURFACE_BUILDING_LEVEL_UP_ERROR_TOAST_NOT_ENOUGH,"Unable to upgrade.
+{0}"
+SURFACE_BUILDING_LEVEL_UP_ERROR_TOAST_NOT_ENOUGH_CONDITION_BUILDING,Reach Lv. {0}
+SURFACE_BUILDING_LEVEL_UP_ERROR_TOAST_NOT_ENOUGH_CONDITION_RESEARCH,Reach Lv. {0}
+SURFACE_BUILDING_ENTER_ERROR_TOAST_ITEM_CRAFT,Production in progress.
+SURFACE_RESEARCH_PROGRESS_ERROR_TOAST_BUILDING_LEVEL_UP,Building upgrade in progress.
+SURFACE_BUILDING_ENTER_ERROR_TOAST_RESEARCH_PROGRESS,Research in progress.
+SURFACE_BUILDING_ENTER_ERROR_TOAST_RECOVERY,Recovery in progress.
+SURFACE_BUILDING_LEVEL_UP_COMPLETE,{0} Lv. {1} completed.
+surface_world_name_03,Challenge (Dummy)
+surface_world_name_04,Trial World
+surface_world_name_05,Guide World
+surface_item_name_dummy,Temporary Item Name
+surface_item_desc_dummy,Temporary Item Description
+surface_material_name_05001,Fire Axe
+surface_material_desc_05001,"An axe with a sturdy blade and handle.
+Let's swing it hard and chop down the trees on the surface."
+surface_material_name_05002,Pickaxe
+surface_material_desc_05002,"A pickaxe forged from high-strength metal.
+It seems capable of digging up whatever you want, whether it's the hardened ground of ruins or anywhere else."
+surface_material_name_05003,Shovel
+surface_material_desc_05003,"A sturdy-looking shovel.
+It should prove useful wherever there's sand to be cleared away."
+SURFACE_ITEM_MATERIAL_TICKET_DAILY_MISSION_NAME,Op Report
+SURFACE_ITEM_MATERIAL_TICKET_DAILY_MISSION_DESC,"A document for reporting the results of an operation.
+Let's proudly showcase everything we've achieved so far!"
+SURFACE_ITEM_MATERIAL_TICKET_WEEKLY_BOSS_NAME,Red Flare
+SURFACE_ITEM_MATERIAL_TICKET_WEEKLY_BOSS_DESC,"A flare signaling the completion of an expedition.
+Let's warn nearby squads with red to prepare them for any potential threats."
+SURFACE_ITEM_MATERIAL_TICKET_WEEKLY_DEFENSE_NAME,Green Flare
+SURFACE_ITEM_MATERIAL_TICKET_WEEKLY_DEFENSE_DESC,"A flare signaling the completion of an expedition.
+Let's signal with green to show nearby squads the area is safe."
+SURFACE_ITEM_MATERIAL_TICKET_RAPID_DEPLOYMENT_NAME,Emergency Comms Device
+SURFACE_ITEM_MATERIAL_TICKET_RAPID_DEPLOYMENT_DESC,"A device that summons an emergency transport ship.
+Deploying it incurs a significant cost, so please use it with caution."
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_01_NAME,Rapture Lite Lv. 1
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_01_DESC,"A metal from Rapture armor that has degraded after being buried underground for ages. Though the surface was long ruled by the Raptures, and deposits are abundant, advanced technology is required to extract it.
+
+An essential material for crafting optical camouflage. Is it somewhat similar to smearing monster blood on oneself to deceive the monster?
+
+Required to craft Optical Camouflage Generator Lv. 1."
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_02_NAME,Rapture Lite Lv. 2
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_02_DESC,"A metal from Rapture armor that has degraded after being buried underground for ages. Though the surface was long ruled by the Raptures, and deposits are abundant, advanced technology is required to extract it.
+
+An essential material for crafting optical camouflage. Is it somewhat similar to smearing monster blood on oneself to deceive the monster?
+
+Required to craft Optical Camouflage Generator Lv. 2."
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_03_NAME,Rapture Lite Lv. 3
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_03_DESC,"A metal from Rapture armor that has degraded after being buried underground for ages. Though the surface was long ruled by the Raptures, and deposits are abundant, advanced technology is required to extract it.
+
+An essential material for crafting optical camouflage. Is it somewhat similar to smearing monster blood on oneself to deceive the monster?
+
+Required to craft Optical Camouflage Generator Lv. 3."
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_04_NAME,Rapture Lite Lv. 4
+SURFACE_ITEM_MATERIAL_OCCUPATION_KEYITEM_04_DESC,"A metal from Rapture armor that has degraded after being buried underground for ages. Though the surface was long ruled by the Raptures, and deposits are abundant, advanced technology is required to extract it.
+
+An essential material for crafting optical camouflage. Is it somewhat similar to smearing monster blood on oneself to deceive the monster?
+
+Required to craft Optical Camouflage Generator Lv. 4."
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_01_NAME,Geonic Battery Lv. 1
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_01_DESC,"A special battery made by compressing Geonic.
+Used to restore power to Optical Camouflage Generator Lv. 1."
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_02_NAME,Geonic Battery Lv. 2
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_02_DESC,"A special battery made by compressing Geonic.
+Used to restore power to Optical Camouflage Generator Lv. 2."
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_03_NAME,Geonic Battery Lv. 3
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_03_DESC,"A special battery made by compressing Geonic.
+Used to restore power to Optical Camouflage Generator Lv. 3."
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_04_NAME,Geonic Battery Lv. 4
+SURFACE_ITEM_MATERIAL_OCCUPATION_BATTERY_04_DESC,"A special battery made by compressing Geonic.
+Used to restore power to Optical Camouflage Generator Lv. 4."
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_01_NAME,Calling Signal Generator Lv. 1
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_01_DESC,"A Calling Signal Generator that disrupts Raptures' movement.
+Can be installed at the base in Sector 1."
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_02_NAME,Calling Signal Generator Lv. 2
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_02_DESC,"A Calling Signal Generator that disrupts Raptures' movement.
+Can be installed at the base in Sector 2."
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_03_NAME,Calling Signal Generator Lv. 3
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_03_DESC,"A Calling Signal Generator that disrupts Raptures' movement.
+Can be installed at the base in Sector 3."
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_04_NAME,Calling Signal Generator Lv. 4
+SURFACE_ITEM_MATERIAL_OCCUPATION_SUB_OBJECT_04_DESC,"A Calling Signal Generator that disrupts Raptures' movement.
+Can be installed at the base in Sector 4."
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_01_NAME,Calling Signal Repair Lv. 1
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_01_DESC,"A specialized tool for repairing Calling Signal Generator Lv. 1.
+Please read the manual carefully before use."
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_02_NAME,Calling Signal Repair Lv. 2
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_02_DESC,"A specialized tool for repairing Calling Signal Generator Lv. 2.
+Please read the manual carefully before use."
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_03_NAME,Calling Signal Repair Lv. 3
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_03_DESC,"A specialized tool for repairing Calling Signal Generator Lv. 3.
+Please read the manual carefully before use."
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_04_NAME,Calling Signal Repair Lv. 4
+SURFACE_ITEM_MATERIAL_OCCUPATION_REPAIRTOOL_04_DESC,"A specialized tool for repairing Calling Signal Generator Lv. 4.
+Please read the manual carefully before use."
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_01_NAME,Holographic Terminal Lv. 1
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_01_DESC,"Install a holographic terminal at a location to hack the Sector 1 gateway.
+Use it with caution, as it may attract the Raptures' attention."
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_02_NAME,Holographic Terminal Lv. 2
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_02_DESC,"Install a holographic terminal at a location to hack the Sector 2 gateway.
+Use it with caution, as it may attract the Raptures' attention."
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_03_NAME,Holographic Terminal Lv. 3
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_03_DESC,"Install a holographic terminal at a location to hack the Sector 3 gateway.
+Use it with caution, as it may attract the Raptures' attention."
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_04_NAME,Holographic Terminal Lv. 4
+SURFACE_ITEM_MATERIAL_GATEWAY_MAIN_OBJECT_04_DESC,"Install a holographic terminal at a location to hack the Sector 4 gateway.
+Use it with caution, as it may attract the Raptures' attention."
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_01_NAME,Holographic Material Lv. 1
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_01_DESC,"A material for crafting Holographic Terminal Lv. 1.
+It's extremely fragile, so handle it with great care during transport."
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_02_NAME,Holographic Material Lv. 2
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_02_DESC,"A material for crafting Holographic Terminal Lv. 2.
+It's extremely fragile, so handle it with great care during transport."
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_03_NAME,Holographic Material Lv. 3
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_03_DESC,"A material for crafting Holographic Terminal Lv. 3.
+It's extremely fragile, so handle it with great care during transport."
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_04_NAME,Holographic Material Lv. 4
+SURFACE_ITEM_MATERIAL_GATEWAY_KEYITEM_04_DESC,"A material for crafting Holographic Terminal Lv. 4.
+It's extremely fragile, so handle it with great care during transport."
+SURFACE_ITEM_CONSUME_BOX_CORE_POWDER_01_NAME,Core Powder Container I
+SURFACE_ITEM_CONSUME_BOX_CORE_POWDER_01_DESC,"A container full of Core Powder.
+Be careful not to spill the powder when you open the container.
+
+Use it to obtain 1,000 Core Powder."
+SURFACE_ITEM_CONSUME_BOX_CORE_POWDER_02_NAME,Core Powder Container II
+SURFACE_ITEM_CONSUME_BOX_CORE_POWDER_02_DESC,"A container full of Core Powder.
+Be careful not to spill the powder when you open the container.
+
+Use it to obtain 10,000 Core Powder."
+SURFACE_ITEM_CONSUME_BOX_CORE_POWDER_03_NAME,Core Powder Container III
+SURFACE_ITEM_CONSUME_BOX_CORE_POWDER_03_DESC,"A container full of Core Powder.
+Be careful not to spill the powder when you open the container.
+
+Use it to obtain 100,000 Core Powder."
+SURFACE_ITEM_CONSUME_BOX_GODDESIUM_01_NAME,Goddesium Container I
+SURFACE_ITEM_CONSUME_BOX_GODDESIUM_01_DESC,"A container full of Goddesium.
+It must be transported by at least two people. If you drop it, you'll get a scolding.
+
+Use it to obtain 1,000 Goddesium."
+SURFACE_ITEM_CONSUME_BOX_GODDESIUM_02_NAME,Goddesium Container II
+SURFACE_ITEM_CONSUME_BOX_GODDESIUM_02_DESC,"A container full of Goddesium.
+It must be transported by at least two people. If you drop it, you'll get a scolding.
+
+Use it to obtain 10,000 Goddesium."
+SURFACE_ITEM_CONSUME_BOX_GODDESIUM_03_NAME,Goddesium Container III
+SURFACE_ITEM_CONSUME_BOX_GODDESIUM_03_DESC,"A container full of Goddesium.
+It must be transported by at least two people. If you drop it, you'll get a scolding.
+
+Use it to obtain 100,000 Goddesium."
+SURFACE_ITEM_CONSUME_BOX_GEONIC_01_NAME,Geonic Container I
+SURFACE_ITEM_CONSUME_BOX_GEONIC_01_DESC,"A container full of Geonic.
+It feels great to see Geonic neatly arranged inside the container.
+
+Use it to obtain 1,000 Geonic."
+SURFACE_ITEM_CONSUME_BOX_GEONIC_02_NAME,Geonic Container II
+SURFACE_ITEM_CONSUME_BOX_GEONIC_02_DESC,"A container full of Geonic.
+It feels great to see Geonic neatly arranged inside the container.
+
+Use it to obtain 10,000 Geonic."
+SURFACE_ITEM_CONSUME_BOX_GEONIC_03_NAME,Geonic Container III
+SURFACE_ITEM_CONSUME_BOX_GEONIC_03_DESC,"A container full of Geonic.
+It feels great to see Geonic neatly arranged inside the container.
+
+Use it to obtain 100,000 Geonic."
+SURFACE_ITEM_CONSUME_BOX_NEO_TITANIUM_01_NAME,Neo Titanium Container I
+SURFACE_ITEM_CONSUME_BOX_NEO_TITANIUM_01_DESC,"A container full of Neo Titanium.
+Hope you won't roll it when taking it out.
+
+Use it to obtain 1,000 Neo Titanium."
+SURFACE_ITEM_CONSUME_BOX_NEO_TITANIUM_02_NAME,Neo Titanium Container II
+SURFACE_ITEM_CONSUME_BOX_NEO_TITANIUM_02_DESC,"A container full of Neo Titanium.
+Hope you won't roll it when taking it out.
+
+Use it to obtain 10,000 Neo Titanium."
+SURFACE_ITEM_CONSUME_BOX_NEO_TITANIUM_03_NAME,Neo Titanium Container III
+SURFACE_ITEM_CONSUME_BOX_NEO_TITANIUM_03_DESC,"A container full of Neo Titanium.
+Hope you won't roll it when taking it out.
+
+Use it to obtain 100,000 Neo Titanium."
+SURFACE_ITEM_CONSUME_HP_RECOVERY_PER_01_NAME,Body Injector: Beta
+SURFACE_ITEM_CONSUME_HP_RECOVERY_PER_01_DESC,"An emergency medical device that forcibly injects numerous nanomachines to repair damage to a Nikke's body.
+It instantly restores all bodily functions to normal, but is highly unstable in terms of safety."
+SURFACE_ITEM_CONSUME_STAMINA_RECOVERY_PER_01_NAME,Core Injector: Beta
+SURFACE_ITEM_CONSUME_STAMINA_RECOVERY_PER_01_DESC,"An emergency medical device that forcibly injects power into a Nikke's core to instantly restore its output to maximum.
+It boosts output as if freshly serviced, but is highly unstable in terms of safety."
+SURFACE_ITEM_NAME_EBLADUST,Alva Dust
+SURFACE_ITEM_DESC_EBLADUST,"A powder formed from clumped Alva particles on the surface.
+Though its dazzling golden shimmer brings gold to mind, it is sadly not real gold."
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_01_NAME,Optical Camouflage Generator Lv. 1
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_01_DESC,"When installed, it emits a similar calling signal that attracts nearby Raptures.
+Once the area is cleared, the optical camouflage activates.
+
+Used to start the occupation battle in Sector 1."
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_02_NAME,Optical Camouflage Generator Lv. 2
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_02_DESC,"When installed, it emits a similar calling signal that attracts nearby Raptures.
+Once the area is cleared, the optical camouflage activates.
+
+Used to start the occupation battle in Sector 2."
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_03_NAME,Optical Camouflage Generator Lv. 3
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_03_DESC,"When installed, it emits a similar calling signal that attracts nearby Raptures.
+Once the area is cleared, the optical camouflage activates.
+
+Used to start the occupation battle in Sector 3."
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_04_NAME,Optical Camouflage Generator Lv. 4
+SURFACE_ITEM_MATERIAL_OPTICAL_CAMOUFLAGE_OBJECT_04_DESC,"When installed, it emits a similar calling signal that attracts nearby Raptures.
+Once the area is cleared, the optical camouflage activates.
+
+Used to start the occupation battle in Sector 4."
+SURFACE_AREA_NAME_01_A,Occupied Area 01-A
+SURFACE_AREA_NAME_02_A,Occupied Area 02-A
+SURFACE_AREA_NAME_02_B,Occupied Area 02-B
+SURFACE_AREA_NAME_02_C,Occupied Area 02-C
+SURFACE_AREA_NAME_03_A,Occupied Area 03-A
+SURFACE_AREA_NAME_03_B,Occupied Area 03-B
+SURFACE_AREA_NAME_03_C,Occupied Area 03-C
+SURFACE_AREA_NAME_04_A,Occupied Area 04-A
+SURFACE_AREA_NAME_04_B,Occupied Area 04-B
+SURFACE_AREA_NAME_04_C,Occupied Area 04-C
+SURFACE_AREA_NAME_05_A,Occupied Area 05-A
+SURFACE_AREA_NAME_05_B,Occupied Area 05-B
+SURFACE_AREA_NAME_05_C,Occupied Area 05-C
+SURFACE_AREA_NAME_06_A,Occupied Area 06-A
+SURFACE_AREA_NAME_06_B,Occupied Area 06-B
+SURFACE_AREA_NAME_06_C,Occupied Area 06-C
+SURFACE_ITEM_RECOVERY_ERROR_NEED_SELECT_CHARACTER,Please select a Nikke to use it on.
+SURFACE_ITEM_RECOVERY_ERROR_DEAD_CHARACTER,Unable to use on a fallen Nikke.
+SURFACE_ITEM_RECOVERY_ERROR_FULL_HP,Unable to use on Nikkes with full HP.
+SURFACE_ITEM_RECOVERY_ERROR_RETURN_CHARACTER,Unable to use on Nikkes recovering in the hospital.
+SURFACE_ITEM_RECOVERY_ERROR_RECOVERY_CHARACTER,Unable to use on the squad recovering in the hospital.
+SURFACE_ITEM_RECOVERY_ERROR_BATTLE_CHARACTER,Unable to use on Nikkes in battle.
+SURFACE_ITEM_HP_RECOVERY_COMPLETE,The Nikke's HP has been restored.
+SURFACE_ITEM_RECOVERY_ERROR_FULL_STAMINA,Unable to use on Nikkes with full stamina.
+SURFACE_ITEM_STAMINA_RECOVERY_COMPLETE,The Nikke's stamina has been restored.
+SURFACE_ITEM_RECOVERY_CHAR_SELECT_DESC,Please select a Nikke to use it on.
+SURFACE_ITEM_QUANTITY_TITLE,Owned ({0})
+SURFACE_BUFF_PARTS_NAME_LV_01,Land Adapter Lv. 1
+SURFACE_BUFF_PARTS_NAME_LV_02,Land Adapter Lv. 2
+SURFACE_BUFF_PARTS_NAME_LV_03,Land Adapter Lv. 3
+SURFACE_BUFF_PARTS_NAME_LV_04,Land Adapter Lv. 4
+SURFACE_BUFF_PARTS_NAME_LV_05,Land Adapter Lv. 5
+SURFACE_BUFF_PARTS_DESC_LV_01,"■ Affects Nikkes in the squad
+ATK ▲ 80 for 3 hours.
+■ Affects Nikkes in the squad
+Max HP ▲ 3,800 for 3 hours."
+SURFACE_BUFF_PARTS_DESC_LV_02,"■ Affects Nikkes in the squad
+ATK ▲ 120 for 3 hours.
+■ Affects Nikkes in the squad
+Max HP ▲ 6,200 for 3 hours."
+SURFACE_BUFF_PARTS_DESC_LV_03,"■ Affects Nikkes in the squad
+ATK ▲ 190 for 3 hours.
+■ Affects Nikkes in the squad
+Max HP ▲ 9,400 for 3 hours."
+SURFACE_BUFF_PARTS_DESC_LV_04,"■ Affects Nikkes in the squad
+ATK ▲ 280 for 3 hours.
+■ Affects Nikkes in the squad
+Max HP ▲ 14,000 for 3 hours."
+SURFACE_BUFF_PARTS_DESC_LV_05,"■ Affects Nikkes in the squad
+ATK ▲ 400 for 3 hours.
+■ Affects Nikkes in the squad
+Max HP ▲ 20,200 for 3 hours."
+SURFACE_BUFF_PARTS_BUY_TOAST,Part purchased.
+SURFACE_BUFF_PARTS_NOT_ENOUGH_ITEM_TOAST,Not enough items.
+SURFACE_BUFF_PARTS_DIALOG_BUY_LOW_GRADE_PARTS,"A stronger part effect is currently in effect.
+
+If you proceed with the purchase, the current effect will be removed.
+
+Purchase anyway?"
+SURFACE_BUFF_PARTS_DIALOG_BUY_ANOTHER_PARTS,"An existing part effect is currently in effect.
+
+If you proceed with the purchase, the current effect will be removed.
+
+Purchase anyway?"
+SURFACE_BUFF_PARTS_BUY_FAIL_SQUAD_DISBAND,Unable to use this feature. The squad has been annihilated or disbanded.
+SURFACE_BUFF_PARTS_BUY_FAIL_AREA_OUT,Only squads at a base or an occupied area can use this feature.
+SURFACE_BUFF_PARTS_EMPTY,"No parts are available for purchase.
+Please proceed with research."
+SURFACE_ALREADY_MIN_LEVEL_SELECT,You've already selected the lowest-level option.
+SURFACE_ALREADY_MAX_LEVEL_SELECT,You've already selected the highest-level option.
+SURFACE_BUFF_PARTS_BUY,Part Purchase
+SURFACE_BUFF_PARTS_BUY_UI_DESC,All Nikkes in this squad will be enhanced.
+SURFACE_BUFF_PARTS_COST,Purchase Cost
+SURFACE_NEED,Required
+SURFACE_POSSESION,Owned
+SURFACE_MIN_ENG,Min
+SURFACE_MAX_ENG,Max
+SURFACE_LV_DOT_VALUE,Lv. {0}
+SURFACE_DO_BUY,Purchase
+SURFACE_EVLA_PURIFICATION_TITLE,Alva Particle Purification
+SURFACE_EVLA_PURIFICATION_TITLE_SHORT,Alva Particle
+SURFACE_EVLA_PURIFICATION_LEVEL_APPLY,Applying Stage {0}...
+SURFACE_EVLA_PURIFICATION_LEVEL_NOTIFICATION,Stage {0}
+SURFACE_EVLA_PURIFICATION_LEVEL_INFO_TITLE,Purification Info
+SURFACE_EVLA_PURIFICATION_LEVEL_CONDITION_TITLE,Purification Conditions
+SURFACE_EVLA_PURIFICATION_LEVEL_COST_TITLE,Purification Cost
+SURFACE_EVLA_PURIFICATION_LEVEL_CONDITION_NONE,No purification conditions.
+SURFACE_EVLA_PURIFICATION_LEVEL_CONDITION_FALSE,"Purification conditions not met.
+- {0}"
+SURFACE_EVLA_PURIFICATION_LEVEL_COST_NOT_ENOUGH,Not enough currency for purification.
+SURFACE_EVLA_PURIFICATION_BUTTON_TITLE,Purify
+SURFACE_EVLA_PURIFICATION_BUTTON_DESC,Would you like to purify Alva Particles?
+SURFACE_EVLA_PURIFICATION_BUTTON_APPLY,Purifying
+SURFACE_EVLA_PURIFICATION_REMAIN_TIME,Remaining Time
+SURFACE_EVLA_PURIFICATION_BUTTON_CANCEL,Cancel
+SURFACE_EVLA_PURIFICATION_BUTTON_CANCEL_DESC,"The purification has been canceled, and the cost has been refunded."
+SURFACE_EVLA_PURIFICATION_COMPLETE_UNABLE_CANCEL,Unable to cancel completed purification stages.
+SURFACE_EVLA_PURIFICATION_RETURN_COST_DESC,"Would you like to cancel the ongoing purification?
+The costs incurred will be refunded."
+SURFACE_EVLA_PURIFICATION_COMPLETE,Purification Complete
+SURFACE_EVLA_PURIFICATION_COMPLETE_DESC,Purification Stage {0} has been completed.
+SURFACE_EVLA_PURIFICATION_LEVEL_MAX_DESC,Max stage reached.
+SURFACE_EVLA_PURIFICATION_LEVEL_CONDITION_SECTOR_OPEN,Sector {0} Gateway Now Available
+SURFACE_EVLA_PURIFICATION_LEVEL_DESC_01,Purifying Alva Particles increases Nikkes' combat power on the surface.
+SURFACE_EVLA_PURIFICATION_RECOVERY_COST_DESC,Hospital recovery cost increases proportionally to the combat power gained from Alva Particle purification.
+SURFACE_BUILD_LEVEL_UP_BUTTON_CANCEL_DESC,"The facility upgrade has been canceled, and the cost has been refunded."
+SURFACE_BUILD_LEVEL_UP_COMPLETE_UNABLE_CANCEL,Unable to cancel completed facility upgrades.
+SURFACE_BUILD_LEVEL_UP_RETURN_COST_DESC,"Would you like to cancel the ongoing facility upgrade?
+The costs incurred will be refunded."
+SURFACE_RESEARCH_LEVEL_UP_BUTTON_CANCEL_DESC,"The research upgrade has been canceled, and the cost has been refunded."
+SURFACE_RESEARCH_LEVEL_UP_COMPLETE_UNABLE_CANCEL,Unable to cancel completed research upgrades.
+SURFACE_RESEARCH_LEVEL_UP_RETURN_COST_DESC,"Would you like to cancel the ongoing research upgrade?
+The costs incurred will be refunded."
+SURFACE_RECOVERY_BUTTON_CANCEL_DESC,Squad recovery has been canceled and the cost has been refunded.
+SURFACE_RECOVERY_COMPLETE_UNABLE_CANCEL,Squad recovery is complete and cannot be canceled.
+SURFACE_RECOVERY_RETURN_COST_DESC,"Would you like to cancel the ongoing squad recovery?
+The costs incurred will be refunded."
+SURFACE_RETURN_TO_UNIT_BUTTON_CANCEL_DESC,"Nikke recovery has been canceled, and the cost has been refunded."
+SURFACE_RETURN_TO_UNIT_COMPLETE_UNABLE_CANCEL,Nikke recovery is complete and cannot be canceled.
+SURFACE_RETURN_TO_UNIT_RETURN_COST_DESC,"Would you like to cancel the ongoing Nikke recovery?
+The costs incurred will be refunded."
+SURFACE_ITEM_CRAFT_BUTTON_CANCEL_DESC,"Production has been canceled, and the cost has been refunded."
+SURFACE_ITEM_CRAFT_COMPLETE_UNABLE_CANCEL,Unable to cancel completed productions.
+SURFACE_ITEM_CRAFT_RETURN_COST_DESC,"Would you like to cancel the ongoing purification?
+The costs incurred will be refunded."
+SURFACE_TEAM_LIST_EMPTY,No new squads.
+SURFACE_TEAM_LIST_EDIT_ERROR,No new squads. Unable to edit.
+SURFACE_TEAM_LIST_EDIT_DELETE_TEAM,Remove the selected squad from the list?
+SURFACE_TEAM_LIST_REFRESH,"Unable to create a new squad due to changes in the squad status on the surface.
+Information will be updated when the pop-up closes."
+SURFACE_ERROR_TOAST_TEAM_LIST_NOT_ENOUGH,The squad limit has been reached.
+SURFACE_ERROR_TOAST_NOT_SELECT_TEAM,No squad selected.
+SURFACE_RAPID_DEPLOYMENT,Rapid Deployment
+SURFACE_RAPID_DEPLOYMENT_CONFIRM_DESC,Initiate rapid deployment of the current squad to the selected location?
+SURFACE_SQUAD_NUMBER,Squad {0}
+SURFACE_RAPID_DEPLOYMENT_SQUAD_SELECT_INFO,"Please select a squad for rapid deployment.
+(Squads in recovery cannot be selected.)"
+SURFACE_RAPID_DEPLOYMENT_TARGET_POINT_SELECT_INFO,"Please select a location as your destination.
+(Territories currently engaged in conquest or defense battles cannot be selected.)"
+SURFACE_RAPID_DEPLOYMENT_COST_FREE,Free
+SURFACE_RAPID_DEPLOYMENT_UNLOCK_BTN_TOUCH_DESC,Available after completing Rapid Deployment research.
+SURFACE_RAPID_DEPLOYMENT_COST_CHANGE_DESC,Rapid Deployment costs have changed. All related information is being updated.
+SURFACE_RAPID_DEPLOYMENT_COST_NOT_ENOUGH_DESC,Not enough cost for Rapid Deployment.
+SURFACE_RAPID_DEPLOYMENT_SQUAD_DISBAND_DESC,Rapid Deployment unavailable. The selected squad has been disbanded.
+SURFACE_RAPID_DEPLOYMENT_HEADQUARTERS_TILES_FULL_DESC,Rapid Deployment unavailable. The selected base has no empty tiles.
+SURFACE_RAPID_DEPLOYMENT_OCCUPATION_TILES_FULL_DESC,Rapid Deployment unavailable. The selected occupied area has no empty tiles.
+SURFACE_RAPID_DEPLOYMENT_HELIPORT_TILES_FULL_DESC,Rapid Deployment unavailable. No empty tiles within 1 tile of the selected Heliport.
+SURFACE_RAPID_DEPLOYMENT_OCCUPATION_NOT_COMPLETE_DESC,Rapid Deployment unavailable. The selected area has not been fully occupied yet.
+SURFACE_GO_PREV_STEP,Previous Phase
+SURFACE_CONTENTS_NAME_GATEWAY,Gateway Battle
+SURFACE_CONTENTS_PLAY_TIME_GATEWAY,Time Limit
+SURFACE_BATTLE_INFO_CONTENTS_PLAY_TIP_GATEWAY,Defend the holographic terminal against enemy waves during the time limit.
+SURFACE_UNTIL_GATEWAY_BATTLE_START,Until start of gateway battle
+SURFACE_UNTIL_GATEWAY_BATTLE_END,Until end of gateway battle
+SURFACE_GATEWAY_INSTALL_WARNING,1 {0} will be consumed when the gateway battle begins.
+SURFACE_GATEWAY_CONTENTS_OPEN_DESC,Gateway and Sector {0} will unlock after completing the gateway battle.
+SURFACE_GATEWAY_BATTLE_START_BUTTON,Start Battle
+SURFACE_HOLOGRAM_COMPUTER_INSTALL_TILE_SELECT,Please select a location to install.
+SURFACE_HOLOGRAM_COMPUTER_INSTALL_CONFIRM_DESC,Install the holographic terminal at the selected location?
+SURFACE_GATEWAY_STATE_NOW_HACKING,Hacking
+SURFACE_GATEWAY_REMAIN_TIME_HACKING_START,Until start of hacking
+SURFACE_GATEWAY_REMAIN_TIME_HACKING_END,Until end of hacking
+SURFACE_GATEWAY_BATTLE_RETRY_BUTTON,Battle Again
+SURFACE_GATEWAY_BATTLE_RETRY_CONFIRM_DESC,Would you like to try this gateway battle again?
+SURFACE_GATEWAY_OPEN_BUTTON,Open Gateway
+SURFACE_GATEWAY_OPEN_REWARD,Gateway Opening Reward
+SURFACE_GATEWAY_OPEN_RESULT_TITLE,Sector {0} Unlocked
+SURFACE_GATEWAY_OPEN_RESULT_DESC,The gateway has opened. You can now explore a new sector.
+SURFACE_GATEWAY_NEED_SQUAD,At least one squad must be adjacent to the gateway.
+SURFACE_HOLOGRAM_COMPUTER_INSTALL_TILE_FULL_DESC,"Unable to install on this tile.
+Please select an empty tile from the marked ones."
+SURFACE_MANAGE_BTN_TEXT,Manage
+SURFACE_MANAGE_POPUP_TITLE,Surface Management
+SURFACE_NO_MANAGEABLE_TARGETS,No targets to manage.
+SURFACE_BATTERY_MANAGE_BTN_TEXT,Manage
+SURFACE_UNTIL_BATTERY_LEFT,Time until battery runs out
+SURFACE_UNTIL_OCCUPATION_START,Until start of occupation battle
+SURFACE_UNTIL_OCCUPATION_END,Until end of occupation battle
+SURFACE_UNTIL_DEFENSE_START,Until start of defense battle
+SURFACE_UNTIL_DEFENSE_END,Until end of defense battle
+SURFACE_UNOCCUPIED_AREA,Unoccupied area.
+SURFACE_BATTERY_MANAGEMENT_UNAVAILABLE,Battery management is not available in this area.
+SURFACE_MANAGE_SHORT_CUT_BTN,Go
+SURFACE_NO_AVAILABLE_CHARACTERS,No available Nikkes.
+SURFACE_OCCUPATION_BATTLE_HELPTIP_TITLE_101,Occupation Battle
+SURFACE_OCCUPATION_BATTLE_HELPTIP_DESC_101,"■ Install an optical camouflage generator to start an occupation battle.
+■ Once installed, the battle will begin after a certain amount of time.
+■ Optical camouflage generators can be produced at the factory."
+SURFACE_OCCUPATION_BATTLE_HELPTIP_TITLE_102,Occupation Battle Victory
+SURFACE_OCCUPATION_BATTLE_HELPTIP_DESC_102,"■ Protect the optical camouflage generator from incoming enemy waves for a certain amount of time to win.
+■ Winning the occupation battle allows you to use the buildings in the occupied area."
+SURFACE_OCCUPATION_BATTLE_HELPTIP_TITLE_103,Occupation Battle Lost
+SURFACE_OCCUPATION_BATTLE_HELPTIP_DESC_103,"■ You'll lose if the optical camouflage generator is destroyed.
+■ You can retry if you fail."
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_101,Defense Battle
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_DESC_101,"■ A defense battle occurs when the battery in an occupied area runs out.
+■ The longer the battery stays depleted, the stronger the incoming enemy waves will become."
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_102,Defense Battle Victory
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_DESC_102,"■ Protect the optical camouflage generator from incoming enemy waves for a certain amount of time to win.
+■ Winning the defense battle allows you to use the buildings in the occupied area."
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_103,Defense Battle Lost
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_DESC_103,"■ You'll lose if the optical camouflage generator is destroyed.
+■ If you are defeated, you will lose ownership of the occupied area, and the buildings within it will become unavailable.
+■ All building upgrade information will also be reset."
+SURFACE_GATEWAY_BATTLE_HELPTIP_TITLE_101,Gateway Battle
+SURFACE_GATEWAY_BATTLE_HELPTIP_DESC_101,"■ Install a holographic terminal to start a gateway battle.
+■ Once installed, the battle will begin after a certain amount of time.
+■ Holographic terminals can be produced at the factory."
+SURFACE_GATEWAY_BATTLE_HELPTIP_TITLE_102,Gateway Battle Victory
+SURFACE_GATEWAY_BATTLE_HELPTIP_DESC_102,"■ Protect the holographic terminal from incoming enemy waves for a certain amount of time to win.
+■ Win the gateway battle to open the gateway and enter the next sector."
+SURFACE_GATEWAY_BATTLE_HELPTIP_TITLE_103,Gateway Battle Lost
+SURFACE_GATEWAY_BATTLE_HELPTIP_DESC_103,"■ You'll lose if the holographic terminal is destroyed.
+■ You can retry if you fail."
+SURFACE_BOSS_RAID_BATTLE_HELPTIP_TITLE_101,Elite Expedition
+SURFACE_BOSS_RAID_BATTLE_HELPTIP_DESC_101,"■ During surface exploration, you might come across Lord-Class or higher elite Raptures.
+■ Starting an elite expedition engages you in battle with an elite Rapture."
+SURFACE_BOSS_RAID_BATTLE_HELPTIP_TITLE_102,Elite Expedition Victory
+SURFACE_BOSS_RAID_BATTLE_HELPTIP_DESC_102,■ Defeat the elite Rapture to win.
+SURFACE_BOSS_RAID_BATTLE_HELPTIP_TITLE_103,Elite Expedition Lost
+SURFACE_BOSS_RAID_BATTLE_HELPTIP_DESC_103,■ You'll lose if all allied squads in battle are incapacitated.
+SURFACE_LEGION_RAID_BATTLE_HELPTIP_TITLE_101,Area Expedition
+SURFACE_LEGION_RAID_BATTLE__HELPTIP_DESC_101,"■ Install a calling signal generator to start an area expedition.
+■ Once installed, the battle will begin after a certain amount of time.
+■ Calling signal generators can be produced at the factory."
+SURFACE_LEGION_RAID_BATTLE_HELPTIP_TITLE_102,Area Expedition Victory
+SURFACE_LEGION_RAID_BATTLE__HELPTIP_DESC_102,■ Protect the calling signal generator from incoming enemy waves for a certain amount of time to win.
+SURFACE_LEGION_RAID_BATTLE_HELPTIP_TITLE_103,Area Expedition Lost
+SURFACE_LEGION_RAID_BATTLE__HELPTIP_DESC_103,"■ You'll lose if the calling signal generator is destroyed.
+■ A calling signal generator is required to retry."
+SURFACE_BUFF_PARTS_HELPTIP_TITLE_101,Part Purchase
+SURFACE_BUFF_PARTS_HELPTIP_DESC_101,"■ Purchasing parts provides effects that help in surface battles.
+■ To purchase parts, you must reach a certain research level.
+■ The higher your research level, the better parts you can purchase."
+SURFACE_BUFF_PARTS_HELPTIP_TITLE_102,Purchase Requirements
+SURFACE_BUFF_PARTS_HELPTIP_DESC_102,"■ Squads at a base or in occupied areas can purchase parts.
+■ You'll need resources to purchase parts."
+SURFACE_BUFF_PARTS_HELPTIP_TITLE_103,Apply Squad Effects
+SURFACE_BUFF_PARTS_HELPTIP_DESC_103,"■ The effects of parts apply to the squad that purchased them.
+■ The effects remain even if Nikkes in the squad are swapped.
+■ However, effects are removed if the squad is disbanded."
+SURFACE_BUFF_PARTS_HELPTIP_TITLE_104,Duplicate Part Purchase
+SURFACE_BUFF_PARTS_HELPTIP_DESC_104,"■ If you purchase new parts while parts are in use, the effects of the old parts will be removed, and only the new parts’ effects will apply."
+SURFACE_QUEST_HELPTIP_TITLE_101,Surface Mission
+SURFACE_QUEST_HELPTIP_DESC_101,"■ This feature allows you to complete missions divided into three ranks.
+■ You can choose the sector and difficulty for each mission.
+■ Complete the assigned mission on the surface after exploring."
+SURFACE_QUEST_HELPTIP_TITLE_102,Mission Complete
+SURFACE_QUEST_HELPTIP_DESC_102,"■ Use an op report to complete a mission after executing it.
+■ Op reports replenish daily, and you can hold up to 21.
+■ You can't start a new mission without one."
+SURFACE_QUEST_HELPTIP_TITLE_103,Mission Reset
+SURFACE_QUEST_HELPTIP_DESC_103,■ Completing missions of all the ranks allows you to explore new missions.
+SURFACE_QUEST_HELPTIP_TITLE_104,Give Up Missions
+SURFACE_QUEST_HELPTIP_DESC_104,"■ You can give up a mission in progress.
+■ Giving up a mission does not consume an op report.
+■ You cannot repeatedly give up missions."
+SURFACE_WAVE_HELPTIP_TITLE_101,Defense Operation
+SURFACE_WAVE_HELPTIP_DESC_101,"■ This is a defense operation where you must protect the Alva Particle purification device for a certain amount of time after installation.
+■ Enemies will swarm in when the operation starts."
+SURFACE_WAVE_HELPTIP_TITLE_102,Defense Operation Victory
+SURFACE_WAVE_HELPTIP_DESC_102,■ Protect the Alva Particle purification device from incoming enemy waves for a certain amount of time to win.
+SURFACE_WAVE_HELPTIP_TITLE_103,Defense Operation Lost
+SURFACE_WAVE_HELPTIP_DESC_103,"■ You'll lose if the Alva Particle purification device is destroyed.
+■ You can retry if you fail."
+SURFACE_RESEARCH_HELPTIP_TITLE_101,Research
+SURFACE_RESEARCH_HELPTIP_DESC_101,"■ You can research features needed on the surface.
+■ Research becomes available once conditions and costs are met.
+■ Some research can only be conducted after completing prerequisite research."
+SURFACE_RESEARCH_HELPTIP_TITLE_102,Research Type
+SURFACE_RESEARCH_HELPTIP_DESC_102,"■ Strengthen your squads through Combat Training research.
+■ Increase resource output through Construction and Production research.
+■ Upgrade surface facilities through Convenience and Technology research."
+SURFACE_RESEARCH_HELPTIP_TITLE_103,Cancel Research
+SURFACE_RESEARCH_HELPTIP_DESC_103,"■ You can cancel research that is in progress.
+■ Canceling research will refund the resources used.
+■ Completed research cannot be canceled."
+SURFACE_TEAM_SET_HELPTIP_TITLE_101,Squad Formation
+SURFACE_TEAM_SET_HELPTIP_DESC_101,"■ You must form a squad to perform surface exploration.
+■ Each squad can include up to 5 Nikkes."
+SURFACE_TEAM_SET_HELPTIP_TITLE_102,Squad Limit
+SURFACE_TEAM_SET_HELPTIP_DESC_102,"■ You can form multiple squads.
+■ Conduct research to increase the number of squads you can form."
+SURFACE_TEAM_SET_HELPTIP_TITLE_103,Nikke Slots
+SURFACE_TEAM_SET_HELPTIP_DESC_103,"■ Each squad can only include a limited number of Nikkes.
+■ You cannot exceed this limit.
+■ Upgrade the Dormitory in the base or occupied areas to increase the limit."
+SURFACE_TEAM_SET_HELPTIP_TITLE_104,Squad Type
+SURFACE_TEAM_SET_HELPTIP_DESC_104,"■ Squads come in Strike, Special Mission, Support, and Liberty types.
+■ Each type triggers surface skills differently.
+■ Strike squads activate their surface skills when dealing with radial enemies.
+■ Special Mission squads activate their surface skills within the battlefield.
+■ Support squads activate their surface skills when allied squads are fighting in the battlefield.
+■ Liberty squads activate their surface skills anywhere, so they're highly versatile.
+■ Be sure to form squads of various types to avoid overlap and maximize effectiveness."
+SURFACE_TEAM_SET_HELPTIP_TITLE_105,Disband and Swap Squads
+SURFACE_TEAM_SET_HELPTIP_DESC_105,"■ You can select an existing squad to disband or swap out Nikkes.
+■ Only squads not engaged in battle and located in the base can be edited. Nikkes will still retain their HP.
+■ Squads in recovery at the hospital cannot be disbanded.
+■ If all Nikkes in a squad have fallen, the squad will be forcibly disbanded."
+SURFACE_TEAM_SET_HELPTIP_TITLE_106,Surface Skill
+SURFACE_TEAM_SET_HELPTIP_DESC_106,"■ Surface Skills include attack boosts, rapid movement, and defense reduction.
+■ Same surface skills share the same icon.
+■ The effects and power of the same surface skills vary by level.
+■ The activation of the same surface skills may differ by squad type.
+■ If multiple Nikkes with surface skills are in the same squad, only the leftmost Nikke's skill will apply.
+■ Forming squads with Nikkes that have diverse surface skills is more advantageous."
+SURFACE_SITUATION_HELPTIP_TITLE_101,Surface Status
+SURFACE_SITUATION_HELPTIP_DESC_101,"■ The current effects applied to the surface are displayed.
+■ All numerical values are displayed as totals."
+SURFACE_EVLA_PURIFICATION_HELPTIP_TITLE_101,Alva Particle Purification
+SURFACE_EVLA_PURIFICATION_HELPTIP_DESC_101,"■ The high concentration of Alva particles on the surface weakens the Nikkes.
+■ Purifying the particles boosts the Nikkes' combat power.
+■ Purification can be performed once conditions and costs are met."
+SURFACE_EVLA_PURIFICATION_HELPTIP_TITLE_102,Combat Power Criteria
+SURFACE_EVLA_PURIFICATION_HELPTIP_DESC_102,"■ Combat power gained from T9 or lower equipment and Harmony Cubes does not apply on the surface.
+■ This also does not apply even if the Alva Particle Purification level increases."
+SURFACE_EVLA_PURIFICATION_HELPTIP_TITLE_103,Cancel Purification
+SURFACE_EVLA_PURIFICATION_HELPTIP_DESC_103,"■ You can cancel the purification that is in progress.
+■ Canceling the purification will refund the resources used.
+■ Completed purifications cannot be canceled."
+SURFACE_EVLA_PURIFICATION_HELPTIP_TITLE_104,Hospital Recovery Cost
+SURFACE_EVLA_PURIFICATION_HELPTIP_DESC_104,■ Increasing the Alva Particle Purification level also increases hospital recovery costs.
+SURFACE_STRUCTURE_LEVEL_HELPTIP_TITLE_101,Building Level
+SURFACE_STRUCTURE_LEVEL_HELPTIP_DESC_101,"■ Buildings on the surface have unique effects.
+■ You can upgrade buildings when conditions and costs are met.
+■ Upgrading enhances the buildings' effects."
+SURFACE_STRUCTURE_LEVEL_HELPTIP_TITLE_102,Building Feature
+SURFACE_STRUCTURE_LEVEL_HELPTIP_DESC_102,"■ Each building has different effects.
+■ You can view information about them in Building."
+SURFACE_STRUCTURE_LEVEL_HELPTIP_TITLE_103,Cancel Upgrade
+SURFACE_STRUCTURE_LEVEL_HELPTIP_DESC_103,"■ You can cancel the upgrade that is in progress.
+■ Canceling the upgrade will refund the resources used.
+■ Completed upgrades cannot be canceled."
+SURFACE_STRUCTURE_LEVEL_HELPTIP_TITLE_104,Building Upgrade Reset
+SURFACE_STRUCTURE_LEVEL_HELPTIP_DESC_104,■ Failing to defend an occupied area will reset the levels of its buildings.
+SURFACE_STRUCTURE_REPAIR_HELPTIP_TITLE_101,Building Repair
+SURFACE_STRUCTURE_REPAIR_HELPTIP_DESC_101,"■ Buildings in occupied areas must be repaired before they can be used.
+■ Once repairs are complete, you can receive the buildings' effects and upgrade them."
+SURFACE_STORAGE_HELPTIP_TITLE_101,Resource Production
+SURFACE_STORAGE_HELPTIP_DESC_101,"■ Resources are produced in processing plants located in the base and occupied areas.
+■ The warehouse and production status include all buildings in both bases and occupied areas."
+SURFACE_STORAGE_HELPTIP_TITLE_102,Warehouse Status
+SURFACE_STORAGE_HELPTIP_DESC_102,"■ Resources produced cannot exceed the warehouse's maximum capacity.
+■ Upgrade the warehouse in your base and occupied areas to increase the maximum capacity."
+SURFACE_STORAGE_HELPTIP_TITLE_103,Production Status
+SURFACE_STORAGE_HELPTIP_DESC_103,"■ Resources produced need to be collected periodically.
+■ Resources produced cannot exceed the production limit.
+■ Upgrade the processing plants in your base and occupied areas to increase the production limit."
+SURFACE_MANAGEMENT_HELPTIP_TITLE_101,Surface Management
+SURFACE_MANAGEMENT_HELPTIP_DESC_101,"■ You can view the information about occupied areas on the surface.
+■ You can travel to occupied areas or view information on the remaining battery charge."
+SURFACE_MANAGEMENT_HELPTIP_TITLE_102,Battery
+SURFACE_MANAGEMENT_HELPTIP_DESC_102,"■ When the battery runs out, a defense battle begins, and you may lose the occupied area."
+SURFACE_NOTICE_HELPTIP_TITLE_101,Notice
+SURFACE_NOTICE_HELPTIP_DESC_101,"■ You can check events on the surface through notices.
+■ Notices mainly show battle-related information such as occupation, defense, and expeditions."
+SURFACE_NOTICE_HELPTIP_TITLE_102,Sort
+SURFACE_NOTICE_HELPTIP_DESC_102,"■ Newest events appear at the top of the list.
+■ Older notices are removed when the list reaches its limit."
+SURFACE_FACTORY_HELPTIP_TITLE_101,Factory
+SURFACE_FACTORY_HELPTIP_DESC_101,"■ You can produce various tools that can assist with surface exploration.
+■ Tools can be produced once conditions and costs are met."
+SURFACE_FACTORY_HELPTIP_TITLE_102,Production Quantity
+SURFACE_FACTORY_HELPTIP_DESC_102,"■ Each building can produce only one tool at a time.
+■ Once production is complete, the next tool in the queue will begin production.
+■ Occupying an area with a factory lets you produce additional tools."
+SURFACE_FACTORY_HELPTIP_TITLE_103,Cancel Production
+SURFACE_FACTORY_HELPTIP_DESC_103,"■ You can cancel the production that is in progress.
+■ Canceling production will refund the resources used.
+■ Completed productions cannot be canceled."
+SURFACE_FACTORY_HELPTIP_TITLE_104,Occupied Area Defense Lost
+SURFACE_FACTORY_HELPTIP_DESC_104,"■ Completed tools can be retrieved if the defense of an occupied area fails.
+■ Tools still in production will be canceled, and the resources used will be refunded."
+SURFACE_MISSION_HELPTIP_TITLE_101,Mission
+SURFACE_MISSION_HELPTIP_DESC_101,"■ These missions show you what you need to do on the surface.
+■ Complete missions to get rewards."
+SURFACE_MISSION_HELPTIP_TITLE_102,Main Mission
+SURFACE_MISSION_HELPTIP_DESC_102,"■ These missions are essential for surface exploration.
+■ Complete them to carry out the actions needed for exploration."
+SURFACE_MISSION_HELPTIP_TITLE_103,Side Mission
+SURFACE_MISSION_HELPTIP_DESC_103,"■ These missions support surface exploration.
+■ Helpful missions are available in each sector.
+■ If the main missions are too difficult, try completing side missions first."
+SURFACE_HOSPITAL_HELPTIP_TITLE_101,Hospital
+SURFACE_HOSPITAL_HELPTIP_DESC_101,"■ You can recover squads wounded in battle or Nikkes who are not currently assigned to a squad.
+■ Recovery requires both resources and time.
+■ Upgrade the building to increase the recovery effect."
+SURFACE_HOSPITAL_HELPTIP_TITLE_102,Squad Recovery
+SURFACE_HOSPITAL_HELPTIP_DESC_102,"■ Squads recover as a unit and require both time and resources.
+■ Only squads in bases where the hospital has been repaired or in occupied areas can access the hospital.
+■ Squads in recovery cannot be deployed in battle.
+■ Cancelling will reset the recovery progress, and the costs incurred will be refunded."
+SURFACE_HOSPITAL_HELPTIP_TITLE_103,Nikke Recovery
+SURFACE_HOSPITAL_HELPTIP_DESC_103,"■ You can recover Nikkes who are incapacitated or not currently assigned to a squad.
+■ Nikkes assigned to a squad must be recovered as a squad unit.
+■ Nikkes in recovery cannot be assigned to a squad.
+■ Canceling recovery resets progress and refunds all resources used."
+SURFACE_HOSPITAL_HELPTIP_TITLE_104,Hospital Recovery Cost
+SURFACE_HOSPITAL_HELPTIP_DESC_104,■ Increasing the Alva Particle Purification level also increases hospital recovery costs.
+SURFACE_BATTERY_CHARGE_HELPTIP_TITLE_101,Battery
+SURFACE_BATTERY_CHARGE_HELPTIP_DESC_101,"■ This is a critical factor for maintaining occupied areas.
+■ When the battery runs out, a defense battle begins, and you may lose the occupied area."
+SURFACE_BATTERY_CHARGE_HELPTIP_TITLE_102,Battery Charging
+SURFACE_BATTERY_CHARGE_HELPTIP_DESC_102,"■ You can recharge the battery before it runs out.
+■ The batteries needed for recharging can be produced at the factory."
+SURFACE_CALLING_SIGNAL_HELPTIP_TITLE_101,Calling Signal Generator
+SURFACE_CALLING_SIGNAL_HELPTIP_DESC_101,"■ Install this tool in occupied areas to protect the optical camouflage generator during defense battles.
+■ Calling signal generators can be produced at the factory."
+SURFACE_CALLING_SIGNAL_HELPTIP_TITLE_102,Effect
+SURFACE_CALLING_SIGNAL_HELPTIP_DESC_102,"■ Raptures near the calling signal generator will target it instead of the optical camouflage generator.
+■ You can use this to your advantage in battle."
+SURFACE_CALLING_SIGNAL_HELPTIP_TITLE_103,Install
+SURFACE_CALLING_SIGNAL_HELPTIP_DESC_103,"■ Can be installed in empty spaces within occupied areas.
+■ Cannot be installed where other buildings or squads are present, and cannot exceed the installation limit.
+■ Destroyed calling signal generators cannot be restored."
+SURFACE_TEAM_GROUP_INFO_HELPTIP_TITLE_101,Squad List
+SURFACE_TEAM_GROUP_INFO_HELPTIP_DESC_101,"■ You can group existing squads together.
+■ Up to 5 squads can be added to a group."
+SURFACE_TEAM_GROUP_INFO_HELPTIP_TITLE_102,Squad Confirmation
+SURFACE_TEAM_GROUP_INFO_HELPTIP_DESC_102,■ Squads can be managed by group from the squad list on the right side of the screen.
+SURFACE_SQUAD_INFO_HELPTIP_TITLE_101,Squad Info
+SURFACE_SQUAD_INFO_HELPTIP_DESC_101,"■ You can view detailed information for the selected squad.
+■ It shows the Nikkes' remaining HP and the effects of equipped parts."
+SURFACE_SQUAD_INFO_HELPTIP_TITLE_102,Effect in Use
+SURFACE_SQUAD_INFO_HELPTIP_DESC_102,"■ Purchasing parts provides effects that help in battles.
+■ To purchase parts, you must reach a certain research level."
+SURFACE_COIN_COLLECTION_HELPTIP_TITLE_101,Alva Dust Collection
+SURFACE_COIN_COLLECTION_HELPTIP_DESC_101,■ Explore the surface to collect hidden Alva Dusts.
+SURFACE_COIN_COLLECTION_HELPTIP_TITLE_102,Collection Progress
+SURFACE_COIN_COLLECTION_HELPTIP_DESC_102,■ Collect hidden Alva Dusts in each sector to get rewards.
+SURFACE_RESEARCH_INCREASE_TEAM_MAX_AMOUNT_NAME,Squad Expansion
+SURFACE_RESEARCH_INCREASE_TEAM_MAX_AMOUNT_DESC,Increases the maximum number of squads that can be formed.
+SURFACE_RESEARCH_OPEN_BUFF_PARTS_01_NAME,Part Equipment I
+SURFACE_RESEARCH_OPEN_BUFF_PARTS_01_DESC,Allows Land Adapter Lv. 1 to be equipped.
+SURFACE_RESEARCH_OPEN_BUFF_PARTS_02_NAME,Part Equipment II
+SURFACE_RESEARCH_OPEN_BUFF_PARTS_02_DESC,Allows Land Adapter Lv. 2 to be equipped.
+SURFACE_RESEARCH_OPEN_BUFF_PARTS_03_NAME,Part Equipment III
+SURFACE_RESEARCH_OPEN_BUFF_PARTS_03_DESC,Allows Land Adapter Lv. 3 to be equipped.
+SURFACE_RESEARCH_OPEN_RAPID_DEPLOYMENT_NAME,Transport Ship Deployment
+SURFACE_RESEARCH_OPEN_RAPID_DEPLOYMENT_DESC,Enables the deployment of an emergency transport ship.
+SURFACE_RESEARCH_DECREASE_RESEARCH_TIME_NAME,Studiousness
+SURFACE_RESEARCH_DECREASE_RESEARCH_TIME_DESC,Reduces the time needed for research.
+SURFACE_RESEARCH_HOSPITAL_SLOT_UNLOCK_NAME,Hospital Bed
+SURFACE_RESEARCH_HOSPITAL_SLOT_UNLOCK_DESC,Increases the number of Nikke Recovery slots.
+SURFACE_RESEARCH_INCREASE_RAPID_DEPLOYMENT_MAX_AMOUNT_NAME,Increased Transport Ship Deployment
+SURFACE_RESEARCH_INCREASE_RAPID_DEPLOYMENT_MAX_AMOUNT_DESC,Increases the number of uses of the emergency transport ship.
+SURFACE_RESEARCH_DECREASE_RECOVERY_TIME_NAME,Recovery Speed
+SURFACE_RESEARCH_DECREASE_RECOVERY_TIME_DESC,Decreases the recovery time for squads and Nikkes.
+SURFACE_RESEARCH_DECREASE_RECOVERY_COST_NAME,Recovery Optimization
+SURFACE_RESEARCH_DECREASE_RECOVERY_COST_DESC,Decreases the resources required for Squad and Nikkes Recovery.
+surface_suddenevent_01,"You've discovered a key card and three supply boxes from the Second Surface Reclamation War.
+But only one of the boxes can be opened.
+Which one will you choose?"
+surface_suddenevent_02,"In the dense forest,
+you find a place to hide from Raptures.
+What will you do next?"
+surface_suddenevent_03,"A canned tin that's still damp
+and faint smoke rising from the firepit...
+You've found traces of a Pilgrim!
+What will you do next?"
+surface_suddenevent_select_01_01,Open the ration box.
+surface_suddenevent_select_01_02,Open the weapon box.
+surface_suddenevent_select_01_03,Open the resource box.
+surface_suddenevent_select_02_01,Close your eyes and rest comfortably for a while. (Recovery)
+surface_suddenevent_select_02_02,Maintain weapons and prepare for the next battle. (Attack Buff)
+surface_suddenevent_select_02_03,There's no time to rest. Search the area. (Resource Reward)
+surface_suddenevent_select_03_01,Search the area to find the Pilgrim. (Movement Speed +10%)
+surface_suddenevent_select_03_02,Report this to the Central Government. (Core Powder +200)
+surface_suddenevent_select_03_03,Ignore and continue the operation. (10% HP Recovery)
+surface_suddenevent_select_result_01_01,"A large stash of rations was found in the box.
+After eating them, the squad recovered their stamina."
+surface_suddenevent_select_result_01_02,"Weapons of lost technology was found in the box.
+After equipping these powerful weapons, the squad's attack power increases."
+surface_suddenevent_select_result_01_03,A large amount of Core Powder was found in the box.
+surface_suddenevent_select_result_02_01,"Although the time was short, they closed their eyes for a brief rest.
+The squad, now well-rested, has recovered their stamina."
+surface_suddenevent_select_result_02_02,"Each member maintains their weapons as they prepare for the next battle.
+The squad's morale rises, boosting their attack power."
+surface_suddenevent_select_result_02_03,"There's no time to rest on the surface.
+The squad searches the area and obtains a large amount of Core Dust."
+surface_suddenevent_select_result_03_01,"They began searching for information about the Pilgrim.
+With their morale rising, the squad's movement speed increased."
+surface_suddenevent_select_result_03_02,"After receiving the report, the Central Government 
+provides resources and supplies necessary for the search."
+surface_suddenevent_select_result_03_03,You found a special item at the spot where the hill was burned.
+icn_surface_map_mon_normal,Rapture
+icn_surface_map_mon_elite,Rapture
+icn_surface_map_mon_boss,Rapture
+icn_surface_map_opticalcamouflage,Occupied Area {0}
+icn_surface_map_lodging,Dormitory
+icn_surface_map_headquarters,Headquarters
+icn_surface_map_calling_signal_generator,Calling Signal Generator
+icn_surface_map_factory,Factory
+icn_surface_map_hospital,Hospital
+icn_surface_map_core_powder_processing_facility,Core Powder Processing Plant
+icn_surface_map_goddesium_processing_facility,Goddesium Processing Plant
+icn_surface_map_geonic_processing_facility,Geonic Processing Plant
+icn_surface_map_neo_titanium_processing_facility,Neo Titanium Processing Plant
+icn_surface_map_storage,Warehouse
+icn_surface_map_item,Item
+icn_surface_map_jukebox,Jukebox
+icn_surface_map_memorial,Memorial
+icn_surface_map_gateway,Gateway
+icn_surface_map_quest,Surface Operation
+icn_surface_map_suppress_boss,Elite Expedition
+icn_surface_map_suppress_legion,Area Defense
+icn_surface_map_watch_tower,Watchtower
+icn_surface_map_heliport,Heliport
+icn_surface_map_heliport_off,Heliport (Inactive)
+icn_surface_map_item_box_01,Treasure Box
+icn_surface_map_item_box_02,Resource Box
+icn_surface_map_item_key,Key Item
+icn_surface_map_item_opticalcamouflage,Optical Camouflage Material
+icn_surface_map_item_gateway,Gateway Material
+icn_surface_map_quest_item_quest,Mission Item
+icn_surface_map_squad,Squad {0}
+icn_surface_map_option_squad,Squad
+icn_surface_map_option_mon,Rapture
+icn_surface_map_option_item,Item
+icn_surface_map_option_quest,Surface Operation
+icn_surface_map_option_suppress,Expedition
+icn_surface_map_option_occupation_area,Occupied Area
+icn_surface_map_option_building,Facility
+icn_surface_map_option_gateway,Gateway
+icn_surface_map_option_watch_tower,Watchtower
+icn_surface_map_option_heliport,Heliport
+SURFACE_MAP_SECTOR_LOCK_TOAST,This Lost Sector is not available.
+surface_narrativesign_301001_name,Hint
+surface_narrativesign_301002_name,Dig
+surface_narrativesign_301003_name,Key Item
+surface_narrativesign_301004_name,Hint
+surface_narrativesign_301005_name,Hint
+surface_narrativesign_301006_name,Hint
+surface_narrativesign_301001_description,Hint
+surface_narrativesign_301002_description,Maybe examining the withered trees will lead to something special.
+surface_narrativesign_301003_description,You need an axe to cut down the withered trees.
+surface_narrativesign_301004_description,You must press all the buttons at once.
+surface_narrativesign_301005_description,Let's follow where the robot is going.
+surface_narrativesign_301006_description,Only the button with the flower is real.
+surface_narrativesign_401001_name,Hint
+surface_narrativesign_401002_name,Hint
+surface_narrativesign_401003_name,Hint
+surface_narrativesign_401004_name,Hint
+surface_narrativesign_402001_name,Hint
+surface_narrativesign_402002_name,Hint
+surface_narrativesign_403001_name,Hint
+surface_narrativesign_403002_name,Hint
+surface_narrativesign_404001_name,Hint
+surface_narrativesign_404002_name,Hint
+surface_narrativesign_401001_description,Press the hidden switch to operate the drawbridge.
+surface_narrativesign_401002_description,"Sometimes, the path lies where you can't see it."
+surface_narrativesign_401003_description,Start with the fewest flowers first.
+surface_narrativesign_401004_description,"Something glimmers just beyond the trees.
+If you have an axe, you may be able to chop it..."
+surface_narrativesign_402001_description,1899-12-30T08:00:00.000Z
+surface_narrativesign_402002_description,The device can be activated with the Convert Robot's power.
+surface_narrativesign_403001_description,Be careful not to step on the same spot twice.
+surface_narrativesign_404001_description,"Caution!
+Keep off the flower beds."
+surface_narrativesign_501001_name,Hint
+surface_narrativesign_501001_description,"1 -> 2 -> 3 -> 4 -> 5
+※ Pay close attention to the number of flowers."
+surface_quest_name_4010101,Exterminate Raptures in Area 1-A
+surface_quest_name_4010102,Recover Lost Relics in Area 1-A
+surface_quest_name_4010103,Purify Alva Particles in Area 1-A
+surface_quest_name_4010201,Exterminate Raptures in Area 1-B
+surface_quest_name_4010202,Recover Lost Relics in Area 1-B
+surface_quest_name_4010203,Purify Alva Particles in Area 1-B
+surface_quest_name_4010301,Exterminate Raptures in Area 1-C
+surface_quest_name_4010302,Recover Lost Relics in Area 1-C
+surface_quest_name_4010303,Purify Alva Particles in Area 1-C
+surface_quest_name_4020101,Exterminate Raptures in Area 2-A
+surface_quest_name_4020102,Recover Lost Relics in Area 2-A
+surface_quest_name_4020103,Purify Alva Particles in Area 2-A
+surface_quest_name_4020201,Exterminate Raptures in Area 2-B
+surface_quest_name_4020202,Recover Lost Relics in Area 2-B
+surface_quest_name_4020203,Purify Alva Particles in Area 2-B
+surface_quest_name_4020301,Exterminate Raptures in Area 2-C
+surface_quest_name_4020302,Recover Lost Relics in Area 2-C
+surface_quest_name_4020303,Purify Alva Particles in Area 2-C
+surface_quest_name_4020401,Exterminate Raptures in Area 2-D
+surface_quest_name_4020402,Recover Lost Relics in Area 2-D
+surface_quest_name_4020403,Purify Alva Particles in Area 2-D
+surface_quest_name_4020501,Exterminate Raptures in Area 2-E
+surface_quest_name_4020502,Recover Lost Relics in Area 2-E
+surface_quest_name_4020503,Purify Alva Particles in Area 2-E
+surface_quest_name_4020601,Exterminate Raptures in Area 2-F
+surface_quest_name_4020602,Recover Lost Relics in Area 2-F
+surface_quest_name_4020603,Purify Alva Particles in Area 2-F
+surface_quest_name_4030101,Exterminate Raptures in Area 3-A
+surface_quest_name_4030102,Recover Lost Relics in Area 3-A
+surface_quest_name_4030103,Purify Alva Particles in Area 3-A
+surface_quest_name_4030201,Exterminate Raptures in Area 3-B
+surface_quest_name_4030202,Recover Lost Relics in Area 3-B
+surface_quest_name_4030203,Purify Alva Particles in Area 3-B
+surface_quest_name_4030301,Exterminate Raptures in Area 3-C
+surface_quest_name_4030302,Recover Lost Relics in Area 3-C
+surface_quest_name_4030303,Purify Alva Particles in Area 3-C
+surface_quest_name_4030401,Exterminate Raptures in Area 3-D
+surface_quest_name_4030402,Recover Lost Relics in Area 3-D
+surface_quest_name_4030403,Purify Alva Particles in Area 3-D
+surface_quest_name_4030501,Exterminate Raptures in Area 3-E
+surface_quest_name_4030502,Recover Lost Relics in Area 3-E
+surface_quest_name_4030503,Purify Alva Particles in Area 3-E
+surface_quest_name_4030601,Exterminate Raptures in Area 3-F
+surface_quest_name_4030602,Recover Lost Relics in Area 3-F
+surface_quest_name_4030603,Purify Alva Particles in Area 3-F
+surface_quest_name_4030701,Exterminate Raptures in Area 3-G
+surface_quest_name_4030702,Recover Lost Relics in Area 3-G
+surface_quest_name_4030703,Purify Alva Particles in Area 3-G
+surface_quest_name_4030801,Exterminate Raptures in Area 3-H
+surface_quest_name_4030802,Recover Lost Relics in Area 3-H
+surface_quest_name_4030803,Purify Alva Particles in Area 3-H
+surface_quest_name_4030901,Exterminate Raptures in Area 3-I
+surface_quest_name_4030902,Recover Lost Relics in Area 3-I
+surface_quest_name_4030903,Purify Alva Particles in Area 3-I
+surface_quest_name_4040101,Exterminate Raptures in Area 4-A
+surface_quest_name_4040102,Recover Lost Relics in Area 4-A
+surface_quest_name_4040103,Purify Alva Particles in Area 4-A
+surface_quest_name_4040201,Exterminate Raptures in Area 4-B
+surface_quest_name_4040202,Recover Lost Relics in Area 4-B
+surface_quest_name_4040203,Purify Alva Particles in Area 4-B
+surface_quest_name_4040301,Exterminate Raptures in Area 4-C
+surface_quest_name_4040302,Recover Lost Relics in Area 4-C
+surface_quest_name_4040303,Purify Alva Particles in Area 4-C
+surface_quest_name_4040401,Exterminate Raptures in Area 4-D
+surface_quest_name_4040402,Recover Lost Relics in Area 4-D
+surface_quest_name_4040403,Purify Alva Particles in Area 4-D
+surface_quest_name_4040501,Exterminate Raptures in Area 4-E
+surface_quest_name_4040502,Recover Lost Relics in Area 4-E
+surface_quest_name_4040503,Purify Alva Particles in Area 4-E
+surface_quest_name_4040601,Exterminate Raptures in Area 4-F
+surface_quest_name_4040602,Recover Lost Relics in Area 4-F
+surface_quest_name_4040603,Purify Alva Particles in Area 4-F
+surface_quest_name_4040701,Exterminate Raptures in Area 4-G
+surface_quest_name_4040702,Recover Lost Relics in Area 4-G
+surface_quest_name_4040703,Purify Alva Particles in Area 4-G
+surface_quest_name_4040801,Exterminate  Raptures in Area 4-H
+surface_quest_name_4040802,Recover Lost Relics in Area 4-H
+surface_quest_name_4040803,Purify Alva Particles in Area 4-H
+surface_quest_name_4040901,Exterminate Raptures in Area 4-I
+surface_quest_name_4040902,Recover Lost Relics in Area 4-I
+surface_quest_name_4040903,Purify Alva Particles in Area 4-I
+surface_suppress_240201_title,Cucumber
+surface_suppress_240301_title,Thermite
+surface_suppress_140301_title,Calling Signal Generator
+surface_suppress_240401_title,Obelisk
+surface_suppress_140401_title,Calling Signal Generator
+surface_suppress_240201_subtitle,Elite Expedition
+surface_suppress_240301_subtitle,Elite Expedition
+surface_suppress_140301_subtitle,Area Expedition
+surface_suppress_240401_subtitle,Elite Expedition
+surface_suppress_140401_subtitle,Area Expedition
+surface_suppress_950101_title,Calling Signal Generator
+surface_suppress_950201_title,Thermite
+surface_suppress_950101_subtitle,Area Expedition
+surface_suppress_950201_subtitle,Elite Expedition
+surface_tutorial_mission_name_01,Search
+surface_tutorial_mission_name_02,Rapture Annihilation
+surface_tutorial_mission_name_03,Treasure Box
+surface_tutorial_mission_name_04,Move
+surface_tutorial_mission_name_05,Drawbridge
+surface_tutorial_mission_name_06,Search
+surface_tutorial_mission_name_07,Watchtower
+surface_tutorial_mission_name_08,Search
+surface_tutorial_mission_name_09,Dig
+surface_tutorial_mission_name_10,Move
+surface_tutorial_mission_name_11,Rendezvous
+surface_tutorial_mission_name_12,Move
+surface_tutorial_mission_name_13,Expedition
+surface_tutorial_mission_name_14,Move
+surface_tutorial_mission_name_15,Investigate
+surface_tutorial_mission_name_16,Move
+surface_tutorial_mission_name_17,Rendezvous
+surface_tutorial_mission_name_18,Move
+surface_tutorial_mission_name_19,Expedition
+surface_tutorial_mission_name_20,Move
+surface_tutorial_mission_name_21,Drawbridge
+surface_tutorial_mission_name_22,Move
+surface_tutorial_mission_name_23,Move
+surface_tutorial_mission_name_24,Occupy
+surface_tutorial_mission_description_01,Explore the area
+surface_tutorial_mission_description_02,Defeat all nearby Raptures
+surface_tutorial_mission_description_03,Obtain treasure box
+surface_tutorial_mission_description_04,Explore the area
+surface_tutorial_mission_description_05,Activate the drawbridge
+surface_tutorial_mission_description_06,Cross the drawbridge
+surface_tutorial_mission_description_07,Activate the watchtower
+surface_tutorial_mission_description_08,Investigate the tile after annihilating the Raptures
+surface_tutorial_mission_description_09,Investigate the suspicious tree
+surface_tutorial_mission_description_10,Move to rendezvous
+surface_tutorial_mission_description_11,Rendezvous with other squads
+surface_tutorial_mission_description_12,Move all squads to the designated location
+surface_tutorial_mission_description_13,Complete an expedition.
+surface_tutorial_mission_description_14,Explore the area
+surface_tutorial_mission_description_15,Move to the designated location
+surface_tutorial_mission_description_16,Move through the hidden passage
+surface_tutorial_mission_description_17,Cross the drawbridge
+surface_tutorial_mission_description_18,Move all squads to the designated location
+surface_tutorial_mission_description_19,Complete an expedition.
+surface_tutorial_mission_description_20,Move to the target location
+surface_tutorial_mission_description_21,Activate the drawbridge
+surface_tutorial_mission_description_22,Move to the target location
+surface_tutorial_mission_description_23,Move to the occupation point
+surface_tutorial_mission_description_24,Occupy the target area
+surface_mission_tuto_name_01_01_01,Explore the Area
+surface_mission_tuto_description_01_01_01,Soldier EG: We've arrived at the mission area.
+surface_mission_tuto_description_01_01_02,Soldier EG: We've landed farther from the rendezvous point than expected.
+surface_mission_tuto_description_01_01_03,Soldier EG: We need to join up with the other squads. Let's head to the rendezvous point at once.
+surface_mission_tuto_name_02_01_01,Raptures
+surface_mission_tuto_description_02_01_01,Soldier EG: Raptures ahead.
+surface_mission_tuto_description_02_01_02,"Soldier OW: I'm pretty sure the Raptures will spot us, even if we sneak around... What should we do?"
+surface_mission_tuto_description_02_01_03,Soldier EG: Let's clear them out before we move on.
+surface_mission_tuto_name_03_01_01,Treasure Box
+surface_mission_tuto_description_03_01_01,Soldier OW: Leader! There's a box over here.
+surface_mission_tuto_description_03_01_02,Soldier OW: There might be something useful in there. Wanna take a quick look before we move?
+surface_mission_tuto_name_04_01_01,Move
+surface_mission_tuto_description_04_01_01,Soldier FA: Ugh... The rendezvous point isn't in sight yet.
+surface_mission_tuto_description_04_01_02,Soldier EG: We still have a long way to go. Stay vigilant and move cautiously.
+surface_mission_tuto_name_05_01_01,Drawbridge
+surface_mission_tuto_description_05_01_01,Soldier EG: Tch. Is this really the only route we could take around here?
+surface_mission_tuto_description_05_01_02,Soldier FA: Affirmative. That drawbridge is the only route.
+surface_mission_tuto_description_05_01_03,"Soldier OW: And that drawbridge's raised right now, too..."
+surface_mission_tuto_description_05_01_04,"Soldier OW: So, what now?"
+surface_mission_tuto_name_05_02_01,Switch
+surface_mission_tuto_description_05_02_01,Soldier FA: Oh? Over there!
+surface_mission_tuto_description_05_02_02,"Soldier FA: That switch should activate the drawbridge, right?"
+surface_mission_tuto_description_05_02_03,Soldier EG: Let's check it.
+surface_mission_tuto_name_06_01_01,Move
+surface_mission_tuto_description_06_01_01,"Soldier FA: So, it works!"
+surface_mission_tuto_description_06_01_02,"Soldier OW: In situations like this, gotta keep your eyes peeled around you."
+surface_mission_tuto_description_06_01_03,Soldier EG: Let's get across quickly.
+surface_mission_tuto_name_07_01_01,Watchtower
+surface_mission_tuto_description_07_01_01,Soldier EG: Watchtower sighted ahead.
+surface_mission_tuto_description_07_01_02,Soldier EG: Using the watchtower will make it easier to observe the surroundings.
+surface_mission_tuto_description_07_01_03,Soldier EG: Let's secure visual on the area first.
+surface_mission_tuto_name_08_01_01,Check Your Surroundings
+surface_mission_tuto_description_08_01_01,"Soldier FA: Great, I can finally get a clear view!"
+surface_mission_tuto_description_08_01_02,Soldier OW: Let's take a look around before we move.
+surface_mission_tuto_name_08_02_01,Raptures
+surface_mission_tuto_description_08_02_01,Soldier EG: Raptures sighted up ahead.
+surface_mission_tuto_description_08_02_02,Soldier OW: Hm...? Those Raptures... look like they're guarding something.
+surface_mission_tuto_description_08_02_03,Soldier EG: Looks like we can't avoid combat. Eliminate them and see what they're guarding.
+surface_mission_tuto_name_09_01_01,Key
+surface_mission_tuto_description_09_01_01,Soldier FA: Hmm... It's nothing but miscellaneous stuff.
+surface_mission_tuto_description_09_01_02,Product 08: Oh. There is a shovel here.
+surface_mission_tuto_description_09_01_03,Soldier FA: Great!
+surface_mission_tuto_description_09_01_04,Soldier FA: Shall we investigate the area with the shovel?
+surface_mission_tuto_name_09_02_01,Dig
+surface_mission_tuto_description_09_02_01,Soldier FA: For example... over there.
+surface_mission_tuto_description_09_02_02,Product 08: Oh... There appears to be something there.
+surface_mission_tuto_description_09_02_03,Product 08: Shall we investigate?
+surface_mission_tuto_name_09_03_01,Dig
+surface_mission_tuto_description_09_03_01,Soldier FA: Huh? Something appeared.
+surface_mission_tuto_description_09_03_02,Soldier EG: This is... Alva Dust.
+surface_mission_tuto_description_09_03_03,Soldier EG: This should qualify as key material secured.
+surface_mission_tuto_description_09_03_04,Soldier EG: Let's take it.
+surface_mission_tuto_name_10_01_01,Rendezvous Point
+surface_mission_tuto_description_10_01_01,Soldier EG: We're nearing the rendezvous point.
+surface_mission_tuto_description_10_01_02,Soldier EG: Another squad may have arrived ahead of us. Let's move out.
+surface_mission_tuto_name_11_01_01,Rendezvous
+surface_mission_tuto_description_11_01_01,Soldier EG: The rendezvous point should be around here...
+surface_mission_tuto_description_11_01_02,Soldier OW: Leader! We're picking up a signal!
+surface_mission_tuto_description_11_01_03,Soldier FA: Good. Seems they made it as well.
+surface_mission_tuto_description_11_01_04,Soldier EG: What are the coordinates of the signal?
+surface_mission_tuto_name_11_02_01,Rendezvous
+surface_mission_tuto_description_11_02_01,Soldier OW: Just ahead!
+surface_mission_tuto_description_11_02_02,Soldier FA: Transport ship incoming!
+surface_mission_tuto_name_12_01_01,Target Location
+surface_mission_tuto_description_12_01_01,Soldier EG: Well done getting here.
+surface_mission_tuto_description_12_01_02,iDoll Flower: So you're the ones I get to team up with today?
+surface_mission_tuto_description_12_01_03,"iDoll Flower: Hehe, can't wait to work with you!"
+surface_mission_tuto_description_12_01_04,Soldier EG: Likewise.
+surface_mission_tuto_name_12_02_01,Objective
+surface_mission_tuto_description_12_02_01,"Soldier EG: There are supposed to be three squads moving together on this mission, correct?"
+surface_mission_tuto_description_12_02_02,"iDoll Flower: Yep, that's right. Looks like the others are taking a different route, but they said we can go ahead first!"
+surface_mission_tuto_description_12_02_03,Soldier EG: Then securing a safe zone here will be our responsibility.
+surface_mission_tuto_name_13_01_01,Exterminate
+surface_mission_tuto_description_13_01_01,Soldier EG: This area is open enough to use the calling signal generator.
+surface_mission_tuto_description_13_01_02,Soldier EG: We'll use it to exterminate all Raptures nearby and secure a safe zone.
+surface_mission_tuto_description_13_01_03,"Soldier EG: Stay alert, everyone."
+surface_mission_tuto_name_14_01_01,Next Target
+surface_mission_tuto_description_14_01_01,Soldier EG: Clear.
+surface_mission_tuto_description_14_01_02,"iDoll Flower: Phew, looks like this area's at least a little safer now..."
+surface_mission_tuto_description_14_01_03,"Soldier EG: That's true, but don't let your guard down. Only the Raptures in this area have been cleared."
+surface_mission_tuto_description_14_01_04,iDoll Flower: Then we'd better check out the other areas from here to the target location.
+surface_mission_tuto_description_14_01_05,Soldier EG: Exactly. We should secure as much of the safe zone as possible.
+surface_mission_tuto_description_14_01_06,"iDoll Flower: All right! Then, our squad's heading out to search."
+surface_mission_tuto_description_14_01_07,Soldier EG: Understood. Rejoin us as soon as the search is complete.
+surface_mission_tuto_description_14_01_08,"Soldier EG: There've been reports of a Lord-Class Rapture nearby, so stay sharp."
+surface_mission_tuto_description_14_01_09,"iDoll Flower: Oh, thanks for the info! We'll be careful out there."
+surface_mission_tuto_name_14_02_01,Move
+surface_mission_tuto_description_14_02_01,Soldier FA: They're gone...
+surface_mission_tuto_description_14_02_02,"Soldier EG: Since they've gone to work, let's begin our search as well."
+surface_mission_tuto_description_14_02_03,"Soldier EG: As I mentioned earlier, a Lord-Class Rapture was sighted nearby. Our objective is to locate it."
+surface_mission_tuto_description_14_02_04,Soldier FA: U-us? I don't think we can handle it on our own...
+surface_mission_tuto_description_14_02_05,"Soldier EG: For now, we just need to pinpoint its location. We don't even know if it's really there, so don't be too scared."
+surface_mission_tuto_description_14_02_06,"Soldier EG: Until the other squads join us, avoid combat as much as possible."
+surface_mission_tuto_name_15_01_01,Drawbridge
+surface_mission_tuto_description_15_01_01,Soldier FA: Huh? The drawbridge...
+surface_mission_tuto_description_15_01_02,Soldier FA: It's raised...!
+surface_mission_tuto_description_15_01_03,"Soldier EG: Tch, it's up again."
+surface_mission_tuto_description_15_01_04,"Soldier FA: Hm... There isn't another route, is there...?"
+surface_mission_tuto_description_15_01_05,"Soldier OW: Nope, guess we gotta find a way to lower that drawbridge again."
+surface_mission_tuto_description_15_01_06,Soldier EG: Let's check the area again for now.
+surface_mission_tuto_name_15_02_01,Suspicious Tree
+surface_mission_tuto_description_15_02_01,"Soldier FA: Leader, that tree over there..."
+surface_mission_tuto_description_15_02_02,Soldier EG: What about the tree?
+surface_mission_tuto_description_15_02_03,Soldier FA: Doesn't it look suspicious? Only that tree looks different from the rest.
+surface_mission_tuto_description_15_02_04,Soldier EG: Hm. That's true...
+surface_mission_tuto_description_15_02_05,"Soldier FA: Then let's investigate, just to be sure."
+surface_mission_tuto_description_15_02_06,Soldier EG: Right. Let's go.
+surface_mission_tuto_name_16_01_01,Hidden Passage
+surface_mission_tuto_description_16_01_01,Soldier EG: This appears to be... a passage leading somewhere.
+surface_mission_tuto_description_16_01_02,Soldier OW: Isn't it... kinda dangerous to go in?
+surface_mission_tuto_description_16_01_03,Soldier EG: True... but we don't seem to have any other choice right now.
+surface_mission_tuto_description_16_01_04,Soldier OW: Yeah... I guess that's true.
+surface_mission_tuto_description_16_01_05,"Soldier OW: Oh well, can't be helped."
+surface_mission_tuto_description_16_01_06,Soldier EG: Let's move out.
+surface_mission_tuto_name_17_01_01,Move
+surface_mission_tuto_description_17_01_01,Soldier EG: The drawbridge is moving!
+surface_mission_tuto_description_17_01_02,Soldier FA: Good thing we investigated.
+surface_mission_tuto_description_17_01_03,Soldier EG: Agreed. Nice catch.
+surface_mission_tuto_description_17_01_04,Soldier FA: Hehe.
+surface_mission_tuto_description_17_01_05,Soldier EG: Let's cross it now.
+surface_mission_tuto_description_17_01_06,Soldier FA: Okay!
+surface_mission_tuto_name_17_02_01,Rendezvous
+surface_mission_tuto_description_17_02_01,Soldier FA: Hm...? Do you hear that?
+surface_mission_tuto_description_17_02_02,Soldier EG: Yeah. What is it?
+surface_mission_tuto_description_17_02_03,Soldier FA: Look up!
+surface_mission_tuto_description_17_02_04,Soldier FA: It's a transport ship!
+surface_mission_tuto_name_18_01_01,Rendezvous
+surface_mission_tuto_description_18_01_01,Soldier EG: So you made it.
+surface_mission_tuto_description_18_01_02,"iDoll Flower: Yep, yep! We bumped into them while exploring the area."
+surface_mission_tuto_description_18_01_03,"Product 12: Hello, we'll be joining this surface exploration mission too."
+surface_mission_tuto_description_18_01_04,"Soldier EG: Finally, we're all here. Good to see everyone made it safely."
+surface_mission_tuto_description_18_01_05,Product 12: Thanks for worrying about us.
+surface_mission_tuto_description_18_01_06,"iDoll Flower: All right, looks like everyone's done introducing themselves, so shall we go get to work?"
+surface_mission_tuto_name_18_02_01,Signal
+surface_mission_tuto_description_18_02_01,Soldier EG: What must we do?
+surface_mission_tuto_description_18_02_02,"iDoll Flower: Just like you said, we’ve picked up signal from a Lord-Class Rapture."
+surface_mission_tuto_description_18_02_03,Soldier EG: So it was here after all.
+surface_mission_tuto_description_18_02_04,"iDoll Flower: Our chances aren't great, honestly..."
+surface_mission_tuto_description_18_02_05,"iDoll Flower: But since we're all here, we've gotta find a way to take it down!"
+surface_mission_tuto_description_18_02_06,Product 12: That's true.
+surface_mission_tuto_description_18_02_07,Soldier EG: Right. We'll have to take it down if we want to finish the exploration mission. Let's move.
+surface_mission_tuto_name_19_01_01,Expedition
+surface_mission_tuto_description_19_01_01,Soldier FA: Hmm... It's even more nerve-wracking to see it up close.
+surface_mission_tuto_description_19_01_02,"Soldier EG: Relax, we're not alone here."
+surface_mission_tuto_description_19_01_03,"Soldier FA: All right, let's go!"
+surface_mission_tuto_name_20_01_01,Expedition
+surface_mission_tuto_description_20_01_01,Soldier FA: Phew... almost didn't make it...
+surface_mission_tuto_description_20_01_02,Soldier OW: Yep... we'd be toast if it were just us.
+surface_mission_tuto_description_20_01_03,Soldier EG: Glad that's over without issues.
+surface_mission_tuto_description_20_01_04,Soldier EG: Let's move immediately. Nearby Raptures might hear us and come here.
+surface_mission_tuto_description_20_01_05,iDoll Flower: Then our squad will head out first. There's still some exploring to do around here!
+surface_mission_tuto_description_20_01_06,"Product 12: We've still got a few places left to explore, so I guess we'll head over."
+surface_mission_tuto_description_20_01_07,Soldier EG: Understood. We'll rendezvous at the target location later.
+surface_mission_tuto_description_20_01_08,Product 12: Roger that.
+surface_mission_tuto_name_20_02_01,Move
+surface_mission_tuto_description_20_02_01,Soldier EG: We'll move out as well.
+surface_mission_tuto_description_20_02_02,"Soldier FA: Understood, let's go!"
+surface_mission_tuto_name_21_01_01,Drawbridge
+surface_mission_tuto_description_21_01_01,Soldier OW: Looks like there's a drawbridge here too...
+surface_mission_tuto_description_21_01_02,"Soldier EG: So, it won't be easy until the very end."
+surface_mission_tuto_description_21_01_03,Soldier EG: There must be a way to connect the drawbridge.
+surface_mission_tuto_description_21_01_04,Soldier FA: Let's check the area like before—huh?
+surface_mission_tuto_name_21_02_01,Device
+surface_mission_tuto_description_21_02_01,Soldier FA: Over there!
+surface_mission_tuto_description_21_02_02,Soldier EG: There's a switch here like the one before.
+surface_mission_tuto_description_21_02_03,Soldier OW: But there are way too many... How are we even supposed to get this thing working...?
+surface_mission_tuto_name_21_03_01,Sign
+surface_mission_tuto_description_21_03_01,Soldier FA: Hmm? There's a sign over there...
+surface_mission_tuto_description_21_03_02,Soldier FA: Could there be something written on that sign?
+surface_mission_tuto_description_21_03_03,"Soldier EG: Right, let's take a look."
+surface_mission_tuto_name_22_01_01,Solution
+surface_mission_tuto_description_22_01_01,Soldier FA: It worked!
+surface_mission_tuto_description_22_01_02,"Soldier OW: Wow, that's awesome!"
+surface_mission_tuto_name_22_02_01,Target Location
+surface_mission_tuto_description_22_02_01,Soldier EG: Target location confirmed.
+surface_mission_tuto_description_22_02_02,Soldier EG: It's just up ahead.
+surface_mission_tuto_name_22_03_01,Missions
+surface_mission_tuto_description_22_03_01,"Soldier EG: Once we capture that point, today's mission is complete."
+surface_mission_tuto_description_22_03_02,"Soldier FA: All right, we're nearly there. Let's go!"
+surface_mission_tuto_description_22_03_03,Soldier EG: Are the other squads still exploring the area...?
+surface_mission_tuto_name_22_04_01,Rendezvous
+surface_mission_tuto_description_22_04_01,iDoll Flower: You made it!
+surface_mission_tuto_name_23_01_01,Rendezvous
+surface_mission_tuto_description_23_01_01,Soldier EG: You've arrived earlier than expected.
+surface_mission_tuto_description_23_01_02,"iDoll Flower: Hehe, we finished exploring the area super fast!"
+surface_mission_tuto_description_23_01_03,Soldier EG: How was it? Anything out of the ordinary?
+surface_mission_tuto_description_23_01_04,"iDoll Flower: Nope, there weren't any Lord-Class or higher Raptures around!"
+surface_mission_tuto_description_23_01_05,"Soldier EG: Phew... Good, then. We have an occupation battle to carry out."
+surface_mission_tuto_name_23_02_01,Occupy
+surface_mission_tuto_description_23_02_01,"Soldier FA: But Leader, how do we occupy the area? Do we just plant our flag?"
+surface_mission_tuto_description_23_02_02,Soldier EG: We just need to install this optical camouflage generator.
+surface_mission_tuto_description_23_02_03,"Soldier EG: Once it's up, it'll create an area like Reclamation Site 01 that Raptures can't detect."
+surface_mission_tuto_description_23_02_04,Soldier FA: Huh. That's interesting!
+surface_mission_tuto_description_23_02_05,"Soldier EG: But the calling signal generator will trigger before installation is complete, and all nearby Raptures will swarm in."
+surface_mission_tuto_description_23_02_06,"Soldier EG: This is to clear out the Raptures around the area we want to occupy, so there' no way around it."
+surface_mission_tuto_description_23_02_07,Soldier FA: ... I see. Looks like a long battle awaits...
+surface_mission_tuto_name_24_01_01,Occupy
+surface_mission_tuto_description_24_01_01,Soldier EG: This is the final phase of the mission. Check your equipment before we move out.
+surface_mission_tuto_description_24_01_02,"Soldier EG: The Raptures will be swarming in, so stay sharp and be fully prepared."
+surface_mission_tuto_description_24_01_03,"Soldier EG: Once everyone's ready, we move immediately."
+surface_mission_tuto_name_24_02_01,Occupation
+surface_mission_tuto_description_24_02_01,Soldier EG: We've occupied the area. Mission complete.
+surface_mission_tuto_description_24_02_02,Soldier EG: You've all done well.
+surface_tutorial_toast_team_edit_btn,Squad editing is restricted.
+surface_tutorial_toast_team_list_btn,You cannot access the squad list.
+TUTO_SURFACE_BATTLE_LEGION_RAID_TITLE_01,Area Expedition
+TUTO_SURFACE_BATTLE_BOSS_RAID_TITLE_01,Boss Expedition
+TUTO_SURFACE_BATTLE_OCCUPATION_RAID_TITLE_01,Occupation Battle
+TUTO_SURFACE_BATTLE_LEGION_RAID_DESCRIPTION_01,"Use the calling signal generator to start the area expedition.
+Once it begins, Raptures will swarm in, so make sure you're fully prepared."
+TUTO_SURFACE_BATTLE_LEGION_RAID_DESCRIPTION_02,"When you're ready, press the Start Expedition button to begin the battle."
+TUTO_SURFACE_BATTLE_BOSS_RAID_DESCRIPTION_01,"In elite expeditions, you'll face Lord-Class or higher Raptures.
+Watch the ground and dodge their attacks carefully, so that you can clinch victory."
+TUTO_SURFACE_BATTLE_BOSS_RAID_DESCRIPTION_02,"Once you're ready, let's start the expedition."
+TUTO_SURFACE_BATTLE_OCCUPATION_RAID_DESCRIPTION_01,"To occupy an area, you must participate in an occupation battle.
+If you can defend against the incoming Raptures, you will occupy the area."
+TUTO_SURFACE_BATTLE_OCCUPATION_RAID_DESCRIPTION_02,"Press the Start Restoration button, and Raptures will swarm in after some time.
+Shall we get started?"
+TUTO_SURFACE_LOBBY_TITLE_01,Getting Ready
+TUTO_SURFACE_LOBBY_DESCRIPTION_01,"Commander! Before we begin surface exploration, I'll guide you through the main locations you'll be using."
+TUTO_SURFACE_LOBBY_DESCRIPTION_02,"You need resources to survive on the surface.
+They are produced over time and can be stored in the warehouse."
+TUTO_SURFACE_LOBBY_DESCRIPTION_03,"Any items you obtain during your exploration, as well as any items you brought for the expedition, will be stored in the Supply Depot.
+When you obtain items on the surface, make sure to check that they've been stored properly!"
+TUTO_SURFACE_LOBBY_DESCRIPTION_04,Shall we get ready for the surface exploration at the headquarters?
+TUTO_SURFACE_EVLA_PURIFICATION_TITLE_01,Alva Particle Purification
+TUTO_SURFACE_EVLA_PURIFICATION_DESCRIPTION_01,"The headquarters has various features you'll need for surface exploration.
+Shall we start by selecting Alva Particle Purification?"
+TUTO_SURFACE_EVLA_PURIFICATION_DESCRIPTION_02,"High concentrations of Alva Particles on the surface can weaken Nikkes.
+Purifying these particles at this point can partially boost their combat power."
+TUTO_SURFACE_EVLA_PURIFICATION_DESCRIPTION_03,"The Central Government is offering this for free this time, so let's proceed with the purification now!"
+TUTO_SURFACE_EVLA_PURIFICATION_DESCRIPTION_04,"Looks like the purification time has reduced this time!
+Let's complete it!"
+TUTO_SURFACE_EVLA_PURIFICATION_DESCRIPTION_05,"The Nikke's combat power has increased!
+Shall we head back to the headquarters?"
+TUTO_SURFACE_EVLA_PURIFICATION_DESCRIPTION_06,"You can complete purification here as well.
+Completing it increases the Nikke's combat power, so be sure to take full advantage of it!"
+TUTO_SURFACE_TEAM_SET_TITLE_01,Squad Formation
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_01,"Next, I'll show you how to form your squad!"
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_02,"Before going out on a surface exploration, you need to form your squad at the headquarters.
+You can only form a squad with the Nikkes you own."
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_03,"On the squad formation screen, you'll see the Nikkes that can be added to your squad.
+You can add up to five Nikkes to your squad!"
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_04,"Unlike other missions, Nikkes' combat power is affected by the Alva Particles on the surface, granting them surface-specific combat power.
+Purifying these particles increases combat power."
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_05,"Each Nikke has unique surface traits that can be used on the surface.
+These traits can give you an advantage in battle, so be sure to check them carefully when forming your squad!"
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_06,They also have surface skills that can be used on the surface.
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_07,"Each Nikke has different surface traits and surface skills, so combining them wisely is key when forming a squad."
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_08,"Why don't we try the Strike squad?
+They're specialized in fighting radial Raptures."
+TUTO_SURFACE_TEAM_SET_DESCRIPTION_09,"That's all for the explanation.
+Now, select your Nikkes and form your squad!"
+TUTO_SURFACE_TEAM_LIST_TITLE_01,Squad List
+TUTO_SURFACE_TEAM_LIST_DESCRIPTION_01,You can view the squads you've formed in the squad list.
+TUTO_SURFACE_TEAM_LIST_DESCRIPTION_02,Shall we try pressing this to open the squad list?
+TUTO_SURFACE_TEAM_LIST_DESCRIPTION_03,"This is where all the squads you've formed can be found.
+Press the icon to select a squad.
+If you have trouble finding a squad, try using the squad list!"
+TUTO_SURFACE_MISSION_TITLE_01,Missions
+TUTO_SURFACE_MISSION_DESCRIPTION_01,"If you're unsure what to do first while exploring the surface, try checking your missions."
+TUTO_SURFACE_MISSION_DESCRIPTION_02,Main missions will guide you through the tasks you need to complete for surface exploration.
+TUTO_SURFACE_MISSION_DESCRIPTION_03,"Side missions aren't mandatory, but they'll guide you through things that are helpful when exploring the surface.
+By completing them one by one, you'll definitely become more skilled at exploration."
+TUTO_SURFACE_MISSION_DESCRIPTION_04,Shall we head back to the surface?
+TUTO_SURFACE_MISSION_DESCRIPTION_05,"There are various buildings on the surface, each serving a different purpose.
+Feel free to explore them at your own pace.
+Now, shall we begin exploring the surface?"
+SURFACE_TUTO_CHARACTER_INFO_BATTLE_POWER,Power
+SURFACE_TUTO_CHARACTER_INFO_BATTLE_POWER_VALUE,255
+SURFACE_TUTO_CHARACTER_INFO_HP,HP
+SURFACE_TUTO_CHARACTER_INFO_HP_VALUE,255
+SURFACE_TUTO_CHARACTER_INFO_ATTACK,ATK
+SURFACE_TUTO_CHARACTER_INFO_ATTACK_VALUE,5
+SURFACE_TUTO_CHARACTER_INFO_NAME,Rapi
+SURFACE_TUTO_CHARACTER_INFO_SKILL_NAME,Attack Boost
+SURFACE_TUTO_CHARACTER_INFO_SKILL_DESC,"■ Activates when attacking radial enemies. Affects own squad during battle.
+<color=#00AEFF>Squad ATK ▲ 35% continuously.</color>"
+SURFACE_TUTO_CHARACTER_INFO_SKILL_LEVEL,7
+surface_weekly_play_time_not_exist,No weekly play attempts remaining.
+surface_field_suppress_not_in_range,The squad must move in to start the expedition.
+SURFACE_FIELD_SUPPRESS_REWARD_TICKET_LACK_TITLE,Notice
+SURFACE_FIELD_SUPPRESS_REWARD_TICKET_LACK_DESCRIPTION,Not enough flares.
+surface_suppress_reward_bonus_chance_not_exist_title,Notice
+surface_suppress_reward_bonus_chance_not_exist_description,All chances to double expedition rewards for this week have been used.
+surface_suppress_reward_bonus_description,Use currency to double expedition rewards?
+surface_quest_reward_bonus_description,Use currency to double mission rewards?
+surface_suppress_reward_bonus_currency_lack,Not enough currency.
+surface_field_world_level,Difficulty
+surface_suppress_weekly_play_time,Weekly Play Attempts:
+suppress_first_try,First try
+surface_suppress_reward_double,Claim Double Rewards
+surface_suppress_remained_reward_double_count,Remaining Attempts
+reward_give_up,Give Up Rewards
+surface_start_suppress,Start Expedition
+surface_field_suppress_reward_give_up_title,Giving Up Rewards
+surface_field_suppress_reward_give_up_description,"Current rewards will be removed when you give up your rewards. After some time, the expedition will revert to its pre-clear state.
+Give up anyway?"
+surface_field_suppress_reward_confirm_title,Claim Rewards
+surface_field_suppress_reward_confirm_description,Use currency to claim expedition rewards?
+SURFACE_FIELD_QUEST_REWARD_TICKET_LACK_TITLE,Notice
+SURFACE_FIELD_QUEST_REWARD_TICKET_LACK_DESCRIPTION,Not enough reports.
+surface_field_quest_can_not_spawn_title,Notice
+surface_field_quest_can_not_spawn_description,No missions available in the selected sector.
+surface_not_enough_daily_quest_ticket,Not enough reports.
+quest_giveup_notice,"Giving up the mission may erase all ongoing and completable mission info.
+Proceed anyway?"
+surface_quest_give_up_not_allowed,The give up feature is not available at the moment.
+surface_quest_reward_bonus_chance_not_exist_title,Notice
+surface_quest_reward_bonus_chance_not_exist_description,All chances to double mission rewards for today have been used.
+surface_quest_reward_bonus_currency_lack,Not enough currency.
+surface_field_quest_not_in_range,The squad must move in to start the mission.
+SURFACE_QUEST_TITLE,Surface Operation
+surface_field_quest_prepare,Standing by
+surface_field_quest_slot_sector_list,Sector
+surface_field_quest_slot_difficulty_list,Difficulty
+surface_field_quest_setting,Settings
+surface_field_quest_start_operation,Recon Operation
+surface_field_quest_give_up,Give Up
+surface_field_quest_operation_progress,In battle
+surface_field_quest_now_in_progress,Mission in progress.
+surface_field_quest_complete,Completed
+surface_field_quest_operation_setting,Operation Settings
+surface_field_quest_sector,Sector
+surface_field_quest_difficulty,Difficulty
+surface_field_sector_eng,Sector
+surface_selected,Selected
+surface_standard_battlepower,Standard Power
+surface_field_quest_operation_setting_complete,Operation settings complete.
+surface_field_quest_get_reward_title,Operation completed.
+surface_field_quest_reward_obtain,Claim Rewards
+surface_quest_reward_double,Claim Double Rewards
+surface_quest_remained_reward_double_count,Remaining Attempts
+surface_field_quest_defense_quest,Defense Battle
+surface_field_quest_defense_battle_time_count,Remaining Battle Time
+surface_field_suppress_legion_raid_time_count,Remaining Battle Time
+surface_field_quest_reward_confirm_title,Claim Rewards
+surface_field_quest_reward_confirm_description,Use currency to claim operation rewards?

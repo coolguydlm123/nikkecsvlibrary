@@ -11,3 +11,4 @@ id,interactionobject_prefab,interaction_distance,change_state,is_passable,is_use
 9900014,io_bomb_001_injected,200,Ignite,True,False,1,None,True,True,700,2,False,False,0,False,True,3
 9900015,io_hackingcube_normal_001_injected,150,Hacking,False,True,1,None,True,False,0,0,True,False,5,False,False,0
 9900016,io_bomb_001_injected,150,Ignite,True,False,1,None,True,True,700,2,False,False,0,False,False,0
+9900017,io_hackingcube_normal_001_injected,150,Hacking,False,True,1,None,True,False,0,0,True,False,1,False,False,0

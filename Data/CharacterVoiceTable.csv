@@ -170,6 +170,10 @@ id,voice_type,resource_id,costume_index
 84100,Character,841,0
 84200,Character,842,0
 2300,Character,23,0
+22300,Character,223,0
+26200,Character,262,0
+33100,Character,331,0
+7400,Character,74,0
 9001,Costume,90,1
 21001,Costume,210,1
 19101,Costume,191,1
@@ -222,3 +226,6 @@ id,voice_type,resource_id,costume_index
 55001,Costume,550,1
 4302,Costume,43,2
 1602,Costume,16,2
+47002,Costume,470,2
+33002,Costume,330,2
+22301,Costume,223,1

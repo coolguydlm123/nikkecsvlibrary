@@ -1,0 +1,9 @@
+id,mission_type,sector,order,mission_trigger_data_group_id
+1,Main,4001001,1,1001
+2,Side,4001001,2,2001
+3,Side,4001001,3,2002
+4,Side,4001001,4,2003
+5,Side,4001001,5,2004
+11,Side,4001002,11,2010
+12,Side,4001003,12,2011
+13,Side,4001001,1,1999

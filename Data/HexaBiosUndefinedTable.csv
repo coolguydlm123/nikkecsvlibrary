@@ -1,0 +1,7 @@
+id,name_localkey,description_localkey,resource_id,bios_rare,bios_group
+101,Locale_Item:randombox_wipeout_equipment_01_name,Locale_Item:randombox_wipeout_equipment_desc,,4,101
+201,Locale_Item:randombox_wipeout_equipment_02_name,Locale_Item:randombox_wipeout_equipment_desc,,5,201
+301,Locale_Item:randombox_wipeout_equipment_03_name,Locale_Item:randombox_wipeout_equipment_desc,,6,301
+401,Locale_Item:randombox_wipeout_equipment_04_name,Locale_Item:randombox_wipeout_equipment_desc,,7,401
+501,Locale_Item:randombox_wipeout_equipment_05_name,Locale_Item:randombox_wipeout_equipment_desc,,8,501
+601,Locale_Item:randombox_wipeout_equipment_06_name,,,9,601

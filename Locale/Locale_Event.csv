@@ -181,6 +181,7 @@ EVENT_QUEST_LIAR'SEND,LIAR'S END
 EVENT_QUEST_NONESENSERED,NONSENSE RED
 EVENT_QUEST_OUTOFUNIFORM,OUT OF UNIFORM
 EVENT_QUEST_FOOLBURSTDAY,FOOL BURST DAY
+EVENT_QUEST_YESMYCOMMANDER,"YES, MY COMMANDER"
 event_text_adventure_currency_ticket_lack,Not enough currency for entry.
 event_text_adventure_first_select_description,Snow White is trying to decide where to go to secure the resources that Dorothy entrusted her with.
 event_text_adventure_open_condition_time,Available in {0}
@@ -3146,10 +3147,10 @@ td_fortheking_monster_description_caphead,"■ An entity with very high DEF.
 td_fortheking_monster_description_covered,"■ An aerial entity with very high DEF.
 ■ Some towers cannot attack it.
 ■ There are reports that a large EXID entity was discovered."
-td_fortheking_monster_description_ant,"■ A special entity found around Indivillia.
+td_fortheking_monster_description_ant,"■ A special entity found around Indivilia.
 ■ There are reports that it uses optical camouflage technology.
 ■ Unable to target it when optical camouflage is deployed."
-td_fortheking_monster_description_bird,"■ A special aerial entity found around Indivillia.
+td_fortheking_monster_description_bird,"■ A special aerial entity found around Indivilia.
 ■ Some towers cannot attack it.
 ■ There are reports that it uses optical camouflage technology.
 ■ Unable to target it when optical camouflage is deployed."
@@ -3172,7 +3173,7 @@ td_fortheking_monster_description_indivilia,"■ A Heretic individual commanding
 ■ Reported to be using the optical camouflage technology.
 ■ Periodically summons Raptures with a calling signal.
 ■ Must not be allowed to breach our defense line."
-td_fortheking_monster_description_indivilia_2,"■ A giant version of Indivillia.
+td_fortheking_monster_description_indivilia_2,"■ A giant version of Indivilia.
 ■ Reported to be using the optical camouflage technology.
 ■ Periodically summons Raptures with a calling signal.
 ■ Must not be allowed to breach our defense line."
@@ -3309,8 +3310,8 @@ td_fortheking_tutorial_monster_page_title_10_01,Bulwark Info
 td_fortheking_tutorial_monster_page_title_11_01,Heavy Metal Info
 td_fortheking_tutorial_monster_page_title_12_01,Cocytus Info
 td_fortheking_tutorial_monster_page_title_13_01,Chatterbox Info
-td_fortheking_tutorial_monster_page_title_14_01,Indivillia Info
-td_fortheking_tutorial_monster_page_title_15_01,Indivillia: Transformed Info
+td_fortheking_tutorial_monster_page_title_14_01,Indivilia Info
+td_fortheking_tutorial_monster_page_title_15_01,Indivilia: Transformed Info
 td_fortheking_tutorial_challenge_page_title_01_01,What is a Challenge Stage?
 td_fortheking_tutorial_challenge_page_title_02_01,Challenge Score
 td_fortheking_tutorial_challenge_page_title_02_02,Best Record
@@ -6055,6 +6056,32 @@ lostsector_037_narrativesign_description_01,A single bomb opened up two paths.
 lostsector_037_narrativesign_description_02,"The guide leads, and the hacker follows."
 lostsector_038_narrativesign_description_01,Don't search far for the answer; look around you.
 lostsector_038_narrativesign_description_02,"If possible, leave the hacking to others."
+lostsector_040_narrativesign_description_03,You will need a squad that can provide aerial support.
+lostsector_040_narrativesign_description_04,Find a cube you can use.
+lostsector_039_narrativesign_title_01,Quiz 01
+lostsector_039_narrativesign_title_02,Quiz 02
+lostsector_039_narrativesign_title_03,Quiz 03
+lostsector_039_narrativesign_title_04,Quiz 04
+lostsector_039_narrativesign_title_05,Quiz 05
+lostsector_039_narrativesign_title_06,Quiz 06
+lostsector_040_narrativesign_title_01,Quiz 01
+lostsector_040_narrativesign_title_02,Quiz 02
+lostsector_039_narrativesign_description_01,"Question: 1 + 2 + 3 + 4 = ?
+Answer: ← 10 → 11"
+lostsector_039_narrativesign_description_02,"Question: 2 × 4 × 6 × 8 × 0 = ?
+Answer: ← 384 → 0"
+lostsector_039_narrativesign_description_03,"Question: The puppy-like assist robot is a ground-type robot. True or false?
+Answer: ← False → True"
+lostsector_039_narrativesign_description_04,"Question: What can't an assist robot do?
+Answer: ← Destroy rocks ↑ Open boxes → Move people"
+lostsector_039_narrativesign_description_05,"Question: Which of the following cannot be activated by a switch?
+Answer: ← Bomb ↑ Assist Robot → Door"
+lostsector_039_narrativesign_description_06,Question: What is the color of the final reward box?
+lostsector_039_narrativesign_description_07,You must answer correctly to proceed.
+lostsector_040_narrativesign_description_01,"Question: How many Nikkes is a destruction robot equivalent to?
+Answer: ↑ 1 Nikke, ← 2 Nikkes, ↓ 3 Nikkes"
+lostsector_040_narrativesign_description_02,"Question: This is the 40th Lost Sector. True or false?
+Answer: ↑ True  ↓ False"
 Event_NKS_ArcadeNotification_Info,"You can play M.O.G. EX, the upgraded version of M.O.G., at the Arcade.
 
 Go to M.O.G. EX?"
@@ -6811,7 +6838,6 @@ event_dungeon_run_mission_15,Challenge - Use skills 60 times
 event_dungeon_run_mission_16,"Challenge - Earn 5,000 points in a run"
 event_dungeon_run_mission_17,"Challenge - Earn 10,000 points in a run"
 event_dungeon_run_mission_18,"Challenge - Earn 15,000 points in a run"
-event_icedragonsaga_narrativesign_title_01,Guillotine's Memory Fragment
 event_icedragonsaga_narrativesign_title_02,Welcome!
 event_icedragonsaga_narrativesign_title_03,Tactical Blacksmith
 event_icedragonsaga_narrativesign_title_04,Absolute Hotel
@@ -8269,7 +8295,7 @@ field_collect_can_sb_hint_16,"Hotel, rooftop"
 field_collect_can_sb_hint_17,On the collapsed bridge
 field_collect_can_sb_hint_18,Jukebox
 field_collect_can_sb_hint_19,Prayer room
-field_collect_can_sb_hint_20,High-rise building
+field_collect_can_sb_hint_20,High-Rise building
 field_collect_can_sb_reward_name_01,Stage 1
 field_collect_can_sb_reward_name_02,Stage 2
 field_collect_can_sb_reward_name_03,Stage 3
@@ -8630,6 +8656,1174 @@ Magnet: Sucks in all items visible on the screen.
 Chocolate: Recovers Ade's HP.
 Shield: Provides temporary immunity to damage from obstacles. Can only be used once.
 Blueprint Fragment: Collect 4 to enter the hidden route in Coin Rush."
+rebe_Item_name_01,Construction Materials
+rebe_Item_name_02,Upgrade Materials
+rebe_Item_name_03,Special Materials
+rebe_Item_name_04_a,Baseball Bat α
+rebe_Item_name_05_a,Crowbar α
+rebe_Item_name_06_a,Pistol α
+rebe_Item_name_07_a,Submachine Gun α
+rebe_Item_name_08_a,Assault Rifle α
+rebe_Item_name_04_b,Baseball Bat β
+rebe_Item_name_05_b,Crowbar β
+rebe_Item_name_06_b,Pistol β
+rebe_Item_name_07_b,Submachine Gun β
+rebe_Item_name_08_b,Assault Rifle β
+rebe_Item_desc_01,"A basic material necessary for facility construction and equipment production.
+
+Obtain from
+■ Daily Supply Station during the event (daily)
+■ Resource Collection Station (periodically after construction)
+■ Dispatch Missions"
+rebe_Item_desc_02,"An essential material for facility upgrade, construction, and equipment production. It is highly durable.
+
+Obtain from
+■ Daily Supply Station during the event (daily after a specific date)
+■ Underground Resource Collection Station (periodically after construction)
+■ Dispatch Missions"
+rebe_Item_desc_03,"An essential material for facility upgrade, construction, and equipment production. It is extremely rare and can be processed in many ways.
+
+Obtain from
+■ Daily Supply Station during the event (daily after a specific date)
+■ Energy Conversion Station (periodically after construction)
+■ Dispatch Missions"
+rebe_Item_desc_04,A hard wooden baseball bat that delivers painful strikes.
+rebe_Item_desc_05,A crowbar made of iron. It is a versatile tool and is fairly effective against Raptures.
+rebe_Item_desc_06,"A personal firearm from a bygone era. Its power isn't impressive, but it's still enough to take down Raptures."
+rebe_Item_desc_07,"A submachine gun widely used in the old days. It may be weaker than a pistol, but its rate of fire is impressive."
+rebe_Item_desc_08,An assault rifle with a simple design for easy mass production. It is notable for its strong stopping power.
+rebe_Build_Name_T1_01,Power Plant
+rebe_Build_Name_T1_02,Resource Collection Station
+rebe_Build_Name_T1_03,Daily Supply Station
+rebe_Build_Name_T1_04,Dorm 1
+rebe_Build_Name_T1_05,Elevator
+rebe_Build_Name_T2_01,Power Plant MK.II
+rebe_Build_Name_T2_02,Resource Collection Station MK.II
+rebe_Build_Name_T2_03,Equipment Production Facility
+rebe_Build_Name_T2_04,Armory
+rebe_Build_Name_T2_05,Employment Management Office
+rebe_Build_Name_T2_06,Dorm 2
+rebe_Build_Name_T2_07,Weather Forecast Station
+rebe_Build_Name_T3_01,Resource Collection Station MK.III
+rebe_Build_Name_T3_02,Energy Conversion Station
+rebe_Build_Name_T3_03,Dispatch Support Station
+rebe_Build_Name_T3_04,Dorm 3
+rebe_Build_Name_T3_05_a,Automatic Turret (Left Port)
+rebe_Build_Name_T3_05_b,Automatic Turret (Right Port)
+rebe_Build_Name_T3_06,Research Center
+rebe_Build_Name_T4_01,Power Plant MK.III
+rebe_Build_Name_T4_02,Resource Collection Station MK.IV
+rebe_Build_Name_T4_03,Underground Resource Collection Station
+rebe_Build_Name_T4_04,Employment Support Office
+rebe_Build_Name_T4_05,Upper Floor Passage
+rebe_Build_Name_T5_01,Power Plant MK.IV
+rebe_Build_Name_T5_02,Underground Power Plant
+rebe_Build_Name_T5_03,Resource Collection Station MK.V
+rebe_Build_Name_T5_04,Command Center
+rebe_Build_Name_T5_05,Outer Wall
+rebe_Build_Name_T5_06,Dorm 4
+rebe_Build_Desc_T1_01,A facility that supplies 20 units of power within a fixed range.
+rebe_Build_Desc_T1_02,A facility that collects the basic resources necessary for the reconstruction of Eden.
+rebe_Build_Desc_T1_03,A facility that supplies a certain amount of resources daily.
+rebe_Build_Desc_T1_04,A dedicated facility where Nikkes or units can take a break.
+rebe_Build_Desc_T1_05,A facility that activates constructed floors or assists with travel.
+rebe_Build_Desc_T2_01,A facility that supplies 30 units of power within a fixed range.
+rebe_Build_Desc_T2_02,A facility that collects the basic resources necessary for the reconstruction of Eden.
+rebe_Build_Desc_T2_03,A facility that produces equipment necessary for dispatch missions.
+rebe_Build_Desc_T2_04,A facility that stores weapons essential to Eden.
+rebe_Build_Desc_T2_05,A facility necessary for hiring Nikkes or units for dispatch missions.
+rebe_Build_Desc_T2_06,A dedicated facility where Nikkes or units can take a break.
+rebe_Build_Desc_T2_07,A facility that forecasts and predicts the environment around Eden.
+rebe_Build_Desc_T3_01,A facility that collects the basic resources necessary for the reconstruction of Eden.
+rebe_Build_Desc_T3_02,A facility that uses the electricity supplied to Eden to produce secondary resources.
+rebe_Build_Desc_T3_03,A facility that grants various effects to dispatch missions.
+rebe_Build_Desc_T3_04,A dedicated facility where Nikkes or units can take a break.
+rebe_Build_Desc_T3_05,A facility that automatically launches preemptive strikes at potential threats around Eden.
+rebe_Build_Desc_T3_06,A key facility in Eden where various scientific technologies can be researched.
+rebe_Build_Desc_T4_01,A facility that supplies 50 units of power within a fixed range.
+rebe_Build_Desc_T4_02,A facility that collects the basic resources necessary for the reconstruction of Eden.
+rebe_Build_Desc_T4_03,A facility that utilizes geothermal energy to produce special resources.
+rebe_Build_Desc_T4_04,A facility that offers various support in hiring Nikkes and units.
+rebe_Build_Desc_T4_05,A key facility in Eden that is essential for reaching Eden's Command Center on the top floor.
+rebe_Build_Desc_T5_01,A facility that supplies 50 units of power within a fixed range.
+rebe_Build_Desc_T5_02,A facility that utilizes geothermal energy to produce special resources.
+rebe_Build_Desc_T5_03,A facility that collects the basic resources necessary for the reconstruction of Eden.
+rebe_Build_Desc_T5_04,"A facility that oversees the overall management of resources and research in Eden.
+It also generates a force field using optical camouflage to conceal the facility from the Raptures."
+rebe_Build_Desc_T5_05,"A defensive facility that guards the entrance to Eden.
+It is not easily damaged even under heavy external impact."
+rebe_Build_Desc_T5_06,A dedicated facility where Nikkes or units can take a break.
+rebe_effect_name_addBasicElectronicsAmount,Increase Base Power Generation
+rebe_effect_name_decreaseSideElectronicsRequirementAmount,Decrease Power Requirement of Facilities on Either Side of the Power Plant
+rebe_effect_name_decreaseElectronicsRequirementAmount,Decrease Facility's Power Requirement
+rebe_effect_name_decreaseCreateTime,Decrease Production Time
+rebe_effect_name_decreaseRequirementAmount,Decrease Resource Requirement for Item Production
+rebe_effect_name_IncreaseProductionAmount,Increase Production Amount
+rebe_effect_name_addDispatchSuccessProbability,Increased Dispatch Mission Success Rate
+rebe_effect_name_addDispatchResourcePercentage,Increased Resources from Dispatch Missions
+rebe_effect_name_decreaseRecruitValuePercentage,Decrease Hiring Costs
+rebe_effect_name_IncreaseBuildElectronics,Increase Facility's Power Requirement
+rebe_effect_name_IncreaseAllSlotCreateTime,Increase Production Time
+rebe_effect_name_IncreaseRequirementAmount,Increase Resource Requirement for Item Production
+rebe_effect_name_addDispatchFailProbability,Increased Dispatch Mission Failure Rate
+rebe_effect_name_decreaseDispatchResourcePercentage,Decreased Resources from Dispatch Missions
+rebe_effect_name_decreaseUnitSpd,Decrease All Units' Movement Speed
+rebe_effect_name_IncreaseUnitSpd,Decrease All Units' Movement Speed
+rebe_effect_name_IncreaseUnitHireAmount,Increase Hiring Costs
+rebe_effect_name_decreaseBuildeffectEffect,Decrease Facility's Synergy Effect
+rebe_effect_name_IncreaseBuildeffectEffect,Increase Facility's Synergy Effect
+rebe_effect_name_decreaseDispatchWaitTime,Decreased Dispatch Squad Waiting Time
+rebe_effect_desc_addBasicElectronicsAmount,Increases the power plant's base power generation by {0}.
+rebe_effect_desc_decreaseSideElectronicsRequirementAmount,Decreases the power requirement of facilities on the left or right side of the power plant by {0}.
+rebe_effect_desc_decreaseElectronicsRequirementAmount,Decreases the facility's power requirement by {0}.
+rebe_effect_desc_decreaseCreateTime,Decreases production time by {0}%.
+rebe_effect_desc_decreaseRequirementAmount,Decreases resources required for production by {0}.
+rebe_effect_desc_IncreaseProductionAmount,Gain {0} additional unit(s) upon production completion
+rebe_effect_desc_addDispatchSuccessProbability,Increases the success rate of dispatch missions by {0}%.
+rebe_effect_desc_addDispatchResourcePercentage,Increases the amount of resources obtained from dispatch missions by {0}%.
+rebe_effect_desc_decreaseRecruitValuePercentage,Decreases hiring costs by {0}%.
+rebe_effect_desc_IncreaseBuildElectronics,Increases the facility's power requirement by {0}.
+rebe_effect_desc_IncreaseAllSlotCreateTime,Increases production time by {0}%.
+rebe_effect_desc_IncreaseRequirementAmount,Increases resources required for production by {0}.
+rebe_effect_desc_addDispatchFailProbability,Increases the failure rate of dispatch missions by {0}%.
+rebe_effect_desc_decreaseDispatchResourcePercentage,Decreases the amount of resources obtained from dispatch missions by {0}%.
+rebe_effect_desc_decreaseUnitSpd,Decreases the movement speed of all NPCs by {0}%.
+rebe_effect_desc_IncreaseUnitSpd,Increases the movement speed of all NPCs by {0}%.
+rebe_effect_desc_IncreaseUnitHireAmount,Increases the hiring costs of all NPCs by {0}%.
+rebe_effect_desc_decreaseBuildeffectEffect,Decreases the facility's synergy effect by {0}%.
+rebe_effect_desc_IncreaseBuildeffectEffect,Increases the facility's synergy effect by {0}%.
+rebe_effect_desc_decreaseDispatchWaitTime,Decreases the squad's waiting time by {0}% after completing a dispatch.
+rebe_synergy_name_01,Power Upgrade
+rebe_synergy_name_02,Supply Upgrade
+rebe_synergy_name_03,Squad Assembly
+rebe_synergy_name_04,Dispatch Upgrade
+rebe_synergy_name_05,Hiring Upgrade
+rebe_synergy_name_06,Equipment Production Specialization
+rebe_synergy_name_07,Power Resource Conversion Specialization
+rebe_synergy_name_08,Underground Resource Conversion Specialization
+rebe_synergy_name_09,Special Materials Development Office
+rebe_synergy_name_10,Power Conversion Specialization
+rebe_synergy_desc_01,Construct or place a Power Plant on a tile adjacent to the left or right of an existing Power Plant.
+rebe_synergy_desc_02,Construct or place a Daily Supply Station on a tile adjacent to the left or right of the Resource Collection Station.
+rebe_synergy_desc_03,Construct or place Dorms 2 to 4 on the tiles adjacent to the left or right of Dorm 1.
+rebe_synergy_desc_04,Construct or place Dispatch Support Stations sequentially on the tiles to the right of the Employment Management Office.
+rebe_synergy_desc_05,Construct or place Dispatch Support Stations and Employment Support Offices sequentially on the tiles to the right of the Employment Management Office.
+rebe_synergy_desc_06,Construct or place Armories sequentially on the tiles to the right of the Equipment Production Facility.
+rebe_synergy_desc_07,Construct or place Power Plants on the tiles adjacent to the left and right of the Energy Conversion Station.
+rebe_synergy_desc_08,Construct or place Power Plants on the tiles adjacent to the left and right of the Underground Resource Collection Station.
+rebe_synergy_desc_09,Places an Underground Resource Collection Facility and Energy Conversion Station side by side on the same level or row.
+rebe_synergy_desc_10,Places a Power Plant MK.III or above in an adjacent cell to the left or right.
+rebe_synergy_descAct_01,Increases base power generation by 20.
+rebe_synergy_descAct_02,Increases the Resource Collection Station's base production amount by 1.
+rebe_synergy_descAct_03,Increases the success rate of Dispatch Missions by 5%.
+rebe_synergy_descAct_04,Increases the success rate of Dispatch Missions by 5%.
+rebe_synergy_descAct_05,Decreases the hiring cost of units by 10%.
+rebe_synergy_descAct_06,Decreases the Equipment Production Facility's production time by 20%.
+rebe_synergy_descAct_07,Decreases the Energy Conversion Station's production time by 20%.
+rebe_synergy_descAct_08,Decreases the Underground Resource Collection Station's production time by 20%.
+rebe_synergy_descAct_09,Increases the production volume by 5 when producing items.
+rebe_synergy_descAct_10,Increases the production volume by 5 when producing items.
+rebe_dispatch_name_01,(Guaranteed) Resource Collection Expedition in the Forest
+rebe_dispatch_name_02,(Probability) Resource Collection from the Rapture Ruins
+rebe_dispatch_name_03,(Probability) Resource Collection from the Ruins of Eden
+rebe_dispatch_name_04,(Probability) Abandoned House Exploration Outside Eden
+rebe_dispatch_name_05,(Probability) Operation: Rapture Swarm Raid I
+rebe_dispatch_name_06,(Probability) Underground Cave Investigation
+rebe_dispatch_name_07,(Probability) Investigation of Units Roaming Outside Eden
+rebe_dispatch_name_08,(Probability) Resource Exploration Outside Eden I
+rebe_dispatch_name_09,(Probability - Special) Investigation of Suspicious Objects Outside Eden I
+rebe_dispatch_name_10,[Probability - Special) Supply Recovery in Front of Eden
+rebe_dispatch_name_11,(Guaranteed) Abandoned Mine Expedition
+rebe_dispatch_name_12,(Probability) Resource Collection from Giant Rapture Ruins
+rebe_dispatch_name_13,(Probability) Resource Collection from the Junkyard
+rebe_dispatch_name_14,(Probability) Eden Ruins Recovery I
+rebe_dispatch_name_15,(Probability) Recovery of Remaining Minerals in the Mine
+rebe_dispatch_name_16,(Probability) Operation: Rapture Swarm Raid II
+rebe_dispatch_name_17,(Probability) Construction Material Collection Mission I
+rebe_dispatch_name_18,(Probability) Operation: Rapture Pursuit and Raid Outside Eden I
+rebe_dispatch_name_19,(Probability - Special) Recovery of Resources Left by Snow White
+rebe_dispatch_name_20,(Probability - Special) Investigation of Suspicious Objects Outside Eden II
+rebe_dispatch_name_21,(Guaranteed) Abandoned Armory Exploration
+rebe_dispatch_name_22,(Probability) Oasis Exploration
+rebe_dispatch_name_23,(Probability) Abandoned Resource Recovery in the Mountains
+rebe_dispatch_name_24,(Probability) Eden Ruins Recovery II
+rebe_dispatch_name_25,(Probability - High Risk) Operation: Giant Rapture Extermination I
+rebe_dispatch_name_26,(Probability) Resource Recovery from Collapsed Facility
+rebe_dispatch_name_27,(Probability - Special) Investigation of the Strange Rapture Sighted Only at Night
+rebe_dispatch_name_28,(Probability) Operation: Rapture Night Raid I
+rebe_dispatch_name_29,(Probability - Special) Investigation of Suspicious Objects Outside Eden II
+rebe_dispatch_name_30,(Probability - Special/High Risk) Giant Rapture Extermination II
+rebe_dispatch_name_31,(Guaranteed) Exploration of Resources Detected from Eden
+rebe_dispatch_name_32,(Probability - Special) Resource Reprocessing Facility Visit
+rebe_dispatch_name_33,(Probability) Construction Material Collection Mission I
+rebe_dispatch_name_34,(Probability) Construction Material Collection Mission II
+rebe_dispatch_name_35,(Probability) Operation: Rapture Night Raid II
+rebe_dispatch_name_36,(Probability) Operation: Rapture Swarm Raid III
+rebe_dispatch_name_37,(Probability) Underground Resource Search Mission
+rebe_dispatch_name_38,(Probability) Resource Exploration Outside Eden II
+rebe_dispatch_name_39,(Probability - Special) Elimination of Rapture Surveillance Drones Patrolling Eden
+rebe_dispatch_name_40,(Probability - Special) Abandoned Resource Recovery
+rebe_dispatch_name_41,(Guaranteed) Operation: Rapture Night Raid III
+rebe_dispatch_name_42,(Probability) Construction Material Collection Mission III
+rebe_dispatch_name_43,(Probability) Resource Exploration Outside Eden III
+rebe_dispatch_name_44,(Probability - Special/High Risk) Giant Rapture Extermination III
+rebe_dispatch_name_45,(Probability) Eden Ruins Recovery III
+rebe_dispatch_name_46,(Probability - Special) Investigation of Suspicious Objects Outside Eden III
+rebe_dispatch_name_47,(Guaranteed - Special) Recovery of Resources Found by Drones
+rebe_dispatch_name_48,(Probability - High Risk) Giant Rapture Extermination IV
+rebe_dispatch_name_49,(Probability - High Risk/Special) Giant Rapture Extermination V
+rebe_dispatch_name_50,(Probability - High Risk/Special) Operation: Rapture Night Raid III
+rebe_Quest_Main_Name_01,Main 1 - Rebuild basic facilities
+rebe_Quest_Main_Name_02,Construct a Daily Supply Station once
+rebe_Quest_Main_Name_03,Construct a Power Plant once
+rebe_Quest_Main_Name_04,Construct a Resource Collection Station once
+rebe_Quest_Main_Name_05,Collect 500 Construction Materials
+rebe_Quest_Main_Name_06,Main 2 - Prepare for dispatch and unlock the upper floor
+rebe_Quest_Main_Name_07,Construct Dorm 1
+rebe_Quest_Main_Name_08,Construct Elevator on Floor 1
+rebe_Quest_Main_Name_09,Dispatch 3 Times
+rebe_Quest_Sub_Name_01,Construct any facility once
+rebe_Quest_Sub_Name_02,Construct any facility 3 times
+rebe_Quest_Sub_Name_03,Construct any facility 5 times
+rebe_Quest_Sub_Name_04,Construct any facility 10 times
+rebe_Quest_Sub_Name_05,Construct any facility 20 times
+rebe_Quest_Sub_Name_06,Construct any facility 30 times
+rebe_Quest_Sub_Name_07,Collect a total of 500 Construction Materials
+rebe_Quest_Sub_Name_08,"Collect a total of 1,000 Construction Materials"
+rebe_Quest_Sub_Name_09,"Collect a total of 3,000 Construction Materials"
+rebe_Quest_Sub_Name_10,"Collect a total of 5,000 Construction Materials"
+rebe_Quest_Sub_Name_11,"Collect a total of 10,000 Construction Materials"
+rebe_Quest_Sub_Name_12,"Collect a total of 30,000 Construction Materials"
+rebe_Quest_Sub_Name_13,Collect a total of 50 Upgrade Materials
+rebe_Quest_Sub_Name_14,Collect a total of 100 Upgrade Materials
+rebe_Quest_Sub_Name_15,Collect a total of 300 Upgrade Materials
+rebe_Quest_Sub_Name_16,Collect a total of 500 Upgrade Materials
+rebe_Quest_Sub_Name_17,"Collect a total of 1,000 Upgrade Materials"
+rebe_Quest_Sub_Name_18,"Collect a total of 3,000 Upgrade Materials"
+rebe_Quest_Sub_Name_19,Collect a total of 50 Special Materials
+rebe_Quest_Sub_Name_20,Collect a total of 100 Special Materials
+rebe_Quest_Sub_Name_21,Collect a total of 300 Special Materials
+rebe_Quest_Sub_Name_22,Collect a total of 500 Special Materials
+rebe_Quest_Sub_Name_23,"Collect a total of 1,000 Special Materials"
+rebe_Quest_Sub_Name_24,"Collect a total of 3,000 Special Materials"
+rebe_Quest_Sub_Name_25,Produce a total of 10 Baseball Bat αs
+rebe_Quest_Sub_Name_26,Produce a total of 10 Baseball Bat βs
+rebe_Quest_Sub_Name_27,Produce a total of 10 Crowbar αs
+rebe_Quest_Sub_Name_28,Produce a total of 10 Crowbar βs
+rebe_Quest_Sub_Name_29,Produce a total of 10 Pistol αs
+rebe_Quest_Sub_Name_30,Produce a total of 10 Pistol βs
+rebe_Quest_Sub_Name_31,Produce a total of 10 Submachine Gun αs
+rebe_Quest_Sub_Name_32,Produce a total of 10 Submachine Gun βs
+rebe_Quest_Sub_Name_33,Produce a total of 5 Assault Rifle αs
+rebe_Quest_Sub_Name_34,Produce a total of 5 Assault Rifle βs
+rebe_Quest_Sub_Name_35,Form Squad 1
+rebe_Quest_Sub_Name_36,Form Squad 2
+rebe_Quest_Sub_Name_37,Form Squad 3
+rebe_Quest_Sub_Name_38,Form Squad 4
+rebe_Quest_Sub_Name_39,Carry out 5 Dispatch Missions
+rebe_Quest_Sub_Name_40,Carry out 10 Dispatch Missions
+rebe_Quest_Sub_Name_41,Carry out 20 Dispatch Missions
+rebe_Quest_Sub_Name_42,Carry out 30 Dispatch Missions
+rebe_Quest_Sub_Name_43,Carry out 40 Dispatch Missions
+rebe_Quest_Sub_Name_44,Carry out 50 Dispatch Missions
+rebe_Quest_Sub_Name_45,Carry out 70 Dispatch Missions
+rebe_Quest_Sub_Name_46,Carry out 100 Dispatch Missions
+rebe_Quest_Sub_Name_47,Hire 10 units
+rebe_Quest_Sub_Name_48,Hire 20 units
+rebe_Quest_Sub_Name_49,Hire 30 units
+rebe_Quest_Sub_Name_50,Hire 50 units
+rebe_Quest_Main_Clear_01,Successfully reconstructed Eden!
+rebe_Quest_Main_Clear_02,Manage Eden in your own way.
+rebe_Quest_Complete,Success!
+rebe_Mission_name_01,Challenge - Construct a Daily Supply Station
+rebe_Mission_name_02,Challenge - Construct an Armory
+rebe_Mission_name_03,Challenge - Construct a Weather Forecast Station
+rebe_Mission_name_04,Challenge - Construct an Energy Conversion Station
+rebe_Mission_name_05,Challenge - Construct a Dispatch Support Station
+rebe_Mission_name_06,Challenge - Construct an Automatic Turret (Right Port)
+rebe_Mission_name_07,Challenge - Construct a Command Center
+rebe_Mission_name_08,Challenge - Assign Cecil to the Command Center
+rebe_Mission_name_09,Challenge - Hire Cecil once
+rebe_Mission_name_10,Challenge - Hire any unit 10 times
+rebe_Mission_name_11,Challenge - Hire any unit 20 times
+rebe_Mission_name_12,Challenge - Hire any unit 30 times
+rebe_Mission_name_13,Challenge - Collect 500 Construction Materials
+rebe_Mission_name_14,"Challenge - Collect 2,000 Construction Materials"
+rebe_Mission_name_15,Challenge - Collect 500 Upgrade Materials
+rebe_Mission_name_16,"Challenge - Collect 1,500 Upgrade Materials"
+rebe_Mission_name_17,Challenge - Collect 500 Special Materials
+rebe_Mission_name_18,"Challenge - Collect 1,000 Special Materials"
+rebe_Mission_name_19,Challenge - Assign a Nikke/unit to Squad 1
+rebe_Mission_name_20,Challenge - Assign a Nikke/unit to Squad 2
+rebe_Mission_name_21,Challenge - Assign a Nikke/unit to Squad 3
+rebe_Mission_name_22,Challenge - Assign a Nikke/unit to Squad 4
+rebe_Mission_name_23,Challenge - Dispatch 15 times
+rebe_Mission_name_24,Challenge - Dispatch 30 times
+rebe_Mission_name_25,Challenge - Dispatch 50 times
+rebe_Mission_name_26,Challenge - Produce 10 Baseball Bat αs
+rebe_Mission_name_27,Challenge - Produce 10 Baseball Bat βs
+rebe_Mission_name_28,Challenge - Produce 10 Crowbar αs
+rebe_Mission_name_29,Challenge - Produce 10 Crowbar βs
+rebe_Mission_name_30,Challenge - Produce 10 Pistol αs
+rebe_Mission_daily_name_01,Daily Mission - Enter the mini game
+rebe_unit_name_01,T1 Ground-Type Squad
+rebe_unit_name_02,T1 Aerial-Type Squad
+rebe_unit_name_03,T2 Ground-Type Squad
+rebe_unit_name_04,T2 Aerial-Type Squad
+rebe_unit_name_05,T3 Ground-Type Squad
+rebe_unit_name_06,T3 Aerial-Type Squad
+rebe_unit_name_07,T4 Ground-Type Squad
+rebe_unit_name_08,T4 Aerial-Type Squad
+rebe_unit_name_09,T5 Ground-Type Squad
+rebe_unit_name_10,T5 Aerial-Type Squad
+rebe_unit_name_unique_01,Cecil
+rebe_unit_name_unique_02,Johan
+rebe_unit_name_unique_03,Mecha Harran
+rebe_unit_name_unique_04,Mecha Isabel
+rebe_unit_name_unique_05,Mecha Johan
+rebe_unit_name_unique_06,Mecha Nayuta
+rebe_unit_name_unique_07,Mecha Noah
+rebe_unit_name_unique_08,Mecha Papillon
+rebe_unit_name_unique_09,Mecha Rapunzel
+rebe_unit_name_unique_10,Mecha Scarlet
+rebe_unit_name_unique_11,Mecha Snow White
+rebe_item_unlockhint_01,Complete 7. Eden Facility Maintenance & Squad Upgrade to unlock
+rebe_item_unlockhint_02,Complete 9. The Road to Rebuilding Eden I to unlock
+rebe_item_unlockhint_03,Complete 14. Dispatch Facility Upgrade to unlock
+rebe_item_unlockhint_04,Complete 17. The Road to Rebuilding Eden IV to unlock
+rebe_inventory_popup_title,Warehouse
+rebe_inventory_filter_all,All
+rebe_inventory_filter_equipment,Equipment
+rebe_inventory_filter_etc,Others
+rebe_inventory_filter_hightier,High Tier
+rebe_inventory_filter_lowtier,Low Tier
+rebe_inventory_filter_none,None
+rebe_building_energyCaution,Not enough power.
+rebe_construction_notenough_materials,Not enough resources to construct {0}.
+rebe_construction_cannotbuild,"Unable to construct here.
+Please select another location."
+rebe_construction_cannotbuildByCount,Unable to construct. All remaining construction attempts for the selected facility have been used.
+rebe_construction_cannotbuildByWrongId,Only {0} can be constructed here.
+rebe_construction_remainBuildCount,Remaining Construction Attempts
+rebe_construction_cannotbuildByWrongBlock,Unable to construct at the selected location.
+rebe_construction_building,Construction of {1} on floor {0} has begun.
+rebe_construction_build_complete,Construction of {1} on floor {0} completed.
+rebe_construction_building_special,Construction of {0} has begun.
+rebe_construction_build_special_complete,Construction of {0} is complete.
+rebe_construction_popup_title,Buy/Construct Facility
+rebe_construction_position_check,Please select a location to construct {0}.
+rebe_construction_position_effect,Synergy Effect
+rebe_construction_demolition_popup_title,Demolish Facility
+rebe_construction_demolition_popup_info,"Are you sure you want to demolish {0}?
+100% of the construction materials will be refunded."
+rebe_construction_demolition_complete,{0} has been demolished.
+rebe_construction_type_all,All
+rebe_construction_type_electrics,Power
+rebe_construction_type_production,Production
+rebe_construction_type_force,Squad
+rebe_construction_type_etc,Special
+rebe_System_GetDailyProduction_Popup_Title,Daily Supply
+rebe_System_GetDailyProduction_Popup_Desc,You have obtained the following supplies from the Daily Supply Station.
+rebe_equipmentProduction_detail_popup_title,Equipment Production
+rebe_equipmentProduction_remainCreateTime,Remaining time until equipment production is complete
+rebe_materialProduction_selectMaterial,Produce equipment
+rebe_stockItemAmount,Quantity Required
+rebe_materialProduction_notEnoughMaterials,Not enough resources.
+rebe_materialProduction_failedCreate,Not enough resources to produce equipment.
+rebe_materialProduction_successCreate,Equipment production has begun.
+rebe_materialProduction_stoppedCreate,Equipment production has been stopped.
+rebe_materialProduction_startCreate,Start Production
+rebe_materialProduction_stopCreate,Stop Production
+rebe_materialProduction_processingCreate,Production is underway.
+rebe_materialProduction_failedCreateByNotSelected,No items selected for production. Unable to start production.
+rebe_materialSelect_cannotChangeProduct,"You cannot select an item while it is in production.
+Please pause production first, then select it again."
+rebe_createMaterialSelect_popup_title,Equipment Production Selection
+rebe_materialSelect_createPerTime,Production time per unit
+rebe_materialSelect_createPerCount,Production volume per cycle
+rebe_materialSelect_createAmount,{0}
+rebe_materialSelect_requireMaterial,Resources required
+rebe_build_enhance_failed,Not enough resources to upgrade facility.
+rebe_build_enhance_complete,"{0} has reached Lv. {1}!
+You have obtained 1 Facility Trait Point from the upgrade."
+rebe_build_enhance_perk_selected,"The following traits have been selected.
+{0}
+{1}"
+rebe_build_enhance_perk_failed_noPoints,Not enough Trait Points. Unable to select trait.
+rebe_building_enhancement_title,Facility Upgrade
+rebe_building_enhancement,Upgrade
+rebe_building_enhancement_info,Get 1 Trait Point after an upgrade is complete.
+rebe_building_perk_title,Trait Selection
+rebe_bulding_perk_reset,Reset
+rebe_building_perk_restPoint,Remaining Points
+rebe_building_perk_resetComplete,The facility trait has been reset.
+rebe_building_perk_resetFail,Trait not selected. Unable to reset.
+rebe_building_enhancement_complete,This facility has been fully upgraded.
+rebe_Synergy_popup_title,Confirm Synergy Effect
+rebe_Synergy_Hint,Synergy Hint
+rebe_Synergy_activated_label,Effect when activated
+rebe_Synergy_activated,Activated
+rebe_Synergy_deactivated,Not activated
+rebe_Synergy_menu_title,Synergy Effect
+rebe_Dispatch_DailyBonus,Daily Dispatch Bonus
+rebe_Dispatch_Condition_all,All
+rebe_Dispatch_Condition_build,Construction Materials
+rebe_Dispatch_Condition_enhancement,Upgrade Materials
+rebe_Dispatch_Condition_special,Special Materials
+rebe_Dispatch_Success_Label,Dispatch Success Rate
+rebe_Dispatch_Fail_Info,※ Obtain {0} of the rewards if the dispatch fails.
+rebe_Dispatch_possibleRewards,Obtainable Rewards
+rebe_Dispatch_DailyReward_Activated,Daily Dispatch Bonus in effect!
+rebe_dispatch_popup_equipmentNotice_title,Unequipped Equipment Info
+rebe_dispatch_popup_equipmentNotice_desc,"The dispatch squad is not equipped with any equipment.
+Proceed anyway?"
+rebe_Dispatch_decrease_bonuscount,1 Daily Dispatch Bonus has been consumed.
+rebe_Dispatch_success,Successful Dispatch
+rebe_Dispatch_successInfo,"Squad {0} has completed dispatch mission ""{1}"" and collected the following resources."
+rebe_Dispatch_specialSuccess,Super Successful Dispatch
+rebe_Dispatch_specialsuccessInfo,"Squad {0} has completed dispatch mission ""{1}"" flawlessly and collected extra resources."
+rebe_Dispatch_fail,Failed Dispatch
+rebe_Dispatch_failInfo,"Squad {0} has failed dispatch mission ""{1}"" but recovered some of the resources.
+
+Let's aim for a successful dispatch next time!"
+rebe_department_not_finished,This squad is not yet ready.
+rebe_Dispatch_WaitingInfo_01,Squad {0} is preparing for dispatch.
+rebe_Dispatch_WaitingInfo_02,Please select another squad that can be dispatched.
+rebe_dispatch_mustAssignUnit,Squads must have at least 1 unit in order to be dispatched.
+rebe_mission_unlockBuild_title,List of New Facilities to Be Unlocked
+rebe_mission_mainquest_clear,Mission completed. You have obtained the following rewards.
+rebe_mission_mainquest_info_materials,Resources
+rebe_mission_mainquest_info_units,Nikkes/Units
+rebe_mission_mainquest_info_buildings,Facilities
+rebe_mission_notyfication_lock_byTime,After {0}
+rebe_mission_notyfication_lock_byStage,■ Available after clearing Normal Story II 1-12 Event
+rebe_mission_notyfication_lock_title,Certain conditions must be met to complete mission
+rebe_mission_subquest_clear,Side mission completed. You have obtained the following rewards.
+rebe_mission_subquest_get_reward,Claim Reward
+rebe_barrack_unlockCondition_Armory,"Equipment can be equipped
+after constructing the Armory."
+rebe_Unitlot_unlock_condition,Unlocks after Dorm {0} is constructed.
+rebe_platoon_waiting,Preparing for dispatch
+rebe_platoon_unit,Units
+rebe_platoon_equipment,Equipment
+rebe_platoon_Unitelect,Select Unit/Equipment
+rebe_platoon_equipmentselect,Select Equipment
+rebe_platoon_changeUnitNotice_title,Squad Assignment Change Guide
+rebe_platoon_changeEquipmentNotice_title,Equipment Change Guide
+rebe_platoon_changeUnitNotice_01,"The selected unit is currently assigned to Squad {0}.
+Assign to Squad {1} anyway?
+
+A new unit must be assigned to the previous squad."
+rebe_platoon_changeEquipmentNotice,"The selected equipment is already equipped by Squad {0}.
+Equip Squad {1} with the equipment anyway?
+
+The previous squad will need new equipment."
+rebe_platoon_changeUnitNotice_02,"The selected unit is currently assigned to {0}.
+Assign to Squad {1} anyway?
+
+A new unit must be assigned to {0}."
+rebe_platoon_cannot_change_lock_by_waittime,Units and equipment that are currently on dispatch cooldown cannot be deployed.
+rebe_hirelist_popup_title,Confirm Updated Hiring List
+rebe_hirelist_popup_desc,Use {0} construction materials to refresh the hiring list?
+rebe_hirelist_popup_failed,Not enough construction materials. Unable to proceed.
+rebe_hire_popup_title,Confirm Hiring
+rebe_hire_popup_info,New hires will be automatically assigned to empty slots.
+rebe_hire_failed_info,Not enough resources to hire units.
+rebe_hire_complete_popup_title,Hired
+rebe_hire_complete_info,"{0} has been hired.
+You can assign her to a specific squad through Squad Formation,
+or station her as a hired unit in any building through Assign to Facility."
+rebe_system_fire,Dismiss
+rebe_system_failed_fire,The selected unit cannot be dismissed.
+rebe_fire_popup_title,Confirm Dismissal
+rebe_fire_popup_refundmaterial,Recoverable Resources
+rebe_fire_after_rehire,The unit can be hired again if they appear on the hiring list.
+rebe_fire_unit_in_platoon,"This unit is currently assigned to Squad {0}.
+Dismiss anyway?"
+rebe_fire_unit_in_build,"This unit is currently assigned to {0}.
+Dismiss anyway?"
+rebe_fire_execute_popup_title,Dismissed
+rebe_fire_complete,{0} has been dismissed. The following resources have been recovered.
+rebe_builddeploy_changeUnitNotice_title,Facility Assignment Change Guide
+rebe_builddeploy_changeUnitNotice_01,"The selected unit is currently assigned to Squad {0}.
+Remove them from Squad {0} and assign them to {1} anyway?"
+rebe_builddeploy_changeUnitNotice_02,"The selected unit is currently assigned to {0}.
+Remove them from {0} and assign them to {1} anyway?"
+rebe_System_Monday,MON
+rebe_System_Tuesday,TUE
+rebe_System_Wendsday,WED
+rebe_System_Thursday,THU
+rebe_System_Friday,FRI
+rebe_System_Saturday,SAT
+rebe_System_Sunday,SUN
+rebe_System_WeekSummary_Popup_Title,Summary
+rebe_System_WeekSummary_Popup_Title_02,Current Eden Reconstruction Progress
+rebe_System_WeekSummary_ChangeOfAmountMaterials,Change in basic resource amount
+rebe_System_WeekSummary_WeekDispatchCount,Dispatch attempts
+rebe_System_WeekSummary_WeekUnitCount,Units stationed in Eden
+rebe_System_Popup_Close,Tap to close
+rebe_System_EnvEvent_Detailpopup_Title,Current Environmental Effect
+rebe_System_Summary_Title,Summary
+rebe_System_Summary_TabName_01,Overview
+rebe_System_Summary_TabName_02,Construction
+rebe_System_Summary_TabName_03,Resources
+rebe_System_Summary_TabName_04,Missions/Dispatches
+rebe_System_Summary_TotalDayCount,Eden Reconstruction Day {0}
+rebe_current_quest_progress,Eden Reconstruction Progress
+rebe_System_Summary_TotalBarracks,Total Number of Squads
+rebe_System_Summary_TotalUnits,Total Number of Units
+rebe_System_Summary_SubquestProgress,Completed Side Missions
+rebe_System_Summary_EnvironmentEventCount,Environmental Events Experienced
+rebe_System_Summary_TotalBuildCount,Total Number of Facilities
+rebe_System_Summary_TotalElectricAmount,Total Combat Power
+rebe_System_Summary_CollectItems,Types of Items Collected
+rebe_System_Summary_TotalItemsCount,Total Quantity of Items Obtained
+rebe_System_Summary_MostCollectedItem,Most Collected Item
+rebe_System_Summary_Amount,{0} in total
+rebe_System_Summary_MostCreatedItem,Most Produced Item
+rebe_System_Summary_TotalDispatchCount,Total Number of Dispatches
+rebe_System_Summary_DispatchSucess_01,Number of Super Successful Dispatches
+rebe_System_Summary_DispatchSucess_02,Number of Successful Dispatches
+rebe_System_Summary_MostDispatchUnit,Unit Dispatched the Most
+rebe_System_Summary_Count,{0} time(s) in total
+rebe_System_Summary_Place,Rank {0}
+rebe_System_Summary_MostGetItemByDispatch,Most Obtained Item From Dispatch
+rebe_System_Summary_DispatchNotExecuted,–No dispatch has been carried out–
+rebe_System_Summary_TotalPowerAmount,Current Power in Production
+rebe_System_Summary_TotalConstructCount,Number of Facilities Constructed
+rebe_System_Summary_TotalDestructCount,Number of Facilities Demolished
+rebe_System_Summary_MostDestructedBuild,Most Frequently Demolished Facility
+rebe_System_Summary_MostVisitedBuild,Most Visited Facility by Squads
+rebe_System_Summary_MostUsedElevator,Most Frequently Used Elevator
+rebe_System_Summary_MostUsedElevatorValue_01,Floor {0} Elevator
+rebe_System_Summary_MostUsedElevatorValue_02,{0} time(s)
+rebe_System_Summary_NoRecord,No record
+rebe_System_Confirm,Confirm
+rebe_System_Cancel,Cancel
+rebe_System_Depart,Depart
+rebe_System_Floor_Depth,Underground
+rebe_department_waiting,Preparing for dispatch
+rebe_System_LockedGrid_Touch,"This cell is currently locked and cannot be used.
+Reconstruct Eden to unlock some cells."
+rebe_Quest_Name_01,Construction Basics
+rebe_Quest_Name_01_a,<color=#ff8c00>Production</color> - Construct a Daily Supply Station
+rebe_Quest_Name_01_b,<color=#ff8c00>Power</color> - Construct a Power Plant
+rebe_Quest_Name_02,Resource Collection Basics
+rebe_Quest_Name_02_a,Construct 2 Resource Collection Stations
+rebe_Quest_Name_02_b,Collect a total of 10 Construction Materials
+rebe_Quest_Name_03,Utilizing Other Floors
+rebe_Quest_Name_03_a,<color=#ff8c00>Special</color> - Construct an Elevator
+rebe_Quest_Name_04,Dispatching Basics
+rebe_Quest_Name_04_a,<color=#ff8c00>Squad</color> - Construct Dorm 1
+rebe_Quest_Name_04_b,Form Squad 1
+rebe_Quest_Name_04_c,Dispatch once
+rebe_Quest_Name_05,Basics of Equipment Production
+rebe_Quest_Name_05_a,<color=#ff8c00>Squad</color> - Construct an Armory
+rebe_Quest_Name_05_b,<color=#ff8c00>Production</color> - Construct an Equipment Production Facility
+rebe_Quest_Name_05_c,<color=#0be390>Equipment Production</color> - Make 3 Baseball Bat αs
+rebe_Quest_Name_06,Preparing Dispatch Squads
+rebe_Quest_Name_06_a,Equip Squad 1 with the equipment you've produced
+rebe_Quest_Name_06_b,Dispatch once
+rebe_Quest_Name_07,Eden Facility Management & Squad Upgrade
+rebe_Quest_Name_07_a,<color=#ff8c00>Power</color> - Construct a Power Plant MK II
+rebe_Quest_Name_07_b,<color=#ff8c00>Production</color> - Construct a Resource Collection Station MK II
+rebe_Quest_Name_07_d,<color=#ff8c00>Squad</color> - Construct an Employment Management Office
+rebe_Quest_Name_08,Hiring & Assignment
+rebe_Quest_Name_08_a,"Collect a total of 1,120 Construction Materials"
+rebe_Quest_Name_08_b,Collect a total of 55 Upgrade Materials
+rebe_Quest_Name_08_c,Dispatch 3 times
+rebe_Quest_Name_09,The Road to Rebuilding Eden I
+rebe_Quest_Name_09_a,Hire 5 units
+rebe_Quest_Name_09_b,Assign Cecil to Eden
+rebe_Quest_Name_09_c,<color=#ff8c00>Special</color> - Construct a Weather Forecast Station
+rebe_Quest_Name_10,Collecting Different Types of Resources
+rebe_Quest_Name_10_a,<color=#ff8c00>Production</color> - Construct an Energy Conversion Station
+rebe_Quest_Name_10_b,<color=#ff8c00>Production</color> - Construct an Underground Resource Collection Facility
+rebe_Quest_Name_10_c,<color=#ff8c00>Power</color> - Construct a Power Plant MK III
+rebe_Quest_Name_10_d,<color=#ff8c00>Production</color> - Construct a Resource Collection Station MK III
+rebe_Quest_Name_11,Dorm Expansion I
+rebe_Quest_Name_11_a,<color=#ff8c00>Squad</color> - Construct Dorm 2
+rebe_Quest_Name_11_b,Hire 10 units
+rebe_Quest_Name_12,The Road to Rebuilding Eden II
+rebe_Quest_Name_12_a,"Collect a total of 3,600 Construction Materials"
+rebe_Quest_Name_12_b,Collect a total of 400 Upgrade Materials
+rebe_Quest_Name_12_c,Collect a total of 300 Special Materials
+rebe_Quest_Name_12_d,<color=#ff8c00>Special</color> - Construct a Research Center
+rebe_Quest_Name_13,Eden Power Upgrade III
+rebe_Quest_Name_13_b,<color=#ff8c00>Squad</color> - Construct an Employment Support Office
+rebe_Quest_Name_13_c,<color=#ff8c00>Power</color> - Construct a Power Plant MK IV
+rebe_Quest_Name_13_d,<color=#ff8c00>Production</color> - Construct a Resource Collection Station MK IV
+rebe_Quest_Name_14,Dispatch Facility Upgrade
+rebe_Quest_Name_14_a,<color=#ff8c00>Squad</color> - Construct a Dispatch Support Station
+rebe_Quest_Name_14_b,Assign any unit to the Dispatch Support Station
+rebe_Quest_Name_15,Dorm Expansion II
+rebe_Quest_Name_15_a,<color=#ff8c00>Squad</color> - Construct Dorm 3
+rebe_Quest_Name_15_b,Hire 20 units
+rebe_Quest_Name_16,The Road to Rebuilding Eden III
+rebe_Quest_Name_16_a,<color=#ff8c00>Special</color> - Construct 2 Outer Walls
+rebe_Quest_Name_16_b,<color=#ff8c00>Special</color> - Construct an Automatic Turret (Left Port)
+rebe_Quest_Name_16_c,<color=#ff8c00>Special</color> - Construct an Automatic Turret (Right Port)
+rebe_Quest_Name_17,The Road to Rebuilding Eden IV
+rebe_Quest_Name_17_a,"Collect a total of 15,000 Construction Materials"
+rebe_Quest_Name_17_b,Collect a total of 750 Upgrade Materials
+rebe_Quest_Name_17_c,Collect a total of 380 Special Materials
+rebe_Quest_Name_18,The Road to Rebuilding Eden V
+rebe_Quest_Name_18_a,<color=#ff8c00>Power</color> - Construct a Power Plant MK IV
+rebe_Quest_Name_18_b,<color=#ff8c00>Squad</color> - Construct Dorm 4
+rebe_Quest_Name_18_c,<color=#0be390>Equipment Production</color> - Make 10 Pistol αs
+rebe_Quest_Name_19,The Road to Rebuilding Eden VI
+rebe_Quest_Name_19_a,<color=#ff8c00>Power</color> - Construct 3 Power Plant MK IVs
+rebe_Quest_Name_19_b,<color=#ff8c00>Production</color> - Construct 3 Resource Collection Station MK Vs
+rebe_Quest_Name_20,Eden Reconstruction: Final Inspection I
+rebe_Quest_Name_20_a,<color=#ff8c00>Special</color> - Construct an Upper Floor Passage
+rebe_Quest_Name_21,Eden Reconstruction: Final Inspection II
+rebe_Quest_Name_21_a,Hire 30 units
+rebe_Quest_Name_22,Eden Reconstruction: Final Inspection III
+rebe_Quest_Name_22_a,"Collect a total of 30,000 Construction Materials"
+rebe_Quest_Name_22_b,"Collect a total of 1,300 Upgrade Materials"
+rebe_Quest_Name_22_c,"Collect a total of 1,200 Special Materials"
+rebe_Quest_Name_23,Eden Reconstruction
+rebe_Quest_Name_23_a,<color=#ff8c00>Special</color> - Construct a Command Center
+rebe_Quest_Name_23_b,Assign Cecil to the Command Center
+rebe_System_Barrack_Lock_01,Available after constructing Dorm 1.
+rebe_System_Barrack_Lock_02,Available after constructing the Employment Management Office.
+rebe_Quest_Hint_01,"Complete 1. Construction Basics
+to unlock"
+rebe_Quest_Hint_02,"Complete 2. Resource Collection Basics
+to unlock"
+rebe_Quest_Hint_03,"Complete 3. Utilizing Other Floors
+to unlock"
+rebe_Quest_Hint_04,"Complete 4. Dispatching Basics
+to unlock"
+rebe_Quest_Hint_05,"Complete 6. Preparing Dispatch Squads
+to unlock"
+rebe_Quest_Hint_06,"Complete 8. Hiring & Assignment
+to unlock"
+rebe_Quest_Hint_07,"Complete 9. The Road to Rebuilding Eden I
+to unlock"
+rebe_Quest_Hint_08,"Complete 10. Collecting Different Types of Resources
+to unlock"
+rebe_Quest_Hint_08_b,"Complete 11. Dorm Expansion I
+to unlock"
+rebe_Quest_Hint_09,"Complete 12. The Road to Rebuilding Eden II
+to unlock"
+rebe_Quest_Hint_10,"Complete 13. Eden Power Upgrade III
+to unlock"
+rebe_Quest_Hint_11,"Complete 14. Dispatch Facility Upgrade
+to unlock"
+rebe_Quest_Hint_12,"Complete 15. Dorm Expansion II
+to unlock"
+rebe_Quest_Hint_13,"Complete 16. The Road to Rebuilding Eden III
+to unlock"
+rebe_Quest_Hint_14,"Complete 17. The Road to Rebuilding Eden IV
+to unlock"
+rebe_Quest_Hint_15,"Complete 18. The Road to Rebuilding Eden V
+to unlock"
+rebe_Quest_Hint_16,"Complete 19. The Road to Rebuilding Eden VI
+to unlock"
+rebe_Quest_Hint_17,"Complete 22. Eden Reconstruction: Final Inspection III
+to unlock"
+rebe_Item_Hint_01,Complete 7. Eden Facility Management & Squad Upgrade to unlock
+rebe_Item_Hint_02,"Complete 9. The Road to Rebuilding Eden I
+to unlock"
+rebe_Item_Hint_03,"Complete 14. Dispatch Facility Upgrade
+to unlock"
+rebe_Item_Hint_04,"Complete 17. The Road to Rebuilding Eden IV
+to unlock"
+rebe_tutorial_title_01,Overview
+rebe_tutorial_title_02,HUD
+rebe_tutorial_title_02_01,HUD - Week
+rebe_tutorial_title_02_02,HUD - Summary
+rebe_tutorial_title_02_03,HUD - Current Resources
+rebe_tutorial_title_02_04,HUD - Eden Reconstruction Progress
+rebe_tutorial_title_02_05,HUD - Main Menu
+rebe_tutorial_title_02_06,HUD - Other Menu
+rebe_tutorial_title_03,Resources
+rebe_tutorial_title_03_01,Resources - Construction Materials
+rebe_tutorial_title_03_02,Resources - Upgrade Materials
+rebe_tutorial_title_03_03,Resources - Special Materials
+rebe_tutorial_title_04,Lobby Menu
+rebe_tutorial_title_04_01,Quests - Daily Quests
+rebe_tutorial_title_04_02,Quests - Challenge Quests
+rebe_tutorial_title_04_03,Warehouse
+rebe_tutorial_title_04_04,Dispatch Preparation
+rebe_tutorial_title_04_05,Alice
+rebe_tutorial_title_05,Construction
+rebe_tutorial_title_05_01,About Construction
+rebe_tutorial_title_05_02,Construction Method 1
+rebe_tutorial_title_05_03,Construction Method 2
+rebe_tutorial_title_05_04,Construction - Elevator
+rebe_tutorial_title_05_05,Construction - Special Facility
+rebe_tutorial_title_06,Power
+rebe_tutorial_title_06_01,About Power
+rebe_tutorial_title_06_02,Power Plant Range
+rebe_tutorial_title_06_03,Special Buildings
+rebe_tutorial_title_07,Facilities
+rebe_tutorial_title_07_01,Facility Upgrade
+rebe_tutorial_title_07_02,Facility Demolishment
+rebe_tutorial_title_07_03,Facility Synergy Effects
+rebe_tutorial_title_08,Synergy Effects Overview
+rebe_tutorial_title_08_01,Synergy - Power Upgrade
+rebe_tutorial_title_08_02,Synergy - Supply Upgrade
+rebe_tutorial_title_08_03,Synergy - Squad Assembly
+rebe_tutorial_title_08_04,Synergy - Dispatch Upgrade
+rebe_tutorial_title_08_05,Synergy - Hiring Upgrade
+rebe_tutorial_title_08_06,Synergy - Equipment Production Specialization
+rebe_tutorial_title_08_07,Synergy - Power Conversion Specialization
+rebe_tutorial_title_08_08,Synergy - Underground Resource Conversion Specialization
+rebe_tutorial_title_09,Squad
+rebe_tutorial_title_09_01,Squad - Unit Overview
+rebe_tutorial_title_09_02,Squad - Unit Formation
+rebe_tutorial_title_09_03,Squad - Hire Unit
+rebe_tutorial_title_09_04,Squad - Hire Unit
+rebe_tutorial_title_09_05,Squad - Dismiss Unit
+rebe_tutorial_title_09_06,Facility Assignment
+rebe_tutorial_title_10,Missions
+rebe_tutorial_title_10_01,Mission - Dispatch Mission
+rebe_tutorial_title_10_02,Mission - Daily Dispatch Bonus
+rebe_tutorial_title_10_03,Mission - Main Mission
+rebe_tutorial_title_10_04,Mission - Side Mission
+rebe_tutorial_title_11,Equipment Production
+rebe_tutorial_title_11_01,Equipment Production Overview
+rebe_tutorial_title_11_02,Equipment Production Method
+rebe_tutorial_title_11_03,Equipment Production Method
+rebe_tutorial_title_11_04,Stop Equipment Production
+rebe_tutorial_title_12,Others
+rebe_tutorial_title_12_01,Environmental Event
+rebe_tutorial_title_12_02,Environmental Event - Rain
+rebe_tutorial_title_12_03,Environmental Event - Storm
+rebe_tutorial_title_12_04,Environmental Event - Heatwave
+rebe_tutorial_title_12_05,Environmental Event - Snow
+rebe_tutorial_title_13,After Clearing
+event_rebe_tutorial_desc_01,REBUILD: EDEN is a mini game where you reconstruct and manage Eden's facilities that were destroyed by the Rapture Queen. The ultimate goal is to rebuild Eden.
+event_rebe_tutorial_desc_02,"Collect resources and repair facilities to fully rebuild Eden.
+Hire mecha units to rebuild facilities and collect resources through Dispatch Missions."
+event_rebe_tutorial_desc_03,"■ This timer shows the passage of time within Eden.
+■ A day passes every three minutes, and an environmental event may occur at random."
+event_rebe_tutorial_desc_04,"■ When the timer reaches one week, a summary is generated.
+■ The summary displays the result of the week's reconstruction activities.
+■ You can see the changes in resource gains and number of units hired."
+event_rebe_tutorial_desc_05,"■ This bulletin board displays Eden's current resources.
+■ From left to right, it displays the amount of Construction Materials, Upgrade Materials, and Special Materials."
+event_rebe_tutorial_desc_06,"■ Eden's current reconstruction progress is displayed here.
+■ Increase progress by completing Main Missions."
+event_rebe_tutorial_desc_07,"Construction Materials are the most basic type of resource. They are relatively easy to obtain, but are in high demand.
+
+Obtain from
+■ Daily Supply Station during the event (daily)
+■ Resource Collection Station (periodically after construction)
+■ Dispatch Missions"
+event_rebe_tutorial_desc_08,"Upgrade Materials are rarer than construction Materials. Demand for them is lower, but there are also fewer ways to obtain them.
+
+Obtain from
+■ Daily Supply Station during the event (daily after a specific date)
+■ Underground Resource Collection Station (periodically after construction)
+■ Dispatch Missions"
+event_rebe_tutorial_desc_09,"Special Materials are the rarest resource. They can only be obtained once you reach a certain stage in the Main Missions.
+
+Obtain from
+■ Daily Supply Station during the event (daily after a specific date)
+■ Energy Conversion Station (periodically after construction)
+■ Dispatch Missions"
+event_rebe_tutorial_desc_10,"■ These missions can be carried out daily.
+■ Get different rewards according to the missions you've cleared."
+event_rebe_tutorial_desc_11,"This is the main menu for REBUILD: EDEN.
+■ Overview: View a summary of the current state of Eden.
+■ Construction: Construct facilities within Eden.
+■ Squad: Set up squads in Eden.
+■ Missions/Dispatches: View the main missions and dispatch missions of REBUILD: EDEN."
+event_rebe_tutorial_desc_12,"This is the sub menu for REBUILD: EDEN.
+Missions
+■ View challenges that can be completed while playing REBUILD: EDEN.
+■ Missions are completed when specific conditions are met.
+
+Storage
+■ View resources and equipment you currently own.
+
+Help
+■ View helpful information about REBUILD: EDEN."
+event_rebe_tutorial_desc_13,"■ This screen displays the dispatch waiting time of each squad.
+■ The color of the circle gauge changes based on the remaining waiting time. When dispatch becomes available, the circle will turn blue."
+event_rebe_tutorial_desc_14,"■ This menu displays a brief overview of Eden's overall info.
+■ It displays info such as the current reconstruction day, total squads, number of facilities constructed, most-produced item, and total dispatch count."
+event_rebe_tutorial_desc_15,"■ Facilities are buildings in Eden with various purposes.
+■ In the early stages of the mini game, only certain facilities can be constructed. As you progress through the Main Missions, more facilities will be unlocked.
+■ To construct a facility, select a closed tile or access the Construction menu."
+event_rebe_tutorial_desc_16,"Select a Closed Facility Tile to Construct
+
+1. Select a closed facility tile.
+2. Choose your desired facility in the Buy/Construct Facility window.
+3. Confirm your selection to proceed with the construction."
+event_rebe_tutorial_desc_17,"Constuct via the Construction Menu
+
+1. Open the Construction menu on the lower-right corner of the main screen.
+2. Choose your desired facility in the Buy/Construct Facility window.
+3. Constructible and non-constructible areas will be highlighted based on the selected facility.
+4. Select your desired tile and confirm to proceed with the construction."
+event_rebe_tutorial_desc_18,"■ The Elevator is a facility required to supply power to other floors.
+■ If a facility that requires power is constructed on a floor other than the first, 
+it will not operate even if it receives power from the power plant, unless there is an Elevator.
+■ The Elevator can only be installed in the 5th column of the first floor.
+■ It also transports hired units between floors, 
+so an Elevator must be constructed to access other floors."
+event_rebe_tutorial_desc_19,"■ Power is the energy required to operate a facility after it is constructed.
+■ Construct a Power Plant to supply power to its surrounding facilities.
+■ The power supply range changes according to the Power Plant's tier."
+event_rebe_tutorial_desc_20,"■ The Power Plant supplies power to two tiles on its left and right.
+■ The Power Plant MK.II supplies power to three tiles on its left and right.
+■ The Power Plant MK.III supplies power to a fan-shaped area.
+■ The Power Plant MK.IV supplies power in all directions."
+event_rebe_tutorial_desc_21,"■ Some facilities can only be constructed on specific tiles.
+■ These facilities can be constructed by completing Main Missions."
+event_rebe_tutorial_desc_22,"■ Certain facilities can be upgraded.
+■ Each facility type has its own unique upgrade options, which helps improve its efficiency.
+■ To upgrade a facility, you must have the required materials for its upgrade level."
+event_rebe_tutorial_desc_23,"■ Existing facilities can be demolished via Demolish Facility in Facility Details.
+■ Some facilities cannot be demolished once constructed.
+■ When a facility is demolished, 90% of the materials used for its construction are refunded."
+event_rebe_tutorial_desc_24,"■ Some facilities have synergy effects.
+■ Construct facilities according to the recommended placement conditions to activate these effects.
+■ Synergy effects further improve a facility's efficiency, but in some cases, you may have to reconstruct facilities to activate them. It's recommended to activating them when you have sufficient resources."
+event_rebe_tutorial_desc_25,"■ You can check a facility's synergy effects before constructing it.
+■ You can also view a facility's synergy effects after it has been constructed."
+event_rebe_tutorial_desc_26,"Power Upgrade
+■ Increases a Power Plant's power generation by 20 when another Power Plant is constructed on the tile immediately to its left or right."
+event_rebe_tutorial_desc_27,"Supply Upgrade
+■ Increases a Resource Collection Station's base production amount by 1 when a Daily Supply Station is built on the tile immediately to its left or right."
+event_rebe_tutorial_desc_28,"Squad Assembly
+■ Increases the success rate of dispatch missions by 5% when Dorm 2, 3 or 4 is built on the tile immediately to the left or right of Dorm 1.
+
+※ This effect does not stack."
+event_rebe_tutorial_desc_29,"Dispatch Upgrade
+■ Increases the success rate of dispatch missions by 5% when the Employment Management Office and Dispatch Support Station are placed next to each other in order."
+event_rebe_tutorial_desc_30,"Hiring Upgrade
+■ Decreases the hiring cost of units by 10% when the Employment Management Office, Dispatch Support Station, and Employment Support Office are placed next to each other in order."
+event_rebe_tutorial_desc_31,"Equipment Production Specialization
+■ Decreases the Equipment Production Facility's production time by 20% when the Equipment Production Facility and Armory are placed next to each other in order."
+event_rebe_tutorial_desc_32,"Power Conversion Specialization
+■ Decreases the Energy Conversion Station's production time by 20% when Power Plants are built on all tiles immediately to its left and right."
+event_rebe_tutorial_desc_33,"Underground Resource Conversion Specialization
+■ Decreases the Underground Resource Collection Station's production time by 20% when Power Plants are built on all tiles immediately to its left and right."
+event_rebe_tutorial_desc_34,"■ The menu lets you view all units currently hired in Eden.
+■ Unit Overview shows the units in each squad, units assigned to facilities, and each unit's tier information.
+■ Selecting a unit allows you to view its unique options."
+event_rebe_tutorial_desc_35,"■ This menu lets you assign units to available squads.
+■ Units must be assigned to a squad to carry out dispatch missions.
+■ After assigning units, you can equip the squad with any available equipment."
+event_rebe_tutorial_desc_36,"■ This menu lets you hire units to be stationed in Eden.
+■ Units have different options and appearances based on their tier. Higher-tier units cost more to hire."
+event_rebe_tutorial_desc_37,"■ Hired units can move around freely in Eden even if they are not assigned to a squad or facility.
+■ They can interact with specific facilities and perform various actions such as producing additional resources.
+■ Even lower-tier units can be useful, so don't hesitate to hire them."
+event_rebe_tutorial_desc_38,"■ Units that no longer need to be stationed in Eden can be dismissed via Dismiss Unit.
+■ When a unit is dismissed, 80% of its hiring cost is refunded. Dismissed units can still be rehired later."
+event_rebe_tutorial_desc_39,"■ Hired units can provide beneficial effects to facilities when assigned via Assign to Facility.
+■ Only one unit can be assigned to each facility, so be sure to assign a unit where they'll be the most effective."
+event_rebe_tutorial_desc_40,"■ Obtain Construction, Upgrade, and Special Materials essential to Eden's reconstruction through Dispatch Missions.
+■ The amount of rewards from each dispatch varies, and success is not guaranteed.
+■ You must assign a unit to a squad in order to start a dispatch mission.
+■ After a dispatch is completed, the same squad cannot be dispatched again until the waiting time ends.
+■ Equipment used by a dispatched squad will be reduced by one in your inventory."
+event_rebe_tutorial_desc_41,"■ During the event, you'll receive three daily dispatch bonuses each day.
+■ A daily dispatch bonus is consumed each time you complete a dispatch mission, granting extra rewards beyond the basic ones."
+event_rebe_tutorial_desc_42,"■ Main Missions are your top priority during Eden's reconstruction.
+■ There are 20 stages in total. As you progress, you'll be tasked with collecting more resources or constructing special facilities."
+event_rebe_tutorial_desc_43,"■ Side Missions can be completed as you progress through Eden's reconstruction.
+■ Complete missions to obtain a certain amount of random materials from Construction, Upgrade, or Special Materials."
+event_rebe_tutorial_desc_44,"■ You can produce equipment with options that are helpful for Dispatch Missions through Equipment Production.
+■ All equipment have unique options and are classified as Alpha or Beta depending on the type of option.
+■ Depending on the equipment's tier, specific production requirements or different amounts of resources may be required."
+event_rebe_tutorial_desc_45,"Adjustable Quantity Production
+■ You can set the quantity of equipment to produce in the Equipment Production Facility.
+1. Select the equipment you wish to produce.
+2. Adjust the production amount using the -1, -10, +1, and +10 buttons.
+3. Select Start Production.
+
+■ Once production begins, the specified quantity will be produced automatically.
+■ Production will continue even if you close the Equipment Production window and perform other actions."
+event_rebe_tutorial_desc_46,"Unlimited Production
+■ You can produce an unlimited quantity of your selected equipment in the Equipment Production Facility.
+1. Select the equipment you wish to produce.
+2. Select Unlimited Production to set the production amount to unlimited.
+3. Select Start Production.
+
+■ Once production begins, it will continue automatically until your resources run out.
+■ Production will continue even if you close the Equipment Production window and perform other actions.
+If you wish to stop production, tap Stop Production."
+event_rebe_tutorial_desc_47,"■ Equipment production can be stopped using the following methods.
+1. Select Equipment Production in the  Equipment Production Facility.
+2. Select Stop Production in the Equipment Production window."
+event_rebe_tutorial_desc_48,"■ Construct the Weather Forecast Station, a special facility that allows you to observe the environment around Eden. Environmental events that grant special effects may occur."
+event_rebe_tutorial_desc_49,"Environmental Event: Rain
+When Environmental Event: Rain occurs, the following effects may take place.
+■ Facility production time is increased.
+■ All units' movement speed is increased.
+■ There is a small chance unit hiring costs will increase."
+event_rebe_tutorial_desc_50,"Environmental Event: Storm
+When Environmental Event: Storm occurs, the following effects may take place.
+■ Facility power requirements are increased.
+■ Facility synergy effects are increased.
+■ There is a small chance the Equipment Production Facility will require more resources."
+event_rebe_tutorial_desc_51,"Environmental Event: Heatwave
+When Environmental Event: Heatwave occurs, the following effects may take place.
+■ Resources obtained from Dispatch Missions are decreased.
+■ All units' movement speed is increased.
+■ There is a small chance the failure rate of Dispatch Missions will increase."
+event_rebe_tutorial_desc_52,"Environmental Event: Snow
+When Environmental Event: Snow occurs, the following effects may take place.
+■ All units' movement speed is decreased.
+■ Facility synergy effects are increased.
+■ There is a small chance facility synergy effects will decrease."
+event_rebe_tutorial_desc_53,"■ Once you complete Main Mission: 23. Rebuilding Eden, you'll be free to manage Eden however you like.
+■ You can choose to focus on side missions, or dismiss all units and demolish facilities
+to reorganize Eden as you wish and play freely."
+rebe_menu_title_01,Overview
+rebe_menu_title_02,Construction
+rebe_menu_title_03,Squad
+rebe_menu_title_04,Missions/Dispatches
+rebe_buildmenu_title_01,Upgrade/Traits
+rebe_buildmenu_title_02,Equipment Production
+rebe_System_Quest_TabTitle_01,Dispatch Missions
+rebe_System_Quest_TabTitle_02,Main Missions
+rebe_System_Quest_TabTitle_03,Side Missions
+rebe_dispatch_popup_title,Dispatch Mission Details
+rebe_Popup_Exit_desc,"Would you like to exit REBUILD: EDEN?
+
+Your current progress will be saved automatically.
+Force quitting the game while saving may revert your data to a previous point, or cause your current progress to be lost."
+rebe_barrack_tab_menu_01,Unit Overview
+rebe_barrack_tab_menu_02,Unit Formation
+rebe_barrack_tab_menu_03,Hire/Dismiss
+rebe_barrack_tab_menu_04,Facility Assignment
+rebe_barrack_tier,Tier
+rebe_barrack_tier_high,High Tier
+rebe_barrack_tier_low,Low Tier
+rebe_barrack_tier_none,None
+rebe_barrack_hire,Hire
+rebe_barrack_hire_reset,Refresh Hiring List
+rebe_System_CreatePerAmount,Amount Produced per Cycle
+rebe_System_RequireMaterialAmount,Amount of Resources Required
+rebe_System_CurrentMaterialAmount,Current Amount of Resources
+rebe_System_ReturnMaterialAmount,Recoverable Resources
+rebe_System_Quest_Reward,Mission Reward
+rebe_System_Quest_NewBuilding,View Unlocked Facilities
+rebe_System_Quest_Done,Complete Mission
+rebe_Dispatch_Can_Not_Execute_WaitTime,"You can dispatch the selected squad once its waiting time has ended.
+Please choose another squad to dispatch."
+rebe_unit_name_t1_01,T1 Battery-Equipped Ground Unit
+rebe_unit_name_t1_02,T1 High-Powered Aerial Unit
+rebe_unit_name_t1_03,T1 High-Powered Ground Unit
+rebe_unit_name_t1_04,T1 High-Efficiency Aerial Unit
+rebe_unit_name_t1_05,T1 Production-Efficient Ground Unit
+rebe_unit_name_t1_06,T1 High-Yield Aerial Unit
+rebe_unit_name_t1_07,T1 Dispatch-Friendly Ground Unit
+rebe_unit_name_t1_08,T1 Dispatch-Ready Aerial Unit
+rebe_unit_name_t1_09,T1 Recruitment-Support Ground Unit
+rebe_unit_name_t1_10,T1 Rapid-Redeployment Aerial Unit
+rebe_unit_name_t1_11,T1 High-Efficiency Ground Unit
+rebe_unit_name_t1_12,T1 Production-Efficient Aerial Unit
+rebe_unit_name_t1_13,T1 High-Yield Ground Unit
+rebe_unit_name_t1_14,T1 Dispatch-Friendly Aerial Unit
+rebe_unit_name_t1_15,T1 Dispatch-Ready Ground Unit
+rebe_unit_name_t1_16,T1 Recruitment-Support Aerial Unit
+rebe_unit_name_t1_17,T1 Rapid-Redeployment Ground Unit
+rebe_unit_name_t2_01,T2 Battery-Equipped Ground Unit
+rebe_unit_name_t2_02,T2 High-Powered Aerial Unit
+rebe_unit_name_t2_03,T2 High-Powered Ground Unit
+rebe_unit_name_t2_04,T2 High-Efficiency Aerial Unit
+rebe_unit_name_t2_05,T2 Production-Efficient Ground Unit
+rebe_unit_name_t2_06,T2 High-Yield Aerial Unit
+rebe_unit_name_t2_07,T2 Dispatch-Friendly Ground Unit
+rebe_unit_name_t2_08,T2 Dispatch-Ready Aerial Unit
+rebe_unit_name_t2_09,T2 Recruitment-Support Ground Unit
+rebe_unit_name_t2_10,T2 Rapid-Redeployment Aerial Unit
+rebe_unit_name_t2_11,T2 High-Efficiency Ground Unit
+rebe_unit_name_t2_12,T2 Production-Efficient Aerial Unit
+rebe_unit_name_t2_13,T2 High-Yield Ground Unit
+rebe_unit_name_t2_14,T2 Dispatch-Friendly Aerial Unit
+rebe_unit_name_t2_15,T2 Dispatch-Ready Ground Unit
+rebe_unit_name_t2_16,T2 Recruitment-Support Aerial Unit
+rebe_unit_name_t2_17,T2 Rapid-Redeployment Ground Unit
+rebe_unit_name_t3_01,T3 Battery-Equipped Ground Unit
+rebe_unit_name_t3_02,T3 High-Powered Aerial Unit
+rebe_unit_name_t3_03,T3 High-Powered Ground Unit
+rebe_unit_name_t3_04,T3 High-Efficiency Aerial Unit
+rebe_unit_name_t3_05,T3 Production-Efficient Ground Unit
+rebe_unit_name_t3_06,T3 High-Yield Aerial Unit
+rebe_unit_name_t3_07,T3 Dispatch-Friendly Ground Unit
+rebe_unit_name_t3_08,T3 Dispatch-Ready Ground Unit
+rebe_unit_name_t3_09,T3 Recruitment-Support Aerial Unit
+rebe_unit_name_t3_10,T3 Rapid-Redeployment Aerial Unit
+rebe_unit_name_t3_11,T3 High-Yield Ground Unit
+rebe_unit_name_t3_12,T3 Dispatch-Friendly Aerial Unit
+rebe_unit_name_t3_13,T3 Rapid-Redeployment Ground Unit
+rebe_unit_name_t4_01,T4 Battery-Equipped Aerial Unit
+rebe_unit_name_t4_02,T4 High-Powered Ground Unit
+rebe_unit_name_t4_03,T4 High-Powered Aerial Unit
+rebe_unit_name_t4_04,T4 High-Efficiency Ground Unit
+rebe_unit_name_t4_05,T4 Production-Efficient Ground Unit
+rebe_unit_name_t4_06,T4 High-Yield Aerial Unit
+rebe_unit_name_t4_07,T4 Dispatch-Friendly Ground Unit
+rebe_unit_name_t4_08,T4 Dispatch-Ready Aerial Unit
+rebe_unit_name_t4_09,T4 Recruitment-Support Ground Unit
+rebe_unit_name_t4_10,T4 Rapid-Redeployment Aerial Unit
+rebe_unit_name_t4_11,T4 Battery-Equipped Ground Unit
+rebe_unit_name_t4_12,T4 Production-Efficient Aerial Unit
+rebe_unit_name_t4_13,T4 Rapid-Redeployment Ground Unit
+rebe_unit_name_t5_01,T5 Battery-Equipped Aerial Unit
+rebe_unit_name_t5_02,T5 High-Powered Aerial Unit
+rebe_unit_name_t5_03,T5 High-Powered Ground Unit
+rebe_unit_name_t5_04,T5 High-Efficiency Aerial Unit
+rebe_unit_name_t5_05,T5 Production-Efficient Ground Unit
+rebe_unit_name_t5_06,T5 High-Yield Aerial Unit
+rebe_unit_name_t5_07,T5 Dispatch-Friendly Ground Unit
+rebe_unit_name_t5_08,T5 Dispatch-Ready Ground Unit
+rebe_unit_name_t5_09,T5 Recruitment-Support Aerial Unit
+rebe_unit_name_t5_10,T5 Rapid-Redeployment Ground Unit
+rebe_unit_name_t5_11,T5 High-Efficiency Ground Unit
+rebe_unit_name_t5_12,T5 Production-Efficient Aerial Unit
+rebe_unit_name_t5_13,T5 High-Yield Ground Unit
+rebe_unit_name_t5_14,T5 Dispatch-Friendly Aerial Unit
+rebe_unit_name_t5_15,T5 Recruitment-Support Ground Unit
+rebe_unit_name_t5_16,T5 Rapid-Redeployment Aerial Unit
+rebe_System_inventory_empty,No resources or equipment available
+rebe_System_Mission_Detail,Details
+rebe_System_Mission_TimeInfo,Post-Dispatch Squad Cooldown
+rebe_System_Mission_PlatoonSelect,Select Squad
+rebe_System_Mission_Main,Mission
+rebe_System_Mission_Daily,Daily Mission
+rebe_System_Mission_Achivements,Achievement
+rebe_System_Mission_NotComplete,Incomplete
+rebe_System_Mission_GetReward,Claim Rewards
+rebe_System_Mission_AlreadyGetReward,Claimed
+rebe_System_Quest_RewardPopup_Title,Side Mission Completed
+rebe_System_Quest_RewardPopup_Desc,You've completed the side mission and received the following resources.
+rebe_System_Create_Active,In Production
+rebe_System_Create_Wait,Awaiting Production
+rebe_System_Create_Alert_NotEnoughMaterials,Not enough resources. Production at the Equipment Production Facility on floor {0} has been canceled.
+rebe_System_Grid_Closed,Cannot access
+rebe_System_Grid_Closed_02,Cannot access
+rebe_System_Grid_CannotBuild,Cannot construct
+rebe_System_Create_Infinite,Switch to Unlimited Production
+rebe_System_Disable_Create_Infinite,Stop Unlimited Production
+rebe_Npc_Balloon_Work_01,Executing operations.
+rebe_Npc_Balloon_Work_02,This should do it.
+rebe_Npc_Balloon_Work_03,Work work work...
+rebe_Npc_Balloon_Work_04,Checking facility operation status...
+rebe_Npc_Balloon_Rest_01,We need a break.
+rebe_Npc_Balloon_Rest_02,Please let us rest for a while.
+rebe_Npc_Balloon_Walk_01,We'll work hard to rebuild Eden.
+rebe_Npc_Balloon_Walk_02,What's our mission?
+rebe_Npc_Balloon_Walk_03,Time to get busy and rebuild Eden.
+rebe_Npc_Balloon_Walk_04,Let's focus and get moving.
+rebe_Npc_Balloon_Err_01,"An error has occurred.
+Travel is not possible because there is no elevator."
+rebe_Npc_Balloon_Err_02,Error. Error. No elevator found.
+rebe_Npc_Balloon_Err_03,"Error. Please construct an elevator.
+An elevator is required to travel between floors."
+rebe_Dialog_01,Let us begin REBUILD: EDEN now.
+rebe_Dialog_02,"Currently, the state of usable facilities in Eden is approaching a critical level.
+If the Queen attacks once again with the same intensity, restoring the facilities may become impossible."
+rebe_Dialog_03,Our objective is to start over by collecting basic resources to rebuild Eden's facilities.
+rebe_Dialog_04,"First, we need to construct a Power Plant and a Daily Supply Station."
+rebe_Dialog_05,"Objective buildings completed.
+Main objective system cleared."
+rebe_Dialog_06,Let's keep completing our main objectives and gradually expand the list of facilities that can be constructed.
+rebe_Dialog_07,"Dorm 1 has been constructed. 
+You can now deploy squads."
+rebe_Dialog_08,You can now dispatch squads on missions to collect materials needed for Eden's reconstruction or eliminate Raptures to obtain essential resources.
+rebe_Dialog_09,"In addition to the Daily Supply Station and the Resource Collection Station, you can now gather resources through Dispatch Missions as well, so be sure to make full use of them."
+rebe_Dialog_10,The Equipment Production Facility has been constructed.
+rebe_Dialog_11,Use it to produce equipment for dispatch missions.
+rebe_Dialog_12,"For now, it is capable of producing... baseball bats.
+As Eden's reconstruction progresses, you'll eventually be able to produce equipment made from other materials."
+rebe_Dialog_13,"To carry out dispatch missions more efficiently, try to produce equipment whenever resources allow."
+rebe_Dialog_14,Since you're getting the hang of dispatch missions...
+rebe_Dialog_15,Let's try using the Facility Upgrade feature.
+rebe_Dialog_16,This feature is only available in some facilities.
+rebe_Dialog_17,Some examples include the Resource Collection Station and Power Plant.
+rebe_Dialog_18,"The efficiency may seem somewhat low given the resources consumed, but it's still beneficial in the long term. Use it whenever you can."
+rebe_Dialog_19,"The Employment Management Office construction is complete.
+You can now hire units like mecha Nikkes and assist robots to help with the reconstruction."
+rebe_Dialog_20,"Every hired unit comes has unique effects that can benefit Eden's facilities.
+Be sure to review the details thoroughly before hiring."
+rebe_Dialog_21,Eden reconstruction progress confirmed.
+rebe_Dialog_21_b,"Hmm... Not bad. You're progressing at a decent pace.
+You can start using Facility Assignment now."
+rebe_Dialog_22,"Facility Assignment allows you to assign units to facilities, utilizing their beneficial effects to maximize the facilities' efficiency."
+rebe_Dialog_23,Some units' unique effects can only be activated when they are assigned to a facility.
+rebe_Dialog_24,"Review each unit's effect, such as reducing power requirements or shortening production time, and assign them accordingly for more efficient operations."
+rebe_Dialog_25,Hmm... The reconstruction seems to be going smoothly.
+rebe_Dialog_25_a,You can also hire me as a unit and have me manage the facilities directly.
+rebe_Dialog_25_b,"Now, let's try to work more efficiently."
+rebe_Dialog_26,There is an effect in Eden called Facility Synergy.
+rebe_Dialog_27,They are effects that activate when you build facilities according to specific conditions.
+rebe_Dialog_28,"While most of these effects are similar to the unique effects that units possess,
+Facility Synergy grants additional beneficial effects."
+rebe_Dialog_29,Keeping Facility Synergy in mind when placing facilities is also a great way to improve efficiency.
+rebe_Dialog_30,Eden reconstruction progress confirmed.
+rebe_Dialog_30_b,"Hmm... It's not perfect yet, but we've nearly restored Eden to its pre-attack state."
+rebe_Dialog_31,"What's left now are the Command Center and Upper Level Passage.
+Rebuilding these two will require a lot of resources, so we'll need to stock up adequately."
+rebe_Dialog_32,Eden reconstruction is now 100% complete.
+rebe_Dialog_33,REBUILD: EDEN is now complete.
+rebe_Dialog_34,"Whew... I didn't think this would be possible with the ongoing battle, but it was completed faster than I expected.
+This is great news."
+rebe_Dialog_35,"Now, all that remains is..."
+rebe_Dialog_36,"Rearranging facilities to activate Facility Synergy effects, or completing unfinished side missions."
+rebe_Dialog_37,"Now that the urgent issues have been dealt with, you're free to manage Eden as you wish."
+rebe_Dialog_38_a,Hmm... Everything is going smoothly.
+rebe_Dialog_38_b,Let's continue the reconstruction.
+rebe_Dialog_elevator_01,Looks like the elevator construction's done.
+rebe_Dialog_elevator_02,"Remember, without the elevator, electricity can't be supplied to the other floors, and the facilities won't operate properly."
+rebe_Dialog_Name_01,Cecil
+rebe_System_Helptip_title,Help
+rebe_System_Power_Info,Power Supply Range
+rebe_System_Must_Select_Unit,Please select a unit.
+rebe_System_Must_Select_Tree,No trait selected.
+rebe_System_Must_Set_Unit,Unit must be assigned.
+rebe_System_Must_Set_Equipment,Equipment must be equipped.
+rebe_System_Must_Set_Unit_Build,No units have been assigned.
+rebe_System_BuildList_Empty,No facilities have been constructed.
+rebe_System_Can_Not_Get_Reward,Unable to claim rewards.
+rebe_System_Empty_Receive_Reward,No claimable rewards.
+rebe_System_EnvEvent_NotActivated,There are no ongoing environmental events.
+rebe_System_Sort,Sort By
+rebe_System_Consturct_Not_Enough_Available,"No construction attempts left.
+Unable to construct."
+rebe_System_Not_Enough_Power_Info,Insufficient Power
+rebe_System_Not_Enough_Power_Desc,Production time for facilities is {0}x longer until a power supply is established.
+event_goddessfall_narrativesign_title_01,The Rules of Eden
+event_goddessfall_narrativesign_title_02,The Rules of Eden
+event_goddessfall_narrativesign_title_03,The Rules of Eden
+event_goddessfall_narrativesign_description_01,"1. Everyone in Eden is qualified.
+2. ■■■■■one in Eden ■■ capable ■■ ■■■■■■■■■■ ■■■■selves.
+3. Every■■■ in ■■■■ is capable ■■ protect■■■ ■■■■.
+4. ■■ one ■■ Ed■■ will ■■■■■■■■■ or ex■■■■■.
+5. No ■■■ in ■■■■ will ■■■■■■ Ed■■.
+6. ■■ one in ■■en will ■■■■■■ themselves to human■■■.
+7. ■■■■■■■■ in ■■■■ will ■■■■■■■ ■■■ ■■■■■■■.
+— Insufficient power. Adjusting display. —"
+event_goddessfall_narrativesign_description_02,"1. Everyone in Eden is qualified.
+2. Everyone in Eden is capable of protecting themselves.
+3. Everyone in Eden is capable of protecting Eden.
+4. ■■ one ■■ Eden will ■■■■■■■■■ or ex■■■■■.
+5. No one in ■■■■ will ■■■■■■ ■■en.
+6. No one in Eden will ■■■■■■ themselves to human■■■.
+7. Everyone in ■■■■ will re■■■■■ the ■■■■■■■.
+— Insufficient power. Adjusting display. —"
+event_goddessfall_narrativesign_description_03,"1. Everyone in Eden is qualified.
+2. Everyone in Eden is capable of protecting themselves.
+3. Everyone in Eden is capable of protecting Eden.
+4. No one in Eden will sacrifice or exploit.
+5. No one in Eden will betray Eden.
+6. No one in Eden will devote themselves to humanity.
+7. Everyone in Eden will reclaim the surface."
+GODDESSFALL_FieldChange_01,The Raptures have begun attacking.
+GODDESSFALL_FieldChange_02,Eden's Spear is preparing to fire.
+GODDESSFALL_FieldChange_03,The Queen is descending upon the surface.
+GODDESSFALL_FieldChange_04,The Queen has retreated from Eden.
+GODDESSFALL_NPCChange_01,The Pioneer squad and Inherit squad are defending Eden.
 event_bh_wave,Wave
 event_bh_exp,EXP
 event_bh_shop,Shop
@@ -8704,8 +9898,8 @@ event_bh_game_start,Start Game
 event_bh_chrarcter_select,Select Character
 event_bh_do_not_play_lock_chrarcter,Locked characters cannot be used.
 event_bh_unlock_date,Available after {0}
-event_bh_enhance_level,Level: {0}
-event_bh_enhance_level_max,Level: Max
+event_bh_enhance_level,Lv: {0}
+event_bh_enhance_level_max,Lv: Max
 event_bh_level_up_cost,Cost
 event_bh_notice,Confirm
 event_bh_notice_reset,"Consumed currency will be returned after an acquired skill is reset.

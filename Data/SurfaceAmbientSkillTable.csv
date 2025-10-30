@@ -1,0 +1,10 @@
+id,ambient_type,name_localkey,description_localkey,skill_icon,surfaceskill_function_1,surfaceskill_function_2,surfaceskill_function_3,surfaceskill_function_4,description_value_list/0/description_value,description_value_list/1/description_value,description_value_list/2/description_value,description_value_list/3/description_value,description_value_list/4/description_value,description_value_list/5/description_value
+10001101,PartsBuff,Locale_SurfaceSkill:parts_buff_01_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000101,501010101,0,0,80,3,3800,3,,
+10001102,PartsBuff,Locale_SurfaceSkill:parts_buff_02_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000201,501010201,0,0,120,3,6200,3,,
+10001103,PartsBuff,Locale_SurfaceSkill:parts_buff_03_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000301,501010301,0,0,190,3,9400,3,,
+10001104,PartsBuff,Locale_SurfaceSkill:parts_buff_04_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000401,501010401,0,0,280,3,14000,3,,
+10001105,PartsBuff,Locale_SurfaceSkill:parts_buff_05_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000501,501010501,0,0,400,3,20200,3,,
+10001106,PartsBuff,Locale_SurfaceSkill:parts_buff_06_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000601,501010601,0,0,510,3,25600,3,,
+10001107,PartsBuff,Locale_SurfaceSkill:parts_buff_07_skill_name,Locale_SurfaceSkill:parts_buff_01_skill_desc,icn_skill_partsskill_01,501000701,501010701,0,0,800,3,800,3,,
+20001101,FieldBuff,Locale_SurfaceSkill:field_buff_01_skill_name,Locale_SurfaceSkill:field_buff_01_skill_desc,icn_skill_field_buff_01,700010101,0,0,0,,,,,,
+30001101,StaminaDebuff,Locale_SurfaceSkill:stamina_debuff_skill_name,Locale_SurfaceSkill:stamina_debuff_skill_desc,icn_skill_staminadischarge_01,501040101,501050101,0,0,50,50,,,,

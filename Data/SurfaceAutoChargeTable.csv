@@ -1,0 +1,6 @@
+id,auto_charge_type,surface_item_id,init_value,auto_charge_plus,auto_charge_max
+104,Daily,204000010,1,1,1
+105,Daily,205000010,1,1,1
+204,Daily,204000011,3,3,21
+304,Weekly,204000012,3,3,3
+404,Weekly,204000013,1,1,1

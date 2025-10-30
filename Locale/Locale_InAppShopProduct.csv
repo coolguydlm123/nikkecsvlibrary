@@ -101,6 +101,10 @@ PACKAGESHOP_PICKUP_PRODUCT_63_NAME,Technical Support S+ II
 PACKAGESHOP_PICKUP_PRODUCT_64_NAME,Basic Kit Set
 PACKAGESHOP_PICKUP_PRODUCT_65_NAME,Curated Growth Pack I
 PACKAGESHOP_PICKUP_PRODUCT_66_NAME,Curated Growth Pack II
+PACKAGESHOP_PICKUP_PRODUCT_67_NAME,Core Dust Collection Set
+PACKAGESHOP_PICKUP_PRODUCT_68_NAME,Manufacturer Gift Set
+PACKAGESHOP_PICKUP_PRODUCT_69_NAME,Advanced Module+ Set
+PACKAGESHOP_PICKUP_PRODUCT_70_NAME,Backup Master Set
 PACKAGESHOP_LIMIT_PRODUCT_01_NAME,Nikke Master I
 PACKAGESHOP_LIMIT_PRODUCT_02_NAME,Nikke Master II
 PACKAGESHOP_LIMIT_PRODUCT_03_NAME,Nikke Master III
@@ -149,6 +153,7 @@ PACKAGESHOP_WEEKLY_PRODUCT_11_NAME,Credit + Set
 PACKAGESHOP_WEEKLY_PRODUCT_12_NAME,Module Boost+ Set
 PACKAGESHOP_WEEKLY_PRODUCT_13_NAME,Technical Booster Set
 PACKAGESHOP_WEEKLY_PRODUCT_14_NAME,Module Overboost Set
+PACKAGESHOP_WEEKLY_PRODUCT_15_NAME,Technical Selection Set
 PACKAGESHOP_MONTHLY_PRODUCT_01_NAME,Recruitment Package I
 PACKAGESHOP_MONTHLY_PRODUCT_02_NAME,Nikke Growth Package I
 PACKAGESHOP_MONTHLY_PRODUCT_03_NAME,Recruitment Package II
@@ -165,6 +170,7 @@ PACKAGESHOP_MONTHLY_PRODUCT_13_NAME,Recruitment Package II
 PACKAGESHOP_MONTHLY_PRODUCT_14_NAME,Custom Module Full Package
 PACKAGESHOP_MONTHLY_PRODUCT_15_NAME,Master's Boost Package
 PACKAGESHOP_MONTHLY_PRODUCT_16_NAME,Technical Boost
+PACKAGESHOP_MONTHLY_PRODUCT_17_NAME,Custom Module Starter Package
 PACKAGESHOP_ALWAYS_01_PRODUCT_01_NAME,New Commander SSR Selection Pack
 PACKAGESHOP_ALWAYS_01_PRODUCT_01_DESC,"This package contains a selection box. After opening, you can choose a Nikke between Volume, Yuni, Admi, and Brid.
 ※ This package also contains <color=#0EA0FF>Free</color> Gems."
@@ -237,6 +243,8 @@ PACKAGESHOP_STEPUP_01_PRODUCT_10_NAME,Step Up Package STEP 10
 PACKAGESHOP_STEPUP_01_PRODUCT_11_NAME,Step Up Package STEP 11
 PACKAGESHOP_STEPUP_01_PRODUCT_12_NAME,Step Up Package STEP 12
 PACKAGESHOP_STEPUP_01_PRODUCT_13_NAME,Step Up Package STEP 13
+PACKAGESHOP_STEPUP_01_PRODUCT_14_NAME,Step Up Package Step 14
+PACKAGESHOP_STEPUP_01_PRODUCT_15_NAME,Step Up Package Step 15
 PACKAGESHOP_STEPUP_01_PRODUCT_05_DESC,"This package contains a selection box. After opening, it guarantees Manufacturer Perfect Molds for recruiting an SSR Nikke from Elysion, Missilis Industry, or Tetra Line.
 
 ※ This package contains <color=#0EA0FF>Free</color> Gems."
@@ -350,3 +358,9 @@ It's filled with materials essential for the recruitment and growth of Nikkes.
 PACKAGESHOP_SPECIAL_16_PRODUCT_01,B.S.T. Curated Pack I
 PACKAGESHOP_SPECIAL_16_PRODUCT_02,B.S.T. Curated Pack II
 PACKAGESHOP_SPECIAL_16_PRODUCT_03,B.S.T. Curated Pack III
+PACKAGESHOP_SPECIAL_17_PRODUCT_01_NAME,3rd Anniversary Package I
+PACKAGESHOP_SPECIAL_17_PRODUCT_02_NAME,3rd Anniversary Package II
+PACKAGESHOP_SPECIAL_17_PRODUCT_03_NAME,3rd Anniversary Package III
+PACKAGESHOP_SPECIAL_15_PRODUCT_DESC,"A special package designed to commemorate the 3rd Anniversary.
+It's filled with materials essential for the recruitment and growth of Nikkes.
+※ This package contains <color=#0EA0FF>Free</color> Gems."

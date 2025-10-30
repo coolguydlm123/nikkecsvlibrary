@@ -196,6 +196,26 @@ Key,Value
 1320060231_name,Elite Bronchus A.N.M.I.
 1320060241_name,Elite Bronchus Z.E.U.S.
 1320060251_name,Elite Bronchus D.M.T.R.
+1320070111_name,Hedgehog H.S.T.A
+1320070121_name,Hedgehog P.S.I.D
+1320070131_name,Hedgehog A.N.M.I
+1320070141_name,Hedgehog Z.E.U.S
+1320070151_name,Hedgehog D.M.T.R
+1320070211_name,Elite Hedgehog H.S.T.A
+1320070221_name,Elite Hedgehog P.S.I.D
+1320070231_name,Elite Hedgehog A.N.M.I
+1320070241_name,Elite Hedgehog Z.E.U.S
+1320070251_name,Elite Hedgehog D.M.T.R
+1320080111_name,Nepenthes H.S.T.A
+1320080121_name,Nepenthes P.S.I.D
+1320080131_name,Nepenthes A.N.M.I
+1320080141_name,Nepenthes Z.E.U.S
+1320080151_name,Nepenthes D.M.T.R
+1320080211_name,Elite Nepenthes H.S.T.A
+1320080221_name,Elite Nepenthes P.S.I.D
+1320080231_name,Elite Nepenthes A.N.M.I
+1320080241_name,Elite Nepenthes Z.E.U.S
+1320080251_name,Elite Nepenthes D.M.T.R
 14100101_name,Cocytus
 14100201_name,Mace
 14200101_name,Cucumber
@@ -615,6 +635,16 @@ Key,Value
 3310050231_name,Elite Joint A.N.M.I.
 3310050241_name,Elite Joint Z.E.U.S.
 3310050251_name,Elite Joint D.M.T.R.
+3310060111_name,Moth H.S.T.A
+3310060121_name,Moth P.S.I.D
+3310060131_name,Moth A.N.M.I
+3310060141_name,Moth Z.E.U.S
+3310060151_name,Moth D.M.T.R
+3310060211_name,Elite Moth H.S.T.A
+3310060221_name,Elite Moth P.S.I.D
+3310060231_name,Elite Moth A.N.M.I
+3310060241_name,Elite Moth Z.E.U.S
+3310060251_name,Elite Moth D.M.T.R
 33200101_name,Hexagon
 3320010111_name,Hexagon H.S.T.A.
 3320010121_name,Hexagon P.S.I.D.
@@ -914,7 +944,9 @@ Key,Value
 4520020141_name,Providence Z.E.U.S.
 1520540111_name,Hologram Kraken H.S.T.A.
 2510050131_name,Ziz A.N.M.I.
-1510190121_name,Merciless Judge P.S.I.D.
+1510190121_name,The Merciless Judge P.S.I.D.
+4510020151_name,Queen 001 D.M.T.R.
+4520030111_name,Only One H.S.T.A.
 2220080111_name,Snowball H.S.T.A.
 2220080121_name,Snowball P.S.I.D.
 2220080131_name,Snowball A.N.M.I.
@@ -1064,7 +1096,9 @@ Key,Value
 4520020141_appearance_name,Providence
 1520540111_appearance_name,Hologram Kraken
 2510050131_appearance_name,Ziz
-151019121_appearance_name,Merciless Judge
+151019121_appearance_name,The Merciless Judge
+4510020151_appearance_name,Queen 001
+4520030111_appearance_name,Only One
 1120010111_appearance_name,Shank
 1120010121_appearance_name,Shank
 1120010131_appearance_name,Shank
@@ -1223,6 +1257,16 @@ Key,Value
 1320060231_appearance_name,Elite Bronchus
 1320060241_appearance_name,Elite Bronchus
 1320060251_appearance_name,Elite Bronchus
+1320070111_appearance_name,Hedgehog
+1320070121_appearance_name,Hedgehog
+1320070131_appearance_name,Hedgehog
+1320070141_appearance_name,Hedgehog
+1320070151_appearance_name,Hedgehog
+1320080111_appearance_name,Nepenthes
+1320080121_appearance_name,Nepenthes
+1320080131_appearance_name,Nepenthes
+1320080141_appearance_name,Nepenthes
+1320080151_appearance_name,Nepenthes
 2110010111_appearance_name,Daikon
 2110010121_appearance_name,Daikon
 2110010131_appearance_name,Daikon
@@ -1552,6 +1596,11 @@ Key,Value
 3310050231_appearance_name,Joint
 3310050241_appearance_name,Joint
 3310050251_appearance_name,Joint
+3310060111_appearance_name,Moth
+3310060121_appearance_name,Moth
+3310060131_appearance_name,Moth
+3310060141_appearance_name,Moth
+3310060151_appearance_name,Moth
 3320010111_appearance_name,Hexagon
 3320010121_appearance_name,Hexagon
 3320010131_appearance_name,Hexagon
@@ -3347,6 +3396,8 @@ hsta_tyrant_description,"Code: H.S.T.A.
 Grade: Tyrant"
 hsta_heretic_description,"Code: H.S.T.A.
 Grade: Heretic"
+hsta_queen_description,"Code: H.S.T.A.
+Grade: Queen"
 psid_exceed_description,"Code: P.S.I.D.
 Grade: Elite"
 psid_lord_description,"Code: P.S.I.D.
@@ -3361,6 +3412,8 @@ psid_tyrant_description,"Code: P.S.I.D
 Grade: Tyrant"
 psid_heretic_description,"Code: P.S.I.D.
 Grade: Heretic"
+psid_queen_description,"Code: P.S.I.D.
+Grade: Queen"
 anmi_exceed_description,"Code: A.N.M.I.
 Grade: Elite"
 anmi_lord_description,"Code: A.N.M.I.
@@ -3375,6 +3428,8 @@ anmi_tyrant_description,"Code: A.N.M.I.
 Grade: Tyrant"
 anmi_heretic_description,"Code: A.N.M.I.
 Grade: Heretic"
+anmi_queen_description,"Code: A.N.M.I.
+Grade: Queen"
 zeus_exceed_description,"Code: Z.E.U.S.
 Grade: Elite"
 zeus_lord_description,"Code: Z.E.U.S.
@@ -3389,6 +3444,8 @@ zeus_tyrant_description,"Code: Z.E.U.S.
 Grade: Tyrant"
 zeus_heretic_description,"Code: Z.E.U.S.
 Grade: Heretic"
+zeus_queen_description,"Code: Z.E.U.S.
+Grade: Queen"
 dmtr_exceed_description,"Code: D.M.T.R.
 Grade: Elite"
 dmtr_lord_description,"Code: D.M.T.R.
@@ -3403,6 +3460,8 @@ dmtr_tyrant_description,"Code: D.M.T.R.
 Grade: Tyrant"
 dmtr_heretic_description,"Code: D.M.T.R.
 Grade: Heretic"
+dmtr_queen_description,"Code: D.M.T.R.
+Grade: Queen"
 irregular_hsta_exceed_description,"Irregular
 Code: H.S.T.A.
 Grade: Elite"
@@ -3647,3 +3706,4 @@ parts_name_ziz01,Round Eye I
 parts_name_ziz02,Round Eye II
 parts_name_ziz03,Round Eye III
 parts_name_ziz04,Round Eye IV
+parts_name_onlyone01,Beast of the Sea

@@ -46,6 +46,8 @@ memorial_series_id,order,memorial_series_name,memorial_series_description,memori
 104500,45,Locale_Memorial:memorial_45_name,Locale_Memorial:memorial_45_description,Data,mm_1005,False,100,104501,104502,104503,104504,0
 104600,46,Locale_Memorial:memorial_46_name,Locale_Memorial:memorial_46_description,HandWriting,mm_1001,False,100,104601,104602,104603,104604,0
 104700,47,Locale_Memorial:memorial_47_name,Locale_Memorial:memorial_47_description,HandWriting,mm_1001,False,100,104701,104702,104703,104704,0
+104800,48,Locale_Memorial:memorial_48_name,Locale_Memorial:memorial_48_description,HandWriting,mm_1002,False,100,104801,104802,104803,104804,0
+104900,49,Locale_Memorial:memorial_49_name,Locale_Memorial:memorial_49_description,HandWriting,mm_1001,False,100,104901,104902,104903,104904,0
 200100,1,Locale_Memorial:memorial_redash_01_name,Locale_Memorial:memorial_redash_01_description,RedAsh,mm_1004,True,100,200101,200102,200103,0,0
 200200,2,Locale_Memorial:memorial_redash_02_name,Locale_Memorial:memorial_redash_02_description,RedAsh,mm_1004,True,100,200201,200202,200203,0,0
 200300,3,Locale_Memorial:memorial_redash_03_name,Locale_Memorial:memorial_redash_03_description,RedAsh,mm_1004,True,100,200301,200302,200303,200304,200305

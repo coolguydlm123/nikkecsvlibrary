@@ -167,6 +167,10 @@ id,name_localkey,description_localkey,resource_id,item_type,item_sub_type,item_r
 5100841,Locale_Item:piece_841,Locale_Item:piece,841,Piece,CharacterPiece,SSR,ABNORMAL,NORMAL,Attacker,None,0,0,False,0,9999999
 5100842,Locale_Item:piece_842,Locale_Item:piece,842,Piece,CharacterPiece,SR,ABNORMAL,NORMAL,Attacker,None,0,0,False,0,9999999
 5100023,Locale_Item:piece_23,Locale_Item:piece,23,Piece,CharacterPiece,SSR,ELYSION,NORMAL,Attacker,None,0,0,False,0,9999999
+5100223,Locale_Item:piece_223,Locale_Item:piece,223,Piece,CharacterPiece,SSR,PILGRIM,OVERSPEC,Attacker,None,0,0,False,0,9999999
+5100262,Locale_Item:piece_262,Locale_Item:piece,262,Piece,CharacterPiece,SSR,PILGRIM,OVERSPEC,Attacker,None,0,0,False,0,9999999
+5100331,Locale_Item:piece_331,Locale_Item:piece,331,Piece,CharacterPiece,SSR,PILGRIM,OVERSPEC,Attacker,None,0,0,False,0,9999999
+5100074,Locale_Item:piece_262,Locale_Item:piece,74,Piece,CharacterPiece,SSR,ELYSION,NORMAL,Attacker,None,0,0,False,0,9999999
 5201201,Locale_Item:piece_58004,Locale_Item:piece_elysion,58004,Piece,MaterialPiece,SR,ELYSION,NORMAL,None,None,0,0,False,0,9999999
 5202201,Locale_Item:piece_58005,Locale_Item:piece_missilis,58005,Piece,MaterialPiece,SR,MISSILIS,NORMAL,None,None,0,0,False,0,9999999
 5203201,Locale_Item:piece_58006,Locale_Item:piece_tetra,58006,Piece,MaterialPiece,SR,TETRA,NORMAL,None,None,0,0,False,0,9999999

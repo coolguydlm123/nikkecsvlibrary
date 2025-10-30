@@ -94,6 +94,7 @@ Key,Value
 470_name,Red Hood
 971_name,Rose
 973_name,Jien
+890_name,Papillon
 132_name,Mary: Bay Goddess
 330_name,Crown
 352_name,Helm
@@ -227,6 +228,7 @@ Key,Value
 841_name,Jill
 842_name,Claire
 23_name,Delta: Ninja Thief
+563_name,Bahamut
 npc_950_name,Collector
 npc_951_name,Female Commander
 npc_952_name,Teddy
@@ -363,6 +365,10 @@ npc_9999999_name_102,Typewriter
 npc_9999999_name_103,Broken Goddess Statue
 npc_9999999_name_104,Banquet Table
 npc_9999999_name_105,Suspicious Area
+npc_9999999_name_106,Hologram Projector
+npc_9999999_name_107,Lounge
+npc_9999999_name_108,ID Reader
+npc_9999999_name_109,Supplies
 npc_6001_name_01_01,Lively Product 12
 npc_6001_name_01_02,C-1002
 npc_6002_name_02_01,Taciturn Product 12
@@ -654,6 +660,14 @@ c095_description,"Eunhwa, the leader of Absolute has been strengthened through t
 Having let go of the burdens of her past, she is free of all hesitation, and exhibits remarkable growth both physically and mentally."
 c143_description,"Milk undergoes a drastic transformation to infiltrate the Coin Rush. In addition to her bold outfit, even her hair and makeup are perfectly battle-ready."
 c315_description,"After receiving a special mission from Mustang, Ade dons a bunny girl outfit. Though she remains the perfect maid, she’s still quite inexperienced as an agent."
+c023_description,"In order to officially become a Phantom Thief, Delta joins the Thieves of Justice as a trainee.
+To embody the stealthy and silent nature of a Phantom Thief, she decides to become a Ninja Thief."
+c223_description,"A transcendent monk who wanders the world leisurely.
+Her tone and demeanor always carry a sense of calmness and composure.
+Once a member of D.E.E.P., she was cast out and later joined the Pioneer squad."
+c331_description,"A Pilgrim from the White Knight squad.
+She serves Crown, a fellow Nikke from her squad, as her royal aide.
+Quick-witted, cunning, and fiercely loyal, she is a loyal retainer of the Crown Kingdom."
 c800_description,"Member of Public Safety Devil Extermination Special Division 4.
 A devil hunter working directly under the Chief Cabinet Secretary."
 c801_description,"Member of Public Safety Devil Extermination Special Division 4.
@@ -1106,9 +1120,10 @@ It's in our nature."
 261_speech_01,There's nothing I despise more than boredom.
 261_speech_02,"Keep pestering me, and see what happens."
 261_speech_03,"So boooooring! If you don't get a move on, you'll be sorry."
-262_speech_01,*Yawn* So sleepy... I'm gonna hit the hay.
-262_speech_02,"Ugh... Quit pestering me, Human."
-262_speech_03,*Yawn* Stop bothering me right now. It's annoying.
+262_speech_01,"I'm only with you right now for Mother's sake.
+Don't delude yourself into thinking I'm actually on your side."
+262_speech_02,"There's a lot of noise around you, Human. But I like how quiet you are."
+262_speech_03,*Yawn* It's strange. Being next to you makes me sleepy.
 121_speech_01,I bought a new notebook. I'll be able to write down all my memories here!
 121_speech_02,Rupee bought this for me! Isn't it pretty? I'm gonna wear it every day!
 121_speech_03,"Shopa... holic? I just shout it out like this, right?"
@@ -1726,6 +1741,15 @@ It's a lucky... outfit after all."
 if I can bring even just a tiny bit of luck to others..."
 272_01_speech_03,"You can't focus on the game?
 Wh-what do you mean..."
+23_speech_01,"The most important things to a ninja are stealth, technique, and situational awareness—and of course, teamwork."
+23_speech_02,"Although I'm still a trainee as a Phantom Thief,
+as a ninja, I'm confident I've risen to a high level."
+23_speech_03,"The path of a Phantom Thief and the path of a ninja...
+Only those who can walk both can truly be called a Ninja Thief."
+16_02_speech_01,"I'm feeling a little tired. I'll rest on your bed for a moment, Commander."
+16_02_speech_02,"Commander... what do you think of this pillow? The design’s rather nice, isn't it?"
+16_02_speech_03,"I heard you like these kinds of outfits, Commander.
+Feel free to take a good look."
 840_speech_01,"My identity? Sorry, that's a secret.
 I am willing to hear your story, though."
 840_speech_02,"Don't forget our deal.
@@ -1741,6 +1765,32 @@ It never ends."
 842_speech_02,"These Raptures are mechanical creatures, you say?
 It's hard to believe something like that could be enemies of humanity."
 842_speech_03,"If you see an infected, turn and run as fast as you can. A direct confrontation is only a last resort."
+331_speech_01,"The number of citizens in the Crown Kingdom grows with each passing day.
+Is this not truly cause for great joy?"
+331_speech_02,"Rapscallion!
+Do not argue with Her Highness!"
+331_speech_03,"There's no need to worry.
+Our kingdom is forever safeguarded by Her Highness, verily."
+223_speech_01,"I am Nayuta, the fourth member of the Forerunners. I eagerly anticipate the privilege of working alongside thee."
+223_speech_02,"Great Hero, thou standest within the very eye of the tempest. Take heed that thou lose not thy center, lest thou be swept away."
+223_speech_03,"To think that fate hath brought us together. Truly, the threads of destiny are most enigmatic, are they not?"
+330_02_speech_01,"What do you think? 
+It's a new outfit Chime fashioned for me. Isn't it beautiful?"
+330_02_speech_02,"A king must always remain signified before the people. 
+Ah, I mean dignified. That's the word, yes."
+330_02_speech_03,"If the people so desire, it's only proper if a king be willing to change their outfit."
+470_02_speech_01,"What gorgeous weather! 
+Days like this are perfect for listening to music outside. Wanna come?"
+470_02_speech_02,"Man, a cold beer would hit the spot right now. 
+Reckon there's anyone who'll drink with me?"
+470_02_speech_03,"Wonder what the others are up to... 
+Hmm. Shall I give them a call?"
+223_01_speech_01,"To triumph, I shall do whatsoever must be done.
+The burden of sin is one which I shall bear alone."
+223_01_speech_02,"Dost mine present visage strike thee as peculiar?
+Ha... even I find it so."
+223_01_speech_03,"Within this vessel of mine, the voices of the multitude of mine own likeness do proclaim.
+Their aspirations and aims must needs be fulfilled."
 10_speech_04,"Commander, I'll protect you."
 10_speech_05,Don't push yourself too hard! I've got your back all the way.
 10_speech_06,"No matter what you think of us, we'll always be by your side."
@@ -1981,9 +2031,11 @@ So we will never lose!"
 261_speech_04,"If you bug me, I'll return it two-fold."
 261_speech_05,Don't be scared. I don't feel like meddling in your affairs right now.
 261_speech_06,"I'm jonesing for a fix right now, and I feel like smashing something. Wanna join me?"
-262_speech_04,*Yawn* I'm starting to get used to this place.
-262_speech_05,Ugh... I'm getting used to you bothering me too.
-262_speech_06,Hm... That's strange... I don't find you as irritating as before.
+262_speech_04,"You're quiet, Human. Like the deep sea.
+That's why being with you... isn't all that unpleasant."
+262_speech_05,"It's comfortable being next to you... which is dangerous.
+But I'll stay with you, for now."
+262_speech_06,"So long as you don't pose a threat to Mother, I'll let you live."
 121_speech_04,What a miracle! I've noted down and made so many precious memories.
 121_speech_05,The clothes Rupee bought me are so shiny! I feel just like a fairy.
 121_speech_06,"Shopaholic! Rupee said if I keep repeating that slogan, it'll lift my spirits."
@@ -2659,6 +2711,15 @@ I have a special choreography to match this outfit... Want me to show you?"
 272_01_speech_05,"I'll be your personal lucky bunny, Highroller."
 272_01_speech_06,"Focus on the game for now, please.
 If you want to look... you can stare all you want later."
+23_speech_04,"I can teach you all the secret techniques I've learned, Commander—just for you.
+So, how about becoming a Ninja Thief with me?"
+23_speech_05,"My shuriken will never be aimed at you, Commander."
+23_speech_06,"It's an honor to walk the path of a Ninja Thief alongside you, Commander.
+Nin-nin!"
+16_02_speech_04,"Aren't you tired, Commander? You can rest. I'll stay here and keep watch over you."
+16_02_speech_05,"Whatever you ask of me, Commander, my answer will always be ""yes."""
+16_02_speech_06,"Hehe, your reaction makes this all worth it... 
+Since I worked so hard, may I ask for a reward?"
 840_speech_04,Do you trust me?
 840_speech_05,"Who am I working for? Come on—you know I don't work for anyone.
 And even if I did, I'd never say who."
@@ -2674,6 +2735,28 @@ He's a cop... but I haven't seen him around lately."
 Even if I'm not around, don't leave that kid—Deipara—all alone."
 842_speech_06,"I can't exactly go back to being just a college student.
 That's why I'm fighting—to make sure no one else has to live through this."
+331_speech_04,"What's this? 
+Have you resolved to become the advisor to our kingdom at last?"
+331_speech_05,"If you come into our kingdom's fold, it would be most conveni... I mean, most pleasing indeed."
+331_speech_06,"Perhaps the day will come when we may impart unto you our sacred mission, Rapscallion."
+223_speech_04,"Haha. To think I should be so gladdened to stand by thy side. Truly, thou dost possess a talent both precious and perilous."
+223_speech_05,"Perchance I must set forth upon a far voyage once again. Yet for the present, I shall steadfastly remain by thy side."
+223_speech_06,"Thou, Great Hero, art now and forevermore the key of utmost import to all that must be done. Verily, 'tis prudent to care for thine own well-being."
+330_02_speech_04,"I hope I can craft you an outfit befitting the Crown Kingdom's advisor one day. 
+O-of course, Chime would be the one to stitch it."
+330_02_speech_05,"Wherever you may be, and whatever garments you wear, 
+do not forget that you are a citizen of the Crown Kingdom."
+330_02_speech_06,"Chime's craftsmanship is truly remarkable. 
+Don't you feel the royal nobility radiating from every stitch?"
+470_02_speech_04,"Wow... it's so peaceful.
+Heh, never thought I'd say such a thing."
+470_02_speech_05,"Feels good, spending time like this with you, Handsome.
+This'll be a day I'll never forget."
+470_02_speech_06,"How about it, Handsome?
+Think we've gotten kinda close?"
+223_01_speech_04,"One day, Great Hero, may thou behold a realm replete with lofty edifices and innumerable chariots, a world vibrant with the melodies of human narratives."
+223_01_speech_05,"Though sin be laid upon me by all, I shall yet endeavor to restore the world unto the tranquility it once knew."
+223_01_speech_06,"The hopes, tears, ire, and remorse of the multitude of mine own souls flow through this vessel. Thus, failure is naught but forbidden."
 10_stay_01,"Commander, you don't have any orders to give?"
 10_stay_02,I'll be on standby. Feel free to call me anytime.
 11_stay_01,"Master, now is the time for action, not relaxation!"
@@ -2842,9 +2925,9 @@ You should know better than that. 10 points deducted!"
 I need you for something!"
 261_stay_01,Don't just stand there and stare at me. Move.
 261_stay_02,"Okay, soak it all in while you can. This is the only chance you're going to get."
-262_stay_01,"If you aren't gonna do anything, let's go somewhere else, human. It's so noisy here!"
-262_stay_02,"It's nice being around you because it's so quiet.
-It's as if I'm in the deepest recesses of the ocean."
+262_stay_01,"If we're not gonna do anything, I'd rather go somewhere else. It's too noisy here!"
+262_stay_02,"Don't talk to me, Human. I'm enjoying this silence.
+*Yawn* I think I might finally sleep soundly for once."
 121_stay_01,"Hey, where did you go? I get anxious whenever you're not around."
 121_stay_02,I'll just flip through my notebook until you come back. I wrote down a bunch of memories with you and Rupee.
 203_stay_01,Hey! Don't zone out at a time like this! We've got places to go.
@@ -3301,6 +3384,12 @@ But I wish you'd pay a little more attention to me."
 Y-you didn't see anything, did you...?"
 272_01_stay_02,"... I guess you're busy.
 I'll just quietly stay by your side and recharge your luck."
+23_stay_01,"If I have to wait for you, may I do so up in the ceiling?
+Standing around here like this is unbecoming of a ninja."
+23_stay_02,"I can't see your face clearly from inside the ceiling.
+I'll just wait here instead."
+16_02_stay_01,"Like this...? No, maybe a bit more demurely..."
+16_02_stay_02,"Commander, would you like to... Oh, I see you're busy. I guess I'll just stay by your side for now."
 840_stay_01,"I'll be waiting right here.
 Don't worry. I'm not going anywhere."
 840_stay_02,Is that the drawer where you hide your secrets? You sure you're okay with leaving me here unsupervised?
@@ -3311,6 +3400,24 @@ We can't let this place become another Raccoon City."
 I disappeared so suddenly. They must be worried."
 842_stay_02,"You're not planning on leaving me here alone, are you?
 I'm counting on you to come back soon, you hear?"
+331_stay_01,"Rapscallion...?!
+You vanished and left all manner of menial tasks in your wake!"
+331_stay_02,"Such matters are but a trifle for me.
+If you have business to attend to, see to it with haste."
+223_stay_01,"I came to seek the Great Hero... Yet, it seems no soul is present. Pray, have I strayed upon a way most errant?"
+223_stay_02,"Haha. Thou art as busy as ever. I shall remain in quiet meditation. Return at thy leisure, when thy affairs be done."
+330_02_stay_01,"Go wherever you must. 
+I will be here admiring the outfit Chime created."
+330_02_stay_02,"Worry not.
+I shall remain here with Chime, looking for outfits that befit you."
+470_02_stay_01,"Ugh, being alone is so boring. 
+Guess I'll go pester Handsome for fun."
+470_02_stay_02,"Go on ahead, Handsome.
+I'll just enjoy this beautiful day and listen to some music. It's been a while."
+223_01_stay_01,"Ah... It seemeth thou art much occupied once more this day.
+'Tis no matter. I too must needs attend to mine own affairs."
+223_01_stay_02,"Verily the Great Hero hath cause for his busyness.
+I shall remain here, presiding over the multitude likenesses of mine own self."
 10_intro,No calls or messages during missions.
 11_intro,I'm a girl who loves firepower with all her heart.
 12_intro,Please don't send me weird shit!!!
@@ -3475,6 +3582,8 @@ Outside of that, I will only entertain questions."
 95_intro,Get straight to the point.
 315_intro,It is not I who would be seen walking about in a bunny girl outfit T_T
 143_intro,I'll beat you up if you dare to tease me!!
+23_intro,"Live for justice, die for justice. Nin-nin."
+890_intro,"Someday, I'll make it all the way up there."
 g_npc_01_name,Church of Doomseye
 g_npc_02_name,Princess' Royal Guard
 g_npc_03_name,Shopaholics Public Chatroom☆
@@ -4115,6 +4224,13 @@ npc_593_name,Cowardly Male Guest
 npc_594_name,Wistful Female Guest
 npc_595_name,Sneezing Guest
 npc_596_name,Elseria Nine
+npc_597_name,Pickpocket
+npc_598_name,Only One
+npc_599_name,Tricky Boi
+npc_600_name,Despairing Nikke
+npc_601_name,Dying Nikke
+npc_602_name,Desperate Nikke
+npc_603_name,Determined Nikke
 npc_07_intro,01100110 01101111 01101111 01101100
 npc_13_intro,The meeting place of the master and followers of Doomseye
 npc_14_intro,The meeting place of the master and followers of Doomseye
@@ -4384,6 +4500,9 @@ npc_463_intro,Run until the end!
 840_cv_ko,CV: Lily Gao
 841_cv_ko,CV: Nicole Tompkins
 842_cv_ko,CV: Stephanie Panisello
+23_cv_ko,CV: Lee Seul
+223_cv_ko,CV: Yang Jeong-hwa
+331_cv_ko,CV: Lee Dal-lae
 10_cv_ja,CV: Yui Ishikawa
 11_cv_ja,CV: Rina Hidaka
 12_cv_ja,CV: Miho Okasaki
@@ -4557,6 +4676,9 @@ npc_463_intro,Run until the end!
 840_cv_ja,CV: Junko Minagawa
 841_cv_ja,CV: Atsuko Yuya
 842_cv_ja,CV: Yūko Kaida
+23_cv_ja,CV: Yumiri Hanamori
+223_cv_ja,CV: Ayako Kawasumi
+331_cv_ja,CV: Tomoko Kaneda
 10_cv_en,CV: Kayli Mills
 11_cv_en,CV: Xanthe Huynh
 12_cv_en,CV: Michelle Marie
@@ -4730,6 +4852,9 @@ npc_463_intro,Run until the end!
 840_cv_en,CV: Lily Gao
 841_cv_en,CV: Nicole Tompkins
 842_cv_en,CV: Stephanie Panisello
+23_cv_en,CV: Antonia Flynn
+223_cv_en,CV: Lindsay Sutton
+331_cv_en,CV: Ratana
 c102_Lobby_Touch_1,How about we go and run some tests together?
 c102_Lobby_Touch_2,You're a most interesting subject to observe.
 c102_Lobby_Touch_3,"All right, what's next?"
@@ -15037,3 +15162,423 @@ c043_02_Damage_3,Urgh!
 c043_02_Die_1,Forget about me... focus on completing the mission...
 c043_02_Win_1,"Mission complete.
 ... We've resolved everything we could. Good work."
+c023_Lobby_Touch_1,"The most important things to a ninja are stealth, technique, and situational awareness—and of course, teamwork."
+c023_Lobby_Touch_2,"Although I'm still a trainee as a Phantom Thief,
+as a ninja, I'm confident I've risen to a high level."
+c023_Lobby_Touch_3,"The path of a Phantom Thief and the path of a ninja...
+Only those who can walk both can truly be called a Ninja Thief."
+c023_Lobby_Touch_Love_1,"I can teach you all the secret techniques I've learned, Commander—just for you.
+So, how about becoming a Ninja Thief with me?"
+c023_Lobby_Touch_Love_2,"My shuriken will never be aimed at you, Commander."
+c023_Lobby_Touch_Love_3,"It's an honor to walk the path of a Ninja Thief alongside you, Commander. Nin-nin!"
+c023_Lobby_Stay_1,"If I have to wait for you, may I do so up in the ceiling?
+Standing around here like this is unbecoming of a ninja."
+c023_Lobby_Stay_Love_1,"I can't see your face clearly from inside the ceiling.
+I'll just wait here instead."
+c023_Outpost_Touch_1,"Wha...! How did you find me?
+I was certain I was moving like a shadow."
+c023_Outpost_Touch_2,"A summons, for the Thieves of Justice?
+I shall depart at once."
+c023_Outpost_Touch_3,"I've sent the calling card.
+I'll see you at midnight."
+c023_Gacha_Get_1,"Delta, trainee Ninja Thief. Nin-nin!"
+c023_Reinforce_1,I can move more stealthily and quietly now.
+c023_Reinforce_2,I can learn new techniques now. I shall train and return soon.
+c023_Reinforce_3,Thank you for your support. I'll work on developing new ninja weapons.
+c023_Gift_1,"This is real, and not an illusion created by ninjutsu?
+... I'm sincerely grateful."
+c023_Gift_2,"You're the only one who prepares such things for me, Commander."
+c023_Gift_3,I'll repay you by spreading the name of the Thieves of Justice.
+c023_Attractive_Up_1,"My heartbeat is too loud.
+It makes it hard for me to move quietly."
+c023_Attractive_Up_2,"I'll give my best to officially join the Thieves of Justice, so I can stand proudly alongside you, Commander."
+c023_Attractive_Up_3,"So... is romance within the company—I mean, the organization—off limits?"
+c023_Party_Deploy_1,"Trainee Ninja Thief, ready for duty."
+c023_Field_Touch_1,Nin-nin!
+c023_Field_Go_1,Footsteps must not be heard.
+c023_Battle_Enter_1,Enemy sighted. Approaching quietly.
+c023_Battle_Ready_1,Ninjutsu! Commence battle!
+c023_Battle_Ready_2,I'll show you the results of my training.
+c023_Battle_Ready_3,I will leave no trace behind.
+c023_Reload_1,Shuriken retrieved.
+c023_Reload_2,Ninjutsu! Reload!
+c023_Reload_3,I must hide in the shadows for a bit.
+c023_Ult_Skill_Ready_1,"Ninjutsu, ready."
+c023_Ult_Skill_1,Secret technique! Ninja Overdrive!
+c023_FullBurst_1,I'll show you the power of justice!
+c023_Kill_Monster_1,Justice has been served.
+c023_Kill_Monster_2,Nin-nin!
+c023_Kill_Monster_3,A perfect hit.
+c023_Damage_1,Ugh...!
+c023_Damage_2,Gah...!
+c023_Damage_3,Nin...!
+c023_Die_1,As expected... I still have much to learn as a trainee.
+c023_Win_1,Even a trainee Ninja Thief can pull this off.
+c016_02_Lobby_Touch_1,"I'm feeling a little tired. I'll rest on your bed for a moment, Commander."
+c016_02_Lobby_Touch_2,"Commander... what do you think of this pillow? The design's rather nice, isn't it?"
+c016_02_Lobby_Touch_3,"I heard you like these kinds of outfits, Commander.
+Feel free to take a good look."
+c016_02_Lobby_Touch_Love_1,"Aren't you tired, Commander? You can rest. I'll stay here and keep watch over you."
+c016_02_Lobby_Touch_Love_2,"Whatever you ask of me, Commander, my answer will always be ""yes."""
+c016_02_Lobby_Touch_Love_3,"Hehe, your reaction makes this all worth it... 
+Since I worked so hard, may I ask for a reward?"
+c016_02_Lobby_Stay_1,"Like this...? No, maybe a bit more demurely..."
+c016_02_Lobby_Stay_Love_1,"Commander, would you like to... Oh, I see you're busy. I guess I'll just stay by your side for now."
+c016_02_Outpost_Touch_1,"Oh, Commander. I was just about to head to my room to rest.
+Would you like to come with me?"
+c016_02_Outpost_Touch_2,What do I have to do to wake up in the same bed as the Commander?
+c016_02_Outpost_Touch_3,"Hm? I'm not particularly embarrassed...
+... But I guess acting demure really does work after all."
+c016_02_Gacha_Get_1,"Hello, Commander.
+You look exhausted. Shall we get some rest together?"
+c016_02_Reinforce_1,"I will become stronger.
+For the sake of our future."
+c016_02_Reinforce_2,"For you, Commander,
+I can always grow stronger."
+c016_02_Reinforce_3,"Yes, I need to be stronger so I can keep up with you, Commander."
+c016_02_Gift_1,"I'll try acting demure, Commander. Will you tell me if you like it?"
+c016_02_Gift_2,"Commander, I've prepared a reward for you. Please come to my room tonight."
+c016_02_Gift_3,"Thank you, Commander.
+My reward for you... is myself."
+c016_02_Attractive_Up_1,"Commander. I...
+No. It's nothing."
+c016_02_Attractive_Up_2,"Sometimes I feel that as long as you're by my side, nothing else matters."
+c016_02_Attractive_Up_3,"I'll do my best to express my feelings
+to you more clearly, Commander."
+c016_02_Party_Deploy_1,"Do you prefer being outside?
+... That was a joke."
+c016_02_Field_Touch_1,"Yes, Commander."
+c016_02_Field_Go_1,Let's hurry. There is work to be done when we get back.
+c016_02_Battle_Enter_1,Encounter.
+c016_02_Battle_Ready_1,I'll finish this quickly.
+c016_02_Battle_Ready_2,Hopefully the Commander and I... Never mind.
+c016_02_Battle_Ready_3,Commander. Please wait a little longer.
+c016_02_Reload_1,I'm not being impatient.
+c016_02_Reload_2,I'm perfectly calm right now.
+c016_02_Reload_3,Reloading. Swiftly.
+c016_02_Ult_Skill_Ready_1,Commander. I'm all set.
+c016_02_Ult_Skill_1,I look forward to welcoming the morning with you.
+c016_02_FullBurst_1,Fire at will! Take them down quickly!
+c016_02_Kill_Monster_1,Target silenced. Redirecting fire.
+c016_02_Kill_Monster_2,Enemy neutralized.
+c016_02_Kill_Monster_3,Only a few enemies remain.
+c016_02_Damage_1,Ow!
+c016_02_Damage_2,... Ugh.
+c016_02_Damage_3,Ah...
+c016_02_Die_1,Forgive me. I'll rest first.
+c016_02_Win_1,"It's over. Now, let us rest together, Commander."
+c223_Lobby_Touch_1,"I am Nayuta, the fourth member of the Forerunners. I eagerly anticipate the privilege of working alongside thee."
+c223_Lobby_Touch_2,"Great Hero, thou standest within the very eye of the tempest. Take heed that thou lose not thy center, lest thou be swept away."
+c223_Lobby_Touch_3,"To think that fate hath brought us together. Truly, the threads of destiny are most enigmatic, are they not?"
+c223_Lobby_Touch_Love_1,"Haha. To think I should be so gladdened to stand by thy side. Truly, thou dost possess a talent both precious and perilous."
+c223_Lobby_Touch_Love_2,"Perchance I must set forth upon a far voyage once again. Yet for the present, I shall steadfastly remain by thy side."
+c223_Lobby_Touch_Love_3,"Thou, Great Hero, art now and forevermore the key of utmost import to all that must be done. Verily, 'tis prudent to care for thine own well-being."
+c223_Lobby_Stay_1,"I came to seek the Great Hero... Yet, it seems no soul is present. Pray, have I strayed upon a way most errant?"
+c223_Lobby_Stay_Love_1,"Haha. Thou art as busy as ever. I shall remain in quiet meditation. Return at thy leisure, when thy affairs be done."
+c223_Outpost_Touch_1,"Is this perchance the Great Hero's private paradise? Verily, a realm steeped in romance most profound."
+c223_Outpost_Touch_2,"This place is most wondrous, verily. Though vast it be, no matter the distance I traverse, my steps return me to where I began."
+c223_Outpost_Touch_3,"In every corner, affection for thee overfloweth, Great Hero. Thou art rich in virtue, and bear'st many a burden besides."
+c223_Gacha_Get_1,"To be summoned to partake in the Great Hero's journey, 'tis an honor most profound.
+I shall tread this path with an earnest heart,
+that the journey be not in vain."
+c223_Reinforce_1,I thank thee most sincerely for bestowing such care upon me.
+c223_Reinforce_2,Haha. Ne'er have I known such hospitality as this.
+c223_Reinforce_3,"Is this... the craft wrought by mankind's toil? Verily, I am filled with awe profound."
+c223_Gift_1,"Oh, that even one such as I should be thus gifted...! Truly, thou art a soul of vast magnanimity."
+c223_Gift_2,"To be thus honored by one so esteemed, I offer thee my deepest thanks."
+c223_Gift_3,"Haha. So this is how the Great Hero doth win the favor of fair maidens. Verily, it doth stir the heart with delight."
+c223_Attractive_Up_1,Art thou acquainted with the power of bonds divine? Methinks I do now experience their very essence.
+c223_Attractive_Up_2,To think my bond with Great Hero hath grown so deep... I grow afeared of the parting that may come one day.
+c223_Attractive_Up_3,"My trust in Great Hero hath surely grown profound. Pray tell, doth thy trust in me likewise deepen?"
+c223_Party_Deploy_1,"Since thou hast called upon me, I shall gladly accompany thee."
+c223_Field_Touch_1,Didst thou summon me?
+c223_Field_Go_1,Hmm... is this not the path?
+c223_Battle_Enter_1,"Ah, 'tis a meeting with the foe."
+c223_Battle_Ready_1,I know not if I shall prove of any aid.
+c223_Battle_Ready_2,Haha. Thy faith doth make me blush.
+c223_Battle_Ready_3,We face this foe with steadfast hearts.
+c223_Reload_1,After such fierce strife there must be rest.
+c223_Reload_2,"Art thou holding fast, Great Hero?"
+c223_Reload_3,Haste maketh folly of the task.
+c223_Ult_Skill_Ready_1,I stand prepared.
+c223_Ult_Skill_1,From torment freed I shall attain enlightenment.
+c223_FullBurst_1,A fair current seemeth to grace us.
+c223_Kill_Monster_1,Fare thee well.
+c223_Kill_Monster_2,Such sorrow it is.
+c223_Kill_Monster_3,I shall carry on.
+c223_Damage_1,Hm...
+c223_Damage_2,'Tis sore.
+c223_Damage_3,Alas...
+c223_Die_1,"Alas, it seemeth I can go no further.
+I pray thee forgive me that I could be of no aid."
+c223_Win_1,This place too hath been cleared. Now let us continue forth upon our journey.
+c262_Lobby_Touch_1,"I'm only with you right now for Mother's sake.
+Don't delude yourself into thinking I'm actually on your side."
+c262_Lobby_Touch_2,"There's a lot of noise around you, Human. But I like how quiet you are."
+c262_Lobby_Touch_3,*Yawn* It's strange. Being next to you makes me sleepy.
+c262_Lobby_Touch_Love_1,"You're quiet, Human. Like the deep sea.
+That's why being with you... isn't all that unpleasant."
+c262_Lobby_Touch_Love_2,"It's comfortable being next to you... which is dangerous.
+But I'll stay with you, for now."
+c262_Lobby_Touch_Love_3,"So long as you don't pose a threat to Mother, I'll let you live."
+c262_Lobby_Stay_1,"If we're not gonna do anything, I'd rather go somewhere else. It's too noisy here!"
+c262_Lobby_Stay_Love_1,"Don't talk to me, Human. I'm enjoying this silence.
+*Yawn* I think I might finally sleep soundly for once."
+c262_Outpost_Touch_1,It's a little noisy here but... it's not unbearable.
+c262_Outpost_Touch_2,"It's so peaceful here. This calm reminds me of you, Human."
+c262_Outpost_Touch_3,Hmm... not a bad place to just float around. I'm gonna take a catnap now.
+c262_Gacha_Get_1,"I'll look after you, Human... until your calm begins to falter."
+c262_Reinforce_1,I've gotten stronger... yet everything feels even more annoying now.
+c262_Reinforce_2,So this is... the humans' enhancement technology...
+c262_Reinforce_3,You want to see how strong I am? How troublesome...
+c262_Gift_1,These... must've been a hassle to get.
+c262_Gift_2,You want to see me happy? Why...?
+c262_Gift_3,"I can see right through your intentions, but nevertheless... I'm happy."
+c262_Attractive_Up_1,"Since you're not the annoying type, I'll stick by your side a little longer."
+c262_Attractive_Up_2,"I sleep like a baby whenever you're near. So stay by my side, Human."
+c262_Attractive_Up_3,"It's so strange, Human. I'm starting to like your tranquility more and more."
+c262_Party_Deploy_1,I'm feeling a little lazy... but I'll tag along.
+c262_Field_Touch_1,*Yawn*
+c262_Field_Go_1,Let's go.
+c262_Battle_Enter_1,"Ugh, what a hassle..."
+c262_Battle_Ready_1,Don't expect me to give it my all.
+c262_Battle_Ready_2,I'm taking a nap... you take charge.
+c262_Battle_Ready_3,"Ugh, I'm gonna get rid of anything that makes noise."
+c262_Reload_1,Ugh... I'm going back to sleep... Figure it out yourself.
+c262_Reload_2,Ugh... All right... Need a recharge.
+c262_Reload_3,Ugh... So annoying... Don't wake me up...
+c262_Ult_Skill_Ready_1,"Get ready, Human."
+c262_Ult_Skill_1,Hell has no fury like a woman awoken!
+c262_FullBurst_1,You're all getting on my nerves.
+c262_Kill_Monster_1,*Yawn*
+c262_Kill_Monster_2,"Yeah, yeah... Good job."
+c262_Kill_Monster_3,It's not over yet...
+c262_Damage_1,Ahh...
+c262_Damage_2,Leave me alone...
+c262_Damage_3,Ugh...
+c262_Die_1,That's enough for now. I'm tapped out.
+c262_Win_1,We've won. Happy now?
+c331_Lobby_Touch_1,"The number of citizens in the Crown Kingdom grows with each passing day.
+Is this not truly cause for great joy?"
+c331_Lobby_Touch_2,"Rapscallion!
+Do not argue with Her Highness!"
+c331_Lobby_Touch_3,"There's no need to worry.
+Our kingdom is forever safeguarded by Her Highness, verily."
+c331_Lobby_Touch_Love_1,"What's this? 
+Have you resolved to become the advisor to our kingdom at last?"
+c331_Lobby_Touch_Love_2,"If you come into our kingdom's fold, it would be most conveni... I mean, most pleasing indeed."
+c331_Lobby_Touch_Love_3,"Perhaps the day will come when we may impart unto you our sacred mission, Rapscallion."
+c331_Lobby_Stay_1,"Rapscallion...?!
+You vanished and left all manner of menial tasks in your wake!"
+c331_Lobby_Stay_Love_1,"Such matters are but a trifle for me.
+If you have business to attend to, see to it with haste."
+c331_Outpost_Touch_1,"Oh, 'tis in better shape than I had expected. 
+This place is rather nice."
+c331_Outpost_Touch_2,"I'll pass on the... Splendamin.
+I have brought my own sustenance."
+c331_Outpost_Touch_3,"There are many curiosities to be found here. 
+I shall purchase a gift to present to Her Highness."
+c331_Gacha_Get_1,"I am Chime, the sole and most capable royal aide of the Crown Kingdom! 
+Do well to remember this!"
+c331_Reinforce_1,"What is this strength? 
+Most wondrous it is."
+c331_Reinforce_2,"Haha! Verily, I am most capable indeed!"
+c331_Reinforce_3,I shall be able to lend even greater strength unto Her Highness and the Crown Kingdom.
+c331_Gift_1,"I shall receive it with gratitude, 
+but why bestow such a thing upon me so suddenly?"
+c331_Gift_2,This shall provide great aid to the kingdom's advancement. I will use it wisely.
+c331_Gift_3,"Such a brilliant subject you are!
+I will be sure to recount your deeds to Her Highness."
+c331_Attractive_Up_1,"What is this? 
+Are you flattering me in hopes of mere crumbs?"
+c331_Attractive_Up_2,"Hmm... the more I gaze upon you, the more I see what desirable talents you possess, Rapscallion."
+c331_Attractive_Up_3,"N-no matter what, Her Highness remains the most dear to me!
+You, Rapscallion... can occupy second place."
+c331_Party_Deploy_1,"At last, 'tis my turn to step up!"
+c331_Field_Touch_1,What is the matter?
+c331_Field_Go_1,"Very well, I shall go forth as commanded."
+c331_Battle_Enter_1,"Now, we proceed!"
+c331_Battle_Ready_1,"I shall lend my support, fear not!"
+c331_Battle_Ready_2,I shall move swiftly!
+c331_Battle_Ready_3,"I feel reassured with you here, Rapscallion."
+c331_Reload_1,"'Tis strange, doing this after so long."
+c331_Reload_2,Curse it... my magazine.
+c331_Reload_3,"M-my hand did slip, is all."
+c331_Ult_Skill_Ready_1,I stand ready!
+c331_Ult_Skill_1,Long live the Crown Kingdom! Hahaha!
+c331_FullBurst_1,I shall sweep away all in my path!
+c331_Kill_Monster_1,"Perish, scoundrels!"
+c331_Kill_Monster_2,Ugh! What a bother!
+c331_Kill_Monster_3,Begone!
+c331_Damage_1,Eek!
+c331_Damage_2,Ah!
+c331_Damage_3,Unghh!
+c331_Die_1,I'm sorry I could not offer more aid in battle...
+c331_Win_1,"Behold! What did I say?
+Did I not declare victory ours?"
+c470_02_Lobby_Touch_1,"What gorgeous weather! 
+Days like this are perfect for listening to music outside. Wanna come?"
+c470_02_Lobby_Touch_2,"Man, a cold beer would hit the spot right now. 
+Reckon there's anyone who'll drink with me?"
+c470_02_Lobby_Touch_3,"Wonder what the others are up to... 
+Hmm. Shall I give them a call?"
+c470_02_Lobby_Touch_Love_1,"Wow... it's so peaceful.
+Heh, never thought I'd say such a thing."
+c470_02_Lobby_Touch_Love_2,"Feels good, spending time like this with you, Handsome.
+This'll be a day I'll never forget."
+c470_02_Lobby_Touch_Love_3,"How about it, Handsome?
+Think we've gotten kinda close."
+c470_02_Lobby_Stay_1,"Ugh, being alone is so boring. 
+Guess I'll go pester Handsome for fun."
+c470_02_Lobby_Stay_Love_1,"Go on ahead, Handsome.
+I'll just enjoy this beautiful day and listen to some music. It's been a while."
+c470_02_Outpost_Touch_1,"Hmm, this is the perfect place for an afternoon drink...
+Oh, you heard that? Hehe, wanna join me, Handsome?"
+c470_02_Outpost_Touch_2,"This feels like a great place to live. 
+Almost makes me wanna bring everyone here."
+c470_02_Outpost_Touch_3,"I think we're done lookin' around here.
+Why don't we check out your room, Handsome?"
+c470_02_Gacha_Get_1,"Mind if impose once more, Handsome? 
+How about we listen to some music together?"
+c470_02_Reinforce_1,"Oh, wow. My body feels so much lighter."
+c470_02_Reinforce_2,"Where did you even get all this? Thanks, Handsome!"
+c470_02_Reinforce_3,"So, what can I do for you first? Just say the word, I've got you."
+c470_02_Gift_1,"Oh-ho, trying to charm me again?
+Hehe. Thanks."
+c470_02_Gift_2,"Need anything, Handsome? I'll buy it for you next time."
+c470_02_Gift_3,You're seriously giving me all this? Won't you be left with nothing?
+c470_02_Attractive_Up_1,"You're a good guy, Handsome. Always have been."
+c470_02_Attractive_Up_2,"Haha. Didn't think I'd get this attached.
+You're really making it hard to walk away."
+c470_02_Attractive_Up_3,I feel like I can entrust everything I hold dear to you.
+c470_02_Party_Deploy_1,Had enough rest? Let's move.
+c470_02_Field_Touch_1,Yeah. I'm listening.
+c470_02_Field_Go_1,"All right then, let's go!"
+c470_02_Battle_Enter_1,"Hehehe. Look who it is, scoundrels!"
+c470_02_Battle_Ready_1,Been a while since I had a proper fight!
+c470_02_Battle_Ready_2,Hehehe. My blood's pumping.
+c470_02_Battle_Ready_3,"Trust me, I'll crush them all."
+c470_02_Reload_1,Heh! Guess I forgot how this is done!
+c470_02_Reload_2,"Phew, no time for a breather at all."
+c470_02_Reload_3,Come on! One more round!
+c470_02_Ult_Skill_Ready_1,Handsome...!
+c470_02_Ult_Skill_1,"Ahh... Life was great, wasn't it?"
+c470_02_FullBurst_1,Hahaha. Let's hit the road running!
+c470_02_Kill_Monster_1,All right!
+c470_02_Kill_Monster_2,One down!
+c470_02_Kill_Monster_3,Next!
+c470_02_Damage_1,Damn it!
+c470_02_Damage_2,That hurts...
+c470_02_Damage_3,Look at that...
+c470_02_Die_1,"Heh, guess I've been slacking too much... My body feels stiff..."
+c470_02_Win_1,See? Told you everything would work out.
+c330_02_Lobby_Touch_1,"What do you think? 
+It's a new outfit Chime fashioned for me. Isn't it beautiful?"
+c330_02_Lobby_Touch_2,"A king must always remain signified before the people. 
+Ah, I mean dignified. That's the word, yes."
+c330_02_Lobby_Touch_3,"If the people so desire, it's only proper if a king be willing to change their outfit."
+c330_02_Lobby_Touch_Love_1,"I hope I can craft you an outfit befitting the Crown Kingdom's advisor one day. 
+O-of course, Chime would be the one to stitch it."
+c330_02_Lobby_Touch_Love_2,"Wherever you may be, and whatever garments you wear, 
+do not forget that you are a citizen of the Crown Kingdom."
+c330_02_Lobby_Touch_Love_3,"Chime's craftsmanship is truly remarkable. 
+Don't you feel the royal nobility radiating from every stitch?"
+c330_02_Lobby_Stay_1,"Go wherever you must. 
+I will be here admiring the outfit Chime created."
+c330_02_Lobby_Stay_Love_1,"Worry not.
+I shall remain here with Chime, looking for outfits that befit you."
+c330_02_Outpost_Touch_1,It warms my heart to know you are diligently caring for Crown Kingdom's second palace.
+c330_02_Outpost_Touch_2,"This place is still bright and full of happiness. 
+Truly a place led by the Crown Kingdom's advisor."
+c330_02_Outpost_Touch_3,"I came here to see the specially of this place, so please show me around.
+Oh, specialty, you say? W-well, you can show me those too!"
+c330_02_Gacha_Get_1,"With this new outfit and new mindset, 
+I shall once again be your king."
+c330_02_Reinforce_1,Your efforts will not be in vain.
+c330_02_Reinforce_2,"I shall repay you with superior governess... 
+Oh, governance? I-I knew that!"
+c330_02_Reinforce_3,Kings grow stronger the more faith is entrusted unto them.
+c330_02_Gift_1,"Your gift is much like ones given by Chime.
+It pleases me greatly."
+c330_02_Gift_2,I'm truly grateful... But how is this meant to be used?
+c330_02_Gift_3,"This gift goes wonderfully with this outfit. 
+Chime will surely be pleased."
+c330_02_Attractive_Up_1,"You are just like the outfit I am wearing. 
+Precious and noble."
+c330_02_Attractive_Up_2,"This is troubling.
+I find myself viewing you with favor."
+c330_02_Attractive_Up_3,"As your king, I shall serve as your greatest strength."
+c330_02_Party_Deploy_1,"It appears I'll be departing, dressed in my new outfit."
+c330_02_Field_Touch_1,Is there something you require?
+c330_02_Field_Go_1,Let us proceed with a renewed heart.
+c330_02_Battle_Enter_1,You are quite the troublemaker.
+c330_02_Battle_Ready_1,"I will protect you, regardless of my outfit."
+c330_02_Battle_Ready_2,"I'm sorry, Chime, but I must go and do battle."
+c330_02_Battle_Ready_3,I will do my best to keep my outfit clean.
+c330_02_Reload_1,"This outfit is comfortable, even for battle."
+c330_02_Reload_2,Were you observing this valiant king from behind?
+c330_02_Reload_3,Are you less tense now?
+c330_02_Ult_Skill_Ready_1,The time has come.
+c330_02_Ult_Skill_1,Behold the strength born of my people's affection!
+c330_02_FullBurst_1,Good. Carry on just so!
+c330_02_Kill_Monster_1,Let's push further.
+c330_02_Kill_Monster_2,Come here.
+c330_02_Kill_Monster_3,Let's proceed to the next.
+c330_02_Damage_1,Uh.
+c330_02_Damage_2,No... My outfit...!
+c330_02_Damage_3,Oof!
+c330_02_Die_1,I shall retreat for now. I am truly sorry... both to you and to Chime.
+c330_02_Win_1,What do you think? Can you now feel the dignity befitting a king?
+c223_01_Lobby_Touch_1,"To triumph, I shall do whatsoever must be done.
+The burden of sin is one which I shall bear alone."
+c223_01_Lobby_Touch_2,"Dost mine present visage strike thee as peculiar?
+Ha... even I find it so."
+c223_01_Lobby_Touch_3,"Within this vessel of mine, the voices of the multitude of mine own likeness do proclaim.
+Their aspirations and aims must needs be fulfilled."
+c223_01_Lobby_Touch_Love_1,"One day, Great Hero, may thou behold a realm replete with lofty edifices and innumerable chariots, a world vibrant with the melodies of human narratives."
+c223_01_Lobby_Touch_Love_2,"Though sin be laid upon me by all, I shall yet endeavor to restore the world unto the tranquility it once knew."
+c223_01_Lobby_Touch_Love_3,"The hopes, tears, ire, and remorse of the multitude of mine own souls flow through this vessel. Thus, failure is naught but forbidden."
+c223_01_Lobby_Stay_1,"Ah... It seemeth thou art much occupied once more this day.
+'Tis no matter. I too must needs attend to mine own affairs."
+c223_01_Lobby_Stay_Love_1,"Verily the Great Hero hath cause for his busyness.
+I shall remain here, presiding over the multitude likenesses of mine own self."
+c223_01_Outpost_Touch_1,"This place doth bring to mind a time of yore, when peace did reign.
+Indeed, 'tis a most wondrous place."
+c223_01_Outpost_Touch_2,"I pray that, one day, Great Hero, thy paradise may stretch forth unto this very surface."
+c223_01_Outpost_Touch_3,"Hark! Though I inhabit this body, this place remaineth most perplexing.
+Though I walk and walk, still doth the way elude me."
+c223_01_Gacha_Get_1,"Upon the Great Hero's arduous path, we shall accompany thee, that thou mayest attain all that thou dost desire."
+c223_01_Reinforce_1,"I am ever grateful for your sincerity, Great Hero."
+c223_01_Reinforce_2,I feel greatly honored to be thus bestowed with the highest regard.
+c223_01_Reinforce_3,Thou hast toiled greatly to amass so many treasures.
+c223_01_Gift_1,"How could I refuse such a gift so thoughtfully prepared?
+With much thanks, I shall accept it."
+c223_01_Gift_2,Thy regard doth humble me.
+c223_01_Gift_3,"Once more this day, I stand in awe of the depth of thy kindness."
+c223_01_Attractive_Up_1,"Strange indeed are the threads of fate...
+That which I once deemed but a fleeting breeze hath burgeoned into a raging tempest."
+c223_01_Attractive_Up_2,"Great Hero, I long to behold thee for many a day.
+To gaze upon thy visage would bestow unbounded joy."
+c223_01_Attractive_Up_3,"That this sacred bond betwixt thee and me endure, the multitude of mine own likeness shall endeavor."
+c223_01_Party_Deploy_1,The multitude stand ready.
+c223_01_Field_Touch_1,Speak thy will.
+c223_01_Field_Go_1,Art thou sure 'tis to that place I must go?
+c223_01_Battle_Enter_1,A new encounter draweth nigh.
+c223_01_Battle_Ready_1,'Tis now the turn of the multitude.
+c223_01_Battle_Ready_2,I know not if I can restrain my strength.
+c223_01_Battle_Ready_3,"I will prevail, without fail."
+c223_01_Reload_1,A short reprieve before I journey forth.
+c223_01_Reload_2,How art thou? Canst thou endure?
+c223_01_Reload_3,Excess oft begets naught but harm.
+c223_01_Ult_Skill_Ready_1,Great Hero.
+c223_01_Ult_Skill_1,"With all sins laid upon me, forward shall I press."
+c223_01_FullBurst_1,"Now. With all my might, onward."
+c223_01_Kill_Monster_1,To the next we shall advance.
+c223_01_Kill_Monster_2,This tide doth run most agreeable.
+c223_01_Kill_Monster_3,I shall persist forthwith.
+c223_01_Damage_1,Ow!
+c223_01_Damage_2,'Tis painful.
+c223_01_Damage_3,'Tis ill.
+c223_01_Die_1,"Alas, I triumphed not...
+Forgive me, Great Hero."
+c223_01_Win_1,"Hath this sufficed to aid thee in thy journey, Great Hero?"

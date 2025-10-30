@@ -227,6 +227,12 @@ bgmcollction20_step_14,An Anthem That Resounds Through Heaven and Earth XIV
 bgmcollction20_step_15,An Anthem That Resounds Through Heaven and Earth XV
 bgmcollction20_step_16,An Anthem That Resounds Through Heaven and Earth XVI
 bgmcollction20_step_17,An Anthem That Resounds Through Heaven and Earth XVII
+bgmcollction20_step_18,An Anthem That Resounds Through Heaven and Earth XVIII
+bgmcollction20_step_19,An Anthem That Resounds Through Heaven and Earth XIX
+bgmcollction20_step_20,An Anthem That Resounds Through Heaven and Earth XX
+bgmcollction20_step_21,An Anthem That Resounds Through Heaven and Earth XXI
+bgmcollction20_step_22,An Anthem That Resounds Through Heaven and Earth XXII
+bgmcollction20_step_23,An Anthem That Resounds Through Heaven and Earth XXIII
 bgmcollction_description_1,Collect {0} piece(s) of {Locale_Bgm.bgm_theme_menu_01} BGM
 bgmcollction_description_2,Collect {0} piece(s) of {Locale_Bgm.bgm_theme_lostsector_01} BGM
 bgmcollction_description_3,Collect {0} piece(s) of {Locale_Bgm.bgm_theme_story_01} BGM
@@ -379,6 +385,8 @@ trigger_desc_EventRopeRunningRewardCheck,Obtain daily rewards in MADE IN RUSH
 trigger_desc_ObtainEventCurrencyMaterialCIR,Obtain {0} Intel List(s)
 trigger_desc_EventMiniGameCE007RewardCheck,Obtain daily rewards in Salvation Breakers
 trigger_desc_ObtainEventCurrencyMaterialCE007,Obtain {0} Mixed Herbs
+trigger_desc_EventMiniGameREPlayCheck,Play REBUILD: EDEN {0} time(s)
+trigger_desc_ObtainEventCurrencyMaterialGF,Earn {0} Eden Point(s)
 trigger_desc_ChapterClear,Clear Chapter {0}
 trigger_desc_ChapterClear_1,Clear Chapter 1
 trigger_desc_ChapterClear_2,Clear Chapter 2
@@ -420,6 +428,8 @@ trigger_desc_ChapterClear_37,Clear Chapter 37
 trigger_desc_ChapterClear_38,Clear Chapter 38
 trigger_desc_ChapterClear_39,Clear Chapter 39
 trigger_desc_ChapterClear_40,Clear Chapter 40
+trigger_desc_ChapterClear_41,Clear Chapter 41
+trigger_desc_ChapterClear_42,Clear Chapter 42
 trigger_desc_HardChapterClear_1,Clear Hard Chapter 0
 trigger_desc_HardChapterClear_2,Clear Hard Chapter 1
 trigger_desc_HardChapterClear_3,Clear Hard Chapter 2
@@ -461,6 +471,8 @@ trigger_desc_HardChapterClear_38,Clear Hard Chapter 37
 trigger_desc_HardChapterClear_39,Clear Hard Chapter 38
 trigger_desc_HardChapterClear_40,Clear Hard Chapter 39
 trigger_desc_HardChapterClear_41,Clear Hard Chapter 40
+trigger_desc_HardChapterClear_42,Clear Hard Chapter 41
+trigger_desc_HardChapterClear_43,Clear Hard Chapter 42
 trigger_desc_TowerBasicClear,Clear Floor {0} of the Tribe Tower
 trigger_desc_TowerBasicClear_10001,Clear Floor 1 of the Tribe Tower
 trigger_desc_TowerBasicClear_10002,Clear Floor 2 of the Tribe Tower
@@ -596,6 +608,16 @@ trigger_desc_TowerBasicClear_11120,Clear Floor 1120 of the Tribe Tower
 trigger_desc_TowerBasicClear_11130,Clear Floor 1130 of the Tribe Tower
 trigger_desc_TowerBasicClear_11140,Clear Floor 1140 of the Tribe Tower
 trigger_desc_TowerBasicClear_11150,Clear Floor 1150 of the Tribe Tower
+trigger_desc_TowerBasicClear_11160,Clear Floor 1160 of the Tribe Tower
+trigger_desc_TowerBasicClear_11170,Clear Floor 1170 of the Tribe Tower
+trigger_desc_TowerBasicClear_11180,Clear Floor 1180 of the Tribe Tower
+trigger_desc_TowerBasicClear_11190,Clear Floor 1190 of the Tribe Tower
+trigger_desc_TowerBasicClear_11200,Clear Floor 1200 of the Tribe Tower
+trigger_desc_TowerBasicClear_11210,Clear Floor 1210 of the Tribe Tower
+trigger_desc_TowerBasicClear_11220,Clear Floor 1220 of the Tribe Tower
+trigger_desc_TowerBasicClear_11230,Clear Floor 1230 of the Tribe Tower
+trigger_desc_TowerBasicClear_11240,Clear Floor 1240 of the Tribe Tower
+trigger_desc_TowerBasicClear_11250,Clear Floor 1250 of the Tribe Tower
 trigger_desc_TowerElysionClear_20005,Clear Floor 5 of the Elysion Tower
 trigger_desc_TowerElysionClear_20010,Clear Floor 10 of the Elysion Tower
 trigger_desc_TowerElysionClear_20015,Clear Floor 15 of the Elysion Tower
@@ -703,6 +725,16 @@ trigger_desc_TowerElysionClear_21020,Clear Floor 1020 of the Elysion Tower
 trigger_desc_TowerElysionClear_21030,Clear Floor 1030 of the Elysion Tower
 trigger_desc_TowerElysionClear_21040,Clear Floor 1040 of the Elysion Tower
 trigger_desc_TowerElysionClear_21050,Clear Floor 1050 of the Elysion Tower
+trigger_desc_TowerElysionClear_21060,Clear Floor 1060 of the Elysion Tower
+trigger_desc_TowerElysionClear_21070,Clear Floor 1070 of the Elysion Tower
+trigger_desc_TowerElysionClear_21080,Clear Floor 1080 of the Elysion Tower
+trigger_desc_TowerElysionClear_21090,Clear Floor 1090 of the Elysion Tower
+trigger_desc_TowerElysionClear_21100,Clear Floor 1100 of the Elysion Tower
+trigger_desc_TowerElysionClear_21110,Clear Floor 1110 of the Elysion Tower
+trigger_desc_TowerElysionClear_21120,Clear Floor 1120 of the Elysion Tower
+trigger_desc_TowerElysionClear_21130,Clear Floor 1130 of the Elysion Tower
+trigger_desc_TowerElysionClear_21140,Clear Floor 1140 of the Elysion Tower
+trigger_desc_TowerElysionClear_21150,Clear Floor 1150 of the Elysion Tower
 trigger_desc_TowerMissilisClear_30005,Clear Floor 5 of the Missilis Tower
 trigger_desc_TowerMissilisClear_30010,Clear Floor 10 of the Missilis Tower
 trigger_desc_TowerMissilisClear_30015,Clear Floor 15 of the Missilis Tower
@@ -810,6 +842,16 @@ trigger_desc_TowerMissilisClear_31020,Clear Floor 1020 of the Missilis Tower
 trigger_desc_TowerMissilisClear_31030,Clear Floor 1030 of the Missilis Tower
 trigger_desc_TowerMissilisClear_31040,Clear Floor 1040 of the Missilis Tower
 trigger_desc_TowerMissilisClear_31050,Clear Floor 1050 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31060,Clear Floor 1060 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31070,Clear Floor 1070 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31080,Clear Floor 1080 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31090,Clear Floor 1090 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31100,Clear Floor 1100 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31110,Clear Floor 1110 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31120,Clear Floor 1120 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31130,Clear Floor 1130 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31140,Clear Floor 1140 of the Missilis Tower
+trigger_desc_TowerMissilisClear_31150,Clear Floor 1150 of the Missilis Tower
 trigger_desc_TowerTetraClear_40005,Clear Floor 5 of the Tetra Tower
 trigger_desc_TowerTetraClear_40010,Clear Floor 10 of the Tetra Tower
 trigger_desc_TowerTetraClear_40015,Clear Floor 15 of the Tetra Tower
@@ -917,6 +959,16 @@ trigger_desc_TowerTetraClear_41020,Clear Floor 1020 of the Tetra Tower
 trigger_desc_TowerTetraClear_41030,Clear Floor 1030 of the Tetra Tower
 trigger_desc_TowerTetraClear_41040,Clear Floor 1040 of the Tetra Tower
 trigger_desc_TowerTetraClear_41050,Clear Floor 1050 of the Tetra Tower
+trigger_desc_TowerTetraClear_41060,Clear Floor 1060 of the Tetra Tower
+trigger_desc_TowerTetraClear_41070,Clear Floor 1070 of the Tetra Tower
+trigger_desc_TowerTetraClear_41080,Clear Floor 1080 of the Tetra Tower
+trigger_desc_TowerTetraClear_41090,Clear Floor 1090 of the Tetra Tower
+trigger_desc_TowerTetraClear_41100,Clear Floor 1100 of the Tetra Tower
+trigger_desc_TowerTetraClear_41110,Clear Floor 1110 of the Tetra Tower
+trigger_desc_TowerTetraClear_41120,Clear Floor 1120 of the Tetra Tower
+trigger_desc_TowerTetraClear_41130,Clear Floor 1130 of the Tetra Tower
+trigger_desc_TowerTetraClear_41140,Clear Floor 1140 of the Tetra Tower
+trigger_desc_TowerTetraClear_41150,Clear Floor 1150 of the Tetra Tower
 trigger_desc_TowerPilgrimClear_50005,Clear Floor 5 of the Pilgrim Tower
 trigger_desc_TowerPilgrimClear_50010,Clear Floor 10 of the Pilgrim Tower
 trigger_desc_TowerPilgrimClear_50015,Clear Floor 15 of the Pilgrim Tower
@@ -1101,6 +1153,16 @@ trigger_desc_TowerPilgrimOverspecClear_51020,Clear Floor 1020 of the Pilgrim/Ove
 trigger_desc_TowerPilgrimOverspecClear_51030,Clear Floor 1030 of the Pilgrim/Over-spec Tower
 trigger_desc_TowerPilgrimOverspecClear_51040,Clear Floor 1040 of the Pilgrim/Over-spec Tower
 trigger_desc_TowerPilgrimOverspecClear_51050,Clear Floor 1050 of the Pilgrim/Over-spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51060,Clear Floor 1060 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51070,Clear Floor 1070 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51080,Clear Floor 1080 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51090,Clear Floor 1090 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51100,Clear Floor 1100 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51110,Clear Floor 1110 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51120,Clear Floor 1120 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51130,Clear Floor 1130 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51140,Clear Floor 1140 of the Pilgrim/Over-Spec Tower
+trigger_desc_TowerPilgrimOverspecClear_51150,Clear Floor 1150 of the Pilgrim/Over-Spec Tower
 trigger_desc_CampaignClear_6007039,Clear Stage 7-24
 trigger_desc_LostSectorClear_1,Clear Sector 1 in Lost Sector
 trigger_desc_LostSectorClear_2,Clear Sector 2 in Lost Sector

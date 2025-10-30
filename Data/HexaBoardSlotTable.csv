@@ -1,0 +1,14 @@
+id,slot_lock,lock_group,currency_id,currency_value,hexaboardslotnumberdata/0/slot_no,hexaboardslotnumberdata/1/slot_no,hexaboardslotnumberdata/2/slot_no,hexaboardslotnumberdata/3/slot_no,hexaboardslotnumberdata/4/slot_no,hexaboardslotnumberdata/5/slot_no,hexaboardslotnumberdata/6/slot_no,hexaboardslotnumberdata/7/slot_no,hexaboardslotnumberdata/8/slot_no,hexaboardslotnumberdata/9/slot_no
+1,False,0,0,0,1,2,3,4,5,0,0,0,0,0
+2,False,0,0,0,6,7,8,9,10,0,0,0,0,0
+3,False,0,0,0,12,14,15,16,18,0,0,0,0,0
+4,True,1,15000,6,13,29,30,0,0,0,0,0,0,0
+5,True,2,15000,12,19,20,21,0,0,0,0,0,0,0
+6,True,3,15000,45,17,32,33,0,0,0,0,0,0,0
+7,True,4,15000,45,11,23,24,0,0,0,0,0,0,0
+8,True,5,15000,135,26,27,28,0,0,0,0,0,0,0
+9,True,6,15000,135,35,36,37,0,0,0,0,0,0,0
+10,True,7,15000,135,31,42,43,0,0,0,0,0,0,0
+11,True,8,15000,300,22,38,39,0,0,0,0,0,0,0
+12,True,9,15000,300,25,40,41,0,0,0,0,0,0,0
+13,True,10,15000,300,34,44,45,0,0,0,0,0,0,0

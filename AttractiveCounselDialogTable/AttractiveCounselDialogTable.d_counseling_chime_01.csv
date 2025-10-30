@@ -1,0 +1,10 @@
+d_counseling_chime_01_1,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_1,True,Desert_02,,,,,,XXS_10,XXS_10,0,,bgm_story_backtonormal,,None,None,,chime,,1,idle,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_2,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_2,True,,,,,,,XXS_10,XXS_10,0,,,,None,None,,,,1,idle,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_3,d_counseling_chime_01,,Choice,100,chime,,Locale_Counseling:d_counseling_chime_01_3,False,,,,,,,XXS_10,XXS_10,0,,,,None,None,d_counseling_chime_01_5,,,1,idle,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_4,d_counseling_chime_01,,Choice,120,chime,,Locale_Counseling:d_counseling_chime_01_4,False,,,,,,,XXS_10,XXS_10,0,,,,None,None,d_counseling_chime_01_8,,,1,idle,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_5,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_5,True,,,,,,,XXS_10,XXS_100,0,,,,None,None,,,,1,angry,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_6,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_6,True,,,,,,,XXS_100,XXS_100,0,,,,None,None,,,,1,angry,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_7,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_7,True,,,,,,,XXS_100,XXS_100,0,,,,None,None,d_counseling_chime_01_10,,,1,angry,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_8,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_8,True,,,,,,,XXS_10,XXS_100,0,,,,None,None,,,,1,smile,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_9,d_counseling_chime_01,,Speech,0,chime,chime,Locale_Counseling:d_counseling_chime_01_9,True,,,,,,,XXS_100,XXS_100,0,,,,None,None,d_counseling_chime_01_10,,,1,smile,,,,,,,,,,,,,,,,,,,,False,,,,False
+d_counseling_chime_01_10,d_counseling_chime_01,,Narration,0,chime,,Locale_Counseling:d_counseling_chime_01_10,False,none,,,,,,XXS_100,XXS_100,0,,,,None,None,,,chime,1,idle,,,,,,,,,,,,,,,,,,,,False,,,,False

@@ -76,6 +76,13 @@ id,group_id,usage_type,slot,table_reference_type,resource_id,costume_index,scena
 10261101,102611,Squad,3,CharacterTable,30,0,,10261101
 10261201,102612,Squad,3,CharacterTable,32,0,,10261201
 10261301,102613,Squad,3,CharacterTable,43,2,,10261301
+10271101,102711,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271101
+10271201,102712,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271201
+10271301,102713,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271301
+10271401,102714,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271401
+10271501,102715,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271501
+10271601,102716,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271601
+10271701,102717,Squad,3,ScenarioCharacterSettingTable,0,-1,goddessfall_field_squad,10271701
 1999101,19991,Squad,3,ScenarioCharacterSettingTable,0,-1,rapi,1999101
 1999201,19992,RoamingNPC,0,CharacterTable,11,-1,,0
 1999202,19992,RoamingNPC,0,ScenarioCharacterSettingTable,0,-1,marian,0

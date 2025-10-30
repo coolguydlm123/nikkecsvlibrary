@@ -1,0 +1,14 @@
+id,tier,category,resource_id,locale_name,locale_desc,max_amount,unlock_condition,unlock_value,unlock_hint,creatable_groupid,effect_type,effect_value,requirement_build_level,create_time,create_amount,requirement_setting/0/requirement_item_id,requirement_setting/0/requirement_item_amount,requirement_setting/1/requirement_item_id,requirement_setting/1/requirement_item_amount
+1101,1,Material,rebuildEden_icn_material_01,Locale_Event:rebe_Item_name_01,Locale_Event:rebe_Item_desc_01,999999,None,0,0,0,None,0,0,300,1,0,0,0,0
+1102,1,Material,rebuildEden_icn_material_02,Locale_Event:rebe_Item_name_02,Locale_Event:rebe_Item_desc_02,999999,None,0,0,0,None,0,0,500,1,0,0,0,0
+1103,1,Material,rebuildEden_icn_material_04,Locale_Event:rebe_Item_name_03,Locale_Event:rebe_Item_desc_03,999999,None,0,0,0,None,0,0,500,1,0,0,0,0
+5001,1,Equipment,rebuildeden_Icon_item_01,Locale_Event:rebe_Item_name_04_a,Locale_Event:rebe_Item_desc_04,999999,None,0,0,1,AddDispatchSuccessProbability,500,0,300,1,1101,50,0,0
+5002,1,Equipment,rebuildeden_Icon_item_01_b,Locale_Event:rebe_Item_name_04_b,Locale_Event:rebe_Item_desc_04,999999,None,0,0,1,AddDispatchResourcePercentage,500,0,300,1,1101,50,0,0
+5003,2,Equipment,rebuildeden_Icon_item_02,Locale_Event:rebe_Item_name_05_a,Locale_Event:rebe_Item_desc_05,999999,MainQuest,701,Locale_Event:rebe_Item_Hint_01,1,AddDispatchSuccessProbability,700,0,500,1,1101,350,0,0
+5004,2,Equipment,rebuildeden_Icon_item_02_b,Locale_Event:rebe_Item_name_05_b,Locale_Event:rebe_Item_desc_05,999999,MainQuest,701,Locale_Event:rebe_Item_Hint_01,1,AddDispatchResourcePercentage,1000,0,500,1,1101,350,0,0
+5005,3,Equipment,rebuildeden_Icon_item_03,Locale_Event:rebe_Item_name_06_a,Locale_Event:rebe_Item_desc_06,999999,MainQuest,901,Locale_Event:rebe_Item_Hint_02,1,AddDispatchSuccessProbability,1000,0,1000,1,1101,600,0,0
+5006,3,Equipment,rebuildeden_Icon_item_03_b,Locale_Event:rebe_Item_name_06_b,Locale_Event:rebe_Item_desc_06,999999,MainQuest,901,Locale_Event:rebe_Item_Hint_02,1,AddDispatchResourcePercentage,1500,0,1000,1,1101,600,0,0
+5007,4,Equipment,rebuildeden_Icon_item_04,Locale_Event:rebe_Item_name_07_a,Locale_Event:rebe_Item_desc_07,999999,MainQuest,1401,Locale_Event:rebe_Item_Hint_03,1,AddDispatchSuccessProbability,1300,0,2500,1,1101,1200,0,0
+5008,4,Equipment,rebuildeden_Icon_item_04_b,Locale_Event:rebe_Item_name_07_b,Locale_Event:rebe_Item_desc_07,999999,MainQuest,1401,Locale_Event:rebe_Item_Hint_03,1,AddDispatchResourcePercentage,2000,0,2500,1,1101,1200,0,0
+5009,5,Equipment,rebuildeden_Icon_item_05,Locale_Event:rebe_Item_name_08_a,Locale_Event:rebe_Item_desc_08,999999,MainQuest,1701,Locale_Event:rebe_Item_Hint_04,1,AddDispatchSuccessProbability,1700,0,4000,1,1101,2000,0,0
+5010,5,Equipment,rebuildeden_Icon_item_05_b,Locale_Event:rebe_Item_name_08_b,Locale_Event:rebe_Item_desc_08,999999,MainQuest,1701,Locale_Event:rebe_Item_Hint_04,1,AddDispatchResourcePercentage,3000,0,4000,1,1101,2000,0,0

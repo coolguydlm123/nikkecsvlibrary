@@ -239,3 +239,11 @@ id,preset_group_id,difficulty_type,quick_battle_type,character_lv,wave_open_cond
 10030006,10030,Common,StageClear,0,10030005,6,6703001,185,0,184,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641306,3641206
 10030007,10030,Common,StageClear,0,10030006,7,6703001,200,0,195,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,3641307,3641207
 10030008,10030,Trial,StageClear,400,10030007,8,6703002,390,904,400,1,True,Locale_System:bbg009_bh_psid_name,Locale_System:bbg009_bh_psid_description,si_bbg009_bh_psid,full_bbg009_bh_psid,0,0
+10031001,10031,Common,StageClear,0,0,1,6703101,45,0,54,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641301,3641201
+10031002,10031,Common,StageClear,0,10031001,2,6703101,85,0,92,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641302,3641202
+10031003,10031,Common,StageClear,0,10031002,3,6703101,120,0,125,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641303,3641203
+10031004,10031,Common,StageClear,0,10031003,4,6703101,145,0,142,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641304,3641204
+10031005,10031,Common,StageClear,0,10031004,5,6703101,175,0,169,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641305,3641205
+10031006,10031,Common,StageClear,0,10031005,6,6703101,185,0,184,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641306,3641206
+10031007,10031,Common,StageClear,0,10031006,7,6703101,200,0,195,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641307,3641207
+10031008,10031,Trial,StageClear,400,10031007,8,6703102,390,904,400,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,0,0

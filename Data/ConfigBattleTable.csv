@@ -8,6 +8,7 @@ token_statup_value,3000
 squad_encounter_range,500
 squad_assistsquad_encounter_range,300
 squad_move_speed,1000
+storymode_squad_move_speed,1500
 field_squad_chase_speed,0.6
 soft_object_hp,100
 soft_object_def,0
@@ -134,5 +135,5 @@ spot_effect_fix,49
 spot_effect_fix_option,True
 cooperation_kick_popup_condition_time,30
 cooperation_kick_popup_remain_time,10
-cooperation_kick_popup_count,3
+cooperation_kick_popup_count,2
 RLV2SwitchDelayTime,20

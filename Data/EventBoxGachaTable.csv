@@ -25,3 +25,5 @@ id,event_id,name,description,on_info,info_description,event_item_type,free_ticke
 24,160024,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,0,7061032,24,1,24,24,base_gacha_type_costume_c016_01,base_gacha_type_costume_c016_01,268596
 25,160025,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,0,7061033,25,1,25,25,base_gacha_type_costume_c272_01,base_gacha_type_costume_c272_01,FFDA8D
 26,160026,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,0,7061034,26,1,26,26,base_gacha_type_costume_c043_02,base_gacha_type_costume_c043_02,F6F6F6
+27,160027,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,7061036,7061035,27,1,27,27,base_gacha_type_costume_c470_02,base_gacha_type_costume_c470_02,FF934C
+28,160028,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,7061038,7061037,28,1,28,28,base_gacha_type_costume_c223_01,base_gacha_type_costume_c223_01,E7DFFF

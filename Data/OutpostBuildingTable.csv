@@ -32,4 +32,4 @@ id,resource_group_id,building_lv,init_building_slot,category,display_category,ca
 23301,23301,1,9,AmusementPark,Welfare,Locale_Outpost:200_building_type,23300,0,None,0,0,0,None,None,0,None,0,None,0,0,None,0,0,None,0,0,None,0,0,None,None,0,,,None,None,0,,,None,None,0,,
 23401,23401,1,8,OutdoorPool,Welfare,Locale_Outpost:200_building_type,23400,0,None,0,0,0,None,None,0,None,0,None,0,0,None,0,0,None,0,0,None,0,0,None,None,0,,,None,None,0,,,None,None,0,,
 23501,23501,1,10,FlowerPark,Welfare,Locale_Outpost:200_building_type,23500,0,None,0,0,0,None,None,0,None,0,None,0,0,None,0,0,None,0,0,None,0,0,None,None,0,,,None,None,0,,,None,None,0,,
-33601,33602,1,38,EventBuilding01,Welfare,Locale_Outpost:200_building_type,33600,0,None,0,0,0,None,None,0,None,0,None,0,0,None,0,0,None,0,0,None,0,0,None,None,0,,,None,None,0,,,None,None,0,,
+33601,33603,1,38,HexaCode,Welfare,Locale_Outpost:200_building_type,33600,0,None,0,0,0,HexaCode,None,0,None,0,None,0,0,None,0,0,None,0,0,None,0,0,None,None,0,,,None,None,0,,,None,None,0,,

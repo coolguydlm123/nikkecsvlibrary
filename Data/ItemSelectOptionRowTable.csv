@@ -63,6 +63,9 @@ id,group_id,order,select_type,select_id,select_value
 4001,4,1,Character,159001,1
 4002,4,2,Character,136101,1
 4003,4,3,Character,339201,1
+5001,5,1,Character,433101,1
+5002,5,2,Character,422601,1
+5003,5,3,Character,422401,1
 1002001,1002,1,Character,141101,1
 1002002,1002,2,Character,324001,1
 1002003,1002,3,Character,258001,1

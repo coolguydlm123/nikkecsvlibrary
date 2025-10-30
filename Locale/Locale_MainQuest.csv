@@ -17,6 +17,9 @@ condition_ui_localkey_baddream,Ephialtes
 condition_ui_localkey_practiceroom,Practice Room
 condition_ui_localkey_tetraline,Tetra Line Headquarters
 condition_ui_localkey_hiddenroom,Hidden Room
+condition_ui_localkey_levelp,LEVEL. P
+condition_ui_localkey_laboratory,Laboratory
+condition_ui_localkey_outerrimwall,Outer Rim Partition
 main_quest_name_localkey_1,Clear Stage 0-1
 main_quest_name_localkey_2,Clear Stage 0-2
 main_quest_name_localkey_3,Clear Stage 0-3
@@ -503,6 +506,38 @@ main_quest_name_localkey_483,Go to the Tetra Line Headquarters in the Ark
 main_quest_name_localkey_484,Go to the Outpost
 main_quest_name_localkey_485,Go to the Practice Room in the Ark
 main_quest_name_localkey_486,Go to the Lobby
+main_quest_name_localkey_487,Clear Stage 41-1
+main_quest_name_localkey_488,Clear Stage 41-4
+main_quest_name_localkey_489,Clear Stage 41-14
+main_quest_name_localkey_490,Clear Stage 41-17
+main_quest_name_localkey_491,Clear Stage 41-20
+main_quest_name_localkey_492,Clear Stage 41-25
+main_quest_name_localkey_493,Clear Stage 41-28
+main_quest_name_localkey_494,Clear Stage 41-34
+main_quest_name_localkey_495,Clear Stage 41-40
+main_quest_name_localkey_496,Go to the Lobby
+main_quest_name_localkey_497,Go to the Ark
+main_quest_name_localkey_498,Go to Level. P in the Ark
+main_quest_name_localkey_499,Go to the Laboratory in the Ark
+main_quest_name_localkey_500,Go to the Outer Rim of the Ark
+main_quest_name_localkey_501,Go to the Downtown Area in the Ark
+main_quest_name_localkey_502,Go to the Lobby
+main_quest_name_localkey_503,Clear Stage 42-3
+main_quest_name_localkey_504,Clear Stage 42-10
+main_quest_name_localkey_505,Clear Stage 42-13
+main_quest_name_localkey_506,Clear Stage 42-23
+main_quest_name_localkey_507,Clear Stage 42-29
+main_quest_name_localkey_508,Clear Stage 42-37
+main_quest_name_localkey_509,Clear Stage 42-44
+main_quest_name_localkey_510,Go to the Lobby
+main_quest_name_localkey_511,Go to the Outer Rim of the Ark
+main_quest_name_localkey_512,Go to the Downtown Area in the Ark
+main_quest_name_localkey_513,Go to the Outer Rim Partition in the Ark
+main_quest_name_localkey_514,Go to the Outer Rim of the Ark
+main_quest_name_localkey_515,Go to the Tetra Line Headquarters in the Ark
+main_quest_name_localkey_516,Go to the Surface
+main_quest_name_localkey_517,Go to the Lobby
+main_quest_name_localkey_518,Go to the Outpost
 main_quest_name_localkey_9999,To Be Next Time
 main_quest_description_localkey_1,First Contact
 main_quest_description_localkey_1_a,First Contact: A
@@ -1256,4 +1291,38 @@ main_quest_description_localkey_483,Seekers of the Star
 main_quest_description_localkey_484,The Voices that Reach the Star
 main_quest_description_localkey_485,To Do It Right
 main_quest_description_localkey_486,Legendary Producer
+main_quest_description_localkey_487,The Fourth Beast
+main_quest_description_localkey_488,Unexpected Rescue
+main_quest_description_localkey_489,No Conversation
+main_quest_description_localkey_490,The Meaning of Coexistence
+main_quest_description_localkey_491,Something Remarkable
+main_quest_description_localkey_492,Head-on Confrontation
+main_quest_description_localkey_493,Familiar Voice
+main_quest_description_localkey_494,Birth
+main_quest_description_localkey_495,What Was Born
+main_quest_description_localkey_496,Baby Star
+main_quest_description_localkey_497,Smile Box
+main_quest_description_localkey_498,In the Depths of Darkness
+main_quest_description_localkey_499,Glasses and Keys
+main_quest_description_localkey_500,Chasing the Tail
+main_quest_description_localkey_501,Second Terrorist Attack
+main_quest_description_localkey_502,A Strange Scene
+main_quest_description_localkey_503,The Dark Girl
+main_quest_description_localkey_504,The Four Beasts' Queen
+main_quest_description_localkey_505,Recurrence
+main_quest_description_localkey_506,My Lantern
+main_quest_description_localkey_507,Another Attempt
+main_quest_description_localkey_508,Coordinated Operation
+main_quest_description_localkey_509,Black Throne
+main_quest_description_localkey_509_a,Black Throne: A
+main_quest_description_localkey_509_b,Black Throne: B
+main_quest_description_localkey_510,Collaboration Invitation
+main_quest_description_localkey_511,Don't Escape
+main_quest_description_localkey_512,Expectation and Response
+main_quest_description_localkey_513,Non-Omnipotent
+main_quest_description_localkey_514,"The Ark's Stars, Always"
+main_quest_description_localkey_515,The Stars' Star
+main_quest_description_localkey_516,Open Arms
+main_quest_description_localkey_517,A New Continuation
+main_quest_description_localkey_518,Unexpected Contact
 main_quest_description_localkey_9999,Coming soon...

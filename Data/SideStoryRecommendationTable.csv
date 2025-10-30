@@ -1,0 +1,2 @@
+id,main_image,deco_image,miniature_deco_image,story_title,recommend_desc,condition_id,condition_desc,reward_id
+1,EventScene_Side_04_03,EventScene_Side_04_03,sidestory_obj_edenspear,Locale_System:SIDESTORY_TITLE_04,Locale_System:SIDESTORY_RECOMMEND_DESC_01,4013,Locale_System:SIDESTORY_RECOMMEND_MISSION_DESC_01,14000101

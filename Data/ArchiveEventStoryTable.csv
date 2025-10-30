@@ -52,3 +52,4 @@ id,event_id,prologue_scenario,dungeon_id,album_category_group,ui_prefab,archive_
 10049,40049,,49,1049,goldencoinrush_part2,7123048,7122048
 10075,40075,,75,1075,unbreakablesphere_part1,7123075,7122075
 10076,40076,,76,1076,unbreakablesphere_part2,7123075,7122075
+10059,40059,event_phantomthiefvsdetective_prologue,59,1059,phantomthiefvsdetective,7123059,7122059

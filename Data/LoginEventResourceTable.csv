@@ -63,6 +63,7 @@ id,event_id,character_id,costume_id,set_character_anim,logo_resource_table,logo_
 10062,10062,209501,30049,idle,,,attendance_event_nottactical,True,99,300
 10063,10063,201601,30050,idle,,,attendance_event_rapiredhoodspecial,False,0,0
 10064,10064,502301,0,idle,,,attendance_event_goninjathief,False,0,0
+10065,10065,433101,0,idle,,,attendance_event_anniversary_03,False,0,0
 80103,80103,112101,0,idle,,,attendance_event_miraclesnow,False,0,0
 80201,80201,112101,0,idle,,,attendance_event_ce_01_02,False,0,0
 80301,80301,112101,0,idle,,,attendance_event_overzone,False,0,0
@@ -85,3 +86,4 @@ id,event_id,character_id,costume_id,set_character_anim,logo_resource_table,logo_
 82403,82403,112101,0,idle,,,attendance_event_boomtheghost,False,0,0
 82503,82503,112101,0,idle,,,attendance_event_coinsinrush,False,0,0
 82603,82603,112101,0,idle,,,attendance_event_ce007,False,0,0
+82703,82703,112101,0,idle,,,attendance_event_goddessfall,False,0,0

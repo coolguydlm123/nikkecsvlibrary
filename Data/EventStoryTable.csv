@@ -86,6 +86,8 @@ id,event_id,part_type,prologue_scenario,auto_charge_id,event_item_type,event_ite
 10090,40090,OnePart,,10090,Item,7060090,90,0,1090,0,0,0,ce007_part1,,
 10091,40091,OnePart,,10090,Item,7060090,91,0,1091,0,0,0,ce007_part2,,
 10092,40092,OnePart,event_goninjathief_prologue,10092,Item,7060092,92,0,1092,92,9009201,0,goninjathief,,
+10093,40093,OnePart,,10093,Item,7060093,93,0,1093,0,0,0,goddessfall_part1,,
+10094,40094,OnePart,,10093,Item,7060093,94,0,1094,0,0,0,goddessfall_part2,,
 40001,60001,OnePart,,40001,None,0,15,0,0,0,0,0,,,full_eba001
 40002,60002,OnePart,,40002,None,0,1002,0,0,0,0,0,,,full_mbg002
 40003,60003,OnePart,,40003,None,0,1003,0,0,0,0,0,,,full_mbg004
@@ -140,3 +142,4 @@ id,event_id,part_type,prologue_scenario,auto_charge_id,event_item_type,event_ite
 40088,60088,OnePart,,40088,None,0,1088,0,0,0,0,0,,,full_bbg006
 40090,60090,OnePart,,40090,None,0,1090,0,0,0,0,0,,,full_mbg001_psid
 40092,60092,OnePart,,40092,None,0,1092,0,0,0,0,0,,,full_bbg003
+40093,60093,OnePart,,40093,None,0,1093,0,0,0,0,0,,,full_ebg002

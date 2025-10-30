@@ -1,0 +1,4 @@
+id,world_type,order,main_bgm,battle_bgm,transition_bgm
+1,Tutorial,1,bgm_surface_1_normal,bgm_surface_1_battle,
+2,Challenge,1,bgm_surface_2_normal,bgm_surface_2_battle,bgm_surface_2_after
+3,Challenge,2,bgm_surface_1_normal,bgm_surface_1_battle,bgm_surface_1_after

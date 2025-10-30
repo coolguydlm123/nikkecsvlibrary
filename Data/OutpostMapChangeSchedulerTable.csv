@@ -2,3 +2,4 @@ id,desc,resource_id,skin_group_id,is_default,start_date,end_date
 0,,OutPostMap,1000,True,0,0
 1,25 만우절,OutpostAprilsFool_25,3000,False,-1639112704,485607808
 2,25 2.5주년 축제,Outpost2.5thAnniversary,4000,False,-423903232,-404649600
+3,25 3주년 축제,Outpost3thAnniversary,5000,False,919502848,938756480

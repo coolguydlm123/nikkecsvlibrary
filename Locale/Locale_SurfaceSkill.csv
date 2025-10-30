@@ -1,0 +1,169 @@
+Key,Value
+parts_buff_01_skill_name,Land Adapter Lv. 1
+parts_buff_02_skill_name,Land Adapter Lv. 2
+parts_buff_03_skill_name,Land Adapter Lv. 3
+parts_buff_04_skill_name,Land Adapter Lv. 4
+parts_buff_05_skill_name,Land Adapter Lv. 5
+parts_buff_06_skill_name,Land Adapter Lv. 6
+parts_buff_07_skill_name,Land Adapter Lv. 7
+parts_buff_hp_01_skill_name,HP Part Buff
+parts_buff_stamina_01_skill_name,Stamina Part Buff
+parts_buff_01_skill_desc,"■ Affects Nikkes in the squad.
+ATK ▲ {0} for {1} hour(s).
+Max HP ▲ {2} for {3} hour(s)."
+parts_buff_hp_01_skill_desc,"■ Affects this unit's squad.
+Squad Max HP ▲ {0}% for {1} sec."
+parts_buff_stamina_01_skill_desc,"■ Affects this unit's squad.
+Squad Stamina ▲ {0}% for {1} sec."
+field_buff_01_skill_name,Field Buff
+field_buff_01_skill_desc,"■ Affects this unit's squad.
+Squad ATK ▲ {0}% for {1} sec."
+stamina_debuff_skill_name,Stamina Depletion Debuff
+stamina_debuff_skill_desc,"■ Activates only when at least one Nikke in this unit's squad is out of stamina. Affects this unit's squad.
+Squad's ATK ▼ {0}% continuously.
+Squad's Max HP ▼ {1}% continuously."
+11130101_name,Normal Attack
+11130102_name,Cluster Strike
+11130103_name,Precision Strike
+11130104_name,Seismic Wave
+11130101_desc,Fires a normal attack at a single Nikke squad.
+11130102_desc,Thermite deals massive damage to the nearest Nikke squad and to all Nikke squads within 1 tile around it.
+11130103_desc,Thermite deals massive damage to all Nikke squads within the combat area.
+11130104_desc,Thermite deals massive damage to all Nikke squads within 2 tiles around itself.
+10101_skill_desc,"■ Activates when attacking a radial enemy. Affects this unit's squad only during battle.
+<color=#00AEFF>Squad ATK ▲ {0}% continuously.</color>"
+10102_skill_desc,"■ Activates when attacking radial enemies. Affects the target only while it is under attack.
+<color=#00AEFF>Damage Taken ▲ {0}% continuously.</color>"
+10103_skill_desc,"■ Activates only when in non-combat areas. Affects this unit's squad.
+<color=#00AEFF>Normal attack range ▲ {0} tile(s) continuously.</color>"
+10104_skill_desc,"■ Activates when killing a radial enemy. Affects this unit's squad.
+<color=#00AEFF>Recovers {0}% of damage dealt in battle as HP.</color>"
+10105_skill_desc,"■ Activates at the start of battle against radial enemies. Affects this unit's squad only if there are 5 Nikkes with the same code in the squad.
+<color=#00AEFF>Damage as strong element ▲ {0}% continuously.</color>"
+10106_skill_desc,"■ Activates when attacking a radial enemy. Affects this unit's squad only during battle.
+<color=#00AEFF>Max HP ▲ {0}% continuously.</color>"
+10107_skill_desc,"■ Activates only when in non-combat areas. Affects this unit's squad.
+<color=#00AEFF>Squad movement speed ▲ {0}% continuously.</color>"
+10108_skill_desc,"■ Activates when killing a radial enemy. Affects this unit's squad.
+<color=#00AEFF>Recovers {0}% of final max stamina as HP.</color>"
+10109_skill_desc,"■ Activates only when in non-combat areas. Affects this unit's squad.
+<color=#00AEFF>Squad field of view ▲ {0} tile(s) continuously.</color>"
+10110_skill_desc,"■ Activates only when moving in non-combat areas. Affects this unit's squad.
+<color=#00AEFF>Damage taken ▼ {0}% continuously.</color>"
+10111_skill_desc,"■ Activates at the start of battle against radial enemies. Affects this unit's squad.
+<color=#00AEFF>Distributes all allies' HP equally when a Nikke is incapacitated. 10 sec cooldown after activation.</color>"
+10112_skill_desc,"■ Activates at the start of battle against radial enemies. Affects this unit's squad only if there are 5 Nikkes using weapons with the same effective range bonus in the squad.
+<color=#00AEFF>Damage within effective range ▲ {0}% continuously.</color>"
+20101_skill_desc,"■ Activates when entering battle in combat areas. Affects this unit's squad.
+<color=#00AEFF>Squad ATK ▲ {0}% continuously.</color>"
+20102_skill_desc,"■ Activates only when attacking enemies in combat areas. Affects the target.
+<color=#00AEFF>Damage Taken ▲ {0}% continuously.</color>"
+20104_skill_desc,"■ Activates when killing an enemy in combat areas. Affects this unit's squad.
+<color=#00AEFF>Recovers {0}% of damage dealt in battle as HP.</color>"
+20105_skill_desc,"■ Activates at the start of battle in combat areas. Affects this unit's squad only if there are 5 Nikkes with the same code in the squad.
+<color=#00AEFF>Damage as strong element ▲ {0}% continuously.</color>"
+20106_skill_desc,"■ Activates at the start of battle in combat areas. Affects this unit's squad only during battle.
+<color=#00AEFF>Max HP ▲ {0}% continuously.</color>"
+20110_skill_desc,"■ Activates only when moving in combat areas. Affects this unit's squad.
+<color=#00AEFF>Damage taken ▼ {0}% continuously.</color>"
+20107_skill_desc,"■ Activates only when in combat areas. Affects this unit's squad.
+<color=#00AEFF>Squad movement speed ▲ {0}% continuously.</color>"
+20113_skill_desc,"■ Activates at the start of battle in combat areas. Affects this unit's squad.
+<color=#00AEFF>Damage Taken ▼ {0}% continuously.</color>
+<color=#00AEFF>Taunt: Converts all enemies within {1} tile(s) around the squad into normal attack targets continuously.</color>"
+20114_skill_desc,"■ Activates at the start of battle in combat areas. Affects targets within 2 tiles around the calling signal within the area.
+<color=#00AEFF>Deals {0}% of the squad's final ATK as damage every 1 sec.</color>"
+20115_skill_desc,"■ Activates when performing {1} normal attack(s). Affects 1 random enemy if it is in the combat area.
+<color=#00AEFF>Deals {0}% of the squad's final ATK as additional damage every 1 sec.</color>"
+20111_skill_desc,"■ Activates at the start of battle in combat areas. Affects this unit's squad.
+<color=#00AEFF>When a Nikke is incapacitated, the Nikke is revived and all allies' HP gets distributed equally. 10 sec. cooldown after activation.</color>"
+20116_skill_desc,"■ Activates at the start of battle in combat areas. Affects this unit's squad.
+<color=#00AEFF>Concealment: Prevents the squad from being the target of normal attacks. Loses effect when the squad takes damage.</color>"
+20103_skill_desc,"■ Activates only when in combat areas. Affects this unit's squad.
+<color=#00AEFF>Squad range ▲ {0} tile(s) continuously.</color>"
+20112_skill_desc,"■ Activates at the start of battle in combat areas. Affects this unit's squad only if there are 5 Nikkes using weapons with the same effective range bonus in the squad.
+<color=#00AEFF>Damage within effective range ▲ {0}% continuously.</color>"
+30117_skill_desc,"■ Activates only when in combat areas. Affects ally squads within {0} tile(s), excluding this unit's squad.
+<color=#00AEFF>Squad ATK ▲ {1}% continuously.</color>"
+30118_skill_desc,"■ Activates only when in combat areas. Affects ally squads within {0} tile(s), excluding this unit's squad.
+<color=#00AEFF>Interval between normal attacks ▼ {1}% continuously.</color>"
+30119_skill_desc,"■ Activates only when in combat areas. Affects ally squads within {0} tile(s), excluding this unit's squad.
+<color=#00AEFF>Recovers {1}% of final max HP as HP every {2} sec.</color>"
+30120_skill_desc,"■ Activates only when in combat areas. Affects ally squads within {0} tile(s), excluding this unit's squad.
+<color=#00AEFF>Squad range ▲ {1} tile(s) continuously.</color>"
+30121_skill_desc,"■ Activates only when in combat areas. Affects ally squads within {0} tile(s), excluding this unit's squad.
+<color=#00AEFF>Max HP ▲ {1}% continuously.</color>"
+30122_skill_desc,"■ Activates only when in combat areas. Affects support squad Nikkes in this unit's squad.
+<color=#00AEFF>Skill effect range ▲ {1} tile(s) continuously.</color>"
+30123_skill_desc,"■ Activates only when in combat areas. Affects Nikkes in this unit's squad.
+<color=#00AEFF>Recovery support specialty skill level ▲ {1} continuously.</color>"
+30124_skill_desc,"■ Activates only when in combat areas. Affects Nikkes in this unit's squad.
+<color=#00AEFF>Firepower support specialty skill level ▲ {1} continuously.</color>"
+30125_skill_desc,"■ Activates only when in combat areas. Affects Nikkes in this unit's squad.
+<color=#00AEFF>HP support specialty skill level ▲ {1} continuously.</color>"
+30126_skill_desc,"■ Activates only when in combat areas. Affects Nikkes in this unit's squad.
+<color=#00AEFF>Attack speed support specialty skill level ▲ {1} continuously.</color>"
+40101_skill_desc,"■ Activates at the start of battle. Affects this unit's squad.
+<color=#00AEFF>Squad ATK ▲ {0}% continuously.</color>"
+40102_skill_desc,"■ Activates when attacking enemies. Affects the target only while it is under attack.
+<color=#00AEFF>Damage Taken ▲ {0}% continuously.</color>"
+40104_skill_desc,"■ Activates when killing an enemy. Affects this unit's squad.
+<color=#00AEFF>Recovers {0}% of damage dealt in battle as HP.</color>"
+40106_skill_desc,"■ Activates when attacking an enemy. Affects this unit's squad only during battle.
+<color=#00AEFF>Max HP ▲ {0}% continuously.</color>"
+101_skill_name,Damage Boost
+102_skill_name,Defense Reduction
+103_skill_name,Range Extension
+104_skill_name,Emergency Recovery
+105_skill_name,Strong Element Enhancement
+106_skill_name,HP Boost
+107_skill_name,High-Speed Mobility
+108_skill_name,Stamina Enhancement
+109_skill_name,Enhanced Vision
+110_skill_name,Mobile Safety Enhancement
+111_skill_name,Tenacity
+112_skill_name,Effective Range Specialization
+113_skill_name,Taunt
+114_skill_name,Shield Enhancement
+115_skill_name,Bonus Attack
+116_skill_name,Stealth
+117_skill_name,Damage Support
+118_skill_name,Attack Speed Support
+119_skill_name,Recovery Support
+120_skill_name,Range Extension Support
+121_skill_name,HP Boost Support
+122_skill_name,Support Range Increase
+123_skill_name,Recovery Support Level Increase
+124_skill_name,Damage Support Level Increase
+125_skill_name,HP Boost Support Level Increase
+126_skill_name,Attack Speed Support Level Increase
+100001_name,Normal Attack
+200001_name,Snipe
+200002_name,Electromagnetic Wave: ATK Up
+200003_name,HP Recovery
+200004_name,Radiation Rays: ATK Down
+200005_name,Self-Destruct
+100001_desc,Fires a normal attack at a single Nikke squad.
+200001_desc,Fires a normal attack at a single Nikke squad in the distance.
+200002_desc,Increases the ATK of nearby Raptures.
+200003_desc,Recovers the HP of nearby Raptures.
+200004_desc,Reduces the ATK of the nearest Nikke squad.
+200005_desc,"Self-destructs when a squad approaches, dealing damage to all squads within 1 tile around itself."
+14100101_name,Normal Attack
+14100105_name,Relentless Bombardment
+14100102_name,Summon Rapture
+14100106_name,High-Power Laser
+14100101_desc,Fires a normal attack at a single Nikke squad.
+14100105_desc,Cucumber deals heavy damage continuously to the Nikke squad closest to it.
+14100102_desc,"Cucumber summons a Rapture at a random position within 3 tiles.
+The summoned Rapture heals Cucumber."
+14100106_desc,Cucumber deals massive damage to all Nikke squads in combat areas.
+14300301_name,Normal Attack
+14300303_name,Hyper Beam
+14300302_name,Sweeping Bombardment
+14300304_name,IFF Bombardment
+14300301_desc,Fires a normal attack at a single Nikke squad.
+14300303_desc,Obelisk launches a powerful attack against the nearest Nikke squad.
+14300302_desc,Obelisk deals massive damage to all Nikke squads within 2 tiles around itself.
+14300304_desc,"Obelisk deals massive damage to all squads within the combat area.
+Safety zones will be generated near squads. Move to safety zones to dodge attacks."

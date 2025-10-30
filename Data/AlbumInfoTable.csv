@@ -67,6 +67,8 @@ id,category_group_id,sub_category_id,sub_category_name_localtable,sub_category_n
 66,1000,38,Locale_Stage,Locale_Stage:chapter_name_38,img_album_chapter38,,False,True
 67,1000,39,Locale_Stage,Locale_Stage:chapter_name_39,img_album_chapter39,,False,True
 68,1000,40,Locale_Stage,Locale_Stage:chapter_name_40,img_album_chapter40,,False,True
+69,1000,41,Locale_Stage,Locale_Stage:chapter_name_41,img_album_chapter41,,False,True
+70,1000,42,Locale_Stage,Locale_Stage:chapter_name_42,img_album_chapter42,,False,True
 1000101,10001,90001,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 1001101,10011,90002,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 1002101,10021,90003,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
@@ -154,6 +156,8 @@ id,category_group_id,sub_category_id,sub_category_name_localtable,sub_category_n
 1090101,10901,90090,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 1091101,10911,90091,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 1092101,10921,90092,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
+1093101,10931,90093,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
+1094101,10941,90094,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 2000101,20001,100001,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 2000201,20002,100002,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 2000301,20003,100003,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
@@ -177,6 +181,7 @@ id,category_group_id,sub_category_id,sub_category_name_localtable,sub_category_n
 3001301,30013,300013,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 3001401,30014,300014,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 3001501,30015,300015,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
+3001601,30016,300016,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 4000101,40001,400001,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 4000201,40002,400002,Locale_System,Locale_System:ALBUM_CATEGORY_NAME_STORY_EVENT,img_album_structure_toyshop,,False,True
 5000101,50001,500001,Locale_Character,Locale_Character:72_name,mi_favoriteitem_wallpaper_c072_00,,False,True

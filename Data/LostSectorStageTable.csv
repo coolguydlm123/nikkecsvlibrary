@@ -636,3 +636,4 @@ id,sector,parents_id,name_localkey,monster_stage_lv,dynamic_object_stage_lv,stan
 6139002,38,0,Locale_Stage:6138002_name,412,377,627300,40000,False,True,13100101,6138002,0,0
 6139003,38,0,Locale_Stage:6138003_name,412,377,627400,40000,False,True,33200601,6138003,0,0
 6139004,38,0,Locale_Stage:6138004_name,412,377,627500,40000,False,True,33200601,6138004,0,0
+6141001,40,0,Locale_Stage:6140001_name,432,397,683200,40000,False,True,24200101,6140001,0,0

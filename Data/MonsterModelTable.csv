@@ -24,6 +24,8 @@ id,resource_id,mon_prefab,grade,size,dissolve_type,attribute,move_type,category_
 132004,40,beg004,Elite,Medium,Medium,Bio,Walk,Attacker,None,None,Attacker
 122005,46,beg005,Minion,Small,Small,Bio,Walk,Attacker,None,None,Attacker
 132006,75,beg006,Elite,Medium,Medium,Bio,Walk,Supporter,None,None,Supporter
+132007,189,beg007,Elite,Medium,Medium,Bio,Walk,Defender,None,None,Defender
+132008,190,beg008,Elite,Medium,Medium,Bio,Walk,Supporter,None,None,Supporter
 141001,93,bca001,Centurion,Big,Big,Bio,Fly,Air_Supporter,None,None,Supporter
 141002,88,bca002,Centurion,Big,Big,Bio,Fly,Air_Supporter,None,None,Supporter
 141003,174,bca003,Centurion,Big,Big,Bio,Fly,Air_Attacker,None,None,Attacker
@@ -141,6 +143,7 @@ id,resource_id,mon_prefab,grade,size,dissolve_type,attribute,move_type,category_
 331003,82,mea003,Elite,Medium,Medium,Metal,Fly,Air_Attacker,None,None,Attacker
 331004,119,mea004,Elite,Medium,Medium,Metal,Fly,Air_Attacker,None,None,Attacker
 331005,138,mea005,Elite,Medium,Medium,Metal,Fly,Air_Attacker,None,None,Attacker
+331006,188,mea006,Elite,Medium,Medium,Metal,Fly,Air_Attacker,None,None,Attacker
 332001,83,meg001,Elite,Medium,Medium,Metal,Walk,Attacker,None,None,Attacker
 332002,106,meg002,Elite,Medium,Medium,Metal,Walk,Attacker,None,None,Attacker
 332003,84,meg003,Elite,Medium,Medium,Metal,Walk,Supporter,None,None,Supporter
@@ -175,7 +178,9 @@ id,resource_id,mon_prefab,grade,size,dissolve_type,attribute,move_type,category_
 351003,163,mbg003_psid,Boss,Huge,Huge,Metal,Walk,Defender,None,None,Defender
 451001,153,xba001,Boss,Huge,Huge,Unknown,Fly,Air_Defender,None,None,Defender
 451011,156,xba001_psid_intercept,Boss,Huge,Huge,Unknown,Fly,Air_Defender,None,None,Defender
+451002,191,xba002_dmtr,Boss,Huge,Huge,Unknown,Fly,Air_Attacker,None,None,Attacker
 442001,142,xcg001,Centurion,Big,Big,Unknown,Walk,Defender,None,None,Defender
 442002,152,xcg002,Centurion,Big,Big,Unknown,Walk,Defender,None,None,Defender
 452001,144,xbg001_psid,Boss,Huge,Huge,Unknown,Walk,Defender,None,None,Defender
 452002,182,xbg002_zeus,Boss,Huge,Huge,Unknown,Walk,Attacker,None,None,Attacker
+452003,192,xbg003_hsta,Boss,Huge,Huge,Unknown,Fly,Air_Defender,None,None,Defender

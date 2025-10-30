@@ -91,6 +91,10 @@ costume_name_10_CBT_2022,White Promise
 170_03_costume_name,Destined in Blue
 150_02_costume_name,Summer Romance
 95_01_costume_name,Day Off
+16_02_costume_name,Cherished Red
+470_02_costume_name,Retro Days
+330_02_costume_name,Glorious Flower
+513_02_costume_name,Beautiful Bubble
 90_01_costume_name,Color me Red
 210_01_costume_name,Joy to the Nerds
 212_01_costume_name,Penguin Holmes
@@ -160,6 +164,7 @@ costume_name_10_CBT_2022,White Promise
 841_02_costume_name,Battle Suit
 330_01_costume_name,Naked King
 260_02_costume_name,Second Affection
+223_01_costume_name,Wu Wei
 431_01_costume_name,Beat the Gun
 91_01_costume_name,Ark Mage
 obtain_costume_event_shop,"{0} costume.
@@ -430,6 +435,8 @@ Obtained from a Mission Pass."
 Obtained from the Costume Gacha."
 550_01_description,"Bay costume.
 Obtained from an Event Pass."
+16_2_description,"Rapi: Red Hood costume.
+Obtained from Events."
 41_1_description,"K costume.
 Obtained from a Mission Pass."
 43_2_description,"D: Killer Wife costume.
@@ -442,3 +449,11 @@ Obtained from an Event Pass."
 Obtained from Events."
 841_2_description,"Jill costume.
 Obtained from an Event Pass."
+470_2_description,"Red Hood costume.
+Obtained from the Costume Gacha."
+330_2_description,"Crown costume.
+Obtained from an Event Pass."
+513_2_description,"Little Mermaid costume.
+Obtained from a Mission Pass."
+223_1_description,"Nayuta Costume.
+Obtained from the Costume Gacha."
