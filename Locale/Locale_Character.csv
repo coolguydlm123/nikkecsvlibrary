@@ -229,6 +229,7 @@ Key,Value
 842_name,Claire
 23_name,Delta: Ninja Thief
 563_name,Bahamut
+74_name,Soline: Frost Ticket
 npc_950_name,Collector
 npc_951_name,Female Commander
 npc_952_name,Teddy
@@ -316,7 +317,7 @@ npc_9999999_name_42,Group Project
 npc_9999999_name_43,Restricted Area
 npc_9999999_name_44,Student
 npc_9999999_name_45,Researcher
-npc_9999999_name_46,Memory Piece
+npc_9999999_name_46,Memory Fragment
 npc_9999999_name_47,Memory Shard
 npc_9999999_name_48,Unknown Memory
 npc_9999999_name_49,Mirror
@@ -325,7 +326,7 @@ npc_9999999_name_51,Glass Jewelry Box
 npc_9999999_name_52,Request Board
 npc_9999999_name_53,Bonfire
 npc_9999999_name_54,Danger Zone
-npc_9999999_name_55,Memory Piece
+npc_9999999_name_55,Memory Fragment
 npc_9999999_name_56,Laplace's Bronze Statue
 npc_9999999_name_57,Blacksmith Eunhwa
 npc_9999999_name_58,Assistant Chef
@@ -668,6 +669,8 @@ Once a member of D.E.E.P., she was cast out and later joined the Pioneer squad."
 c331_description,"A Pilgrim from the White Knight squad.
 She serves Crown, a fellow Nikke from her squad, as her royal aide.
 Quick-witted, cunning, and fiercely loyal, she is a loyal retainer of the Crown Kingdom."
+c074_description,"As an outstanding attendant on the AZX, Soline skillfully serves her passengers.
+Of course, her flashy confidence is just the same as ever."
 c800_description,"Member of Public Safety Devil Extermination Special Division 4.
 A devil hunter working directly under the Chief Cabinet Secretary."
 c801_description,"Member of Public Safety Devil Extermination Special Division 4.
@@ -1791,6 +1794,9 @@ The burden of sin is one which I shall bear alone."
 Ha... even I find it so."
 223_01_speech_03,"Within this vessel of mine, the voices of the multitude of mine own likeness do proclaim.
 Their aspirations and aims must needs be fulfilled."
+74_speech_01,Well? Isn't this outfit pretty? Doesn't it make me look more mature?
+74_speech_02,I hope I get to go to the surface. I want everyone to see me wearing this while doing grown-up things.
+74_speech_03,"Commander, want to ride the AZX? I'm getting reeeaaally good at being a crew member!"
 10_speech_04,"Commander, I'll protect you."
 10_speech_05,Don't push yourself too hard! I've got your back all the way.
 10_speech_06,"No matter what you think of us, we'll always be by your side."
@@ -2757,6 +2763,9 @@ Think we've gotten kinda close?"
 223_01_speech_04,"One day, Great Hero, may thou behold a realm replete with lofty edifices and innumerable chariots, a world vibrant with the melodies of human narratives."
 223_01_speech_05,"Though sin be laid upon me by all, I shall yet endeavor to restore the world unto the tranquility it once knew."
 223_01_speech_06,"The hopes, tears, ire, and remorse of the multitude of mine own souls flow through this vessel. Thus, failure is naught but forbidden."
+74_speech_04,"Hehe! I've got a pretty outfit, and I've grown more mature! I bet I could even drink strong coffee now."
+74_speech_05,"If there's somewhere you want to go, just say the word. I'll take you anywhere!"
+74_speech_06,"Someday... if the AZX is able to go anywhere on the surface, will you take a trip with me, Commander?"
 10_stay_01,"Commander, you don't have any orders to give?"
 10_stay_02,I'll be on standby. Feel free to call me anytime.
 11_stay_01,"Master, now is the time for action, not relaxation!"
@@ -3418,6 +3427,8 @@ I'll just enjoy this beautiful day and listen to some music. It's been a while."
 'Tis no matter. I too must needs attend to mine own affairs."
 223_01_stay_02,"Verily the Great Hero hath cause for his busyness.
 I shall remain here, presiding over the multitude likenesses of mine own self."
+74_stay_01,"Hmph... I came all this way, but you're gone? I'm so upset."
+74_stay_02,"Heh. Since I'm an adult now, I can handle being alone. Time flies when I think about where I want to go with you, Commander."
 10_intro,No calls or messages during missions.
 11_intro,I'm a girl who loves firepower with all her heart.
 12_intro,Please don't send me weird shit!!!
@@ -3584,6 +3595,7 @@ Outside of that, I will only entertain questions."
 143_intro,I'll beat you up if you dare to tease me!!
 23_intro,"Live for justice, die for justice. Nin-nin."
 890_intro,"Someday, I'll make it all the way up there."
+74_intro,Another rough day on the train
 g_npc_01_name,Church of Doomseye
 g_npc_02_name,Princess' Royal Guard
 g_npc_03_name,Shopaholics Public Chatroom☆
@@ -4231,6 +4243,7 @@ npc_600_name,Despairing Nikke
 npc_601_name,Dying Nikke
 npc_602_name,Desperate Nikke
 npc_603_name,Determined Nikke
+npc_604_name,Nora
 npc_07_intro,01100110 01101111 01101111 01101100
 npc_13_intro,The meeting place of the master and followers of Doomseye
 npc_14_intro,The meeting place of the master and followers of Doomseye
@@ -4503,6 +4516,7 @@ npc_463_intro,Run until the end!
 23_cv_ko,CV: Lee Seul
 223_cv_ko,CV: Yang Jeong-hwa
 331_cv_ko,CV: Lee Dal-lae
+74_cv_ko,CV: Lee Myung-hee
 10_cv_ja,CV: Yui Ishikawa
 11_cv_ja,CV: Rina Hidaka
 12_cv_ja,CV: Miho Okasaki
@@ -4679,6 +4693,7 @@ npc_463_intro,Run until the end!
 23_cv_ja,CV: Yumiri Hanamori
 223_cv_ja,CV: Ayako Kawasumi
 331_cv_ja,CV: Tomoko Kaneda
+74_cv_ja,CV: Inori Minase
 10_cv_en,CV: Kayli Mills
 11_cv_en,CV: Xanthe Huynh
 12_cv_en,CV: Michelle Marie
@@ -4855,6 +4870,7 @@ npc_463_intro,Run until the end!
 23_cv_en,CV: Antonia Flynn
 223_cv_en,CV: Lindsay Sutton
 331_cv_en,CV: Ratana
+74_cv_en,CV: Lisa Reimold
 c102_Lobby_Touch_1,How about we go and run some tests together?
 c102_Lobby_Touch_2,You're a most interesting subject to observe.
 c102_Lobby_Touch_3,"All right, what's next?"
@@ -15582,3 +15598,61 @@ c223_01_Damage_3,'Tis ill.
 c223_01_Die_1,"Alas, I triumphed not...
 Forgive me, Great Hero."
 c223_01_Win_1,"Hath this sufficed to aid thee in thy journey, Great Hero?"
+c074_Lobby_Touch_1,"Well? Isn't this outfit pretty?
+Doesn't it make me look more mature?"
+c074_Lobby_Touch_2,"I hope I get to go to the surface.
+I want everyone to see me wearing this while doing grown-up things."
+c074_Lobby_Touch_3,"Commander, want to ride the AZX?
+I'm getting reeeaaally good at being a crew member!"
+c074_Lobby_Touch_Love_1,"Hehe! I've got a pretty outfit, and I've grown more mature!
+I bet I could even drink strong coffee now."
+c074_Lobby_Touch_Love_2,"If there's somewhere you want to go, just say the word.
+I'll take you anywhere!"
+c074_Lobby_Touch_Love_3,"Someday... if the AZX is able to go anywhere on the surface,
+will you take a trip with me, Commander?"
+c074_Lobby_Stay_1,"Hmph... I came all this way, but you're gone? I'm so upset."
+c074_Lobby_Stay_Love_1,"Heh. Since I'm an adult now, I can handle being alone.
+Time flies when I think about where I want to go with you, Commander."
+c074_Outpost_Touch_1,Hehe... I have to show off my pretty new outfit to everyone at the Outpost.
+c074_Outpost_Touch_2,"I'm planning to dress the AZX up in pretty clothes too. 
+Want to come, Commander?"
+c074_Outpost_Touch_3,"Hehe. Since I'm at the Outpost, I'm gonna buy all the delicious food at the train station."
+c074_Gacha_Get_1,"Commander! What do you think? Isn't it pretty?
+With my new outfit, I'll show you how much I've grown!"
+c074_Reinforce_1,Hehe... I've grown even more!
+c074_Reinforce_2,Don't you think I've grown taller?
+c074_Reinforce_3,I feel even more like a grown-up!
+c074_Gift_1,"Eek...! I'm gonna get you a gift too!
+Next time, you're gonna be the one receiving!"
+c074_Gift_2,"Wow... I really wanted one of these!
+Thanks, Commander!"
+c074_Gift_3,"I-I'm not a kid anymore... I don't really like this sort of thing...
+But since it's from you, I-I guess I'll try to like it!"
+c074_Attractive_Up_1,"I wish I could be with you every day.
+Then we could ride the AZX around together every single day."
+c074_Attractive_Up_2,"Hehe... This is amazing.
+I'm gonna treat you like a VIP passenger!"
+c074_Attractive_Up_3,"It's strange.
+Whenever I put on a nice outfit, you're the first person I want to show it to."
+c074_Party_Deploy_1,"I knew it. You need me, don't you. I'll come along."
+c074_Field_Touch_1,W-where should we go?
+c074_Field_Go_1,"Let's go, AZX!"
+c074_Battle_Enter_1,Aaah! Collision incoming!
+c074_Battle_Ready_1,Watch closely! I've really grown a lot!
+c074_Battle_Ready_2,I-I don't get nervous about this anymore!
+c074_Battle_Ready_3,I'll handle everything like a grown-up!
+c074_Reload_1,Tch... This didn't go the way I thought.
+c074_Reload_2,"Just a quick break, then I'm off again!"
+c074_Reload_3,Ahh... Just wait! I'll head out again!
+c074_Ult_Skill_Ready_1,My turn!
+c074_Ult_Skill_1,The happiness train AZX will bring you anywhere!
+c074_FullBurst_1,Now! Full steam ahead!
+c074_Kill_Monster_1,I did it!
+c074_Kill_Monster_2,Hehe... Did you see that?
+c074_Kill_Monster_3,Get out of here!
+c074_Damage_1,My clothes!
+c074_Damage_2,Ow!
+c074_Damage_3,Urgh!
+c074_Die_1,"Ugh... My clothes are ruined... and I wasn't any help...
+I'm sorry, Commander."
+c074_Win_1,"Hehe. See, I told you I'd grown! I really helped out, didn't I?"

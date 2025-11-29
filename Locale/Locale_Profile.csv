@@ -191,6 +191,7 @@ usericon_name_515400,Delta: Ninja Thief's Icon
 usericon_name_515500,Nayuta's Icon
 usericon_name_515600,Liberalio's Icon
 usericon_name_515700,Chime's Icon
+usericon_name_515800,Soline: Frost Ticket's Icon
 usericon_name_510101,Red Hood - Nonsense Red's Icon
 usericon_name_501701,Miranda - Thief of Justice's Icon
 usericon_name_508101,Tove - Baseball Fan's Icon
@@ -330,6 +331,7 @@ usericon_name_510102,Red Hood - Retro Days's Icon
 usericon_name_506502,Crown - Glorious Flower's Icon
 usericon_name_513702,Little Mermaid - Beautiful Bubble's Icon
 usericon_name_551501,Nayuta - Wu Wei's Icon
+usericon_name_102001,Jackal - Class Troublemaker's Icon
 uf_name_100,Rookie Commander
 uf_name_101,Virtuous Commander
 uf_name_102,Empathic Commander
@@ -1035,7 +1037,7 @@ bg_absolute_01_name,ABSOLUTE Premium Background
 bg_coinsinrush_01_name,COINS IN RUSH Premium Background
 bg_jofftour_01_name,Journey to the Millennium City Premium Background
 bg_edenspear_01_name,EDEN SPEAR Premium Background
-bg_goddessfall_01_name,Goddess Fall Premium Background
+bg_goddessfall_01_name,GODDESS FALL Premium Background
 sticker_bunny777_01_name,BUNNY x 777 Premium Sticker
 sticker_nocallerid_01_name,NO CALLER ID Premium Sticker I
 sticker_nocallerid_02_name,NO CALLER ID Premium Sticker II
@@ -1132,7 +1134,7 @@ sticker_coinsinrush_01_name,COINS IN RUSH Premium Sticker I
 sticker_madeinrush_01_name,MADE IN RUSH Premium Sticker I
 sticker_jofftour_01_name,Journey to the Millennium City Premium Sticker I
 sticker_goninjathief_01_name,GO! NINJA THIEF! Premium Sticker I
-sticker_goddessfall_01_name,Goddess Fall Premium Sticker I
+sticker_goddessfall_01_name,GODDESS FALL Premium Sticker I
 sticker_rebuildeden_01_name,REBUILD: EDEN Premium Sticker I
 sticker_rebuildeden_02_name,REBUILD: EDEN Premium Sticker II
 bg_bunny777_01_name,BUNNY x 777 Special Background
@@ -1318,8 +1320,8 @@ sticker_coinsinrush_03_name,COINS IN RUSH Special Sticker II
 sticker_madeinrush_02_name,MADE IN RUSH Special Sticker I
 sticker_goninjathief_02_name,GO! NINJA THIEF! Special Sticker I
 sticker_goninjathief_03_name,GO! NINJA THIEF! Special Sticker II
-sticker_goddessfall_02_name,Goddess Fall Special Sticker I
-sticker_goddessfall_03_name,Goddess Fall Special Sticker II
+sticker_goddessfall_02_name,GODDESS FALL Special Sticker I
+sticker_goddessfall_03_name,GODDESS FALL Special Sticker II
 sticker_rebuildeden_03_name,REBUILD: EDEN Special Sticker I
 title_bunny777_name,BUNNY x 777 Special Title
 title_nocallerid_name,NO CALLER ID Special Title
@@ -1379,7 +1381,7 @@ title_boomtheghost_name,BOOM! THE GHOST! Special Title
 title_absolute_name,ABSOLUTE Special Title
 title_coinsinrush_name,COINS IN RUSH Special Title
 title_goninjathief_name,GO! NINJA THIEF! Special Title
-title_goddessfall_name,Goddess Fall Special Title
+title_goddessfall_name,GODDESS FALL Special Title
 bg_default_00_name,Central Government Supply Background I
 bg_default_01_name,Central Government Supply Background II
 bg_default_02_name,Central Government Supply Background III
@@ -1430,7 +1432,7 @@ bg_jofftour_01_description,"Premium profile background for Journey to the Millen
 Can be used in profile decoration."
 bg_edenspear_01_description,"Premium profile background for EDEN SPEAR.
 Can be used in profile decoration."
-bg_goddessfall_01_description,"Premium profile background for Goddess Fall.
+bg_goddessfall_01_description,"Premium profile background for GODDESS FALL.
 Can be used in profile decoration."
 sticker_bunny777_01_description,"Premium profile sticker for BUNNY x 777.
 Can be used in profile decoration."
@@ -1624,7 +1626,7 @@ sticker_jofftour_01_description,"Premium profile sticker for Journey to the Mill
 Can be used in profile decoration."
 sticker_goninjathief_01_description,"Premium profile sticker for GO! NINJA THIEF!
 Can be used in profile decoration."
-sticker_goddessfall_01_description,"Premium profile sticker for Goddess Fall.
+sticker_goddessfall_01_description,"Premium profile sticker for GODDESS FALL.
 Can be used in profile decoration."
 sticker_rebuildeden_01_description,"Premium profile sticker for REBUILD: EDEN.
 Can be used in profile decoration."
@@ -1996,9 +1998,9 @@ sticker_goninjathief_02_description,"Special profile sticker for GO! NINJA THIEF
 Can be used in profile decoration."
 sticker_goninjathief_03_description,"Special profile sticker for GO! NINJA THIEF!
 Can be used in profile decoration."
-sticker_goddessfall_02_description,"Special profile sticker for Goddess Fall.
+sticker_goddessfall_02_description,"Special profile sticker for GODDESS FALL.
 Can be used in profile decoration."
-sticker_goddessfall_03_description,"Special profile sticker for Goddess Fall.
+sticker_goddessfall_03_description,"Special profile sticker for GODDESS FALL.
 Can be used in profile decoration."
 sticker_rebuildeden_03_description,"Special profile sticker for REBUILD: EDEN.
 Can be used in profile decoration."
@@ -2118,7 +2120,7 @@ title_coinsinrush_description,"Special profile title for COINS IN RUSH.
 Can be used in profile decoration."
 title_goninjathief_description,"Special profile title for GO! NINJA THIEF!
 Can be used in profile decoration."
-title_goddessfall_description,"Special profile title for Goddess Fall.
+title_goddessfall_description,"Special profile title for GODDESS FALL.
 Can be used in profile decoration."
 bg_default_00_description,"Profile background supplied by the Central Government.
 Can be used in profile decoration."
@@ -2179,6 +2181,7 @@ badge_93_name,Emma: Tactical Upgrade's Badge Sticker
 badge_94_name,Vesti: Tactical Upgrade's Badge Sticker
 badge_95_name,Eunhwa: Tactical Upgrade's Badge Sticker
 badge_23_name,Delta: Ninja Thief's Badge Sticker
+badge_74_name,Soline: Frost Ticket's Badge Sticker
 badge_102_name,Maxwell's Badge Sticker
 badge_160_name,Yuni's Badge Sticker
 badge_82_name,Liter's Badge Sticker
@@ -2322,6 +2325,7 @@ badge_93_description,Obtained from Emma: Tactical Upgrade's Advice Collection.
 badge_94_description,Obtained from Vesti: Tactical Upgrade's Advice Collection.
 badge_95_description,Obtained from Eunhwa: Tactical Upgrade's Advice Collection.
 badge_23_description,Obtained from Delta: Ninja Thief's Advice Collection.
+badge_74_description,Obtained from Soline: Frost Ticket's Advice Collection.
 badge_102_description,Obtained from Maxwell's Advice Collection.
 badge_160_description,Obtained from Yuni's Advice Collection.
 badge_82_description,Obtained from Liter's Advice Collection.

@@ -13,6 +13,7 @@ belorta,Nikke,Locale_Character:60_name,Locale_Character:60_intro,si_c060_00_s,sn
 mica,Nikke,Locale_Character:61_name,Locale_Character:61_intro,si_c061_00_s,sns_bg_default
 brid,Nikke,Locale_Character:70_name,Locale_Character:70_intro,si_c070_00_s,sns_bg_default
 soline,Nikke,Locale_Character:71_name,Locale_Character:71_intro,si_c071_00_s,sns_bg_default
+soline_w,Nikke,Locale_Character:71_name,Locale_Character:74_intro,si_c074_00_s,sns_bg_default
 diesel,Nikke,Locale_Character:72_name,Locale_Character:72_intro,si_c072_00_s,sns_bg_default
 centi,Nikke,Locale_Character:80_name,Locale_Character:80_intro,si_c080_00_s,sns_bg_default
 liter,Nikke,Locale_Character:82_name,Locale_Character:82_intro,si_c082_00_s,sns_bg_default

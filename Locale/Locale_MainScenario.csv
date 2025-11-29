@@ -46296,7 +46296,7 @@ event_goldencoinrush2_06_e_142,Are you okay?
 event_goldencoinrush2_06_e_143,"Yeah, I'm fine."
 event_goldencoinrush2_06_e_144,"Let's go, everyone!"
 event_goldencoinrush2_06_e_145,All three of us hold hands and head out of Coin Rush with clear minds and happy hearts.
-event_goldencoinrush2_06_e_146,GOLDEN COIN RUSH: The End
+event_goldencoinrush2_06_e_146,GOLDEN COIN RUSH: END
 event_goldencoinrush2_epilogue_title,The Maid Cafe is Back in Business
 event_goldencoinrush2_epilogue_1,This is terrible.
 event_goldencoinrush2_epilogue_2,What am I going to say to them?
@@ -90405,7 +90405,7 @@ event_goddessfall1_prologue_32,I've honestly no idea of her intentions.
 event_goddessfall1_prologue_33,Should I go and ask?
 event_goddessfall1_prologue_34,You're clearly having a good time if you're in the mood to crack jokes.
 event_goddessfall1_prologue_35,Because we'll soon be taking on the Queen.
-event_goddessfall1_prologue_36,"...  Right. I feel the same way too, to be honest."
+event_goddessfall1_prologue_36,"... Right. I feel the same way too, to be honest."
 event_goddessfall1_prologue_37,...
 event_goddessfall1_prologue_38,"Commander, why do you look like you just swallowed some bugs?"
 event_goddessfall1_prologue_39,I did not.
@@ -90455,7 +90455,7 @@ event_goddessfall1_prologue_81,The Queen will descend anon.
 event_goddessfall1_prologue_82,"The silence that followed was so profound, it was as if time had frozen. Not even a breath could be heard."
 event_goddessfall1_prologue_83,She doth hover above Eden.
 event_goddessfall1_prologue_84,And her altitude doth continue to decrease.
-event_goddessfall1_prologue_85,What...  did you say?
+event_goddessfall1_prologue_85,What... did you say?
 event_goddessfall1_prologue_86,"Eden doth prepare to intercept the Queen. Yet, 'tis unlikely this shall end with but a single strike."
 event_goddessfall1_prologue_87,"Maidens, your strength is needed."
 event_goddessfall1_prologue_88,"Thus, cast aside thy vain pride—"
@@ -90485,7 +90485,7 @@ event_goddessfall1_01_s_6,"Woah, what the heck happened? Are we all dead?"
 event_goddessfall1_01_s_7,We're not dead.
 event_goddessfall1_01_s_8,"What the hell?! Wait, what?! What is this?! Are we dead?!"
 event_goddessfall1_01_s_9,I said we're not dead.
-event_goddessfall1_01_s_10,I-if we take another hit from that thing wouldn't we all die?
+event_goddessfall1_01_s_10,"I-if we take another hit from that thing, wouldn't we all die?"
 event_goddessfall1_01_s_11,We would die then.
 event_goddessfall1_01_s_12,"I'll mobilize all robots to begin repairs. 
 Our first priority is to restore basic infrastructure."
@@ -90688,7 +90688,7 @@ event_goddessfall1_01_e_42,"Hmm. It's not bad. Though it may strain me, I could 
 event_goddessfall1_01_e_43,"Isabel, thou art adept in the arts of aerial combat. Dost thou truly believe that joining forces with me won't impede thy prowess?"
 event_goddessfall1_01_e_44,"I've got a short-range weapon anyway, so I need to engage in close-quarters combat. But it's not a big deal, so don't worry."
 event_goddessfall1_01_e_45,"Verily, we find ourselves united in this endeavor. Let us devote our utmost efforts to the cause."
-event_goddessfall1_01_e_46,... Alright. I'm trusting in you.
+event_goddessfall1_01_e_46,... All right. I'm trusting in you.
 event_goddessfall1_01_e_47,...
 event_goddessfall1_01_e_48,...
 event_goddessfall1_01_e_49,Thy countenance doth reveal a mind brimming with curiosity.
@@ -94033,7 +94033,7 @@ event_goddessfall2_05_e_129,Heads snap toward the sound.
 event_goddessfall2_05_e_130,The thick curtain of smoke shreds apart in an instant.
 event_goddessfall2_05_e_131,"And then, a red, two-headed dragon charges forward, skimming the ground like a missile."
 event_goddessfall2_05_e_132,Nihilister...!
-event_goddessfall2_06_s_title,Goddess Fall: A
+event_goddessfall2_06_s_title,GODDESS FALL: A
 event_goddessfall2_06_s_1,The Queen's regenerative powers surpass all that we hath ever imagined.
 event_goddessfall2_06_s_2,"Though her assaults reach us not, so long as ours avail her not,"
 event_goddessfall2_06_s_3,"we shall be drawn into a war of attrition, and our defeat shall be assured."
@@ -94109,7 +94109,7 @@ event_goddessfall2_06_s_72,...
 event_goddessfall2_06_s_73,"Very well, I shall do my utmost."
 event_goddessfall2_06_s_74,... Moving out.
 event_goddessfall2_06_s_75,Encounter!
-event_goddessfall2_06_e_title,Goddess Fall: B
+event_goddessfall2_06_e_title,GODDESS FALL: B
 event_goddessfall2_06_e_1,"Lo, she harbors no thought of falling...!"
 event_goddessfall2_06_e_2,Don't stop your attacks!
 event_goddessfall2_06_e_3,She's clearly stopped regenerating... and yet...!
@@ -94143,7 +94143,7 @@ event_goddessfall2_06_e_30,*Crack!*
 event_goddessfall2_06_e_31,"Its hand drives through her chest,"
 event_goddessfall2_06_e_32,and Marian crumples to the ground.
 event_goddessfall2_06_e_33,"The figure stares at the red core glowing in its grasp, clearly pleased."
-event_goddessfall2_06_e_34,Goddess: Fall
+event_goddessfall2_06_e_34,GODDESS: FALL
 event_goddessfall2_06_e_35,*Bang!*
 event_goddessfall2_06_e_36,Its head jerks slightly
 event_goddessfall2_06_e_37,and turns around.
@@ -94444,7 +94444,7 @@ event_goddessfall2_epilogue_170,for a long moment.
 event_goddessfall2_epilogue_171,A sad realization dawns on her:
 event_goddessfall2_epilogue_172,"those days are gone, never to return."
 event_goddessfall2_epilogue_173,The once-brilliant past has now completely faded.
-event_goddessfall2_epilogue_174,Goddess Fall: End
+event_goddessfall2_epilogue_174,GODDESS FALL: END
 event_goddessfall2_epilogue_175,Something extraordinary has occurred.
 event_goddessfall2_epilogue_176,"Verily, 'tis even so."
 event_goddessfall2_epilogue_177,So this is why you were so desperate to get to Liliweiss's body.
@@ -94903,7 +94903,7 @@ d_main_41_03_47,"The Four Beasts might see it too, and attack us instead."
 d_main_41_03_48,Isn't that what you're hoping for?
 d_main_41_03_49,True. It will make it easier to find out where Birdie is.
 d_main_41_03_50,All we have to do is subdue them and ask. No need for polite conversation.
-d_main_41_03_51,Hmph. We did try to be nice and talk things out.
+d_main_41_03_51,We did try to be nice and talk things out.
 d_main_41_03_52,Those idiots.
 d_main_41_03_53,Are you upset?
 d_main_41_03_54,"Of course I am, you fool."
@@ -95212,7 +95212,7 @@ d_main_41_05_81,Mjolnir gathers all the extra energy you waste and then releases
 d_main_41_05_82,Didn't you read the manual? It says it's only for emergency close combat use.
 d_main_41_05_83,I thought it was just the terms and conditions! So... I didn't read it...
 d_main_41_05_84,... Nice job.
-d_main_41_05_85,Haahh...!
+d_main_41_05_85,Hngh...!
 d_main_41_05_86,Ziz's wings expand and unfolds fully.
 d_main_41_05_87,"Chunks of metal rain down, and Behemoth swings her pincers, sending them towards the group."
 d_main_41_05_88,Take cover!
@@ -96235,7 +96235,7 @@ d_main_41_af_04_116,... Is that last bit really necessary?
 d_main_41_af_04_117,She'll be even more suspicious if it's not there.
 d_main_41_af_04_118,Jien. Is this okay?
 d_main_41_af_04_119,"There aren't any special characters or codes, are there?"
-d_main_41_af_04_120,Those can't even be typed in.
+d_main_41_af_04_120,Those can't even be typed.
 d_main_41_af_04_121,All right. Send it.
 d_main_41_af_04_122,...
 d_main_41_af_04_123,Sent.
@@ -97255,7 +97255,7 @@ d_main_42_06_32,Good!
 d_main_42_06_33,We've got at least two possible reasons they could still be alive! That's all I needed to hear!
 d_main_42_06_34,"A hero can save the day with just two-tenths of a reason, let alone two whole ones! That's more than enough!"
 d_main_42_06_35,There's no such thing as two-tenths of a reason.
-d_main_42_06_36,"Worry not! Bahamoot will be fine, too."
+d_main_42_06_36,"Worry not! Baphomet will be fine, too."
 d_main_42_06_37,It's Bahamut.
 d_main_42_06_38,What can we expect about the Queen's abilities?
 d_main_42_06_39,She's tough. She can condense her Dark Matter to the extreme.
@@ -97699,7 +97699,7 @@ d_main_42_08_115,"Hmm, not sure I can. Whaley's already going at full speed. Why
 d_main_42_08_116,I'm going to buy everyone time! Escape while you can!
 d_main_42_08_117,Y-you don't have to...!
 d_main_42_08_118,"Yes, I do! This is our only choice."
-d_main_42_08_119,"Commander, I'll leave the rest to you."
+d_main_42_08_119,"Commander, please watch the rear."
 d_main_42_08_120,"I'm telling you, it's okay!"
 d_main_42_08_121,What are you talking about?!
 d_main_42_08_122,The black spire gets closer.
@@ -97864,7 +97864,7 @@ d_main_42_af_02_8,B-but...!
 d_main_42_af_02_9,If I get dragged into this... I mean... I already escaped the Rehabilitation Center!
 d_main_42_af_02_10,"Don't run away, Liveryn."
 d_main_42_af_02_11,"What's done is done. If you run now, it'll only make things worse."
-d_main_42_af_02_12,"Avoiding a problem away won't solve anything. You need to face it, and then think about what to do next."
+d_main_42_af_02_12,"Avoiding a problem won't solve anything. You need to face it, and then think about what to do next."
 d_main_42_af_02_13,If I do that... th-they'll do more than lock me up this time...
 d_main_42_af_02_14,Then take your punishment.
 d_main_42_af_02_15,!
@@ -97883,7 +97883,7 @@ d_main_42_af_02_27,Leader.
 d_main_42_af_02_28,Viper. Perfect timing. We—
 d_main_42_af_02_29,Anis contacted me.
 d_main_42_af_02_30,Anis? From the Counters?
-d_main_42_af_02_31,Yeah. You know the partition that connects to Punk Street?
+d_main_42_af_02_31,Yeah. You know the Partition that connects to Punk Street?
 d_main_42_af_02_32,"Anis wants it open, and fast."
 d_main_42_af_02_33,The partition...?
 d_main_42_af_02_34,!
@@ -98621,7 +98621,7 @@ d_main_42_af_06_91,"Anis, ma chérie. Did you terminé everything you needed to 
 d_main_42_af_06_92,"Yes, I... phew...! It's been taken care of."
 d_main_42_af_06_93,Superbe.
 d_main_42_af_06_94,President.
-d_main_42_af_06_95,"The expansive armament, Star."
+d_main_42_af_06_95,The expansive armament Star.
 d_main_42_af_06_96,Give it to me.
 d_main_42_af_06_97,We need to stop that thing from getting to the Ark.
 d_main_42_af_06_98,...
@@ -98732,7 +98732,7 @@ d_main_42_af_06_201,the star of the Ark.
 d_main_42_af_07_1,...
 d_main_42_af_07_2,Whew... I'm nervous.
 d_main_42_af_07_3,"Anis, ma chérie, listen carefully."
-d_main_42_af_07_4,"The expansive Armament Star harnesses l'énergie from optical weapons, then condenses and releases it."
+d_main_42_af_07_4,"The expansive armament Star harnesses l'énergie from optical weapons, then condenses and releases it."
 d_main_42_af_07_5,"Star Stage est une version modifiée of the giant particle cannon, and is packed with un énorme quantité d'énergie."
 d_main_42_af_07_6,You need to condense that énergie and fire it at le monstre you see over there.
 d_main_42_af_07_7,Do you comprends?
@@ -98831,7 +98831,7 @@ d_main_42_af_07_99,I listen closely.
 d_main_42_af_07_100,Huh... g...
 d_main_42_af_07_101,... me...
 d_main_42_af_07_102,Hug... me...
-d_main_42_af_07_103,Huh!
+d_main_42_af_07_103,...!
 d_main_42_af_07_104,Rapi retracts her drill.
 d_main_42_af_07_105,"Rapi and I, with our arms wide open,"
 d_main_42_af_07_106,tightly embrace the child asking for a hug.
@@ -99132,7 +99132,7 @@ d_main_42_af_08_261,I doubt she's just looking for a hug.
 d_main_42_af_08_262,Are you going to try talking to her?
 d_main_42_af_08_263,If she's willing.
 d_main_42_af_08_264,"Even if she is, it's unlikely to go well."
-d_main_42_af_08_265,She was created by those insane Offsprings.
+d_main_42_af_08_265,She created those insane Offsprings.
 d_main_42_af_08_266,You need to be prepared.
 d_main_42_af_08_267,"For battle, you mean?"
 d_main_42_af_08_268,Yeah.
@@ -99157,7 +99157,7 @@ d_main_42_af_08_286,I know what you're going to say.
 d_main_42_af_08_287,But I promise.
 d_main_42_af_08_288,That child's power...
 d_main_42_af_08_289,will only be used for good.
-d_main_42_af_08_290,Huh!
+d_main_42_af_08_290,...
 d_main_42_af_08_291,"Besides, we've no reason to fight in the first place if the Queen doesn't make a move."
 d_main_42_af_08_292,Then allow me to ask.
 d_main_42_af_08_293,"If the Queen indeed does not attack, what are we to do?"

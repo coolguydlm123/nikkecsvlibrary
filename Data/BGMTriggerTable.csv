@@ -3879,3 +3879,4 @@ id,bgm_type,bgm_sub_type,use_story_mod,type_value,event_id,default,bgm_trigger_e
 9910477,Event_field_bgm,None,False,102706,0,False,None,0,event_bgm_goddessfall_assemble
 9910478,Event_field_bgm,None,False,102709,0,False,None,0,event_bgm_goddessfall_tearsofeden
 9910479,Ambient,Event_field,False,102709,0,False,None,0,ambient_chapter_overzone
+9910480,Story_event_bgm,None,False,10095,0,True,None,0,event_bgm_blankticket

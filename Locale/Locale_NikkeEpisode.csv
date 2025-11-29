@@ -2353,20 +2353,19 @@ d_nikke_brid_01_18,Isn't that what you are good at?
 d_nikke_brid_01_19,Get her to take a break and explore the outside world!
 d_nikke_brid_01_20,"Tell her to go on a vacation, huh?"
 d_nikke_brid_01_21,... Okay.
-d_nikke_brid_01_22,"*Tap, taptaptap, tap tap*"
-d_nikke_brid_01_23,Go on vacation?
-d_nikke_brid_01_24,Brid taps on the tablet.
-d_nikke_brid_01_25,"Well... I guess. I mean, I haven't had a break yet."
-d_nikke_brid_01_26,Why not?
+d_nikke_brid_01_22,"*Tap, tap tap, tap*"
+d_nikke_brid_01_23,A day off?
+d_nikke_brid_01_24,Brid taps away at her tablet.
+d_nikke_brid_01_25,Hmm... I don't think I've ever taken one.
+d_nikke_brid_01_26,Why haven't you?
 d_nikke_brid_01_27,Well...
-d_nikke_brid_01_28,Brid keeps tapping on the tablet.
-d_nikke_brid_01_29,"Huh... According to this schedule, I should prepare..."
-d_nikke_brid_01_30,"Oh, sorry. I was just dealing with something urgent.
-You were saying?"
-d_nikke_brid_01_31,Why don't you take a vacation?
-d_nikke_brid_01_32,Oh. I don't need to. It's not a big deal.
-d_nikke_brid_01_33,"Since I'm working on so much stuff, I don't have time to feel tired."
-d_nikke_brid_01_34,All I have to do is work efficiently.
+d_nikke_brid_01_28,Brid keeps tapping on her tablet.
+d_nikke_brid_01_29,"*Sigh* To keep up with this schedule, the preparations..."
+d_nikke_brid_01_30,"Ah, pardon me. I had something urgent to attend to. What was your question again?"
+d_nikke_brid_01_31,I asked why you don't ever take a day off.
+d_nikke_brid_01_32,There's simply no need for it.
+d_nikke_brid_01_33,"I have much to do, and a body that does not tire."
+d_nikke_brid_01_34,So I work in the most efficient manner possible.
 d_nikke_brid_01_35,Brid keeps tapping on the tablet.
 d_nikke_brid_01_36,Why are you asking?
 d_nikke_brid_01_37,I want to go on a vacation with you.
@@ -4590,21 +4589,21 @@ d_nikke_diesel_01_13,I can feel someone is looking at me.
 d_nikke_diesel_01_14,But I'm too tired to bother.
 d_nikke_diesel_01_15,Commander?
 d_nikke_diesel_01_16,D-Diesel?
-d_nikke_diesel_01_17,"Yes, Diesel it is."
+d_nikke_diesel_01_17,"Yes, it's me!"
 d_nikke_diesel_01_18,Why are you sleeping here?
-d_nikke_diesel_01_19,You know what they say. You'll get a twisted mouth if you sleep in this kind of place.
-d_nikke_diesel_01_20,I don't care.
-d_nikke_diesel_01_21,"Ah ah, it's no good."
-d_nikke_diesel_01_22,"What then? It's not business hours, so there shouldn't be anyone around."
-d_nikke_diesel_01_23,Do you want me to carry you to the Outpost on my back?
-d_nikke_diesel_01_24,N-no... I just need some rest.
-d_nikke_diesel_01_25,"Hehe, are you that tired?"
-d_nikke_diesel_01_26,Heh... All right then.
-d_nikke_diesel_01_27,I will let you sleep for a while.
-d_nikke_diesel_01_28,I feel something warm covering me.
-d_nikke_diesel_01_29,Warmer now?
+d_nikke_diesel_01_19,"If you sleep in a place like this, your face will go numb."
+d_nikke_diesel_01_20,I'll be fine...
+d_nikke_diesel_01_21,"Oh my, we just can't have that."
+d_nikke_diesel_01_22,"Hmm... what to do? It's past business hours now, so no one's around."
+d_nikke_diesel_01_23,Shall I carry you back to the Outpost?
+d_nikke_diesel_01_24,No... I just want to sleep...
+d_nikke_diesel_01_25,"Hehe, are you really that sleepy?"
+d_nikke_diesel_01_26,"Hmm... well, I guess it can't be helped."
+d_nikke_diesel_01_27,Just take a little nap before you go!
+d_nikke_diesel_01_28,Something warm drapes over me.
+d_nikke_diesel_01_29,Feeling a bit warmer now?
 d_nikke_diesel_01_30,I nod.
-d_nikke_diesel_01_31,"Hehe. Sleep tight, Commander."
+d_nikke_diesel_01_31,"Hehe, sweet dreams, Commander."
 d_nikke_diesel_01_32,I drift into sleep.
 d_nikke_diesel_01_33,Candy... strawberry candy... for everyone...
 d_nikke_diesel_01_34,A strange song rings in my ears.
@@ -12350,40 +12349,40 @@ d_nikke_harran_05_98,...
 d_nikke_harran_05_99,"I pick up one of the feathers,"
 d_nikke_harran_05_100,and head back towards the Ark.
 d_nikke_hongryeon_01_title,Sticking Your Neck Out
-d_nikke_hongryeon_01_1,"Heed mine warning, for I shall only utter this yet just once."
-d_nikke_hongryeon_01_2,"If thou so much as move a finger,"
-d_nikke_hongryeon_01_3,"I shall ensure that this one whom thou love so dearly shuffles off this mortal coil, damsels."
-d_nikke_hongryeon_01_4,So silence yourself and lend me thy ears.
-d_nikke_hongryeon_01_5,Woah!
+d_nikke_hongryeon_01_1,"Now then, ye maidens. I shall not say it twice."
+d_nikke_hongryeon_01_2,"Move but a finger,"
+d_nikke_hongryeon_01_3,and the life of the lad ye hold so dear shall be forfeit.
+d_nikke_hongryeon_01_4,"So still thy tongues, and lend me thine ears."
+d_nikke_hongryeon_01_5,Ugh...!
 d_nikke_hongryeon_01_6,...
-d_nikke_hongryeon_01_7,"At this juncture, a flashing blade"
-d_nikke_hongryeon_01_8,looms before your neck.
-d_nikke_hongryeon_01_9,One false move and your head will take its leave from your shoulders.
-d_nikke_hongryeon_01_10,"That's it. Now, everyone steady thy hands."
+d_nikke_hongryeon_01_7,"Right now, a gleaming blade"
+d_nikke_hongryeon_01_8,is aimed at my neck.
+d_nikke_hongryeon_01_9,"If I so much as move, my head will be gone."
+d_nikke_hongryeon_01_10,"Aye, that's it. Hold thy places, all of ye."
 d_nikke_hongryeon_01_11,*Ding*
 d_nikke_hongryeon_01_12,The elevator door opens.
 d_nikke_hongryeon_01_13,Commander!
 d_nikke_hongryeon_01_14,Oho!
 d_nikke_hongryeon_01_15,The blade draws ever closer to your neck.
 d_nikke_hongryeon_01_16,...
-d_nikke_hongryeon_01_17,You coward!
-d_nikke_hongryeon_01_18,"Haha, what laudation!"
-d_nikke_hongryeon_01_19,"As I am held at a sword's point, Scarlet takes a step backward and enters the elevator."
-d_nikke_hongryeon_01_20,"Anyway, damsels,"
-d_nikke_hongryeon_01_21,it hath been a pleasure making thy acquaintance.
+d_nikke_hongryeon_01_17,You... coward!
+d_nikke_hongryeon_01_18,"Hoho, what praise is this thou bestowest?"
+d_nikke_hongryeon_01_19,"With a sword at my neck, Scarlet backs into the elevator."
+d_nikke_hongryeon_01_20,"Well then, ye maidens,"
+d_nikke_hongryeon_01_21,fare thee well.
 d_nikke_hongryeon_01_22,"With that, the elevator doors close."
 d_nikke_hongryeon_01_23,*Whew*
 d_nikke_hongryeon_01_24,"At that moment, a sense of adrenaline washes over me."
 d_nikke_hongryeon_01_25,...
 d_nikke_hongryeon_01_26,A week earlier...
-d_nikke_hongryeon_01_27,"Good day, my good Lord."
-d_nikke_hongryeon_01_28,Let's hast a drink!
+d_nikke_hongryeon_01_27,"Well met, my good Lord."
+d_nikke_hongryeon_01_28,Let us sup a draught or two!
 d_nikke_hongryeon_01_29,Here? Now?
 d_nikke_hongryeon_01_30,...
 d_nikke_hongryeon_01_31,...
 d_nikke_hongryeon_01_32,...
-d_nikke_hongryeon_01_33,"Now, what spirits are available for imbibing this day?"
-d_nikke_hongryeon_01_34,"If possible, I prefer something stronger than what we had last time."
+d_nikke_hongryeon_01_33,"Now then, what spirits hast thou to set afore me this day?"
+d_nikke_hongryeon_01_34,"Let them, if it may be, be a touch stronger than those we partook of aforetime."
 d_nikke_hongryeon_01_35,Good grief...
 d_nikke_hongryeon_01_36,You seem to come here pretty often for a Pilgrim.
 d_nikke_hongryeon_01_37,"It hath been but three days since I was last hither, so whatever dost thou mean by ""often""?"
@@ -28614,7 +28613,7 @@ d_nikke_soline_02_96,thank you for the bear.
 d_nikke_soline_02_97,Th-then I'll be off...!
 d_nikke_soline_02_98,You can leave whenever
 d_nikke_soline_02_99,or not.
-d_nikke_soline_03_title,How to become an adult?
+d_nikke_soline_03_title,How to Become an Adult?
 d_nikke_soline_03_1,Commander is stupid! Liar!
 d_nikke_soline_03_2,Scammer!
 d_nikke_soline_03_3,"Even if I relax as work preparation, if there is no opportunity to work, everything is meaningless!"
@@ -32784,12 +32783,14 @@ d_nikke_aria_01_54,...
 d_nikke_aria_01_55,I don't know how to explain this.
 d_nikke_aria_01_56,All I do is sing endless recitatives.
 d_nikke_aria_01_57,... Aria took in a short breath.
-d_nikke_aria_01_58,It's all so... ordinary.
-d_nikke_aria_01_59,"For someone like me, that is a punishment worse than death."
-d_nikke_aria_01_60,"The God of Music has forsaken me, and the doors to the opera house are quickly closing on me."
+d_nikke_aria_01_58,... Just being ordinary!
+d_nikke_aria_01_59,A fate more cruel than death!
+d_nikke_aria_01_60,"The God of Music despises me...
+The opera house doors closed before me!"
 d_nikke_aria_01_61,"Oh, my cherished guardian, are you listening?"
-d_nikke_aria_01_62,"Such ignominious posturing, such prosaic music..."
-d_nikke_aria_01_63,I cannot possibly repay your benevolence with this.
+d_nikke_aria_01_62,"With such talent, I cannot repay your grace!"
+d_nikke_aria_01_63,"With such paltry acting...
+With such paltry songs..."
 d_nikke_aria_01_64,...
 d_nikke_aria_01_65,"Well, what do you think?"
 d_nikke_aria_01_66,I thought it was flawless.
@@ -91986,6 +91987,557 @@ d_nikke_milk_bloomingbunny_05_86,... There's no way.
 d_nikke_milk_bloomingbunny_05_87,Milk lifts her head and looks up at me.
 d_nikke_milk_bloomingbunny_05_88,"It's written all over your face, Pal."
 d_nikke_milk_bloomingbunny_05_89,She then wraps her arms around my neck.
+d_nikke_soline_frostticket_01_title,An Adult Date!
+d_nikke_soline_frostticket_01_1,Doo dee ♪
+d_nikke_soline_frostticket_01_2,Daa doo dee ♬
+d_nikke_soline_frostticket_01_3,*Scrub scrub*
+d_nikke_soline_frostticket_01_4,Someone's in a good mood.
+d_nikke_soline_frostticket_01_5,"Hehe, you betcha! ♪"
+d_nikke_soline_frostticket_01_6,I've got plans after work today.
+d_nikke_soline_frostticket_01_7,"Oh, really? What plans?"
+d_nikke_soline_frostticket_01_8,"Hehe, you wanna know?"
+d_nikke_soline_frostticket_01_9,I'm gonna have my first date with the Commander today!
+d_nikke_soline_frostticket_01_10,"So even though it's a workday, I made sure to look my best!"
+d_nikke_soline_frostticket_01_11,"Even if I get a little tired, I'll tough it out..."
+d_nikke_soline_frostticket_01_12,...
+d_nikke_soline_frostticket_01_13,Tough it... out?
+d_nikke_soline_frostticket_01_14,...
+d_nikke_soline_frostticket_01_15,!!
+d_nikke_soline_frostticket_01_16,Commander?! You should have told me it was you!
+d_nikke_soline_frostticket_01_17,I didn't want to ruin the mood or anything.
+d_nikke_soline_frostticket_01_18,Ugh... seriously!
+d_nikke_soline_frostticket_01_19,You scared me!
+d_nikke_soline_frostticket_01_20,Wh-why are you here so early?
+d_nikke_soline_frostticket_01_21,There's still plenty of time before we were supposed to meet...
+d_nikke_soline_frostticket_01_22,Because I have plans with you.
+d_nikke_soline_frostticket_01_23,R-really?
+d_nikke_soline_frostticket_01_24,You're here early because of me...?
+d_nikke_soline_frostticket_01_25,That's... kinda touching.
+d_nikke_soline_frostticket_01_26,Hmm? What did you say?
+d_nikke_soline_frostticket_01_27,N-nothing!
+d_nikke_soline_frostticket_01_28,"I was just talking to myself, so don't worry about it!"
+d_nikke_soline_frostticket_01_29,"Just hang on a sec, I'll finish up here, and we can head out."
+d_nikke_soline_frostticket_01_30,Mmm-mm-hmm ♬
+d_nikke_soline_frostticket_01_31,*Scrub scrub*
+d_nikke_soline_frostticket_01_32,*Tap tap*
+d_nikke_soline_frostticket_01_33,"Okay, all the cleaning supplies are put away,"
+d_nikke_soline_frostticket_01_34,and the door's locked...
+d_nikke_soline_frostticket_01_35,"Sweet, hehe!"
+d_nikke_soline_frostticket_01_36,I'm all set!
+d_nikke_soline_frostticket_01_37,Good job.
+d_nikke_soline_frostticket_01_38,!
+d_nikke_soline_frostticket_01_39,H-hehe...
+d_nikke_soline_frostticket_01_40,"This is just what an adult's supposed to do, right?"
+d_nikke_soline_frostticket_01_41,So you really don't have to praise me.
+d_nikke_soline_frostticket_01_42,Mmm-mm-hmm ♬
+d_nikke_soline_frostticket_01_43,...
+d_nikke_soline_frostticket_01_44,"So, what are we gonna do today?"
+d_nikke_soline_frostticket_01_45,"N-no, not ""do""..."
+d_nikke_soline_frostticket_01_46,Um... what's it called again?
+d_nikke_soline_frostticket_01_47,"Oh right, date!"
+d_nikke_soline_frostticket_01_48,Is there anything you wanna do?
+d_nikke_soline_frostticket_01_49,"Hehe, I knew you'd ask that. I've got something planned!"
+d_nikke_soline_frostticket_01_50,And what might that be?
+d_nikke_soline_frostticket_01_51,"Don't be surprised, Commander, but..."
+d_nikke_soline_frostticket_01_52,I...
+d_nikke_soline_frostticket_01_53,"want to go on a real, adult date!"
+d_nikke_soline_frostticket_01_54,An adult date?
+d_nikke_soline_frostticket_01_55,"We're past the age for playing like kids, you know?"
+d_nikke_soline_frostticket_01_56,And since we're dating now...
+d_nikke_soline_frostticket_01_57,"we should act a bit more like an adult on our dates, don't you think?"
+d_nikke_soline_frostticket_01_58,... I guess.
+d_nikke_soline_frostticket_01_59,...
+d_nikke_soline_frostticket_01_60,... Can you at least sound a little more excited?
+d_nikke_soline_frostticket_01_61,So? What's your answer?
+d_nikke_soline_frostticket_01_62,"Sure, what kind of date did you have in mind?"
+d_nikke_soline_frostticket_01_63,"Oh, you know..."
+d_nikke_soline_frostticket_01_64,"The kind where a couple hits the bar for a few beers after work,"
+d_nikke_soline_frostticket_01_65,or catches a late-night movie together...
+d_nikke_soline_frostticket_01_66,"The kind you're best at, Commander!"
+d_nikke_soline_frostticket_01_67,"Hmm... In that case, I think I've got something in mind..."
+d_nikke_soline_frostticket_01_68,R-really?!
+d_nikke_soline_frostticket_01_69,"Heh, fine by me! Let's go with that!"
+d_nikke_soline_frostticket_01_70,"But first, I want to ask you something."
+d_nikke_soline_frostticket_01_71,Hmm...? What is it?
+d_nikke_soline_frostticket_01_72,You sure you won't be disappointed?
+d_nikke_soline_frostticket_01_73,?
+d_nikke_soline_frostticket_01_74,Wh-why's your face all serious? You're scaring me...
+d_nikke_soline_frostticket_01_75,Please answer me.
+d_nikke_soline_frostticket_01_76,...
+d_nikke_soline_frostticket_01_77,O-of course!
+d_nikke_soline_frostticket_01_78,"Hehe, this is exactly what I want!"
+d_nikke_soline_frostticket_01_79,No way I'd settle for a boring relationship!
+d_nikke_soline_frostticket_01_80,"Okay, then follow me."
+d_nikke_soline_frostticket_01_81,I'll show you what being a real adult is like.
+d_nikke_soline_frostticket_02_title,An Adult Date?
+d_nikke_soline_frostticket_02_1,*Zing*
+d_nikke_soline_frostticket_02_2,...
+d_nikke_soline_frostticket_02_3,"Uh, Commander..."
+d_nikke_soline_frostticket_02_4,Weren't we supposed to go downtown today?
+d_nikke_soline_frostticket_02_5,So why are we suddenly in your room?
+d_nikke_soline_frostticket_02_6,Why else? For our date.
+d_nikke_soline_frostticket_02_7,O-our date?
+d_nikke_soline_frostticket_02_8,H-here...?
+d_nikke_soline_frostticket_02_9,Hmm... doesn't look like there's anything fun to do here.
+d_nikke_soline_frostticket_02_10,Lie down here while I get things ready.
+d_nikke_soline_frostticket_02_11,Wh-what?!
+d_nikke_soline_frostticket_02_12,Y-you want me to lie down?!
+d_nikke_soline_frostticket_02_13,A-aren't we moving too fast?!
+d_nikke_soline_frostticket_02_14,Th-they usually start with holding hands in the TV shows I watched...
+d_nikke_soline_frostticket_02_15,?
+d_nikke_soline_frostticket_02_16,"H-hmph, fine!"
+d_nikke_soline_frostticket_02_17,"I'm an adult now,"
+d_nikke_soline_frostticket_02_18,so I'm always ready for anything!
+d_nikke_soline_frostticket_02_19,*Flop*
+d_nikke_soline_frostticket_02_20,...
+d_nikke_soline_frostticket_02_21,S-so... like this?
+d_nikke_soline_frostticket_02_22,"No, not like that."
+d_nikke_soline_frostticket_02_23,Huh...? Th-then how?
+d_nikke_soline_frostticket_02_24,You can just lie on your side.
+d_nikke_soline_frostticket_02_25,...
+d_nikke_soline_frostticket_02_26,"""So don't just sit there. Stand!"""
+d_nikke_soline_frostticket_02_27,"""Lift your head to the sky."""
+d_nikke_soline_frostticket_02_28,Commander...
+d_nikke_soline_frostticket_02_29,"""See what you're fighting for;"""
+d_nikke_soline_frostticket_02_30,"""See what we're all fighting for."""
+d_nikke_soline_frostticket_02_31,"""Then there's no fear you can't overcome."""
+d_nikke_soline_frostticket_02_32,Commander?
+d_nikke_soline_frostticket_02_33,Whoa...
+d_nikke_soline_frostticket_02_34,"Ugh, seriously...!"
+d_nikke_soline_frostticket_02_35,Commander!!
+d_nikke_soline_frostticket_02_36,Huh? What is it?
+d_nikke_soline_frostticket_02_37,...
+d_nikke_soline_frostticket_02_38,Wh-what's this?
+d_nikke_soline_frostticket_02_39,The Black Ark Ranger movie.
+d_nikke_soline_frostticket_02_40,I know that!
+d_nikke_soline_frostticket_02_41,But that's not the main point!
+d_nikke_soline_frostticket_02_42,Then what is it you're getting at...?
+d_nikke_soline_frostticket_02_43,You said you'd show me what an adult date looks like!
+d_nikke_soline_frostticket_02_44,Ugh... I was so excited for it!
+d_nikke_soline_frostticket_02_45,And now all we're doing is eating popcorn and drinking in your room!
+d_nikke_soline_frostticket_02_46,I even wore my favorite outfit
+d_nikke_soline_frostticket_02_47,and put on perfume!
+d_nikke_soline_frostticket_02_48,"Hmph, we could've at least gone to the theater...!"
+d_nikke_soline_frostticket_02_49,*Slide*
+d_nikke_soline_frostticket_02_50,*Sniff*
+d_nikke_soline_frostticket_02_51,Eat this and calm down first.
+d_nikke_soline_frostticket_02_52,"C-candy? Tsk, that's cheap...!"
+d_nikke_soline_frostticket_02_53,"*Munch, munch*"
+d_nikke_soline_frostticket_02_54,Mmm... it's really good.
+d_nikke_soline_frostticket_02_55,S-so...
+d_nikke_soline_frostticket_02_56,you're saying that snacking at home while watching a movie
+d_nikke_soline_frostticket_02_57,counts as an adult date?
+d_nikke_soline_frostticket_02_58,Yup.
+d_nikke_soline_frostticket_02_59,... I had no idea.
+d_nikke_soline_frostticket_02_60,"I thought all adults liked going to flashy, sparkly places."
+d_nikke_soline_frostticket_02_61,Sorry if you were disappointed.
+d_nikke_soline_frostticket_02_62,!
+d_nikke_soline_frostticket_02_63,N-no need to apologize.
+d_nikke_soline_frostticket_02_64,I...
+d_nikke_soline_frostticket_02_65,"I was just a little bummed, that's all."
+d_nikke_soline_frostticket_02_66,"So, want to go out now?"
+d_nikke_soline_frostticket_02_67,A-are you serious?!
+d_nikke_soline_frostticket_02_68,You're really going with me?!
+d_nikke_soline_frostticket_02_69,"Oh, wait a sec..."
+d_nikke_soline_frostticket_02_70,"Now that I think about it, it's already super late."
+d_nikke_soline_frostticket_02_71,I'd normally be asleep by now...
+d_nikke_soline_frostticket_02_72,"We're adults, aren't we?"
+d_nikke_soline_frostticket_02_73,"Uh... that's right,"
+d_nikke_soline_frostticket_02_74,we're adults.
+d_nikke_soline_frostticket_02_75,Sometimes adults go out to have fun even when it's past bedtime.
+d_nikke_soline_frostticket_02_76,!
+d_nikke_soline_frostticket_02_77,"O-oh, so that's what it is?"
+d_nikke_soline_frostticket_02_78,F-fine then!
+d_nikke_soline_frostticket_02_79,"In that case, before we go..."
+d_nikke_soline_frostticket_02_80,*Slip*
+d_nikke_soline_frostticket_02_81,Gimme...
+d_nikke_soline_frostticket_02_82,What?
+d_nikke_soline_frostticket_02_83,"... y-your hand, I mean!"
+d_nikke_soline_frostticket_02_84,"I feel sorta bad for snapping at you earlier, and..."
+d_nikke_soline_frostticket_02_85,"well, it'll feel more like we're actually a couple...!"
+d_nikke_soline_frostticket_02_86,*Grab*
+d_nikke_soline_frostticket_02_87,*Gasp!*
+d_nikke_soline_frostticket_02_88,Let's go.
+d_nikke_soline_frostticket_02_89,Y-yeah... sure!
+d_nikke_soline_frostticket_02_90,Mmm-mm-hmm ♪
+d_nikke_soline_frostticket_03_title,This Time Will Be Different
+d_nikke_soline_frostticket_03_1,"*Step, step*"
+d_nikke_soline_frostticket_03_2,"Hehe, the night air feels amazing!"
+d_nikke_soline_frostticket_03_3,I think this is the first time I've gone out this late!
+d_nikke_soline_frostticket_03_4,So this is what being an adult is like!
+d_nikke_soline_frostticket_03_5,"Yep, that's adult life for you."
+d_nikke_soline_frostticket_03_6,"Wow, look at those two holding hands over there."
+d_nikke_soline_frostticket_03_7,Don't they seem really close?
+d_nikke_soline_frostticket_03_8,"... Did you hear that, Commander?"
+d_nikke_soline_frostticket_03_9,Looks like people think we're quite the couple!
+d_nikke_soline_frostticket_03_10,You're right.
+d_nikke_soline_frostticket_03_11,"That little girl's a real cutie, isn't she?"
+d_nikke_soline_frostticket_03_12,?!
+d_nikke_soline_frostticket_03_13,That guy looks pretty young... Could she be his daughter? Or maybe his niece?
+d_nikke_soline_frostticket_03_14,E-excuse me?!
+d_nikke_soline_frostticket_03_15,What did you just say?!
+d_nikke_soline_frostticket_03_16,"*Stomp, stomp, stomp, stomp*"
+d_nikke_soline_frostticket_03_17,S-Soline!
+d_nikke_soline_frostticket_03_18,Soline lets go of my hand and charges towards the young couple.
+d_nikke_soline_frostticket_03_19,Whoa... y-you really scared me!
+d_nikke_soline_frostticket_03_20,How dare you call me a little girl!
+d_nikke_soline_frostticket_03_21,"And I'm his girlfriend, not his daughter!"
+d_nikke_soline_frostticket_03_22,Huh...? This little girl is your girlfriend?
+d_nikke_soline_frostticket_03_23,"I'm a lady, not a little girl! I just have a baby face, that's all!"
+d_nikke_soline_frostticket_03_24,... Who knew she'd turn out to be a brat?
+d_nikke_soline_frostticket_03_25,"Come on, Honey, let's just go. These people seem kind of strange."
+d_nikke_soline_frostticket_03_26,Argh...! Why do they keep calling me a little girl!?
+d_nikke_soline_frostticket_03_27,Grr...
+d_nikke_soline_frostticket_03_28,... Soline.
+d_nikke_soline_frostticket_03_29,What?!
+d_nikke_soline_frostticket_03_30,Let's be mature and let it go.
+d_nikke_soline_frostticket_03_31,"We're on a date, after all."
+d_nikke_soline_frostticket_03_32,!
+d_nikke_soline_frostticket_03_33,"... Ugh,"
+d_nikke_soline_frostticket_03_34,fine!
+d_nikke_soline_frostticket_03_35,They're the immature ones for judging someone just by how they look!
+d_nikke_soline_frostticket_03_36,Take this!
+d_nikke_soline_frostticket_03_37,Blehhhh!
+d_nikke_soline_frostticket_03_38,Mmm-mm-hmm ♬
+d_nikke_soline_frostticket_03_39,"As if nothing had just happened, Soline hums to herself while looking at the menu."
+d_nikke_soline_frostticket_03_40,"What do you want to eat, Commander?"
+d_nikke_soline_frostticket_03_41,Some milk and a slice of cake.
+d_nikke_soline_frostticket_03_42,"Hehe, Commander."
+d_nikke_soline_frostticket_03_43,"Eatin' nothing but sweets like that will make your teeth rot, y'know?"
+d_nikke_soline_frostticket_03_44,"... What about you, Soline?"
+d_nikke_soline_frostticket_03_45,"Heh, me?"
+d_nikke_soline_frostticket_03_46,I'll have... this!
+d_nikke_soline_frostticket_03_47,"With confidence written all over her face, Soline's finger hovers over the word ""Espresso"" on the menu."
+d_nikke_soline_frostticket_03_48,... You sure about this?
+d_nikke_soline_frostticket_03_49,Huh? Why?
+d_nikke_soline_frostticket_03_50,I'm pretty sure last time...
+d_nikke_soline_frostticket_03_51,Wh-what's this...?
+d_nikke_soline_frostticket_03_52,What's with this taste...?
+d_nikke_soline_frostticket_03_53,Are you okay?
+d_nikke_soline_frostticket_03_54,O-o-o-of course!
+d_nikke_soline_frostticket_03_55,I-I'm fine...
+d_nikke_soline_frostticket_03_56,Totally fine...
+d_nikke_soline_frostticket_03_57,Soline drinks her espresso with trembling hands.
+d_nikke_soline_frostticket_03_58,Ugh...!
+d_nikke_soline_frostticket_03_59,Ughhhhhhhh!
+d_nikke_soline_frostticket_03_60,The taste... the taste...
+d_nikke_soline_frostticket_03_61,N-no!
+d_nikke_soline_frostticket_03_62,I can't let this beat me!
+d_nikke_soline_frostticket_03_63,Soline chugs the remaining espresso.
+d_nikke_soline_frostticket_03_64,...
+d_nikke_soline_frostticket_03_65,... You good?
+d_nikke_soline_frostticket_03_66,Ugh...
+d_nikke_soline_frostticket_03_67,Bleeeeech!
+d_nikke_soline_frostticket_03_68,"Yep, that's right, back then..."
+d_nikke_soline_frostticket_03_69,I was still a child before we started dating.
+d_nikke_soline_frostticket_03_70,But now things are different!
+d_nikke_soline_frostticket_03_71,"I've become a true adult, both in body and mind!"
+d_nikke_soline_frostticket_03_72,So I can enjoy this coffee properly!
+d_nikke_soline_frostticket_03_73,Ugggghhh!
+d_nikke_soline_frostticket_03_74,...
+d_nikke_soline_frostticket_03_75,Blech...
+d_nikke_soline_frostticket_03_76,*Sniffle sniffle*
+d_nikke_soline_frostticket_03_77,"Come on now, Soline! Blow your nose already!"
+d_nikke_soline_frostticket_03_78,*Hhhrrk!*
+d_nikke_soline_frostticket_03_79,Phew...
+d_nikke_soline_frostticket_03_80,"Ugh, that was a real toughie."
+d_nikke_soline_frostticket_03_81,Tears and snot everywhere!
+d_nikke_soline_frostticket_03_82,"Mmm, so sweet!"
+d_nikke_soline_frostticket_03_83,?
+d_nikke_soline_frostticket_03_84,Nothing beats a souffle right after work!
+d_nikke_soline_frostticket_03_85,"Hehe, that's right! Want another bite, honey?"
+d_nikke_soline_frostticket_03_86,"Say ""Ahhh!"""
+d_nikke_soline_frostticket_03_87,Ahhh...
+d_nikke_soline_frostticket_03_88,Soline looks at a couple for a moment before her gaze drops to the cup of espresso on the table.
+d_nikke_soline_frostticket_03_89,...
+d_nikke_soline_frostticket_03_90,"Here, Soline."
+d_nikke_soline_frostticket_03_91,Open up.
+d_nikke_soline_frostticket_03_92,Huh...? Cake?
+d_nikke_soline_frostticket_03_93,"... But that's yours, right?"
+d_nikke_soline_frostticket_03_94,You're really letting me have it?
+d_nikke_soline_frostticket_03_95,"We're a couple, aren't we?"
+d_nikke_soline_frostticket_03_96,!
+d_nikke_soline_frostticket_03_97,Y-yeah... you're right.
+d_nikke_soline_frostticket_03_98,"Then, don't mind if I do."
+d_nikke_soline_frostticket_03_99,*Vrrrr vrrrr*
+d_nikke_soline_frostticket_03_100,?
+d_nikke_soline_frostticket_03_101,*Vrrrr vrrrr vrrrr vrrrr vrrrr*
+d_nikke_soline_frostticket_03_102,Wh-what? A message...?
+d_nikke_soline_frostticket_03_103,Just a sec.
+d_nikke_soline_frostticket_03_104,...
+d_nikke_soline_frostticket_03_105,Something urgent?
+d_nikke_soline_frostticket_03_106,"Yeah, an emergency meeting..."
+d_nikke_soline_frostticket_03_107,"Oh, really?"
+d_nikke_soline_frostticket_03_108,So you have to go now?
+d_nikke_soline_frostticket_03_109,... 'Fraid so.
+d_nikke_soline_frostticket_03_110,S-so...
+d_nikke_soline_frostticket_03_111,this is the end of our date...?
+d_nikke_soline_frostticket_03_112,I feel bad. How can I make it up to you?
+d_nikke_soline_frostticket_03_113,...
+d_nikke_soline_frostticket_03_114,Hmph!
+d_nikke_soline_frostticket_03_115,"Well, we can always go on a date another time!"
+d_nikke_soline_frostticket_03_116,"We're both adults, right?"
+d_nikke_soline_frostticket_03_117,"It's fine, really! Don't worry too much!"
+d_nikke_soline_frostticket_03_118,"Okay then, I'm off."
+d_nikke_soline_frostticket_03_119,"Sure, I'll be wait—"
+d_nikke_soline_frostticket_03_120,*Jingle*
+d_nikke_soline_frostticket_03_121,... Wow.
+d_nikke_soline_frostticket_04_title,I'm the Childish One
+d_nikke_soline_frostticket_04_1,*Tap* *Tap*
+d_nikke_soline_frostticket_04_2,"*Knock, knock*"
+d_nikke_soline_frostticket_04_3,*Tap* *Tap tap tap*
+d_nikke_soline_frostticket_04_4,"*Knock, knock*"
+d_nikke_soline_frostticket_04_5,Hmm? Who is it?
+d_nikke_soline_frostticket_04_6,Brid... It's me.
+d_nikke_soline_frostticket_04_7,?
+d_nikke_soline_frostticket_04_8,Come in.
+d_nikke_soline_frostticket_04_9,*Zing*
+d_nikke_soline_frostticket_04_10,It's not every day someone comes to see me at this hour.
+d_nikke_soline_frostticket_04_11,... I figured you'd be awake.
+d_nikke_soline_frostticket_04_12,Got a minute?
+d_nikke_soline_frostticket_04_13,Sure. So what brings you here?
+d_nikke_soline_frostticket_04_14,Could it be that you saw a ghost in the AZX after the lights went out... again?
+d_nikke_soline_frostticket_04_15,"N-no, it's not like that!"
+d_nikke_soline_frostticket_04_16,I just wanted to get some advice...
+d_nikke_soline_frostticket_04_17,?
+d_nikke_soline_frostticket_04_18,Brid places a hand on Soline's forehead.
+d_nikke_soline_frostticket_04_19,Hmm...
+d_nikke_soline_frostticket_04_20,You don't seem to have a fever.
+d_nikke_soline_frostticket_04_21,Hey! What do you think you're doing?!
+d_nikke_soline_frostticket_04_22,"I'm serious, okay?!"
+d_nikke_soline_frostticket_04_23,"And c'mon, Nikkes can't catch a cold!"
+d_nikke_soline_frostticket_04_24,"I was only teasing, Soline."
+d_nikke_soline_frostticket_04_25,"So, what would you like to discuss?"
+d_nikke_soline_frostticket_04_26,*Sip*
+d_nikke_soline_frostticket_04_27,*Click*
+d_nikke_soline_frostticket_04_28,I see. I understand now.
+d_nikke_soline_frostticket_04_29,So that's why you came at this hour in that attire.
+d_nikke_soline_frostticket_04_30,"Brid... you know,"
+d_nikke_soline_frostticket_04_31,I stayed at the cafe and thought it over.
+d_nikke_soline_frostticket_04_32,I feel like I was really mean to the Commander today.
+d_nikke_soline_frostticket_04_33,I didn't even appreciate all the effort he put into planning our date.
+d_nikke_soline_frostticket_04_34,"While we were walking, I got annoyed at people passing by."
+d_nikke_soline_frostticket_04_35,"And at the cafe he brought me to, I teased him for ordering from the kids' menu..."
+d_nikke_soline_frostticket_04_36,...
+d_nikke_soline_frostticket_04_37,And you know what the worst part is?
+d_nikke_soline_frostticket_04_38,The Commander just put up with all my tantrums and went back to work.
+d_nikke_soline_frostticket_04_39,"And here I am, sulking like crazy..."
+d_nikke_soline_frostticket_04_40,when he's the one who had it the hardest...
+d_nikke_soline_frostticket_04_41,... Guess the real childish one is me.
+d_nikke_soline_frostticket_04_42,...
+d_nikke_soline_frostticket_04_43,That does seem to be the case.
+d_nikke_soline_frostticket_04_44,You did behave childishly back there.
+d_nikke_soline_frostticket_04_45,"... Yeah, figured as much."
+d_nikke_soline_frostticket_04_46,...
+d_nikke_soline_frostticket_04_47,"After hearing this, I'm curious about one thing."
+d_nikke_soline_frostticket_04_48,Wh-what is it?
+d_nikke_soline_frostticket_04_49,How did you find your first adult date?
+d_nikke_soline_frostticket_04_50,...
+d_nikke_soline_frostticket_04_51,Adults are way different from what I imagined.
+d_nikke_soline_frostticket_04_52,"After work, they just lounge around at home"
+d_nikke_soline_frostticket_04_53,or snack on sweets at a cafe.
+d_nikke_soline_frostticket_04_54,I didn't think they'd be so... childish in some ways.
+d_nikke_soline_frostticket_04_55,No one actually wants to work on their day off.
+d_nikke_soline_frostticket_04_56,"In that regard, adults aren’t much different from children."
+d_nikke_soline_frostticket_04_57,S-still... doing whatever you want means you've gotta take responsibility for it.
+d_nikke_soline_frostticket_04_58,Just like when the Commander ditched our date for a meeting.
+d_nikke_soline_frostticket_04_59,I see...
+d_nikke_soline_frostticket_04_60,... What do I do now?
+d_nikke_soline_frostticket_04_61,What would you like to do?
+d_nikke_soline_frostticket_04_62,I want to apologize to the Commander.
+d_nikke_soline_frostticket_04_63,"Hmm... to be honest,"
+d_nikke_soline_frostticket_04_64,you won't be able to take back what you said or did.
+d_nikke_soline_frostticket_04_65,But...
+d_nikke_soline_frostticket_04_66,the Commander I know
+d_nikke_soline_frostticket_04_67,might just be waiting for you.
+d_nikke_soline_frostticket_04_68,!
+d_nikke_soline_frostticket_04_69,R-really...?
+d_nikke_soline_frostticket_04_70,"I can't be certain, of course."
+d_nikke_soline_frostticket_04_71,"But if you ever get the chance to see the Commander again,"
+d_nikke_soline_frostticket_04_72,try to make amends for your mistakes.
+d_nikke_soline_frostticket_04_73,"If you show him your sincerity, I'm sure it will change his feelings."
+d_nikke_soline_frostticket_04_74,... Brid.
+d_nikke_soline_frostticket_04_75,I believe that's all the advice I can offer.
+d_nikke_soline_frostticket_04_76,I sincerely hope things turn out well for both of you.
+d_nikke_soline_frostticket_04_77,...
+d_nikke_soline_frostticket_04_78,O-okay!
+d_nikke_soline_frostticket_04_79,I'm going to go find the Commander again!
+d_nikke_soline_frostticket_04_80,"Heh, that's the Soline I know."
+d_nikke_soline_frostticket_04_81,"It's best to contact him quickly, or rather right away."
+d_nikke_soline_frostticket_04_82,"Okay... thanks, Brid!"
+d_nikke_soline_frostticket_04_83,I'll head back and contact the Commander right away!
+d_nikke_soline_frostticket_04_84,Thanks for today!
+d_nikke_soline_frostticket_04_85,Don't mention it.
+d_nikke_soline_frostticket_04_86,*Zing*
+d_nikke_soline_frostticket_04_87,...
+d_nikke_soline_frostticket_04_88,You really are becoming an adult.
+d_nikke_soline_frostticket_04_89,... I suppose I'll miss that a little.
+d_nikke_soline_frostticket_04_90,The meeting doesn't end until dawn.
+d_nikke_soline_frostticket_04_91,"I drag my tired body to bed, too exhausted to think straight."
+d_nikke_soline_frostticket_04_92,...
+d_nikke_soline_frostticket_04_93,... Soline must be disappointed.
+d_nikke_soline_frostticket_04_94,The date she'd been looking forward to ended so terribly.
+d_nikke_soline_frostticket_04_95,"I've been messaging her ever since the meeting wrapped up, but there's still no reply."
+d_nikke_soline_frostticket_04_96,"It's late now, so maybe she's asleep..."
+d_nikke_soline_frostticket_04_97,*Bzzzz*
+d_nikke_soline_frostticket_04_98,!
+d_nikke_soline_frostticket_04_99,I quickly grab my phone from the nightstand.
+d_nikke_soline_frostticket_04_100,It's a message from...
+d_nikke_soline_frostticket_04_101,Soline.
+m_nikke_soline_frostticket_04_1,"Hey, Commander!"
+m_nikke_soline_frostticket_04_2,Why'd you send me so many texts?
+m_nikke_soline_frostticket_04_3,I was worried when I couldn't reach you.
+m_nikke_soline_frostticket_04_4,"Oh, sorry!"
+m_nikke_soline_frostticket_04_5,I didn't mean to make you worry or anything.
+m_nikke_soline_frostticket_04_6,"Anyway, Commander..."
+m_nikke_soline_frostticket_04_7,are you free tomorrow?
+m_nikke_soline_frostticket_04_8,"Yeah, of course."
+m_nikke_soline_frostticket_04_9,Really?!
+m_nikke_soline_frostticket_04_10,We're gonna meet again that soon?
+m_nikke_soline_frostticket_04_11,Wasn't today a bit disappointing?
+m_nikke_soline_frostticket_04_12,Yeah!!!
+m_nikke_soline_frostticket_04_13,I was so bummed out!
+m_nikke_soline_frostticket_04_14,So... wanna meet at the cafe tomorrow?
+m_nikke_soline_frostticket_04_15,Sounds great.
+m_nikke_soline_frostticket_04_16,"Okay, see you tomorrow!"
+m_nikke_soline_frostticket_04_17,"Wait... it's past midnight already, so it should be later?"
+m_nikke_soline_frostticket_04_18,"Ah, whatever! I'll see you after I wake up!"
+d_nikke_soline_frostticket_04_102,Whew...
+d_nikke_soline_frostticket_04_103,"Thankfully, Soline's messages sound just like they always do."
+d_nikke_soline_frostticket_04_104,I should get to bed early since we're meeting tomorrow.
+d_nikke_soline_frostticket_04_105,"Today's the day I finally get to see Soline again,"
+d_nikke_soline_frostticket_04_106,and I end up arriving way before our meeting time.
+d_nikke_soline_frostticket_04_107,Maybe I should grab us a seat...
+d_nikke_soline_frostticket_04_108,Oh! Commander?
+d_nikke_soline_frostticket_04_109,?
+d_nikke_soline_frostticket_04_110,I turn around and see Soline waving at me with a bright smile.
+d_nikke_soline_frostticket_04_111,Over here!
+d_nikke_soline_frostticket_05_title,What It Means to Be an Adult
+d_nikke_soline_frostticket_05_1,"Oh, you're here early."
+d_nikke_soline_frostticket_05_2,That's because we're on a date today!
+d_nikke_soline_frostticket_05_3,... I'm also dying to see you.
+d_nikke_soline_frostticket_05_4,That's very sweet of you.
+d_nikke_soline_frostticket_05_5,H-hehe!
+d_nikke_soline_frostticket_05_6,"Well, that's a relief!"
+d_nikke_soline_frostticket_05_7,Shall we order first?
+d_nikke_soline_frostticket_05_8,Sure!
+d_nikke_soline_frostticket_05_9,I'll have this... and this!
+d_nikke_soline_frostticket_05_10,No more adult coffee for you?
+d_nikke_soline_frostticket_05_11,"Oh, coffee?"
+d_nikke_soline_frostticket_05_12,Remember how much you struggled last time when I threw up?
+d_nikke_soline_frostticket_05_13,I can't pull the same stunt again... so I'll skip it today.
+d_nikke_soline_frostticket_05_14,Looks like you've grown up.
+d_nikke_soline_frostticket_05_15,I-is that so?
+d_nikke_soline_frostticket_05_16,Glad to hear it...
+d_nikke_soline_frostticket_05_17,...
+d_nikke_soline_frostticket_05_18,"Commander,"
+d_nikke_soline_frostticket_05_19,can I say something?
+d_nikke_soline_frostticket_05_20,"Sure, what is it?"
+d_nikke_soline_frostticket_05_21,... Sorry about yesterday.
+d_nikke_soline_frostticket_05_22,I was throwing tantrums and got all annoyed on our date.
+d_nikke_soline_frostticket_05_23,I really am sorry.
+d_nikke_soline_frostticket_05_24,"... Wait, what's gotten into you?"
+d_nikke_soline_frostticket_05_25,I realized something yesterday.
+d_nikke_soline_frostticket_05_26,"Even if it's an adult date,"
+d_nikke_soline_frostticket_05_27,it's not about just pretending to be an adult like I do.
+d_nikke_soline_frostticket_05_28,"I should be mature on the inside, like you, Commander."
+d_nikke_soline_frostticket_05_29,...
+d_nikke_soline_frostticket_05_30,So...
+d_nikke_soline_frostticket_05_31,would you give me just one chance?
+d_nikke_soline_frostticket_05_32,I'll make you happy all day!
+d_nikke_soline_frostticket_05_33,*Nom*
+d_nikke_soline_frostticket_05_34,Mmm...
+d_nikke_soline_frostticket_05_35,...
+d_nikke_soline_frostticket_05_36,!
+d_nikke_soline_frostticket_05_37,How is it?
+d_nikke_soline_frostticket_05_38,"Wow, this is amazing...!"
+d_nikke_soline_frostticket_05_39,I can't believe I haven't had this before...!
+d_nikke_soline_frostticket_05_40,"Commander, wanna try some?"
+d_nikke_soline_frostticket_05_41,But that's yours.
+d_nikke_soline_frostticket_05_42,Commander.
+d_nikke_soline_frostticket_05_43,You said it yourself last time. Don't tell me you forgot!
+d_nikke_soline_frostticket_05_44,We're a couple!
+d_nikke_soline_frostticket_05_45,"... Yeah, I did say that."
+d_nikke_soline_frostticket_05_46,"Heehee, so... say ""Ahhh!"""
+d_nikke_soline_frostticket_05_47,Ahhh...
+d_nikke_soline_frostticket_05_48,"Soline has planned everything to perfection,"
+d_nikke_soline_frostticket_05_49,"and the day passes in a blink. Before I know it, the sun is setting."
+d_nikke_soline_frostticket_05_50,"Phew... that was really yummy, right?"
+d_nikke_soline_frostticket_05_51,It was the best.
+d_nikke_soline_frostticket_05_52,!
+d_nikke_soline_frostticket_05_53,Th-thanks...
+d_nikke_soline_frostticket_05_54,...
+d_nikke_soline_frostticket_05_55,C-Commander...
+d_nikke_soline_frostticket_05_56,Can we still meet like this sometimes?
+d_nikke_soline_frostticket_05_57,"I-I know you're busy, and it's hard to find time,"
+d_nikke_soline_frostticket_05_58,but even just once in a while would be fine...
+d_nikke_soline_frostticket_05_59,Sounds good to me.
+d_nikke_soline_frostticket_05_60,!
+d_nikke_soline_frostticket_05_61,R-really?!
+d_nikke_soline_frostticket_05_62,Huh?
+d_nikke_soline_frostticket_05_63,Isn't that the little girl from before?
+d_nikke_soline_frostticket_05_64,"Ugh, let's stay away..."
+d_nikke_soline_frostticket_05_65,She might throw another tantrum like last time.
+d_nikke_soline_frostticket_05_66,...
+d_nikke_soline_frostticket_05_67,"Y-yeah, let's go."
+d_nikke_soline_frostticket_05_68,Kids these days are scary.
+d_nikke_soline_frostticket_05_69,You can't say a thing to them.
+d_nikke_soline_frostticket_05_70,Excuse me...
+d_nikke_soline_frostticket_05_71,*Grab*
+d_nikke_soline_frostticket_05_72,Soline tugs on my arm.
+d_nikke_soline_frostticket_05_73,...
+d_nikke_soline_frostticket_05_74,"Commander, let's just go."
+d_nikke_soline_frostticket_05_75,... Are you sure?
+d_nikke_soline_frostticket_05_76,"Yeah,"
+d_nikke_soline_frostticket_05_77,it's a waste of time to get worked up over stuff like that.
+d_nikke_soline_frostticket_05_78,"Sure, it makes me mad,"
+d_nikke_soline_frostticket_05_79,but...
+d_nikke_soline_frostticket_05_80,we're on a date today.
+d_nikke_soline_frostticket_05_81,...
+d_nikke_soline_frostticket_05_82,So I'm gonna hold myself back just for today.
+d_nikke_soline_frostticket_05_83,"Hehe... you'll do the same, right, Commander?"
+d_nikke_soline_frostticket_05_84,... All right.
+d_nikke_soline_frostticket_05_85,"Hehe, thanks."
+d_nikke_soline_frostticket_05_86,"""Ha, you don't have to make it sound so grand."""
+d_nikke_soline_frostticket_05_87,"""I only did what I was assigned to."""
+d_nikke_soline_frostticket_05_88,"""Most importantly, how are you feeling?"""
+d_nikke_soline_frostticket_05_89,*Siiiiiip*
+d_nikke_soline_frostticket_05_90,*Crunch crunch*
+d_nikke_soline_frostticket_05_91,"Next, he's going to say..."
+d_nikke_soline_frostticket_05_92,D-don't spoil it!
+d_nikke_soline_frostticket_05_93,It's just getting good...!
+d_nikke_soline_frostticket_05_94,... Sorry.
+d_nikke_soline_frostticket_05_95,"""Thanks to you... everyone's safe."""
+d_nikke_soline_frostticket_05_96,"""That's good to hear."""
+d_nikke_soline_frostticket_05_97,Zzz...
+d_nikke_soline_frostticket_05_98,*Snore*
+d_nikke_soline_frostticket_05_99,...
+d_nikke_soline_frostticket_05_100,Com...
+d_nikke_soline_frostticket_05_101,... mander!
+d_nikke_soline_frostticket_05_102,C-Commander! Wake up!
+d_nikke_soline_frostticket_05_103,!
+d_nikke_soline_frostticket_05_104,Wh-what happened?
+d_nikke_soline_frostticket_05_105,"Oh nooo, this is bad!"
+d_nikke_soline_frostticket_05_106,We must've fallen asleep while watching the movie yesterday...!
+d_nikke_soline_frostticket_05_107,I turn to look at the clock.
+d_nikke_soline_frostticket_05_108,!
+d_nikke_soline_frostticket_05_109,"If we get ready right now, we can still make it to work on time!"
+d_nikke_soline_frostticket_05_110,I'll be the first to wash up!
+d_nikke_soline_frostticket_05_111,*Crash*
+d_nikke_soline_frostticket_05_112,*Swoosh*
+d_nikke_soline_frostticket_05_113,The morning after the date.
+d_nikke_soline_frostticket_05_114,Another busy week begins.
+d_nikke_soline_frostticket_05_115,"*Knock, knock, knock*"
+d_nikke_soline_frostticket_05_116,I need to wash up too...
+d_nikke_soline_frostticket_05_117,"This week's going to be hectic and exhausting, as usual."
+d_nikke_soline_frostticket_05_118,I-I can't just shower with you!
+d_nikke_soline_frostticket_05_119,"Even now, it's the little, precious moments like these"
+d_nikke_soline_frostticket_05_120,that give us the strength to go on.
+d_nikke_soline_frostticket_05_121,Just wait a sec...! I'll be done in a flash!
+d_nikke_soline_frostticket_05_122,"Soline, I got you a towel."
+d_nikke_soline_frostticket_05_123,A-aah!
+d_nikke_soline_frostticket_05_124,D-don't come in! Just leave it at the door!
+d_nikke_soline_frostticket_05_125,Maybe that's what it means to be an adult.
 d_nikke_ce007_01_01_title,The Altar
 d_nikke_ce007_01_01_1,The D-WAVE.
 d_nikke_ce007_01_01_2,The chain of disappearances.
@@ -93183,7 +93735,7 @@ d_nikke_delta_ninjathief_02_3,"Seeing Delta rush off somewhere in such a hurry, 
 d_nikke_delta_ninjathief_02_4,"Her lovely face was full of worry,"
 d_nikke_delta_ninjathief_02_5,"so how could we, as her senior, simply stand by and watch?"
 d_nikke_delta_ninjathief_02_6,That's right!
-d_nikke_delta_ninjathief_02_7,We've finally figured out what's been troubling Delta!
+d_nikke_delta_ninjathief_02_7,And now we've finally figured out what's been bugging Delta!
 d_nikke_delta_ninjathief_02_8,And sneaking into a guy's place in the middle of night?
 d_nikke_delta_ninjathief_02_9,Heehee... who knows what kind of fun you might stumble into?
 d_nikke_delta_ninjathief_02_10,"Ugh, this is giving me a headache..."
@@ -93207,7 +93759,7 @@ d_nikke_delta_ninjathief_02_27,"I have made no progress, yet again."
 d_nikke_delta_ninjathief_02_28,What must I do to truly improve...?
 d_nikke_delta_ninjathief_02_29,*Rustle*
 d_nikke_delta_ninjathief_02_30,!
-d_nikke_delta_ninjathief_02_31,*Flutter* *Tap!*
+d_nikke_delta_ninjathief_02_31,*Whoosh* *Thwack!*
 d_nikke_delta_ninjathief_02_32,Who goes there?
 d_nikke_delta_ninjathief_02_33,A-ah!
 d_nikke_delta_ninjathief_02_34,"W-were I to startle you twice, I might very well lose my head..."
@@ -93291,7 +93843,7 @@ d_nikke_delta_ninjathief_03_2,"Ready, Miranda?"
 d_nikke_delta_ninjathief_03_3,"Yep, I'm all ready!"
 d_nikke_delta_ninjathief_03_4,You can start whenever you like!
 d_nikke_delta_ninjathief_03_5,*Beep*
-d_nikke_delta_ninjathief_03_6,"Can you hear me, Monsieur?"
+d_nikke_delta_ninjathief_03_6,"Do you hear me, Monsieur?"
 d_nikke_delta_ninjathief_03_7,"Yeah, loud and clear."
 d_nikke_delta_ninjathief_03_8,Delta is heading your way.
 d_nikke_delta_ninjathief_03_9,"Her speed exceeds expectations, so please begin at once."
@@ -93345,7 +93897,7 @@ d_nikke_delta_ninjathief_03_56,Surely you know better than anyone why I came.
 d_nikke_delta_ninjathief_03_57,"I shall reclaim what was taken,"
 d_nikke_delta_ninjathief_03_58,and you shall release Miranda.
 d_nikke_delta_ninjathief_03_59,Is this what you're looking for?
-d_nikke_delta_ninjathief_03_60,*Slide*
+d_nikke_delta_ninjathief_03_60,*Swish*
 d_nikke_delta_ninjathief_03_61,!
 d_nikke_delta_ninjathief_03_62,"Good, it's fortunate we understand each other."
 d_nikke_delta_ninjathief_03_63,Hand it over to me.
@@ -93913,7 +94465,7 @@ d_nikke_liberalio_04_58,I might...
 d_nikke_liberalio_04_59,*Rummmble*
 d_nikke_liberalio_04_60,"The old ceiling fragments collapse, plummeting straight toward Liberalio."
 d_nikke_liberalio_04_61,Watch out!
-d_nikke_liberalio_05_title,The Cornerstone of Evolution
+d_nikke_liberalio_05_title,The Cornerstone of Change
 d_nikke_liberalio_05_1,Ugh...
 d_nikke_liberalio_05_2,My body aches all over.
 d_nikke_liberalio_05_3,"Human, why did you try to bury yourself under the rubble?"

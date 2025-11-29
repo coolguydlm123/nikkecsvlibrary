@@ -64,6 +64,7 @@ id,item_type,item_id,auto_charge_plus,auto_charge_max
 10090,Item,7070090,5,5
 10092,Item,7070092,5,5
 10093,Item,7070093,5,5
+10095,Item,7070095,5,5
 20001,Currency,6003,3,3
 30001,Item,7070005,3,3
 30002,Item,7071001,1,1
@@ -124,3 +125,4 @@ id,item_type,item_id,auto_charge_plus,auto_charge_max
 40090,Item,7110090,1,1
 40092,Item,7110092,1,1
 40093,Item,7110093,1,1
+40095,Item,7110095,1,1

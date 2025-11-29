@@ -383,7 +383,7 @@ trigger_desc_EventBFGCleanUpRewardCheck,Obtain daily rewards in BFG CLEAN UP!
 trigger_desc_ObtainEventCurrencyMaterialBTG,Obtain {0} Premium Tea Bag(s)
 trigger_desc_EventRopeRunningRewardCheck,Obtain daily rewards in MADE IN RUSH
 trigger_desc_ObtainEventCurrencyMaterialCIR,Obtain {0} Intel List(s)
-trigger_desc_EventMiniGameCE007RewardCheck,Obtain daily rewards in Salvation Breakers
+trigger_desc_EventMiniGameCE007RewardCheck,Obtain daily rewards in SALVATION BREAKERS
 trigger_desc_ObtainEventCurrencyMaterialCE007,Obtain {0} Mixed Herbs
 trigger_desc_EventMiniGameREPlayCheck,Play REBUILD: EDEN {0} time(s)
 trigger_desc_ObtainEventCurrencyMaterialGF,Earn {0} Eden Point(s)

@@ -11899,7 +11899,7 @@ event_bowwowparadise_06_e_37,*Ahwoooooo*
 event_bowwowparadise_06_e_38,Biscuit and the dogs frolic amongst the large field.
 event_bowwowparadise_06_e_39,"Finally, there's a place where these dogs can be happy."
 event_bowwowparadise_06_e_40,That place is called Bow Wow Paradise.
-event_bowwowparadise_06_e_41,Bow Wow Paradise: End
+event_bowwowparadise_06_e_41,BOW WOW PARADISE: END
 event_bowwowparadise_epilogue_title,A Place Where I Belong
 event_bowwowparadise_epilogue_1,I'm Max.
 event_bowwowparadise_epilogue_2,"The leader of Bow Wow Paradise, and a dog with dignity."
@@ -35670,7 +35670,7 @@ event_schooloflock_06_e_73,I'm sorry...
 event_schooloflock_06_e_74,I'm so sorry...
 event_schooloflock_06_e_75,Marciana ushers in the new semester.
 event_schooloflock_06_e_76,Just as she always has.
-event_schooloflock_06_e_77,School of Lock: End
+event_schooloflock_06_e_77,SCHOOL OF LOCK: END
 event_schooloflock_epilogue_title,Off the Record.
 event_schooloflock_epilogue_1,Ether...
 event_schooloflock_epilogue_2,Why are you helping me?
@@ -38838,7 +38838,7 @@ snowfall_episode_noirblanc_04_214,"Although it wasn't exactly the most verbose s
 snowfall_episode_noirblanc_04_215,"we knew perfectly well what Lumi was trying to say,"
 snowfall_episode_noirblanc_04_216,and it brought a smile to all of our faces.
 snowfall_episode_noirblanc_04_217,"And with that, the legend of the hot spring came to an auspicious end."
-snowfall_episode_noirblanc_04_218,Noir and Blanc: End
+snowfall_episode_noirblanc_04_218,Noir and Blanc: END
 snowfall_episode_noirblanc_05_title,Luck Comes When Three Enter the Hot Spring
 snowfall_episode_noirblanc_05_1,Blanc and Noir are waiting for me at the hot spring.
 snowfall_episode_noirblanc_05_2,What should I do?
@@ -65351,11 +65351,11 @@ event_darkhero_prologue_34,How beautiful.
 event_darkhero_prologue_35,"Surrounded by piles of shattered Rapture debris,"
 event_darkhero_prologue_36,"the Black Ark Ranger looks up at the sky, her dignified posture giving her the true air of..."
 event_darkhero_prologue_37,... a hero.
-event_darkhero_prologue_38,"Ha, there's no need for such grand proclamations."
-event_darkhero_prologue_39,I merely completed the mission which was assigned to me.
-event_darkhero_prologue_40,"More importantly, is everyone all right?"
-event_darkhero_prologue_41,"Yes, everyone's safe, thanks to you."
-event_darkhero_prologue_42,Good.
+event_darkhero_prologue_38,"Ha, you don't have to make it sound so grand."
+event_darkhero_prologue_39,I only did what I was assigned to.
+event_darkhero_prologue_40,"Most importantly, how are you feeling?"
+event_darkhero_prologue_41,Thanks to you... everyone's safe.
+event_darkhero_prologue_42,That's good to hear.
 event_darkhero_prologue_43,Can you stand?
 event_darkhero_prologue_44,...
 event_darkhero_prologue_45,"Glancing at the array of devastated Raptures before her, the Nikke lowers her head."
@@ -97577,6 +97577,1338 @@ event_lordforjustice_epilogue_88,X pauses as he reaches again for his glass.
 event_lordforjustice_epilogue_89,"Hmm... the more I think about it, the more I like it."
 event_lordforjustice_epilogue_90,For the sake of a righteous judgment...
 event_lordforjustice_epilogue_91,"LORD, FOR JUSTICE: END"
+event_blankticket_prologue_title,Trapped in the Ark
+event_blankticket_prologue_1,"May 8, XX."
+event_blankticket_prologue_2,I went on a 10-day trip to a resort down south.
+event_blankticket_prologue_3,"The balmy air, the blazing sun."
+event_blankticket_prologue_4,"The vast, open sea."
+event_blankticket_prologue_5,Fruits ripened to perfect sweetness.
+event_blankticket_prologue_6,People full of life roamed all around.
+event_blankticket_prologue_7,"Just sitting there and taking it all in was delightful, so I stayed for quite a while."
+event_blankticket_prologue_8,"I got a bit too much sun, and now my shoulders look like tomatoes."
+event_blankticket_prologue_9,I guess I need to pack stronger sunscreen when visiting these hotter regions.
+event_blankticket_prologue_10,"August 2, XX."
+event_blankticket_prologue_11,I took a 16-day trip to a snowy mountain range in the north.
+event_blankticket_prologue_12,I'd never seen such breathtaking scenery in my life.
+event_blankticket_prologue_13,"The world was blanketed in pure white, and not even the freezing temperatures could diminish the magic."
+event_blankticket_prologue_14,"And of course, I gave up halfway up the mountain."
+event_blankticket_prologue_15,"I thought I was in decent shape, but this one was just too much."
+event_blankticket_prologue_16,"Still, I snapped a great photo at a scenic spot along the way, so it was still worth it."
+event_blankticket_prologue_17,"If I ever get another chance, I'd love to come back someday."
+event_blankticket_prologue_18,"October 21, XX."
+event_blankticket_prologue_19,"I'm going underground because, get this, of an alien invasion of some kind."
+event_blankticket_prologue_20,"They're calling this place the ""Ark""."
+event_blankticket_prologue_21,"I've explored some ruins and underground caves before, but this is the first time going down this deep."
+event_blankticket_prologue_22,"Looks like I'll be staying here for a while, so I'll treat it like a break and try to relax."
+event_blankticket_prologue_23,"Once the aliens are dealt with, I'll be off on another exciting trip in no time."
+event_blankticket_prologue_24,...
+event_blankticket_prologue_25,I just hope the aliens don't damage the surface too much.
+event_blankticket_prologue_26,There are still so many regions and cities that I want to see.
+event_blankticket_prologue_27,And...
+event_blankticket_prologue_28,There's one place in particular that I absolutely have to return to.
+event_blankticket_prologue_29,Traveling is off the table.
+event_blankticket_prologue_30,"I've waited decades, but returning to the surface is still forbidden."
+event_blankticket_prologue_31,I am...
+event_blankticket_prologue_32,trapped here in the Ark.
+event_blankticket_prologue_33,*Psssshhh*
+event_blankticket_prologue_34,Wow!
+event_blankticket_prologue_35,"Dad, look over there!"
+event_blankticket_prologue_36,It's so pretty!
+event_blankticket_prologue_37,They certainly are.
+event_blankticket_prologue_38,"These buildings are quite impressive, and look how beautiful that park is!"
+event_blankticket_prologue_39,"It feels nice to get away for a while, doesn't it?"
+event_blankticket_prologue_40,"Hehe, yeah!"
+event_blankticket_prologue_41,It feels like we're on a real trip!
+event_blankticket_prologue_42,"Oooh, look at that building over there!"
+event_blankticket_prologue_43,*Thud*
+event_blankticket_prologue_44,Ah!
+event_blankticket_prologue_45,...
+event_blankticket_prologue_46,"Oh my, are you all right?"
+event_blankticket_prologue_47,"I'm so sorry, my daughter's just really excited..."
+event_blankticket_prologue_48,Hmph!
+event_blankticket_prologue_49,What's so pretty about those boring old buildings? Why all the fuss?
+event_blankticket_prologue_50,...!
+event_blankticket_prologue_51,I-I think they're pretty...
+event_blankticket_prologue_52,Bah!
+event_blankticket_prologue_53,What would a little snot-nosed kid like you know?
+event_blankticket_prologue_54,*Sniffle*...
+event_blankticket_prologue_55,"Next stop, Plaza Station. Plaza Station."
+event_blankticket_prologue_56,Doors will open on the left.
+event_blankticket_prologue_57,"... Come on, Honey. This is our stop."
+event_blankticket_prologue_58,Okay...
+event_blankticket_prologue_59,*Beep beep beep*
+event_blankticket_prologue_60,*Whoosh*
+event_blankticket_prologue_61,Hmph. No fun at all.
+event_blankticket_prologue_62,Nothing ever goes my way.
+event_blankticket_prologue_63,The train is about to depart.
+event_blankticket_prologue_64,"If you haven't boarded yet, please do so now."
+event_blankticket_prologue_65,*Beep beep beep*
+event_blankticket_prologue_66,*Whoosh* *Thunk*
+event_blankticket_01_s_title,Strange Old Lady: A
+event_blankticket_01_s_1,Ahem.
+event_blankticket_01_s_2,This is the last train service for today.
+event_blankticket_01_s_3,Please ensure you've collected all your belongings before exiting.
+event_blankticket_01_s_4,We thank you for traveling with us today and wish you a pleasant journey.
+event_blankticket_01_s_5,*Click*
+event_blankticket_01_s_6,Phew… that's a wrap.
+event_blankticket_01_s_7,"Great work today, Brid."
+event_blankticket_01_s_8,Thank you.
+event_blankticket_01_s_9,You and Soline did great too.
+event_blankticket_01_s_10,"Rrrgh,"
+event_blankticket_01_s_11,I'm not done yet!
+event_blankticket_01_s_12,"Oh, right. You're on closing duty this week."
+event_blankticket_01_s_13,I can switch with you if you're really tired.
+event_blankticket_01_s_14,Who said anything about being tired?!
+event_blankticket_01_s_15,I won't hear another word of it!
+event_blankticket_01_s_16,"If you're not tired, could it be that you're scared?"
+event_blankticket_01_s_17,"After all, you'll be alone checking the train when no one else is around."
+event_blankticket_01_s_18,...!
+event_blankticket_01_s_19,Th-that's ridiculous!
+event_blankticket_01_s_20,Why in the world would that scare me? I'm not a little kid.
+event_blankticket_01_s_21,"Once we arrive, you two go ahead and clock out. Don't worry about me."
+event_blankticket_01_s_22,I'll wrap things up and clean up the train before I leave.
+event_blankticket_01_s_23,"Hehe, very well."
+event_blankticket_01_s_24,"We'll leave it in your capable hands, Soline."
+event_blankticket_01_s_25,We're counting on you.
+event_blankticket_01_s_26,Mmm!
+event_blankticket_01_s_27,Phew...
+event_blankticket_01_s_28,"Okay, Car 1."
+event_blankticket_01_s_29,"No trash, no lost items."
+event_blankticket_01_s_30,All clear.
+event_blankticket_01_s_31,Lights out in Car 1!
+event_blankticket_01_s_32,*Zzzzzt*
+event_blankticket_01_s_33,"One by one, the lights in the carriage start to go out."
+event_blankticket_01_s_34,All good here.
+event_blankticket_01_s_35,Just one car left.
+event_blankticket_01_s_36,"Heh, I knew this wouldn't be a big deal!"
+event_blankticket_01_s_37,I've done this tons of times. No reason to be scared.
+event_blankticket_01_s_38,I'm not some little kid.
+event_blankticket_01_s_39,*Rustle*
+event_blankticket_01_s_40,...!
+event_blankticket_01_s_41,Wh-what was that?!
+event_blankticket_01_s_42,...
+event_blankticket_01_s_43,Some trash?
+event_blankticket_01_s_44,Are the cleaning robots on the fritz?
+event_blankticket_01_s_45,*Creeeaaak*
+event_blankticket_01_s_46,Eeeeek!
+event_blankticket_01_s_47,Wh-who's there?!
+event_blankticket_01_s_48,"Identify yourself, or I'll sh-shoot!"
+event_blankticket_01_s_49,Good grief.
+event_blankticket_01_s_50,What is that infernal racket?
+event_blankticket_01_s_51,"Pipe down, will you?"
+event_blankticket_01_s_52,!!
+event_blankticket_01_s_53,A human?
+event_blankticket_01_s_54,What'd you expect? A ghost who died of old age?
+event_blankticket_01_s_55,No...
+event_blankticket_01_s_56,But what are you doing here?
+event_blankticket_01_s_57,What does it look like I'm doing?
+event_blankticket_01_s_58,I'm sitting.
+event_blankticket_01_s_59,That's not what I meant!
+event_blankticket_01_s_60,What are you doing in a train that's out of service?
+event_blankticket_01_s_61,"You listen to me, Whippersnapper."
+event_blankticket_01_s_62,You better watch your tone.
+event_blankticket_01_s_63,Whippersnapper?
+event_blankticket_01_s_64,I'm not a kid!
+event_blankticket_01_s_65,I'm a crew member of this train!
+event_blankticket_01_s_66,That makes it even more outrageous!
+event_blankticket_01_s_67,Is that how a crew member should speak to a passenger?
+event_blankticket_01_s_68,...
+event_blankticket_01_s_69,"Just get off, will you?"
+event_blankticket_01_s_70,The train's done for the day.
+event_blankticket_01_s_71,"Can't even find it in you to ask politely, can you?"
+event_blankticket_01_s_72,"Instead, you just go around screaming your lungs out."
+event_blankticket_01_s_73,"Kids these days have no manners at all, I tell ya."
+event_blankticket_01_s_74,What if I don't want to leave?
+event_blankticket_01_s_75,Then... Then you're being a public nuisance!
+event_blankticket_01_s_76,I'll call the police!
+event_blankticket_01_s_77,Oh yeah?
+event_blankticket_01_s_78,Be my guest.
+event_blankticket_01_s_79,I'll take a nap while we wait.
+event_blankticket_01_s_80,What?!
+event_blankticket_01_s_81,Wake me up when they get here.
+event_blankticket_01_s_82,...
+event_blankticket_01_s_83,Zzzzzz...
+event_blankticket_01_s_84,What in the world is going on...
+event_blankticket_01_e_title,Strange Old Lady: B
+event_blankticket_01_e_1,"Hello there, Soline."
+event_blankticket_01_e_2,"You've been working hard, I see."
+event_blankticket_01_e_3,"Poli, finally! What took you so long?"
+event_blankticket_01_e_4,"Anyway,"
+event_blankticket_01_e_5,please do something about this old lady.
+event_blankticket_01_e_6,Hmm.
+event_blankticket_01_e_7,"You said she's refusing to get off the train, even though service is over for the day?"
+event_blankticket_01_e_8,That's right!
+event_blankticket_01_e_9,Are you sure she's not trying to hitch a free ride?
+event_blankticket_01_e_10,"No, I checked. She has a valid ticket."
+event_blankticket_01_e_11,I see.
+event_blankticket_01_e_12,All right. Take me to her.
+event_blankticket_01_e_13,This way.
+event_blankticket_01_e_14,Soline leads Poli to the last car of the train.
+event_blankticket_01_e_15,Zzzzzz...
+event_blankticket_01_e_16,Is this her?
+event_blankticket_01_e_17,Yeah.
+event_blankticket_01_e_18,"I tried everything, but I can't get her to wake up."
+event_blankticket_01_e_19,"By the end, she was even hurling insults at me!"
+event_blankticket_01_e_20,And then she just fell asleep like it was nothing!
+event_blankticket_01_e_21,That's gotta count as a public nuisance
+event_blankticket_01_e_22,"or something, right?!"
+event_blankticket_01_e_23,"Yes, it certainly does."
+event_blankticket_01_e_24,And saying you have no manners... she's the one who needs some manners!
+event_blankticket_01_e_25,"All righty, I'll try waking her up."
+event_blankticket_01_e_26,Ahem.
+event_blankticket_01_e_27,"Ma'am, could you please wake up?"
+event_blankticket_01_e_28,Mmm?
+event_blankticket_01_e_29,Wh-who are you...?
+event_blankticket_01_e_30,"I'm Officer Poli, from the A.C.P.U."
+event_blankticket_01_e_31,I received a report from one of the crew members on this train.
+event_blankticket_01_e_32,"Apparently, she found you sleeping after the train was done for the day."
+event_blankticket_01_e_33,"Oh dear, heavens!"
+event_blankticket_01_e_34,I don't know what's gotten into me!
+event_blankticket_01_e_35,I must have dozed off...
+event_blankticket_01_e_36,...?
+event_blankticket_01_e_37,Have I been keeping you from going home?
+event_blankticket_01_e_38,Uh... yeah...?
+event_blankticket_01_e_39,"Sorry about that, miss. I'll get off right away."
+event_blankticket_01_e_40,"And Officer, I'm sorry you had to come all this way for nothing..."
+event_blankticket_01_e_41,"Now that I'm older, these things happen every so often."
+event_blankticket_01_e_42,I see.
+event_blankticket_01_e_43,May I ask where you live?
+event_blankticket_01_e_44,"Where are we, exactly?"
+event_blankticket_01_e_45,"Actually, this is the AZX train depot."
+event_blankticket_01_e_46,We're a bit further in from the end of the line.
+event_blankticket_01_e_47,Oh dear... that's so far from my place...
+event_blankticket_01_e_48,"Don't worry, I can escort you home."
+event_blankticket_01_e_49,Oh my... I really hate to trouble you like this.
+event_blankticket_01_e_50,"It's no problem, ma'am."
+event_blankticket_01_e_51,It's part of my duty as an officer of the law.
+event_blankticket_01_e_52,Wait a second!
+event_blankticket_01_e_53,You're acting totally different from before!
+event_blankticket_01_e_54,"You were calling me all sorts of names a while ago, and now you're calling me ""Miss""?"
+event_blankticket_01_e_55,"And before, I couldn't wake you up no matter what I did!"
+event_blankticket_01_e_56,I... I did?
+event_blankticket_01_e_57,Soline.
+event_blankticket_01_e_58,What?
+event_blankticket_01_e_59,Poli approaches Soline and whispers softly.
+event_blankticket_01_e_60,"At her age, memories can get a little fuzzy sometimes."
+event_blankticket_01_e_61,"I'm not excusing her behavior,"
+event_blankticket_01_e_62,but I think it might be best to let her go home today.
+event_blankticket_01_e_63,...!
+event_blankticket_01_e_64,Well... that could be it...
+event_blankticket_01_e_65,I guess there's no reason to get so upset.
+event_blankticket_01_e_66,"I'll make sure she gets home safely, so don't you worry about anything."
+event_blankticket_01_e_67,... Okay. Just keep her out of trouble.
+event_blankticket_01_e_68,Will do.
+event_blankticket_01_e_69,Umm...
+event_blankticket_01_e_70,Ma'am?
+event_blankticket_01_e_71,"Yes, miss?"
+event_blankticket_01_e_72,I'm sorry for yelling at you earlier.
+event_blankticket_01_e_73,And... thank you for riding with us today.
+event_blankticket_01_e_74,Of course!
+event_blankticket_01_e_75,"You're a fine crew member, you know that?"
+event_blankticket_01_e_76,"I'll see you around, Soline."
+event_blankticket_01_e_77,"Yeah, see you."
+event_blankticket_01_e_78,The next night.
+event_blankticket_01_e_79,"Well, well, if it isn't the locomotive lamebrain."
+event_blankticket_01_e_80,?!
+event_blankticket_02_s_title,The Crew's Duties: A
+event_blankticket_02_s_1,...
+event_blankticket_02_s_2,"Hello again, ma'am."
+event_blankticket_02_s_3,Hmph! Why are you talking so nicely all of a sudden?
+event_blankticket_02_s_4,Why don't you mouth off like you did yesterday?
+event_blankticket_02_s_5,I... didn't realize that you were unwell.
+event_blankticket_02_s_6,I misspoke yesterday.
+event_blankticket_02_s_7,Unwell? Me?
+event_blankticket_02_s_8,Pfft!
+event_blankticket_02_s_9,You really fell for that innocent old lady act I pulled yesterday?
+event_blankticket_02_s_10,What...?
+event_blankticket_02_s_11,Getting caught by the police would be a real pain in the neck.
+event_blankticket_02_s_12,"So, how's my acting? I'm a great thespian, aren't I?"
+event_blankticket_02_s_13,Argh!
+event_blankticket_02_s_14,What is wrong with this lady?
+event_blankticket_02_s_15,Ha! You should see your face! Absolutely priceless.
+event_blankticket_02_s_16,"Let me guess. You're not going to leave again, even if I tell you to."
+event_blankticket_02_s_17,That's right. I'm not going anywhere.
+event_blankticket_02_s_18,Argh!
+event_blankticket_02_s_19,Why are you doing this?!
+event_blankticket_02_s_20,Do you not have anywhere else to go?
+event_blankticket_02_s_21,...
+event_blankticket_02_s_22,You could say that.
+event_blankticket_02_s_23,But you said you were going home yesterday.
+event_blankticket_02_s_24,I did. I have a place where I can eat and sleep.
+event_blankticket_02_s_25,Ugh... you're impossible to talk to!
+event_blankticket_02_s_26,Fine. Do whatever you want!
+event_blankticket_02_s_27,*Plop*
+event_blankticket_02_s_28,Huh?
+event_blankticket_02_s_29,Giving up already?
+event_blankticket_02_s_30,"You said you're not leaving, so what else can I do?"
+event_blankticket_02_s_31,"I'll put up with it today, but I'm telling Diesel and Brid tomorrow."
+event_blankticket_02_s_32,Why not call the cops again?
+event_blankticket_02_s_33,"If you put in another bravura performance like you did yesterday, I'll be the one who ends up looking crazy."
+event_blankticket_02_s_34,"Besides, I'd feel bad calling Poli over again at this hour. She's got enough on her plate."
+event_blankticket_02_s_35,...
+event_blankticket_02_s_36,"I can hold out for one night, no problem!"
+event_blankticket_02_s_37,Is that so?
+event_blankticket_02_s_38,So you're planning to stay up all night and keep watch on me?
+event_blankticket_02_s_39,That's right.
+event_blankticket_02_s_40,Foolish kid.
+event_blankticket_02_s_41,Fine. Do your worst.
+event_blankticket_02_s_42,...
+event_blankticket_02_s_43,Doo doo doo♪
+event_blankticket_02_s_44,...
+event_blankticket_02_s_45,Doo dee dah♪
+event_blankticket_02_s_46,*Yawn*
+event_blankticket_02_s_47,"Hey, aren't you sleepy?"
+event_blankticket_02_s_48,Don't you think it's about time to pack it up?
+event_blankticket_02_s_49,I'm too young to call it quits on life just yet.
+event_blankticket_02_s_50,What the... that's not what I meant!
+event_blankticket_02_s_51,...
+event_blankticket_02_s_52,"Wait, are you knitting?"
+event_blankticket_02_s_53,Yes.
+event_blankticket_02_s_54,"I'm good at many things,"
+event_blankticket_02_s_55,especially with my hands.
+event_blankticket_02_s_56,I can do just about anything with these puppies.
+event_blankticket_02_s_57,"Tch, what a show off."
+event_blankticket_02_s_58,"Besides, aren't people who are good at knitting supposed to make sweaters or something?"
+event_blankticket_02_s_59,What's the point of just making a flat square?
+event_blankticket_02_s_60,Hmph! You really are a clueless little brat.
+event_blankticket_02_s_61,"Now, quit bothering me. I can't concentrate."
+event_blankticket_02_s_62,Oh yeah? Then I'll just keep talking!
+event_blankticket_02_s_63,I won't answer then.
+event_blankticket_02_s_64,Fine by me! I'm happy talking to myself.
+event_blankticket_02_s_65,Hmph. What a childish brat.
+event_blankticket_02_s_66,... Line.
+event_blankticket_02_s_67,Soline.
+event_blankticket_02_s_68,...
+event_blankticket_02_s_69,Hmm?
+event_blankticket_02_s_70,Is it morning already?
+event_blankticket_02_s_71,"Hehe, that it is."
+event_blankticket_02_s_72,Did you sleep well?
+event_blankticket_02_s_73,"My body's a little stiff, but yeah."
+event_blankticket_02_s_74,What are you doing sleeping here?
+event_blankticket_02_s_75,Uh...?
+event_blankticket_02_s_76,...
+event_blankticket_02_s_77,Wait a sec.
+event_blankticket_02_s_78,Where's that old lady?
+event_blankticket_02_s_79,Old lady?
+event_blankticket_02_s_80,Yes!
+event_blankticket_02_s_81,"An obstinate, cranky old lady was sitting right here! Didn't you see her?"
+event_blankticket_02_s_82,No...
+event_blankticket_02_s_83,"When we arrived, you were the only one here."
+event_blankticket_02_s_84,"Well, you and this blanket."
+event_blankticket_02_s_85,Blanket...?
+event_blankticket_02_s_86,"Wait, this is..."
+event_blankticket_02_s_87,Dang it!
+event_blankticket_02_s_88,She ran off again!!
+event_blankticket_02_s_89,Oh my...
+event_blankticket_02_s_90,"Calm down, Soline."
+event_blankticket_02_s_91,What happened?
+event_blankticket_02_s_92,"Please, you've gotta believe me!"
+event_blankticket_02_s_93,A little while later.
+event_blankticket_02_s_94,So that's what happened...
+event_blankticket_02_s_95,Sounds like you've been through quite an ordeal.
+event_blankticket_02_s_96,She might show up again tonight. We'll stay here with you.
+event_blankticket_02_s_97,That's right.
+event_blankticket_02_s_98,Er...
+event_blankticket_02_s_99,"It wasn't that big a deal, honestly."
+event_blankticket_02_s_100,But I suppose it'd be nice to have you guys around.
+event_blankticket_02_s_101,"All right then, when today's service ends..."
+event_blankticket_02_s_102,Can you hear me?
+event_blankticket_02_s_103,Ms. Ingrid?
+event_blankticket_02_s_104,"Yes, I can hear you clearly."
+event_blankticket_02_s_105,"I know it's sudden,"
+event_blankticket_02_s_106,but I need all members of Infinity Rail to report to my office immediately.
+event_blankticket_02_s_107,Right now?
+event_blankticket_02_s_108,Yes.
+event_blankticket_02_s_109,But the first train is about to depart.
+event_blankticket_02_s_110,This is an urgent matter.
+event_blankticket_02_s_111,Switch to automatic train operation.
+event_blankticket_02_s_112,How long will this take?
+event_blankticket_02_s_113,"I can't say for sure, but it's going to take a while."
+event_blankticket_02_s_114,Hmm...
+event_blankticket_02_s_115,"If you're uneasy about leaving the train unattended, just send two of you over will do."
+event_blankticket_02_s_116,"But this concerns train operations on the surface, so decide fast and get moving."
+event_blankticket_02_s_117,Over and out.
+event_blankticket_02_s_118,...!
+event_blankticket_02_s_119,Train operations on the surface?
+event_blankticket_02_s_120,...
+event_blankticket_02_e_title,The Crew's Duties: B
+event_blankticket_02_e_1,What should we do?
+event_blankticket_02_e_2,"It sounds pretty urgent, so we should get going as soon as possible."
+event_blankticket_02_e_3,...
+event_blankticket_02_e_4,You two should go.
+event_blankticket_02_e_5,But...
+event_blankticket_02_e_6,Diesel is the leader
+event_blankticket_02_e_7,and Brid's the conductor.
+event_blankticket_02_e_8,So it makes the most sense for me to stay.
+event_blankticket_02_e_9,Will you be all right dealing with that passenger you mentioned earlier... the old lady?
+event_blankticket_02_e_10,Of course!
+event_blankticket_02_e_11,One more night with her isn't going to change anything.
+event_blankticket_02_e_12,"Besides, it's not like she's doing anything dangerous."
+event_blankticket_02_e_13,So quit worrying about me.
+event_blankticket_02_e_14,... All right.
+event_blankticket_02_e_15,"We'll contact the Commander on the way and ask him to provide backup,"
+event_blankticket_02_e_16,just in case.
+event_blankticket_02_e_17,The Commander?
+event_blankticket_02_e_18,You don't have to do that. I can handle this on my own.
+event_blankticket_02_e_19,"With us gone, you'll have a lot on your plate."
+event_blankticket_02_e_20,He'll only be here until we get back.
+event_blankticket_02_e_21,...
+event_blankticket_02_e_22,"All right, all right."
+event_blankticket_02_e_23,Be careful out there.
+event_blankticket_02_e_24,We will.
+event_blankticket_02_e_25,Take good care of the train!
+event_blankticket_02_e_26,"After Diesel contacts me, I head to the train to help Soline."
+event_blankticket_02_e_27,"So, what do I need to do?"
+event_blankticket_02_e_28,Ahem!
+event_blankticket_02_e_29,"I'm only going to say this once, so listen up."
+event_blankticket_02_e_30,See this tablet? It shows which seats are reserved and which are empty.
+event_blankticket_02_e_31,"If someone's sitting in a seat marked as empty, check their ticket."
+event_blankticket_02_e_32,Got it?
+event_blankticket_02_e_33,Seems easy enough.
+event_blankticket_02_e_34,"If you encounter any rowdy passengers while walking through, politely tell them to quiet down."
+event_blankticket_02_e_35,"If it gets out of hand, there are security staff at each station to whom we can hand the matter over."
+event_blankticket_02_e_36,Roger that.
+event_blankticket_02_e_37,Diesel and Brid are a bunch of worrywarts. I told them I could handle this on my own.
+event_blankticket_02_e_38,"Anyway, just try not to screw anything up."
+event_blankticket_02_e_39,*Bzzzzt*
+event_blankticket_02_e_40,No seat issues.
+event_blankticket_02_e_41,No loud passengers either.
+event_blankticket_02_e_42,*Bzzzzt*
+event_blankticket_02_e_43,Nothing here either.
+event_blankticket_02_e_44,...
+event_blankticket_02_e_45,Things are surprisingly calm on the train.
+event_blankticket_02_e_46,"There aren't any troublemakers, and I don't see any fare dodgers."
+event_blankticket_02_e_47,"Just like Soline said, this is something she could have easily handled on her own."
+event_blankticket_02_e_48,"This is the last train for the day, right?"
+event_blankticket_02_e_49,Yeah.
+event_blankticket_02_e_50,Phew...
+event_blankticket_02_e_51,What are you doing?
+event_blankticket_02_e_52,Ah...
+event_blankticket_02_e_53,I'm going to announce this is the last train.
+event_blankticket_02_e_54,Aren't the announcements usually pre-recorded?
+event_blankticket_02_e_55,"Usually, yes, but the end-of-day announcement is always delivered live."
+event_blankticket_02_e_56,... And it's always Diesel who does it.
+event_blankticket_02_e_57,Looks like you'll have to do it yourself today.
+event_blankticket_02_e_58,That's right.
+event_blankticket_02_e_59,...
+event_blankticket_02_e_60,...
+event_blankticket_02_e_61,...
+event_blankticket_02_e_62,Want some help?
+event_blankticket_02_e_63,No! This is my job!
+event_blankticket_02_e_64,I-I can do it!
+event_blankticket_02_e_65,Ahem!
+event_blankticket_02_e_66,Ah... um...
+event_blankticket_02_e_67,Th-this is the last train service for today.
+event_blankticket_02_e_68,Please ensure you've c-collected all your belongings before exiting.
+event_blankticket_02_e_69,We thank you for traveling with us today and wish you a p-pleasant journey.
+event_blankticket_02_e_70,*Click*
+event_blankticket_02_e_71,Phew...
+event_blankticket_02_e_72,"So, how was it?"
+event_blankticket_02_e_73,That was really cool.
+event_blankticket_02_e_74,R-really?
+event_blankticket_02_e_75,See? I told you I could do it if I tried!
+event_blankticket_02_e_76,... Diesel and Brid are running pretty late though.
+event_blankticket_02_e_77,That old lady is probably wandering around here somewhere.
+event_blankticket_02_e_78,Old lady?
+event_blankticket_02_e_79,"Commander,"
+event_blankticket_02_e_80,"I know you've been helping me all day,"
+event_blankticket_02_e_81,"so I hate to ask this, but..."
+event_blankticket_02_e_82,could you stick around a little longer?
+event_blankticket_02_e_83,Of course.
+event_blankticket_02_e_84,"Once we arrive at the depot, just follow me."
+event_blankticket_02_e_85,Got it.
+event_blankticket_02_e_86,I follow Soline's lead and head to the very last car of the train.
+event_blankticket_02_e_87,"There, I find an elderly woman sitting."
+event_blankticket_02_e_88,You see? There she is again!
+event_blankticket_02_e_89,She's been doing this for days now!
+event_blankticket_02_e_90,"Even if I tell her to leave, she refuses to go."
+event_blankticket_02_e_91,"What's up, knucklehead?"
+event_blankticket_02_e_92,I see you brought a handsome young man with you today.
+event_blankticket_02_e_93,She seems nice enough to me.
+event_blankticket_02_e_94,?!
+event_blankticket_02_e_95,"Just kidding, just kidding..."
+event_blankticket_03_s_title,Empty Train: A
+event_blankticket_03_s_1,So you two are my watchdogs today?
+event_blankticket_03_s_2,You really slept like a log yesterday.
+event_blankticket_03_s_3,Th-that was...
+event_blankticket_03_s_4,Today's announcement sounds different from usual.
+event_blankticket_03_s_5,"The other girl has such a pretty voice, but you were stuttering and quivering like crazy. It sounded terrible."
+event_blankticket_03_s_6,Grr...!!
+event_blankticket_03_s_7,Stop flapping your gums and get lost!
+event_blankticket_03_s_8,You've been hanging around here for three days straight.
+event_blankticket_03_s_9,Don't you have any family waiting for you?
+event_blankticket_03_s_10,Family?
+event_blankticket_03_s_11,Hmm... who knows.
+event_blankticket_03_s_12,Maybe things would've been better if I did.
+event_blankticket_03_s_13,...!
+event_blankticket_03_s_14,Don't you start with that pitiful act!
+event_blankticket_03_s_15,I'm not falling for that this time!
+event_blankticket_03_s_16,"I know this may be hard to believe, but I'm still single."
+event_blankticket_03_s_17,Got any decent guys to introduce me to?
+event_blankticket_03_s_18,Huh?
+event_blankticket_03_s_19,"Your friend here seems like a good catch, haha!"
+event_blankticket_03_s_20,"What are you on about, you crazy old lady?!"
+event_blankticket_03_s_21,"Wait, she's been doing this for three days?"
+event_blankticket_03_s_22,Yes!
+event_blankticket_03_s_23,She doesn't even listen to a single word I say!
+event_blankticket_03_s_24,Hmm...
+event_blankticket_03_s_25,"Ma'am, could you tell us your name?"
+event_blankticket_03_s_26,My name?
+event_blankticket_03_s_27,It's Nora.
+event_blankticket_03_s_28,"Got it. I'm {AccountData.NickName},"
+event_blankticket_03_s_29,and this is Soline.
+event_blankticket_03_s_30,!!
+event_blankticket_03_s_31,I didn't say you could tell her my name!
+event_blankticket_03_s_32,"Quite right, and now I learned a name I didn't even care about."
+event_blankticket_03_s_33,It doesn't change the fact that you're still just a brat.
+event_blankticket_03_s_34,Arghhh!
+event_blankticket_03_s_35,Hahaha!
+event_blankticket_03_s_36,"Tell me, Nora, why have you been staying on the train after hours?"
+event_blankticket_03_s_37,Dunno. It's all a little fuzzy.
+event_blankticket_03_s_38,"Maybe if you treat me to dinner, it'll jog my memory."
+event_blankticket_03_s_39,See? She's always spouting nonsense like this.
+event_blankticket_03_s_40,Should we call Poli again?
+event_blankticket_03_s_41,Hmm...
+event_blankticket_03_s_42,The way you're calling this young man seems rather strange.
+event_blankticket_03_s_43,Are you a Nikke?
+event_blankticket_03_s_44,Yeah.
+event_blankticket_03_s_45,What of it?
+event_blankticket_03_s_46,And this young man is your Commander?
+event_blankticket_03_s_47,Yes.
+event_blankticket_03_s_48,I see.
+event_blankticket_03_s_49,... Tsk.
+event_blankticket_03_s_50,What? You got something against Nikkes?
+event_blankticket_03_s_51,"I haven't really thought about it,"
+event_blankticket_03_s_52,but now that you mention it...
+event_blankticket_03_s_53,I guess I'm not too fond of them.
+event_blankticket_03_s_54,"Tch, I knew you were a pain,"
+event_blankticket_03_s_55,but you're way worse than I expected!
+event_blankticket_03_s_56,"So, Commander, do you want me to get off the train too?"
+event_blankticket_03_s_57,"Well, it's late at night, and the train needs to finish its run."
+event_blankticket_03_s_58,I see.
+event_blankticket_03_s_59,So this is the end of the line.
+event_blankticket_03_s_60,Hmph!
+event_blankticket_03_s_61,"Fine, then."
+event_blankticket_03_s_62,"Since this strapping young lad asked nicely, I guess I'll go."
+event_blankticket_03_s_63,Huh?
+event_blankticket_03_s_64,...
+event_blankticket_03_s_65,You're actually leaving?
+event_blankticket_03_s_66,Yes.
+event_blankticket_03_s_67,It seems this train can't take me where I need to go.
+event_blankticket_03_s_68,What? What do you mean by that?
+event_blankticket_03_s_69,Never you mind.
+event_blankticket_03_s_70,I'm leaving.
+event_blankticket_03_s_71,*Step step*
+event_blankticket_03_s_72,Argh!
+event_blankticket_03_s_73,This lady is driving me insane!
+event_blankticket_03_s_74,"She was stubborn as hell, then she just up and leaves like it's nothing?"
+event_blankticket_03_s_75,"Seriously, that old lady's got to be nuts!"
+event_blankticket_03_s_76,Do you think this is the last we'll see of her?
+event_blankticket_03_s_77,Not a chance!
+event_blankticket_03_s_78,"Tomorrow, she'll be sitting there again, acting like nothing ever happened."
+event_blankticket_03_s_79,...
+event_blankticket_03_s_80,"Oh, right!"
+event_blankticket_03_s_81,I forgot to give this back to her.
+event_blankticket_03_s_82,What's that? A blanket?
+event_blankticket_03_s_83,Beats me.
+event_blankticket_03_s_84,She spent all day knitting yesterday.
+event_blankticket_03_s_85,She must've put it on me while I was sleeping.
+event_blankticket_03_s_86,Isn't it hideous?
+event_blankticket_03_s_87,I'll give it back tomorrow.
+event_blankticket_03_s_88,"Anyway, thanks for helping me out, Commander."
+event_blankticket_03_s_89,Finally beat that old lady for once. Phew!
+event_blankticket_03_s_90,Glad I could help.
+event_blankticket_03_s_91,Mhm!
+event_blankticket_03_e_title,Empty Train: B
+event_blankticket_03_e_1,"Sorry, Soline."
+event_blankticket_03_e_2,Looks like we'll have to visit Boss again today.
+event_blankticket_03_e_3,"Oh boy, guess these talks will take a bit longer than expected."
+event_blankticket_03_e_4,That's no problem! Go ahead and do what you gotta do.
+event_blankticket_03_e_5,?
+event_blankticket_03_e_6,You seem awfully chipper today.
+event_blankticket_03_e_7,Yeah.
+event_blankticket_03_e_8,That's because I finally got that old lady to leave yesterday!
+event_blankticket_03_e_9,But she might be back again today.
+event_blankticket_03_e_10,Glad to hear you got her to leave.
+event_blankticket_03_e_11,We'll try to finish things up as quickly as possible.
+event_blankticket_03_e_12,"If the ideas being discussed right now get implemented,"
+event_blankticket_03_e_13,I'm sure you'll be happy about it too.
+event_blankticket_03_e_14,"In the meantime, take care of the train as best you can."
+event_blankticket_03_e_15,Got it!
+event_blankticket_03_e_16,You can count on me!
+event_blankticket_03_e_17,Ahem...
+event_blankticket_03_e_18,This is the last train service for today.
+event_blankticket_03_e_19,Please ensure you've collected all your belongings before exiting.
+event_blankticket_03_e_20,We thank you for traveling with us today and wish you a pleasant journey.
+event_blankticket_03_e_21,*Click*
+event_blankticket_03_e_22,Phew.
+event_blankticket_03_e_23,That was way better than yesterday!
+event_blankticket_03_e_24,"Yesterday, my voice was stuttering and quivering like nobody's business."
+event_blankticket_03_e_25,I can't wait to shove this in that old lady's face!
+event_blankticket_03_e_26,A while later.
+event_blankticket_03_e_27,"All right, let's get started!"
+event_blankticket_03_e_28,Car 1.
+event_blankticket_03_e_29,"No trash, no lost items."
+event_blankticket_03_e_30,All clear.
+event_blankticket_03_e_31,Lights out in Car 1!
+event_blankticket_03_e_32,*Zzzzzt*
+event_blankticket_03_e_33,"One by one, the lights in the carriage start to go out."
+event_blankticket_03_e_34,No issues here.
+event_blankticket_03_e_35,Now for the last car.
+event_blankticket_03_e_36,*Sigh*... This one always takes the longest for the lights to go out.
+event_blankticket_03_e_37,Soline continues down the aisle of the carriage...
+event_blankticket_03_e_38,"C'mon, you old lady..."
+event_blankticket_03_e_39,Soline moves closer to the back of the last row of seats.
+event_blankticket_03_e_40,I knew you'd be here again!
+event_blankticket_03_e_41,Soline turns to face the window seat at the end of the carriage.
+event_blankticket_03_e_42,Just as I thoug...!
+event_blankticket_03_e_43,...
+event_blankticket_03_e_44,... Huh?
+event_blankticket_03_e_45,Nobody's here.
+event_blankticket_03_e_46,...
+event_blankticket_03_e_47,Ah!
+event_blankticket_03_e_48,I get it!
+event_blankticket_03_e_49,"You're hiding somewhere to scare me, aren't you?"
+event_blankticket_03_e_50,"All right, come on out!"
+event_blankticket_03_e_51,...
+event_blankticket_03_e_52,Is she really not here?
+event_blankticket_03_e_53,"Now that I think about it, where could an adult even hide in this carriage?"
+event_blankticket_03_e_54,Hmph.
+event_blankticket_03_e_55,So she really decided not to come?
+event_blankticket_03_e_56,Phew! I finally shook her off!
+event_blankticket_03_e_57,What a relief!
+event_blankticket_03_e_58,...
+event_blankticket_03_e_59,So...
+event_blankticket_03_e_60,I can really turn the lights off?
+event_blankticket_03_e_61,*Zzzzzt*
+event_blankticket_03_e_62,The last light of the train goes out.
+event_blankticket_03_e_63,...
+event_blankticket_03_e_64,Well.
+event_blankticket_03_e_65,I still need to return that blanket.
+event_blankticket_intermission_01_title,Dark Train
+event_blankticket_intermission_01_1,*Thud thud thud*
+event_blankticket_intermission_01_2,*Bang bang*
+event_blankticket_intermission_01_3,Commander! Are you there?
+event_blankticket_intermission_01_4,The door's gonna break. Hang on.
+event_blankticket_intermission_01_5,*Zzzzzt*
+event_blankticket_intermission_01_6,"C-Commander,"
+event_blankticket_intermission_01_7,something's wrong.
+event_blankticket_intermission_01_8,She hasn't shown up for days.
+event_blankticket_intermission_01_9,Who?
+event_blankticket_intermission_01_10,The old lady!
+event_blankticket_intermission_01_11,The one who stayed on the train the other day and kept saying weird stuff.
+event_blankticket_intermission_01_12,"I thought she'd come back soon,"
+event_blankticket_intermission_01_13,"but it's been almost a week, and she still hasn't showed up."
+event_blankticket_intermission_01_14,Hmm.
+event_blankticket_intermission_01_15,I thought you wanted her to stop coming around?
+event_blankticket_intermission_01_16,...!
+event_blankticket_intermission_01_17,O-of course I did!
+event_blankticket_intermission_01_18,But...
+event_blankticket_intermission_01_19,"She left me this blanket,"
+event_blankticket_intermission_01_20,and I still need to return it to her.
+event_blankticket_intermission_01_21,And also...
+event_blankticket_intermission_01_22,...
+event_blankticket_intermission_01_23,"You're worried about her, aren't you?"
+event_blankticket_intermission_01_24,...
+event_blankticket_intermission_01_25,"Okay, fine! Yes!"
+event_blankticket_intermission_01_26,"I mean, think about it."
+event_blankticket_intermission_01_27,"That lady was a real spitfire. Even when I called the police, she kept coming back."
+event_blankticket_intermission_01_28,"Now, for her to suddenly vanish without a word,"
+event_blankticket_intermission_01_29,and especially considering her age...
+event_blankticket_intermission_01_30,I can't help but wonder if something bad happened.
+event_blankticket_intermission_01_31,...
+event_blankticket_intermission_01_32,What? Why are you looking at me like that?
+event_blankticket_intermission_01_33,"All right, let's go find her."
+event_blankticket_intermission_01_34,!!
+event_blankticket_intermission_01_35,R-really?!
+event_blankticket_intermission_01_36,"Thank you, Commander!"
+event_blankticket_intermission_01_37,But the Ark is massive. How are we supposed to find a single person?
+event_blankticket_intermission_01_38,Uh...
+event_blankticket_intermission_01_39,Hmm...
+event_blankticket_intermission_01_40,Maybe she's still taking the train?
+event_blankticket_intermission_01_41,"Maybe she is, maybe she isn't."
+event_blankticket_intermission_01_42,It's not like we can check every single passenger on every train.
+event_blankticket_intermission_01_43,Is there a way to check the passenger records?
+event_blankticket_intermission_01_44,Maybe we can find her name there.
+event_blankticket_intermission_01_45,"Hey, you're right!"
+event_blankticket_intermission_01_46,I can look it up!
+event_blankticket_intermission_01_47,"She said her name was Nora, right?"
+event_blankticket_intermission_01_48,"Yeah, she did."
+event_blankticket_intermission_01_49,Let's go check right away!
+event_blankticket_intermission_01_50,All right.
+event_blankticket_intermission_01_51,According to this tablet...
+event_blankticket_intermission_01_52,It should be...
+event_blankticket_intermission_01_53,Found it!
+event_blankticket_intermission_01_54,Soline shows me the tablet.
+event_blankticket_intermission_01_55,"Displayed is a list of train times, seat numbers, and passenger names, which have been partially censored."
+event_blankticket_intermission_01_56,We can't see the full names?
+event_blankticket_intermission_01_57,"No, it's for privacy reasons."
+event_blankticket_intermission_01_58,"Full names, ages, and addresses are partially censored by default."
+event_blankticket_intermission_01_59,Hmm... this makes it harder.
+event_blankticket_intermission_01_60,"E-even so,"
+event_blankticket_intermission_01_61,we might be able to find passengers with similar names.
+event_blankticket_intermission_01_62,"If we cross-check the names that match, it might work."
+event_blankticket_intermission_01_63,...
+event_blankticket_intermission_01_64,Wh-what's wrong?
+event_blankticket_intermission_01_65,Is it too much to ask...?
+event_blankticket_intermission_01_66,No. I just like how motivated you are.
+event_blankticket_intermission_01_67,Let's give it a shot.
+event_blankticket_intermission_01_68,...!
+event_blankticket_intermission_01_69,All right!
+event_blankticket_intermission_01_70,*Pssssh*
+event_blankticket_intermission_01_71,Please refrain from making phone calls inside the train carriages.
+event_blankticket_intermission_01_72,"If necessary, you may use the passageway between carriages."
+event_blankticket_intermission_01_73,Names that end with Ra...
+event_blankticket_intermission_01_74,Seat... C37.
+event_blankticket_intermission_01_75,Here!
+event_blankticket_intermission_01_76,"Wow, what a beautiful view!"
+event_blankticket_intermission_01_77,Gotta take lots of pictures.
+event_blankticket_intermission_01_78,"... Nope, not her."
+event_blankticket_intermission_01_79,Next is Seat A07...
+event_blankticket_intermission_01_80,Zzzz...
+event_blankticket_intermission_01_81,"Nope, not her."
+event_blankticket_intermission_01_82,"Soline and I spend the entire day going around the train, checking the seats of passengers with similar names,"
+event_blankticket_intermission_01_83,but we can't find Nora.
+event_blankticket_intermission_01_84,Ahem.
+event_blankticket_intermission_01_85,This is the last train service for today.
+event_blankticket_intermission_01_86,Please ensure you've collected all your belongings before exiting.
+event_blankticket_intermission_01_87,We thank you for traveling with us today and wish you a pleasant journey.
+event_blankticket_intermission_01_88,*Click*
+event_blankticket_intermission_01_89,You're getting the hang of this.
+event_blankticket_intermission_01_90,"Thanks. I don't know what's going on,"
+event_blankticket_intermission_01_91,but Diesel and Brid are still caught up with Boss.
+event_blankticket_intermission_01_92,"Now that I've done this a few times, I'm not so nervous anymore!"
+event_blankticket_intermission_01_93,...
+event_blankticket_intermission_01_94,"I stuttered a whole bunch on the first day, and that old lady made fun of me."
+event_blankticket_intermission_01_95,"If she heard me now, she'd be shocked, hehe!"
+event_blankticket_intermission_01_96,...
+event_blankticket_intermission_01_97,"Anyway, we'll call it a day"
+event_blankticket_intermission_01_98,and resume the search tomorrow.
+event_blankticket_intermission_01_99,All right.
+event_blankticket_intermission_01_100,"Once again,"
+event_blankticket_intermission_01_101,the last lights on the train go out quickly.
+event_blankticket_04_s_title,Looking for the Old Lady: A
+event_blankticket_04_s_1,*Bang*
+event_blankticket_04_s_2,This won't do.
+event_blankticket_04_s_3,We don't even know if she's still riding the trains or not.
+event_blankticket_04_s_4,We can't rely on this half-baked information.
+event_blankticket_04_s_5,"Okay, but how else are we supposed to find her?"
+event_blankticket_04_s_6,Hmm...
+event_blankticket_04_s_7,Has she interacted with anyone else?
+event_blankticket_04_s_8,Hmm...
+event_blankticket_04_s_9,Ah!
+event_blankticket_04_s_10,I know!
+event_blankticket_04_s_11,We can talk to Poli!
+event_blankticket_04_s_12,She took the old lady home once.
+event_blankticket_04_s_13,So if we talk to Poli...
+event_blankticket_04_s_14,We can find out where she lives!
+event_blankticket_04_s_15,Let's go!
+event_blankticket_04_s_16,I'm afraid I can't help you.
+event_blankticket_04_s_17,What? Why not?
+event_blankticket_04_s_18,A police officer can't indiscriminately share a citizen's personal information.
+event_blankticket_04_s_19,It's against the law.
+event_blankticket_04_s_20,"Well, okay, but..."
+event_blankticket_04_s_21,It's just that...
+event_blankticket_04_s_22,"She left this blanket behind,"
+event_blankticket_04_s_23,so I thought I should return it to her.
+event_blankticket_04_s_24,I see.
+event_blankticket_04_s_25,Give it to me.
+event_blankticket_04_s_26,??
+event_blankticket_04_s_27,I'll treat it as a lost item.
+event_blankticket_04_s_28,"No, I can't do that."
+event_blankticket_04_s_29,"Someone left this behind on the train, so it's up to me to return it to her."
+event_blankticket_04_s_30,Hmm...
+event_blankticket_04_s_31,*Sigh*...
+event_blankticket_04_s_32,I'm just scared something bad might've happened to her.
+event_blankticket_04_s_33,"She is pretty old, after all."
+event_blankticket_04_s_34,Hmm.
+event_blankticket_04_s_35,"All right, I understand."
+event_blankticket_04_s_36,...!
+event_blankticket_04_s_37,You mean you'll tell me her address?
+event_blankticket_04_s_38,"I'd love to help,"
+event_blankticket_04_s_39,but I don't know her address myself.
+event_blankticket_04_s_40,What? Really?
+event_blankticket_04_s_41,"That day, I only escorted up to the alley entrance."
+event_blankticket_04_s_42,"She insisted she could walk on her own from there,"
+event_blankticket_04_s_43,so I gave her a life alarm and let her go on her way.
+event_blankticket_04_s_44,Life alarm?
+event_blankticket_04_s_45,"Oh, you mean those medical devices that can alert the police for you?"
+event_blankticket_04_s_46,Correct.
+event_blankticket_04_s_47,"But we haven't received any signals from it,"
+event_blankticket_04_s_48,so I don't think anything serious has happened to her.
+event_blankticket_04_s_49,...
+event_blankticket_04_s_50,"I could point you in the direction of that alley,"
+event_blankticket_04_s_51,but that's about all I can do for you.
+event_blankticket_04_s_52,Really?
+event_blankticket_04_s_53,"Thanks a million, Poli!"
+event_blankticket_04_s_54,Don't mention it.
+event_blankticket_04_s_55,"Commander,"
+event_blankticket_04_s_56,"if you sense anything is amiss, contact me right away."
+event_blankticket_04_s_57,Will do.
+event_blankticket_04_s_58,"Commander! Let's go, quick!"
+event_blankticket_04_s_59,Soline grabs my wrist and starts running.
+event_blankticket_04_e_title,Looking for the Old Lady: B
+event_blankticket_04_e_1,This is the alley entrance.
+event_blankticket_04_e_2,"I suppose we can't walk around shouting her name, right?"
+event_blankticket_04_e_3,I doubt the neighbors would appreciate that.
+event_blankticket_04_e_4,Right.
+event_blankticket_04_e_5,Let's just wait here.
+event_blankticket_04_e_6,Maybe she'll pass by.
+event_blankticket_04_e_7,All right.
+event_blankticket_04_e_8,"Soline fiddles with the blanket, constantly scanning her surroundings."
+event_blankticket_04_e_9,Is that her?
+event_blankticket_04_e_10,Hmm... No.
+event_blankticket_04_e_11,... Soline.
+event_blankticket_04_e_12,Yes?
+event_blankticket_04_e_13,"Oh, that's...!"
+event_blankticket_04_e_14,"Wait, no... that's a guy."
+event_blankticket_04_e_15,Why are you so determined to find this woman?
+event_blankticket_04_e_16,Huh? What do you mean?
+event_blankticket_04_e_17,You barely know her.
+event_blankticket_04_e_18,"The few times you've seen her, all she's done is make things difficult for you."
+event_blankticket_04_e_19,...!
+event_blankticket_04_e_20,It...
+event_blankticket_04_e_21,It's because...
+event_blankticket_04_e_22,...
+event_blankticket_04_e_23,You don't know?
+event_blankticket_04_e_24,"Not really, no."
+event_blankticket_04_e_25,Do I need a reason?
+event_blankticket_04_e_26,It may be worth taking some time to think it over.
+event_blankticket_04_e_27,You may end up figuring something out.
+event_blankticket_04_e_28,...
+event_blankticket_04_e_29,"We stake out the alley late into the night,"
+event_blankticket_04_e_30,but we don't see anyone resembling Nora.
+event_blankticket_04_e_31,Hmm...
+event_blankticket_04_e_32,Maybe she took a tumble inside her house
+event_blankticket_04_e_33,and couldn't physically press the life alarm?
+event_blankticket_04_e_34,Or maybe she's a bit of a recluse and hasn't come out at all.
+event_blankticket_04_e_35,I guess that'd be a relief...
+event_blankticket_04_e_36,*Step step*
+event_blankticket_04_e_37,Huh?
+event_blankticket_04_e_38,Good grief!
+event_blankticket_04_e_39,I haven't met such a stubborn old lady in a long time.
+event_blankticket_04_e_40,Eh?
+event_blankticket_04_e_41,Stubborn old lady?
+event_blankticket_04_e_42,"Hey, excuse me!"
+event_blankticket_04_e_43,Hmm?
+event_blankticket_04_e_44,"This woman you just mentioned, was she dressed ostentatiously and had long hair?"
+event_blankticket_04_e_45,"Yes, that's right!"
+event_blankticket_04_e_46,Do you know her?
+event_blankticket_04_e_47,I believe it's the woman that I'm looking for.
+event_blankticket_04_e_48,Where is she?
+event_blankticket_04_e_49,"Well, this is perfect timing."
+event_blankticket_04_e_50,Maybe you'll be able to get through to her.
+event_blankticket_04_e_51,??
+event_blankticket_04_e_52,Is something wrong?
+event_blankticket_04_e_53,Follow me.
+event_blankticket_04_e_54,The guard leads us to the entrance of a building's rooftop.
+event_blankticket_04_e_55,Huh?
+event_blankticket_04_e_56,She's here?
+event_blankticket_04_e_57,Yeah.
+event_blankticket_04_e_58,"No matter how much I ask her to come down, she won't budge."
+event_blankticket_04_e_59,I'll wait down here while you try to talk some sense into her.
+event_blankticket_04_e_60,You're not coming with us?
+event_blankticket_04_e_61,No. I'm tapping out.
+event_blankticket_04_e_62,"I've already had it up to here with that lady, so it's up to you now."
+event_blankticket_04_e_63,... How much did she put him through?
+event_blankticket_04_e_64,...
+event_blankticket_04_e_65,"All right, here we go."
+event_blankticket_04_e_66,*Creak*
+event_blankticket_04_e_67,*Whoosh*
+event_blankticket_04_e_68,"Man, this wind is brutal..."
+event_blankticket_04_e_69,"Where is she, anyway?"
+event_blankticket_04_e_70,"Soline and I circle around the expansive rooftop, searching for Nora."
+event_blankticket_04_e_71,I can't see very well. It's too dark.
+event_blankticket_04_e_72,Huh?
+event_blankticket_04_e_73,What? Do you see her?
+event_blankticket_04_e_74,...
+event_blankticket_04_e_75,"H-hey, old lady!"
+event_blankticket_04_e_76,Nora is perched precariously
+event_blankticket_04_e_77,on the edge of the rooftop railing.
+event_blankticket_05_s_title,The Reason Behind the Sad Eyes: A
+event_blankticket_05_s_1,What are you doing?!
+event_blankticket_05_s_2,Get down from there!
+event_blankticket_05_s_3,"Oh goodness, you scared me!"
+event_blankticket_05_s_4,"What are you screaming like a banshee for? I'm just sitting here, enjoying myself."
+event_blankticket_05_s_5,Huh?
+event_blankticket_05_s_6,Aren't you that dunderhead train attendant?
+event_blankticket_05_s_7,What are you doing here?
+event_blankticket_05_s_8,Never mind that!
+event_blankticket_05_s_9,"Just get down from there, will you?"
+event_blankticket_05_s_10,"Geez, Louise!"
+event_blankticket_05_s_11,"I finally managed to get that guard off my back, and now you come rolling in."
+event_blankticket_05_s_12,Why can't people just leave me alone?
+event_blankticket_05_s_13,What if I refuse to come down? What then?
+event_blankticket_05_s_14,You going to call the police on me again?
+event_blankticket_05_s_15,"No,"
+event_blankticket_05_s_16,I'm not going to call anyone!
+event_blankticket_05_s_17,"So please, just come down so we can talk, okay?"
+event_blankticket_05_s_18,Huh?
+event_blankticket_05_s_19,Why do you look so nervous?
+event_blankticket_05_s_20,It's way too dangerous to be sitting there!
+event_blankticket_05_s_21,Dangerous?
+event_blankticket_05_s_22,Oh!
+event_blankticket_05_s_23,Haha. I see.
+event_blankticket_05_s_24,I can see why people would see this and get the wrong idea.
+event_blankticket_05_s_25,"All right, all right."
+event_blankticket_05_s_26,I'll come down.
+event_blankticket_05_s_27,Hup...
+event_blankticket_05_s_28,Be careful!
+event_blankticket_05_s_29,Whoopsie-daisy.
+event_blankticket_05_s_30,My foot slipped.
+event_blankticket_05_s_31,!!
+event_blankticket_05_s_32,But that's not a problem.
+event_blankticket_05_s_33,"See? I made it down safe and sound, hehe."
+event_blankticket_05_s_34,...
+event_blankticket_05_s_35,Are you crazy?!
+event_blankticket_05_s_36,You think this is funny?!
+event_blankticket_05_s_37,I thought... I thought you...
+event_blankticket_05_s_38,I thought you were about to do something drastic!
+event_blankticket_05_s_39,*Sniffles*
+event_blankticket_05_s_40,Huh? What's gotten into you?
+event_blankticket_05_s_41,Why are you crying all of a sudden?
+event_blankticket_05_s_42,*Sob*
+event_blankticket_05_s_43,"Oh c'mon, stop crying."
+event_blankticket_05_s_44,I... I'm not good at dealing with people when they cry...
+event_blankticket_05_s_45,"Nora looks at me, flustered."
+event_blankticket_05_s_46,I raise my arm and make a reassuring patting motion.
+event_blankticket_05_s_47,...
+event_blankticket_05_s_48,*Sigh*... What a mess.
+event_blankticket_05_s_49,"Looking uncertain, Nora awkwardly reaches out with both arms."
+event_blankticket_05_s_50,"After a moment's hesitation, she settles on using one hand to give Soline a rough pat on the head."
+event_blankticket_05_s_51,"All right, that's enough crying."
+event_blankticket_05_s_52,Only then can I make sense of what you're saying.
+event_blankticket_05_s_53,*Sniff*
+event_blankticket_05_s_54,You should be the one talking! You owe us an explanation!
+event_blankticket_05_s_55,"What the hell were you thinking, doing something that dangerous here?!"
+event_blankticket_05_s_56,...
+event_blankticket_05_s_57,Why should I have to explain myself to you?
+event_blankticket_05_s_58,You're the ones who came after me. I was just minding my own business.
+event_blankticket_05_s_59,Argh!
+event_blankticket_05_s_60,...
+event_blankticket_05_s_61,"Dang it. You've got a point,"
+event_blankticket_05_s_62,which only makes it more annoying!
+event_blankticket_05_s_63,"What's with you two coming up here and ganging up on me, anyway?"
+event_blankticket_05_s_64,"I... I can't explain it,"
+event_blankticket_05_s_65,"but when you stopped coming, I got worried."
+event_blankticket_05_s_66,"I wondered if something had happened to you, or if I had been too rude before..."
+event_blankticket_05_s_67,"Oh, and this blanket!"
+event_blankticket_05_s_68,Why did you leave it behind?
+event_blankticket_05_s_69,"I waited for you to come back, but you never did."
+event_blankticket_05_s_70,"I left it because it's yours, you numbskull."
+event_blankticket_05_s_71,Wha... you mean this is a gift?
+event_blankticket_05_s_72,"Yeah. If you're hellbent on returning it, I won't stop you."
+event_blankticket_05_s_73,!!
+event_blankticket_05_s_74,"... No. You said it was meant for me, after all."
+event_blankticket_05_s_75,Hmm.
+event_blankticket_05_s_76,So let me get this straight.
+event_blankticket_05_s_77,"You got attached to me, and when I didn't show up, you got all worked up, right?"
+event_blankticket_05_s_78,"Listen, kiddo, I'm no spring chicken, but I'm not as frail as you seem to think."
+event_blankticket_05_s_79,"Hold on, is it because I look like your late grandma or something?"
+event_blankticket_05_s_80,I certainly hope not. I can't stand that clichéd melodrama crap.
+event_blankticket_05_s_81,"No, that's not it."
+event_blankticket_05_s_82,Hmm?
+event_blankticket_05_s_83,"After what the Commander said,"
+event_blankticket_05_s_84,I started thinking about why I wanted to find you.
+event_blankticket_05_s_85,It's just...
+event_blankticket_05_s_86,"Every time I saw you sitting in that empty train, staring out the window with a dejected look in your eyes,"
+event_blankticket_05_s_87,you seemed so... sad.
+event_blankticket_05_s_88,That's what got to me.
+event_blankticket_05_s_89,"Our train, the AZX, is supposed to be something that brings joy to people."
+event_blankticket_05_s_90,...
+event_blankticket_05_s_91,"So, can you tell me?"
+event_blankticket_05_s_92,Why is there such sadness behind your eyes?
+event_blankticket_05_s_93,"Why were you up here on this rooftop, sitting on the ledge with that same sorrowful look?"
+event_blankticket_05_e_title,The Reason Behind the Sad Eyes: B
+event_blankticket_05_e_1,Haha!
+event_blankticket_05_e_2,I had you pegged for a lunkhead who only knew how to yell at people.
+event_blankticket_05_e_3,Turns out you've got a brain between those ears after all.
+event_blankticket_05_e_4,... All right.
+event_blankticket_05_e_5,Where should I start?
+event_blankticket_05_e_6,I can't recall how many years it's been since I came to the Ark.
+event_blankticket_05_e_7,"Before all that, I remember vividly the days when I traveled the surface, wild and free."
+event_blankticket_05_e_8,"Back then, traveling the world was everything to me."
+event_blankticket_05_e_9,But that life came to a complete halt the moment I entered the Ark.
+event_blankticket_05_e_10,So you feel trapped here.
+event_blankticket_05_e_11,"You hit the nail on the head, Young Man."
+event_blankticket_05_e_12,...
+event_blankticket_05_e_13,Tell me something.
+event_blankticket_05_e_14,What?
+event_blankticket_05_e_15,Have you ever been to the surface?
+event_blankticket_05_e_16,"Yeah, I've been there."
+event_blankticket_05_e_17,How many times?
+event_blankticket_05_e_18,??
+event_blankticket_05_e_19,Well...
+event_blankticket_05_e_20,I've never really counted.
+event_blankticket_05_e_21,...
+event_blankticket_05_e_22,I'm jealous.
+event_blankticket_05_e_23,"Just once would've been enough for me,"
+event_blankticket_05_e_24,but I never got that chance.
+event_blankticket_05_e_25,That's why I never really liked the Nikkes.
+event_blankticket_05_e_26,They can easily get something that's forever out of my grasp.
+event_blankticket_05_e_27,It's not like we're there on vacation! We risk our lives up there!
+event_blankticket_05_e_28,I was willing to risk my life as well.
+event_blankticket_05_e_29,"In order to reach the surface, I'd gladly put my life on the line."
+event_blankticket_05_e_30,It's always my dream to take my last breath up there.
+event_blankticket_05_e_31,Even if that meant being torn apart by a Rapture.
+event_blankticket_05_e_32,"But as the decades passed, I began to realize something."
+event_blankticket_05_e_33,"This insignificant life of mine would end here, trapped inside the Ark."
+event_blankticket_05_e_34,Did you ever think about becoming a Nikke?
+event_blankticket_05_e_35,"When I was young, I still held onto the hope that this would all be resolved soon."
+event_blankticket_05_e_36,"By the time I realized that wasn't going to be the case,"
+event_blankticket_05_e_37,I was too old to become a Nikke.
+event_blankticket_05_e_38,Right... the age limit...
+event_blankticket_05_e_39,How about becoming a Commander?
+event_blankticket_05_e_40,"There are female Commanders now,"
+event_blankticket_05_e_41,"but when I was younger, it was a position reserved solely for men."
+event_blankticket_05_e_42,Oh...
+event_blankticket_05_e_43,I convinced myself that this was my punishment.
+event_blankticket_05_e_44,"So, I tried to resign myself to my fate."
+event_blankticket_05_e_45,"But now that the end's near, I suppose I wanted to still make one last-ditch effort."
+event_blankticket_05_e_46,I wondered if riding the train might take me wherever I needed to go.
+event_blankticket_05_e_47,"Perhaps,"
+event_blankticket_05_e_48,it would lead me to my destination.
+event_blankticket_05_e_49,"After all, the train is the only real means of transportation here inside the Ark."
+event_blankticket_05_e_50,...
+event_blankticket_05_e_51,"I quickly realized how much of a fool I was being, so I stopped."
+event_blankticket_05_e_52,"I did a cruel thing to you, kid."
+event_blankticket_05_e_53,Then...
+event_blankticket_05_e_54,What were you doing on the rooftop?
+event_blankticket_05_e_55,Just... looking at the sky.
+event_blankticket_05_e_56,"When you look up at the sky from a high place, you feel a greater sense of freedom."
+event_blankticket_05_e_57,"It reminds me of the old days,"
+event_blankticket_05_e_58,even though the sky here isn't real.
+event_blankticket_05_e_59,...
+event_blankticket_05_e_60,...
+event_blankticket_05_e_61,"Hey, what's with the long faces?"
+event_blankticket_05_e_62,Coming to the Ark was my choice.
+event_blankticket_05_e_63,It's what's allowed me to live this long.
+event_blankticket_05_e_64,I've experienced my fair share of joy and happiness throughout my life.
+event_blankticket_05_e_65,"And not only that, I'm still making new friends, even at this age."
+event_blankticket_05_e_66,...!
+event_blankticket_05_e_67,You...
+event_blankticket_05_e_68,You want to be my friend?
+event_blankticket_05_e_69,Why wouldn't I? What makes someone qualified to be your friend anyway?
+event_blankticket_05_e_70,?!
+event_blankticket_05_e_71,I've really never thought about that before.
+event_blankticket_05_e_72,Uh... having shared experiences you can look back on?
+event_blankticket_05_e_73,I'd say chatting on an empty train checks that box.
+event_blankticket_05_e_74,Or making plans together?
+event_blankticket_05_e_75,"All right, let's meet again on the last train, one week from now."
+event_blankticket_05_e_76,...!
+event_blankticket_05_e_77,See you then.
+event_blankticket_05_e_78,Really? You'll come?
+event_blankticket_05_e_79,Sure.
+event_blankticket_05_e_80,"Thank you for coming to find me, Soline."
+event_blankticket_05_e_81,!!
+event_blankticket_05_e_82,You remembered my name.
+event_blankticket_05_e_83,Of course.
+event_blankticket_05_e_84,I'm not that far gone just yet.
+event_blankticket_05_e_85,Hehe...
+event_blankticket_05_e_86,"Thanks for the blanket, by the way."
+event_blankticket_05_e_87,It's really pretty and well-made.
+event_blankticket_05_e_88,Wasn't it just a flat square to you before?
+event_blankticket_05_e_89,Gah! You remember that?
+event_blankticket_05_e_90,How petty!
+event_blankticket_05_e_91,Hahaha!
+event_blankticket_06_s_title,The Ticket's Destination: A
+event_blankticket_06_s_1,Oh!
+event_blankticket_06_s_2,You managed to convince her to come down!
+event_blankticket_06_s_3,She wouldn't budge an inch when I was talking to her.
+event_blankticket_06_s_4,"Shut your trap, will you?"
+event_blankticket_06_s_5,"I understand that she may have been uncooperative,"
+event_blankticket_06_s_6,but it's not right to leave someone alone sitting on the ledge like that.
+event_blankticket_06_s_7,Huh? What are you talking about?
+event_blankticket_06_s_8,I didn't know she was near the ledge!
+event_blankticket_06_s_9,...!
+event_blankticket_06_s_10,"Hey, lady! You told me you were just going up to the roof for some fresh air!"
+event_blankticket_06_s_11,That's exactly what I was doing. I wanted to enjoy the breeze for a bit before heading back down.
+event_blankticket_06_s_12,"If something happened to you, I'd be out of a job!"
+event_blankticket_06_s_13,So what? You could find another one.
+event_blankticket_06_s_14,*Sigh*...
+event_blankticket_06_s_15,How did you manage to convince this stubborn old lady to come down anyway?
+event_blankticket_06_s_16,"It wasn't easy, but it was a fun challenge."
+event_blankticket_06_s_17,She actually makes a lot of good points.
+event_blankticket_06_s_18,What?
+event_blankticket_06_s_19,"... Sorry, I'll apologize on her behalf."
+event_blankticket_06_s_20,"Come on, Nora."
+event_blankticket_06_s_21,"Yeah, yeah."
+event_blankticket_06_s_22,"Soline and Nora head off,"
+event_blankticket_06_s_23,side by side.
+event_blankticket_06_s_24,And a few days later...
+event_blankticket_06_s_25,Phew.
+event_blankticket_06_s_26,*Huff huff*
+event_blankticket_06_s_27,What is going on?
+event_blankticket_06_s_28,Why am I so nervous?
+event_blankticket_06_s_29,It's like you're in love.
+event_blankticket_06_s_30,What are you talking about?!
+event_blankticket_06_s_31,"I'm just worried,"
+event_blankticket_06_s_32,that's all.
+event_blankticket_06_s_33,What if she doesn't show up?
+event_blankticket_06_s_34,I even prepared a gift!
+event_blankticket_06_s_35,Oh? What kind of gift?
+event_blankticket_06_s_36,Um...
+event_blankticket_06_s_37,"It's a little embarrassing to show, but... since you're the Commander..."
+event_blankticket_06_s_38,Here.
+event_blankticket_06_s_39,!!
+event_blankticket_06_s_40,You think she'll like it?
+event_blankticket_06_s_41,I thought it would be a nice gesture in return for the blanket.
+event_blankticket_06_s_42,I think she'll love it.
+event_blankticket_06_s_43,"Hehe, really?"
+event_blankticket_06_s_44,That's a relief.
+event_blankticket_06_s_45,"All right, it's time."
+event_blankticket_06_s_46,"Commander, just a moment."
+event_blankticket_06_s_47,Ahem.
+event_blankticket_06_s_48,This is the last train service for today.
+event_blankticket_06_s_49,Please ensure you've collected all your belongings before exiting.
+event_blankticket_06_s_50,...
+event_blankticket_06_s_51,The AZX is a train meant to inspire joy in our passengers.
+event_blankticket_06_s_52,"For those who are already happy,"
+event_blankticket_06_s_53,"and for those who may be feeling down,"
+event_blankticket_06_s_54,we hope you will carry that happiness with you when you disembark.
+event_blankticket_06_s_55,We thank you for traveling with us today and wish you a pleasant journey.
+event_blankticket_06_s_56,*Click*
+event_blankticket_06_s_57,So...
+event_blankticket_06_s_58,How was it?
+event_blankticket_06_s_59,It was perfect.
+event_blankticket_06_s_60,"Hehe, thanks."
+event_blankticket_06_s_61,"Well, shall we go meet Nora?"
+event_blankticket_06_s_62,All right.
+event_blankticket_06_s_63,"Okay, Car 1."
+event_blankticket_06_s_64,"No trash, no lost items."
+event_blankticket_06_s_65,All clear.
+event_blankticket_06_s_66,Lights out in Car 1!
+event_blankticket_06_s_67,*Zzzzzt*
+event_blankticket_06_s_68,"One by one, the lights in the carriage start to go out."
+event_blankticket_06_s_69,And then...
+event_blankticket_06_s_70,Phew...
+event_blankticket_06_s_71,Last car.
+event_blankticket_06_s_72,I'm going in.
+event_blankticket_06_s_73,*Step step*
+event_blankticket_06_s_74,Soline walks confidently toward the spot
+event_blankticket_06_s_75,where Nora always sat before.
+event_blankticket_06_s_76,"There, in that seat..."
+event_blankticket_06_s_77,There you are.
+event_blankticket_06_s_78,"You laid it on a bit thick with that announcement, don't you think?"
+event_blankticket_06_s_79,A familiar face appears.
+event_blankticket_06_e_title,The Ticket's Destination: B
+event_blankticket_06_e_1,Nora!
+event_blankticket_06_e_2,You really came!
+event_blankticket_06_e_3,Of course I did.
+event_blankticket_06_e_4,"I realize it hasn't exactly been long, but how have you been?"
+event_blankticket_06_e_5,I've been good. And you?
+event_blankticket_06_e_6,"Oh, just the usual."
+event_blankticket_06_e_7,I see.
+event_blankticket_06_e_8,Uh...
+event_blankticket_06_e_9,...
+event_blankticket_06_e_10,What's with you? Why are you acting like a nervous puppy?
+event_blankticket_06_e_11,It's just...
+event_blankticket_06_e_12,"Well, I thought it wouldn't feel right not to give you something in return for the blanket,"
+event_blankticket_06_e_13,so I prepared a gift.
+event_blankticket_06_e_14,"Oh, looks like we had the same idea."
+event_blankticket_06_e_15,I also prepared something.
+event_blankticket_06_e_16,What?
+event_blankticket_06_e_17,But that means I'll be getting two gifts from you...
+event_blankticket_06_e_18,"So what? We're friends, aren't we?"
+event_blankticket_06_e_19,"And not all gifts have to be material, you know."
+event_blankticket_06_e_20,"Anyway, it was a bit cringy, but all in all, that was a pretty solid announcement."
+event_blankticket_06_e_21,I take it you did that for me?
+event_blankticket_06_e_22,!!
+event_blankticket_06_e_23,N-no!
+event_blankticket_06_e_24,I made that announcement for all the passengers on our train!
+event_blankticket_06_e_25,"Haha! Okay, if you say so."
+event_blankticket_06_e_26,"Here, take this."
+event_blankticket_06_e_27,Nora hands Soline a large paper bag.
+event_blankticket_06_e_28,"Whoa, what's that? It's huge!"
+event_blankticket_06_e_29,I wonder what's inside...?
+event_blankticket_06_e_30,...
+event_blankticket_06_e_31,"I told you, I'm pretty good with my hands."
+event_blankticket_06_e_32,It took a lot of work to get that done in a week.
+event_blankticket_06_e_33,Wait one moment!
+event_blankticket_06_e_34,I'll be right back!
+event_blankticket_06_e_35,Soline dashes into another carriage.
+event_blankticket_06_e_36,...?
+event_blankticket_06_e_37,What did you give her?
+event_blankticket_06_e_38,A new uniform.
+event_blankticket_06_e_39,The one she's wearing now is too dull and doesn't suit her at all.
+event_blankticket_06_e_40,"So, I made something a little brighter for her."
+event_blankticket_06_e_41,That must have taken a lot of work.
+event_blankticket_06_e_42,"Haha, not at all."
+event_blankticket_06_e_43,"In fact, it felt good to really focus on something again."
+event_blankticket_06_e_44,"Back in my traveling days, I would cook my own meals and tailor my own clothes."
+event_blankticket_06_e_45,"I was always good with my hands, so I decided to make a living out of it."
+event_blankticket_06_e_46,"I'm in the process of closing up shop, so I'm glad I got to make this before the curtain call."
+event_blankticket_06_e_47,...
+event_blankticket_06_e_48,*Thud thud thud*
+event_blankticket_06_e_49,Huff... huff...
+event_blankticket_06_e_50,How do I look?
+event_blankticket_06_e_51,Does it suit me?
+event_blankticket_06_e_52,It looks perfect on you.
+event_blankticket_06_e_53,Really?
+event_blankticket_06_e_54,Mhm.
+event_blankticket_06_e_55,"I had to guesstimate the size, but looks like I've still got it."
+event_blankticket_06_e_56,You look beautiful.
+event_blankticket_06_e_57,Thank you so much!
+event_blankticket_06_e_58,I never thought I'd receive a gift like this...
+event_blankticket_06_e_59,"Well, it wouldn't make sense for you to expect it."
+event_blankticket_06_e_60,...
+event_blankticket_06_e_61,Hehe.
+event_blankticket_06_e_62,"Phew... Deep breaths now, Soline..."
+event_blankticket_06_e_63,Nora.
+event_blankticket_06_e_64,Yes?
+event_blankticket_06_e_65,"This might not seem like much compared to the blanket and this outfit,"
+event_blankticket_06_e_66,but I did prepare a gift for you too.
+event_blankticket_06_e_67,*Swish*
+event_blankticket_06_e_68,Hm?
+event_blankticket_06_e_69,What's this?
+event_blankticket_06_e_70,A train ticket?
+event_blankticket_06_e_71,Yep!
+event_blankticket_06_e_72,But the destination is blank.
+event_blankticket_06_e_73,That's right.
+event_blankticket_06_e_74,The AZX was built to travel on the surface.
+event_blankticket_06_e_75,!!
+event_blankticket_06_e_76,"However, that doesn't mean it can take ordinary people up there."
+event_blankticket_06_e_77,The AZX can only head up to the surface under special circumstances.
+event_blankticket_06_e_78,"But if, and this is a big ""if"","
+event_blankticket_06_e_79,the day comes when we can go to the surface again...
+event_blankticket_06_e_80,Go ahead and write your destination on that ticket.
+event_blankticket_06_e_81,"If you do, I—no, we will take you there."
+event_blankticket_06_e_82,Promise.
+event_blankticket_06_e_83,...
+event_blankticket_06_e_84,You mean...
+event_blankticket_06_e_85,I can use this ticket to go back?
+event_blankticket_06_e_86,Yes.
+event_blankticket_06_e_87,I don't know when it'll happen.
+event_blankticket_06_e_88,It might take an incredibly long time.
+event_blankticket_06_e_89,"But I promise you,"
+event_blankticket_06_e_90,AZX conductors never break their promises to passengers.
+event_blankticket_06_e_91,... Heh.
+event_blankticket_06_e_92,Haha!
+event_blankticket_06_e_93,That's all right. I've gotten used to waiting.
+event_blankticket_06_e_94,I've spent decades waiting without a shred of hope.
+event_blankticket_06_e_95,"If there's even the tiniest sliver of a possibility,"
+event_blankticket_06_e_96,I can wait as long as it takes.
+event_blankticket_06_e_97,...
+event_blankticket_06_e_98,"Thank you, Soline."
+event_blankticket_06_e_99,You've given me a reason to keep going.
+event_blankticket_06_e_100,I can't thank you enough.
+event_blankticket_06_e_101,"Nora presses her forehead against the ticket Soline has given her,"
+event_blankticket_06_e_102,as if she's praying to something.
+event_blankticket_06_e_103,...!
+event_blankticket_06_e_104,Are you crying?
+event_blankticket_06_e_105,"Oh jeez, don't do that, or I'll start crying too..."
+event_blankticket_06_e_106,Haha!
+event_blankticket_06_e_107,Who said I was crying?
+event_blankticket_06_e_108,"It's true, I'm moved. But I'm not crying."
+event_blankticket_06_e_109,"I ran out of tears a long, long time ago."
+event_blankticket_06_e_110,This is a traditional greeting from the country I used to live.
+event_blankticket_06_e_111,"If you place your forehead against an object, it imbues it with a soul."
+event_blankticket_06_e_112,"If you do the same with a person, it blesses them."
+event_blankticket_06_e_113,"Oh, that's fascinating."
+event_blankticket_06_e_114,"Yeah, it's almost gone now, but this world used to be filled with so many cultures and traditions..."
+event_blankticket_06_e_115,"If I ever get the chance, I'd love to share what I've learned in my travels."
+event_blankticket_06_e_116,Please do! Tell me everything!
+event_blankticket_06_e_117,Haha! Seeing your eyes sparkle like that reminds me of my younger days.
+event_blankticket_06_e_118,It's been ages since I felt blood pumping through my veins like this!
+event_blankticket_06_e_119,I'm ready to face a brand new day with a smile! I hope you feel the same.
+event_blankticket_06_e_120,"Hehe, I certainly do!"
+event_blankticket_06_e_121,"The AZX, which has spread joy to so many of its passengers,"
+event_blankticket_06_e_122,now keeps its lights on brightly after the last service has ended.
+event_blankticket_06_e_123,It seems to invite those who are lost to come in anytime
+event_blankticket_06_e_124,and help themselves to a dose of happiness before leaving.
+event_blankticket_06_e_125,■■■■ TICKET: END
+event_blankticket_epilogue_title,A Place to Return To
+event_blankticket_epilogue_1,A few days later.
+event_blankticket_epilogue_2,"Soline, we're finally done talking with Ingrid!"
+event_blankticket_epilogue_3,That took forever and a day.
+event_blankticket_epilogue_4,Thanks for taking care of everything while we were gone. It must have been exhausting.
+event_blankticket_epilogue_5,"Hehe, it wasn't the easiest thing in the world,"
+event_blankticket_epilogue_6,but I had fun.
+event_blankticket_epilogue_7,"By the way, whatever happened to that old lady you mentioned before?"
+event_blankticket_epilogue_8,"Oh, her?"
+event_blankticket_epilogue_9,"She and I became friends, hehe."
+event_blankticket_epilogue_10,No kidding!
+event_blankticket_epilogue_11,"Also, is that a new uniform you're wearing?"
+event_blankticket_epilogue_12,Yep!
+event_blankticket_epilogue_13,Nora made it for me.
+event_blankticket_epilogue_14,What do you think?
+event_blankticket_epilogue_15,It's adorable! A big upgrade from your previous uniform
+event_blankticket_epilogue_16,and it seems your professionalism has increased as well.
+event_blankticket_epilogue_17,Huh? What do you mean?
+event_blankticket_epilogue_18,Have you not taken a look at the suggestion box?
+event_blankticket_epilogue_19,"No. As you know, passengers don't often leave comments."
+event_blankticket_epilogue_20,"I checked it once a week while you both were gone,"
+event_blankticket_epilogue_21,but that's it.
+event_blankticket_epilogue_22,"Well, take a look at this."
+event_blankticket_epilogue_23,Brid hands a tablet to Soline.
+event_blankticket_epilogue_24,"I was exhausted when I got on the last train, but that heartwarming announcement really moved me!"
+event_blankticket_epilogue_25,"It took a while for me to warm up to the new voice giving the announcements,"
+event_blankticket_epilogue_26,but I think I actually like it more than the previous one now! It's so full of energy and really lifts my spirits.
+event_blankticket_epilogue_27,There are plenty more like this.
+event_blankticket_epilogue_28,Are... Are they all about me?
+event_blankticket_epilogue_29,That's right.
+event_blankticket_epilogue_30,Many passengers think highly of you.
+event_blankticket_epilogue_31,"You really know what you're doing, Soline."
+event_blankticket_epilogue_32,I'll leave the announcements to you from now on.
+event_blankticket_epilogue_33,...!
+event_blankticket_epilogue_34,I-I...
+event_blankticket_epilogue_35,"Hehe... All right, no problem!"
+event_blankticket_epilogue_36,"If you need help with anything, just let me know anytime!"
+event_blankticket_epilogue_37,"Hehe, will do."
+event_blankticket_epilogue_38,"By the way,"
+event_blankticket_epilogue_39,what took so long with those talks?
+event_blankticket_epilogue_40,Didn't they have something to do with train services on the surface?
+event_blankticket_epilogue_41,"Ah, yes."
+event_blankticket_epilogue_42,We almost left out the most important news.
+event_blankticket_epilogue_43,"Brace yourself for this one, Soline."
+event_blankticket_epilogue_44,Okay.
+event_blankticket_epilogue_45,They found a fully intact railway on the surface.
+event_blankticket_epilogue_46,Further inspection revealed that the tracks stretch on for a significant distance.
+event_blankticket_epilogue_47,Whoa...
+event_blankticket_epilogue_48,This indicates that freight trains must have traveled along those rails in the past.
+event_blankticket_epilogue_49,We concluded that there may be considerable resources and materials waiting to be discovered.
+event_blankticket_epilogue_50,?!
+event_blankticket_epilogue_51,So...
+event_blankticket_epilogue_52,The AZX is heading up to the surface.
+event_blankticket_epilogue_53,...!
+event_blankticket_epilogue_54,Are you serious?!
+event_blankticket_epilogue_55,"Yes, it's true."
+event_blankticket_epilogue_56,And that's not all.
+event_blankticket_epilogue_57,"After going over the expected railway route,"
+event_blankticket_epilogue_58,we've preemptively determined that it's a relatively safe area.
+event_blankticket_epilogue_59,"So, we'll be able to bring along a small number of civilians."
+event_blankticket_epilogue_60,What?
+event_blankticket_epilogue_61,Is that really possible?
+event_blankticket_epilogue_62,Are you sure it's not dangerous?
+event_blankticket_epilogue_63,"We want to show the public that the surface is becoming safer, thanks to the Central Government's efforts."
+event_blankticket_epilogue_64,Sending the AZX up to the surface is the perfect opportunity to do that.
+event_blankticket_epilogue_65,"If this succeeds, public opinion will improve significantly."
+event_blankticket_epilogue_66,It would be a light in the dark for those who have given up hope.
+event_blankticket_epilogue_67,"After all, many citizens still wish to return to the surface."
+event_blankticket_epilogue_68,I know that all too well.
+event_blankticket_epilogue_69,How will we decide who gets to go?
+event_blankticket_epilogue_70,We'll be holding a lottery.
+event_blankticket_epilogue_71,Each person can only submit one ticket through the app.
+event_blankticket_epilogue_72,"However, to be eligible, they must agree not to hold us accountable in the event of injury or death."
+event_blankticket_epilogue_73,"Even if selected, the winners are permitted to withdraw at any point before departure."
+event_blankticket_epilogue_74,I see.
+event_blankticket_epilogue_75,...
+event_blankticket_epilogue_76,"Diesel, Brid,"
+event_blankticket_epilogue_77,I have a request.
+event_blankticket_epilogue_78,...
+event_blankticket_epilogue_79,My destination.
+event_blankticket_epilogue_80,...
+event_blankticket_epilogue_81,"There's no way they could have been waiting there this whole time,"
+event_blankticket_epilogue_82,even for those knuckleheads.
+event_blankticket_epilogue_83,But still...
+event_blankticket_epilogue_84,I just want to make sure.
+event_blankticket_epilogue_85,Nora picks up the pen...
+event_blankticket_epilogue_86,TERMINUS.
+event_blankticket_epilogue_87,"With that, the empty destination field is filled in."
+event_blankticket_epilogue_88,Finally.
+event_blankticket_epilogue_89,I'm really going back...
+event_blankticket_epilogue_90,■■■■ TICKET
+event_blankticket_epilogue_91,TERMINUS TICKET: TO BE CONTINUED
 d_contents_nativeraid_01_title,A Mysterious New Game
 d_contents_nativeraid_01_1,"Mr. Commander, Mr. Commander!"
 d_contents_nativeraid_01_2,Get over here and check this out!
@@ -104453,7 +105785,7 @@ d_contents_eden_03_56,"Then tell me, why did you survive?"
 d_contents_eden_03_57,What?
 d_contents_eden_03_58,Dorothy's tests aren't easy.
 d_contents_eden_03_59,"If you went through the same tests as I did,"
-d_contents_eden_03_60,then they must have been so brutal that no one would think we were fighting the same Nikke.
+d_contents_eden_03_60,then they must have been so brutal that you could hardly believe you were fighting a Nikke like yourself.
 d_contents_eden_03_61,You've probably faced death more times than you can count.
 d_contents_eden_03_62,"And yet, you passed the test."
 d_contents_eden_03_63,...
@@ -104478,7 +105810,7 @@ d_contents_eden_03_81,Harran returns her gaze.
 d_contents_eden_03_82,... Do you really mean that?
 d_contents_eden_03_83,"Yes, because I know how painful it is to live a meaningless life."
 d_contents_eden_03_84,... All right.
-d_contents_eden_03_85,We'll do as you say.
+d_contents_eden_03_85,I'll do as you say.
 d_contents_eden_03_86,A wise decision.
 d_contents_eden_03_87,... I'm Isabel.
 d_contents_eden_03_88,What's your name?
@@ -104517,14 +105849,14 @@ d_contents_eden_04_24,"the long-range units would clear the field fast, so the c
 d_contents_eden_04_25,"Meanwhile, you moved like a snail up there."
 d_contents_eden_04_26,... I see.
 d_contents_eden_04_27,"Same with you, Harran."
-d_contents_eden_04_28,"If you're in charge of melee combat, shouldn’t you be the one spotting the enemies and reacting before I do."
+d_contents_eden_04_28,"If you're in charge of melee combat, shouldn’t you be the one spotting the enemies and reacting before I do?"
 d_contents_eden_04_29,"In the past, the others would just charge in and take out the enemy without me having to say a word!"
 d_contents_eden_04_30,...
 d_contents_eden_04_31,Shouldn't both of you be able to instinctively react without needing to be told?
 d_contents_eden_04_32,...
 d_contents_eden_04_33,"If you don't make any progress, how are we supposed to defeat high-level Raptures on the surface?"
 d_contents_eden_04_34,Dorothy.
-d_contents_eden_04_35,Who exactly are you fighting alongside?
+d_contents_eden_04_35,Who exactly are you fighting alongside right now?
 d_contents_eden_04_36,Huh?
 d_contents_eden_04_37,The variables we introduced into today's simulation
 d_contents_eden_04_38,were intended to teach everyone how to work together and how to react and adapt to sudden changes.
@@ -104581,7 +105913,7 @@ d_contents_eden_04_88,?
 d_contents_eden_04_89,What's wrong?
 d_contents_eden_04_90,... Thank you for understanding
 d_contents_eden_04_91,Don't mention it.
-d_contents_eden_04_92,"Heh, never thought I'd hearyou say that."
+d_contents_eden_04_92,"Heh, never thought I'd hear you say that."
 d_contents_eden_04_93,Isabel and Harran both leave.
 d_contents_eden_04_94,... A new squad.
 d_contents_eden_04_95,Yeah...
@@ -104954,7 +106286,7 @@ d_contents_eden_09_3,"Johan, you're way overdue for a checkup. You know that, ri
 d_contents_eden_09_4,... Yeah.
 d_contents_eden_09_5,"You always say that, but do you ever consider getting a checkup on time?"
 d_contents_eden_09_6,...
-d_contents_eden_09_7,Your body isn't like us Nikkes'.
+d_contents_eden_09_7,Your body is unlike a Nikke's.
 d_contents_eden_09_8,There's no telling what could happen.
 d_contents_eden_09_9,Do you want to freeze up in the middle of a battle with the Raptures?
 d_contents_eden_09_10,"I'm here for the checkup now, aren't I?"
@@ -105390,7 +106722,7 @@ event_goddessfall_balloon_16_01,... Noah.
 event_goddessfall_balloon_16_02,... I will have my revenge.
 event_goddessfall_balloon_17_01,... Noah.
 event_goddessfall_balloon_17_02,I will make them pay with what you've protected.
-event_goddessfall_balloon_18_01,"If I just had a new body, I-I could stay alive... I could survive..."
+event_goddessfall_balloon_18_01,"If only she got a new body, sh-she could stay alive... She could survive..."
 event_goddessfall_balloon_18_02,Please...
 event_goddessfall_balloon_19_01,A new Rapture Queen?
 event_goddessfall_balloon_19_02,Will this work to our favor... or prove a threat...?

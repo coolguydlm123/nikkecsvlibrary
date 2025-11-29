@@ -4789,7 +4789,7 @@ sk_desc_incelementdmg_None_Shot_02,"Amplifies the code reaction, increasing dama
 <color=#00AEFF>Max HP ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>"
 25902_description,"■ Activates after landing {description_value_01} normal attack(s) when self is in Struggle status. Affects the target.
 <color=#00AEFF>Taunts for {description_value_02} sec.</color>
-■ Activates when <word_group=10052>the parts of any ally (including caster) are destroyed</word_group>. Affects all allies.
+■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
 <color=#00AEFF>Sustained damage ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
 ■ Activates when <word_group=10052>the parts of any ally (including caster) are destroyed</word_group>. Affects {description_value_06} enemy unit(s) with the highest ATK.
 <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_08} sec.</color>"
@@ -5127,7 +5127,7 @@ Hit Rate ▲ {description_value_03}% continuously.</color>"
 <color=#00AEFF>Attack speed ▲ {description_value_01}% for {description_value_02} sec.
 ATK ▲ {description_value_03}% for {description_value_04} sec.
 Number of <word_group=10038>pellets</word_group> ▲ {description_value_05} for {description_value_06} sec.</color>"
-21921_1_description,"■ Activates when performing {description_value_01} normal attack(s). Affects self.
+21921_1_description,"■ Activates after {description_value_01} normal attack(s). Affects self.
 <color=#00AEFF>Emergency-Crafted Bullets: Reload {description_value_02}% of the magazine.</color>
 ■ Activates during Emergency-Crafted Bullets. Affects all allies.
 <color=#00AEFF>Temporary Modification: Max Ammunition Capacity ▲ {description_value_03}, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.
@@ -5144,7 +5144,7 @@ statshotcount_int_des,Pellet count is fixed at 1.
 20301_1_name,Brave Call
 20302_1_name,That's a Good Boy
 10303_1_name,Poli's Defense Line
-20301_1_description,"■ Activates when performing {description_value_01} normal attack(s). Affects all allies.
+20301_1_description,"■ Activates after {description_value_01} normal attack(s). Affects all allies.
 <color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
 ■ Activates when entering battle. Affects self.
 <color=#00AEFF>Police Badge: Creates a <word_group=10023>shield</word_group> equal to {description_value_04}% of the caster's <word_group=10025>final</word_group> max HP for {description_value_05} sec.</color>"
@@ -5524,9 +5524,9 @@ sk_desc_Queen001_Shot_04,"Fires multiple precision-strike lasers, dealing damage
 sk_desc_Queen001_Shot_05,"Fires two sweeping lasers, dealing damage to all Nikkes."
 sk_desc_Queen001_Shot_05_Normal,"Fires two sweeping lasers, dealing significant damage to all Nikkes."
 sk_desc_Queen001_Shot_06,"Opens its faceplate and fires a powerful laser, dealing damage to a single Nikke."
-sk_desc_Queen001_Shot_08,"Calls down a laser barrage from its station in the sky, incapacitating all Nikkes."
-sk_desc_Queen001_Shot_08_Normal,"Calls down a laser barrage from its station in the sky, dealing damage to all Nikkes."
-sk_desc_Queen001_Shot_10,"Fires two sweeping lasers, dealing significant damage to all Nikkes.
+sk_desc_Queen001_Shot_08,"Calls down a laser barrage from the Queen's station in the sky, incapacitating all Nikkes."
+sk_desc_Queen001_Shot_08_Normal,"Calls down a laser barrage from the Queen's station in the sky, dealing damage to all Nikkes."
+sk_desc_Queen001_Shot_10,"Fires two sweeping lasers, dealing massive damage to all Nikkes.
 Generates a code barrier to defend against attacks when Cancel Rings are active.
 While the code barrier is up, only Wind Code Nikkes can deal damage."
 23311_name,Chief Aide
@@ -5557,7 +5557,7 @@ Max Ammunition Capacity ▲ {description_value_01}% for {description_value_02} s
 Removes Gentle Current.</color>
 ■ Activates when landing Full Charge attacks. Affects self if the enemy hit is a Rapture that is not the stage target.
 <color=#00AEFF>Gentle Current: Fixes charge time at {description_value_02} sec continuously.
-Dispels Raging Current.</color>
+Removes Raging Current.</color>
 ■ Activates at the start of battle. Affects self.
 <color=#00AEFF>Gains <word_group=10092>immunity to Increase Charge Speed effects</word_group> continuously. This effect cannot be dispelled.
 Gains <word_group=10093>immunity to Decrease Charge Speed effects</word_group> continuously. This effect cannot be dispelled.</color>"
@@ -5609,22 +5609,41 @@ sk_name_onlyone_Shot_05,Genesis Prelude
 sk_name_onlyone_Shot_07,Beast of the Sea
 sk_name_onlyone_Shot_09,Beast of the Land
 sk_name_onlyone_Shot_11,Beast of the Sky
-sk_name_onlyone_Shot_13,Omniscient Gaze
+sk_name_onlyone_Shot_13,All-Seeing Gaze
 sk_desc_onlyone_Energy_Shot_01,Deals damage to a single Nikke with Lingering Gaze.
 sk_desc_onlyone_Energy_Shot_03,"Fires stakes, dealing damage to a single Nikke.
 The stakes can be intercepted."
 sk_desc_onlyone_Energy_Shot_05,"Raises thorns in all directions, dealing damage to all Nikkes.
 While Genesis Prelude is in use, Only One generates a code barrier to defend against attacks.
 While the code barrier is up, only Water Code Nikkes can deal damage."
-sk_desc_onlyone_Energy_Shot_07,"Summons the Beast of the Sea, dealing damage to all Nikkes."
-sk_desc_onlyone_Energy_Shot_09,"Summons the Beast of the Land, dealing damage to all Nikkes."
-sk_desc_onlyone_Energy_Shot_11,"Summons the Beast of the Sky, dealing damage to all Nikkes."
+sk_desc_onlyone_Energy_Shot_07,"Summons Beast of the Sea, dealing damage to all Nikkes."
+sk_desc_onlyone_Energy_Shot_09,"Summons Beast of the Land, dealing damage to all Nikkes."
+sk_desc_onlyone_Energy_Shot_11,"Summons Beast of the Sky, dealing damage to all Nikkes."
 sk_desc_onlyone_Energy_Shot_13,Deals damage to all Nikkes with All-Seeing Gaze.
+20741_name,I'll Check Your Ticket!
+20742_name,I'll Help You Board the Train!
+10743_name,I'll Get You There Safely!
+20741_description,"■ Activates at the start of battle or when using Burst Skill. Affects all allies.
+<color=#00AEFF>Issues 1 ticket, up to a maximum of 2. Continuous.
+Ticket effect: Max HP ▲ number of tickets * {description_value_01}% of the caster's Max HP without restoring HP.</color>
+■ Activates when entering Full Burst. Affects all allies.
+<color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
+■ Activates when entering Full Burst. Affects all allies.
+<color=#00AEFF>Removes First Train Discount.</color>"
+20742_description,"■ Activates when the HP of anyone in the squad is lower than {description_value_01}%. Affects the target if the target has any tickets.
+<color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> max HP as HP.
+Ticket count ▼ {description_value_03}.</color>
+■ Activates at the start of battle. Affects all allies.
+<color=#00AEFF>First Train Discount for {description_value_04} sec.
+Function: The effects of I'll Help You Board the Train! will not consume tickets.</color>"
+10743_description,"■ Affects all allies.
+<color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> max HP as HP.</color>"
 10090_1_add_des,This effect is not affected by any effects that modify stack counts.
 10090_2_add_des,"Effects that modify stack counts include:
 - Increasing/decreasing the stack count of stackable buffs
 - Increasing/decreasing the stack count of stackable debuffs"
 10091_1_add_des,"Chime's ""king"" refers to Crown."
+immune_ticket_dec_des,The effects of I'll Help You Board the Train! will not consume tickets while this effect is active.
 immunestatchargetime_add_des,Immunity to Increase Charge Speed
 immunestatchargetime_dec_des,Immunity to Decrease Charge Speed
 10092_1_add_des,Becomes immune to Increase Charge Speed effects for the duration of the effect.

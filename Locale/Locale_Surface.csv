@@ -83,7 +83,7 @@ SURFACE_MISSION_LIST_TITLE_MAIN,Main
 SURFACE_MISSION_LIST_TITLE_SIDE,Side
 SURFACE_MISSION_POPUP_DESCRIPTION,List of missions.
 SURFACE_MISSION_REWARD_BTN_LOCK,Locked
-SURFACE_MISSION_REWARD_BTN_PROGRESS,In progress
+SURFACE_MISSION_REWARD_BTN_PROGRESS,In Progress
 SURFACE_MISSION_REWARD_BTN_SHORT_CUT,Go
 SURFACE_MISSION_REWARD_BTN_RECEIVE,Obtain Rewards
 SURFACE_MISSION_REWARD_BTN_RECEIVE_ALL,Claim All
@@ -184,9 +184,9 @@ SURFACE_CURRENT_SITUATION_CATEGORY_RESEARCH_COST,Research Cost
 SURFACE_CURRENT_SITUATION_CATEGORY_HOSPITAL_TIME,Recovery Speed
 SURFACE_CURRENT_SITUATION_CATEGORY_HOSPITAL_COST,Recovery Cost
 SURFACE_CURRENT_SITUATION_CATEGORY_FACTORY_TIME,Factory Production Time Reduction
-SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_CORE_POWDER,Core Dust Production Amount
-SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_CORE_POWDER,Core Dust Max Amount
-SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_CORE_POWDER,Core Dust Max Production
+SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_CORE_POWDER,Core Powder Production Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_CORE_POWDER,Core Powder Max Amount
+SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_CORE_POWDER,Core Powder Max Production
 SURFACE_CURRENT_SITUATION_CATEGORY_PRODUCTION_GODDESIUM,Goddesium Production Amount
 SURFACE_CURRENT_SITUATION_CATEGORY_MAX_AMOUNT_GODDESIUM,Goddesium Max Amount
 SURFACE_CURRENT_SITUATION_CATEGORY_MAX_PRODUCTION_GODDESIUM,Goddesium Max Production
@@ -239,7 +239,7 @@ SURFACE_CANNOT_REPAIR_IN_BATTLE,Unable to repair the calling signal generator wh
 SURFACE_CANNOT_REPAIR_NOT_OCCUPATION,Unable to repair the calling signal generator in an unoccupied area.
 SURFACE_ERROR_TOAST_CANNOT_INSTALL_OUTSIDE_USER_AREA,Unable to install outside the occupied area.
 SURFACE_ERROR_TOAST_CANNOT_INSTALL_SELECT_TILE,Unable to install on the selected tile.
-SURFACE_CALLING_SIGNAL_GENERATOR_INSTALL_CONFIRM,Install the selected call signal generator?
+SURFACE_CALLING_SIGNAL_GENERATOR_INSTALL_CONFIRM,Install the selected calling signal generator?
 SURFACE_CALLING_SIGNAL_GENERATOR_INSTALL_COMPLETE,Calling signal generator installation complete!
 SURFACE_OBJECT_DURABILITY,Durability
 SURFACE_FACTORY_PRODUCT_UNLOCK_CONDITION_TITLE,Production Conditions
@@ -498,7 +498,7 @@ SURFACE_AREA_NAME_06_A,Occupied Area 06-A
 SURFACE_AREA_NAME_06_B,Occupied Area 06-B
 SURFACE_AREA_NAME_06_C,Occupied Area 06-C
 SURFACE_ITEM_RECOVERY_ERROR_NEED_SELECT_CHARACTER,Please select a Nikke to use it on.
-SURFACE_ITEM_RECOVERY_ERROR_DEAD_CHARACTER,Unable to use on a fallen Nikke.
+SURFACE_ITEM_RECOVERY_ERROR_DEAD_CHARACTER,Unable to use on an incapacitated Nikke.
 SURFACE_ITEM_RECOVERY_ERROR_FULL_HP,Unable to use on Nikkes with full HP.
 SURFACE_ITEM_RECOVERY_ERROR_RETURN_CHARACTER,Unable to use on Nikkes recovering in the hospital.
 SURFACE_ITEM_RECOVERY_ERROR_RECOVERY_CHARACTER,Unable to use on the squad recovering in the hospital.
@@ -672,7 +672,7 @@ SURFACE_OCCUPATION_BATTLE_HELPTIP_DESC_101,"■ Install an optical camouflage ge
 SURFACE_OCCUPATION_BATTLE_HELPTIP_TITLE_102,Occupation Battle Victory
 SURFACE_OCCUPATION_BATTLE_HELPTIP_DESC_102,"■ Protect the optical camouflage generator from incoming enemy waves for a certain amount of time to win.
 ■ Winning the occupation battle allows you to use the buildings in the occupied area."
-SURFACE_OCCUPATION_BATTLE_HELPTIP_TITLE_103,Occupation Battle Lost
+SURFACE_OCCUPATION_BATTLE_HELPTIP_TITLE_103,Occupation Battle Loss
 SURFACE_OCCUPATION_BATTLE_HELPTIP_DESC_103,"■ You'll lose if the optical camouflage generator is destroyed.
 ■ You can retry if you fail."
 SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_101,Defense Battle
@@ -680,8 +680,8 @@ SURFACE_OCCUPATION_DEFENSE_HELPTIP_DESC_101,"■ A defense battle occurs when th
 ■ The longer the battery stays depleted, the stronger the incoming enemy waves will become."
 SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_102,Defense Battle Victory
 SURFACE_OCCUPATION_DEFENSE_HELPTIP_DESC_102,"■ Protect the optical camouflage generator from incoming enemy waves for a certain amount of time to win.
-■ Winning the defense battle allows you to use the buildings in the occupied area."
-SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_103,Defense Battle Lost
+■ Winning the defense battle allows you to retain the occupied area."
+SURFACE_OCCUPATION_DEFENSE_HELPTIP_TITLE_103,Defense Battle Loss
 SURFACE_OCCUPATION_DEFENSE_HELPTIP_DESC_103,"■ You'll lose if the optical camouflage generator is destroyed.
 ■ If you are defeated, you will lose ownership of the occupied area, and the buildings within it will become unavailable.
 ■ All building upgrade information will also be reset."
@@ -692,7 +692,7 @@ SURFACE_GATEWAY_BATTLE_HELPTIP_DESC_101,"■ Install a holographic terminal to s
 SURFACE_GATEWAY_BATTLE_HELPTIP_TITLE_102,Gateway Battle Victory
 SURFACE_GATEWAY_BATTLE_HELPTIP_DESC_102,"■ Protect the holographic terminal from incoming enemy waves for a certain amount of time to win.
 ■ Win the gateway battle to open the gateway and enter the next sector."
-SURFACE_GATEWAY_BATTLE_HELPTIP_TITLE_103,Gateway Battle Lost
+SURFACE_GATEWAY_BATTLE_HELPTIP_TITLE_103,Gateway Battle Loss
 SURFACE_GATEWAY_BATTLE_HELPTIP_DESC_103,"■ You'll lose if the holographic terminal is destroyed.
 ■ You can retry if you fail."
 SURFACE_BOSS_RAID_BATTLE_HELPTIP_TITLE_101,Elite Expedition
@@ -743,7 +743,7 @@ SURFACE_WAVE_HELPTIP_DESC_101,"■ This is a defense operation where you must pr
 ■ Enemies will swarm in when the operation starts."
 SURFACE_WAVE_HELPTIP_TITLE_102,Defense Operation Victory
 SURFACE_WAVE_HELPTIP_DESC_102,■ Protect the Alva Particle purification device from incoming enemy waves for a certain amount of time to win.
-SURFACE_WAVE_HELPTIP_TITLE_103,Defense Operation Lost
+SURFACE_WAVE_HELPTIP_TITLE_103,Defense Operation Loss
 SURFACE_WAVE_HELPTIP_DESC_103,"■ You'll lose if the Alva Particle purification device is destroyed.
 ■ You can retry if you fail."
 SURFACE_RESEARCH_HELPTIP_TITLE_101,Research
@@ -777,10 +777,10 @@ SURFACE_TEAM_SET_HELPTIP_DESC_104,"■ Squads come in Strike, Special Mission, S
 ■ Liberty squads activate their surface skills anywhere, so they're highly versatile.
 ■ Be sure to form squads of various types to avoid overlap and maximize effectiveness."
 SURFACE_TEAM_SET_HELPTIP_TITLE_105,Disband and Swap Squads
-SURFACE_TEAM_SET_HELPTIP_DESC_105,"■ You can select an existing squad to disband or swap out Nikkes.
-■ Only squads not engaged in battle and located in the base can be edited. Nikkes will still retain their HP.
-■ Squads in recovery at the hospital cannot be disbanded.
-■ If all Nikkes in a squad have fallen, the squad will be forcibly disbanded."
+SURFACE_TEAM_SET_HELPTIP_DESC_105,"■ You can select an existing squad to disband it or to swap out Nikkes.
+■ Only squads located in a base and not engaged in battle can be edited. Changes made to a squad will not affect Nikkes' current HP.
+■ Squads in recovery at a hospital cannot be disbanded.
+■ If all Nikkes in a squad are incapacitated, the squad will be automatically disbanded."
 SURFACE_TEAM_SET_HELPTIP_TITLE_106,Surface Skill
 SURFACE_TEAM_SET_HELPTIP_DESC_106,"■ Surface Skills include attack boosts, rapid movement, and defense reduction.
 ■ Same surface skills share the same icon.
@@ -852,7 +852,7 @@ SURFACE_FACTORY_HELPTIP_TITLE_103,Cancel Production
 SURFACE_FACTORY_HELPTIP_DESC_103,"■ You can cancel the production that is in progress.
 ■ Canceling production will refund the resources used.
 ■ Completed productions cannot be canceled."
-SURFACE_FACTORY_HELPTIP_TITLE_104,Occupied Area Defense Lost
+SURFACE_FACTORY_HELPTIP_TITLE_104,Occupied Area Defense Failure
 SURFACE_FACTORY_HELPTIP_DESC_104,"■ Completed tools can be retrieved if the defense of an occupied area fails.
 ■ Tools still in production will be canceled, and the resources used will be refunded."
 SURFACE_MISSION_HELPTIP_TITLE_101,Mission
@@ -1035,9 +1035,9 @@ surface_narrativesign_401001_description,Press the hidden switch to operate the 
 surface_narrativesign_401002_description,"Sometimes, the path lies where you can't see it."
 surface_narrativesign_401003_description,Start with the fewest flowers first.
 surface_narrativesign_401004_description,"Something glimmers just beyond the trees.
-If you have an axe, you may be able to chop it..."
+With an axe, you may be able to chop down the trees to reach it..."
 surface_narrativesign_402001_description,1899-12-30T08:00:00.000Z
-surface_narrativesign_402002_description,The device can be activated with the Convert Robot's power.
+surface_narrativesign_402002_description,The device can be activated with the Conversion Robot's power.
 surface_narrativesign_403001_description,Be careful not to step on the same spot twice.
 surface_narrativesign_404001_description,"Caution!
 Keep off the flower beds."
@@ -1175,7 +1175,7 @@ surface_tutorial_mission_description_09,Investigate the suspicious tree
 surface_tutorial_mission_description_10,Move to rendezvous
 surface_tutorial_mission_description_11,Rendezvous with other squads
 surface_tutorial_mission_description_12,Move all squads to the designated location
-surface_tutorial_mission_description_13,Complete an expedition.
+surface_tutorial_mission_description_13,Complete an expedition
 surface_tutorial_mission_description_14,Explore the area
 surface_tutorial_mission_description_15,Move to the designated location
 surface_tutorial_mission_description_16,Move through the hidden passage
@@ -1477,7 +1477,7 @@ surface_quest_reward_bonus_description,Use currency to double mission rewards?
 surface_suppress_reward_bonus_currency_lack,Not enough currency.
 surface_field_world_level,Difficulty
 surface_suppress_weekly_play_time,Weekly Play Attempts:
-suppress_first_try,First try
+suppress_first_try,First Try
 surface_suppress_reward_double,Claim Double Rewards
 surface_suppress_remained_reward_double_count,Remaining Attempts
 reward_give_up,Give Up Rewards
@@ -1515,7 +1515,7 @@ surface_field_quest_difficulty,Difficulty
 surface_field_sector_eng,Sector
 surface_selected,Selected
 surface_standard_battlepower,Standard Power
-surface_field_quest_operation_setting_complete,Operation settings complete.
+surface_field_quest_operation_setting_complete,Complete Operation Settings
 surface_field_quest_get_reward_title,Operation completed.
 surface_field_quest_reward_obtain,Claim Rewards
 surface_quest_reward_double,Claim Double Rewards

@@ -478,6 +478,9 @@ id,event_id,message_type,tid,resource_id,name_localkey,enter_scenario_id,exit_sc
 2012801,0,Message,m_ex_delta_ninjatheif_01,0,,,,0,0,ObtainCharacter,5154,1,MainQuestClear,25,1,None,0,0,None,0,0,None,0,0,None,0,0
 2012802,0,RandomMessage,m_ex_delta_ninjatheif_02,0,,,,0,0,ObtainCharacter,5154,1,MessageClear,2012801,1,None,0,0,None,0,0,None,0,0,None,0,0
 2012803,0,RandomMessage,m_ex_delta_ninjatheif_03,0,,,,0,0,ObtainCharacter,5154,1,MessageClear,2012801,1,None,0,0,None,0,0,None,0,0,None,0,0
+2012901,0,Message,m_ex_soline_frostticket_01,0,,,,0,0,ObtainCharacter,5158,1,MessageClear,2002601,1,None,0,0,None,0,0,None,0,0,None,0,0
+2012902,0,RandomMessage,m_ex_soline_frostticket_02,0,,,,0,0,ObtainCharacter,5158,1,MessageClear,2012901,1,None,0,0,None,0,0,None,0,0,None,0,0
+2012903,0,RandomMessage,m_ex_soline_frostticket_03,0,,,,0,0,ObtainCharacter,5158,1,MessageClear,2012901,1,None,0,0,None,0,0,None,0,0,None,0,0
 3000101,0,RandomMessage,m_ex_counters_01,0,,,,0,0,ObtainCharacter,3001,1,ObtainCharacter,3002,1,ObtainCharacter,3005,1,MainQuestClear,25,1,MessageClear,9000201,1,None,0,0
 3000102,0,RandomMessage,m_ex_counters_02,0,,,,0,0,ObtainCharacter,3001,1,ObtainCharacter,3002,1,ObtainCharacter,3005,1,MainQuestClear,25,1,MessageClear,9000201,1,None,0,0
 3000202,0,RandomMessage,m_ex_absolut_02,0,,,,0,0,ObtainCharacter,5023,1,ObtainCharacter,5022,1,ObtainCharacter,5005,1,MainQuestClear,49,1,MessageClear,9000402,1,None,0,0

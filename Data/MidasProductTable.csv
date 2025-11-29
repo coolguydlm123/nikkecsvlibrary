@@ -736,6 +736,7 @@ id,product_type,product_id,item_type,midas_product_id_proximabeta,midas_product_
 60001036,PassShop,1036,Item,com.proximabeta.nikke.costumepass35,com.gamamobi.nikke.costumepass35_01,False,19.99
 60001037,PassShop,1037,Item,com.proximabeta.nikke.costumepass36,com.gamamobi.nikke.costumepass36,False,19.99
 60001038,PassShop,1038,Item,com.proximabeta.nikke.costumepass37,com.gamamobi.nikke.costumepass37,False,19.99
+60001039,PassShop,1039,Item,com.proximabeta.nikke.costumepass38,com.gamamobi.nikke.costumepass38,False,19.99
 71000001,EventPassShop,1000001,Item,com.proximabeta.nikke.eventpass01,com.gamamobi.nikke.eventpass01,False,19.99
 71000002,EventPassShop,1000002,Item,com.proximabeta.nikke.eventpass02,com.gamamobi.nikke.eventpass02,False,19.99
 71000003,EventPassShop,1000003,Item,com.proximabeta.nikke.eventpass03,com.gamamobi.nikke.eventpass03,False,19.99

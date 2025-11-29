@@ -334,6 +334,7 @@ piece_840,Ada's Spare Body
 piece_841,Jill's Spare Body
 piece_842,Claire's Spare Body
 piece_23,Delta: Ninja Thief's Spare Body
+piece_74,Soline: Frost Ticket's Spare Body
 consume_exp,Battle Data Set
 consume_exp2,Core Dust
 consume_gold,Credit
@@ -1254,15 +1255,14 @@ Where to use: Event Shop
 
 ※ When the event ends, each remaining Thief's Calling Card will be exchanged for 200 Credits."
 story_event_ticket_material_060,Dumbbell
-story_event_ticket_material_060_desc,"Feel the thrill of growing muscles as the weight increases. Before you know it, you'll own a healthy body.
+story_event_ticket_material_060_desc,"Feel the thrill of your muscles growing as the weights get heavier. Before you know it, you'll build a strong, healthy body.
 
 Where to use: Event Stage Entry
 
-※ Automatically replenishes up to 5 Dumbbells at 05:00 (UTC+9) daily.
-※ Unable to replenish when 5 or more Dumbbells are owned."
+* Up to 5 Dumbbells are automatically replenished daily at 05:00 (UTC+9).
+* Dumbbells will not be replenished if you already have 5 or more."
 story_event_currency_material_060,Protein Shake
-story_event_currency_material_060_desc,"This is the protein shake that must be taken after a workout.
-Make sure to take it post-exercise if you want to speed up muscle recovery.
+story_event_currency_material_060_desc,"This is the protein shake that must be taken after a workout. Make sure to take it post-exercise if you want to speed up muscle recovery.
 
 Where to use: Event Shop
 
@@ -1304,8 +1304,8 @@ We recommend breaking the ice surrounding its body first.
 
 Where to use: Event Stage Entry
 
-※ Automatically replenishes up to 5 Expedition Requests at 05:00 (UTC+9) daily.
-※ Unable to replenish when over 5 Expedition Requests are owned."
+* Up to 5 Expedition Requests are automatically replenished daily at 05:00 (UTC+9).
+* Expedition Requests will not be replenished if you already have 5 or more."
 story_event_currency_material_064,Money Bag
 story_event_currency_material_064_desc,"This is the pouch the Association has prepared for you.
 Equip and enhance your gear, then take on the expedition challenge.
@@ -1318,8 +1318,8 @@ story_event_ticket_material_066_desc,"As you look at the empty notebook, do you 
 
 Where to use: Event Stage Entry
 
-※ Automatically replenishes up to 5 notebooks at 05:00 (UTC+9) daily.
-※ Unable to replenish when over 5 notebooks are owned."
+* Up to 5 Notebooks are automatically replenished daily at 05:00 (UTC+9).
+* Notebooks will not be replenished if you already have 5 or more."
 story_event_currency_material_066,Filling Notebook
 story_event_currency_material_066_desc,"As you fill each page, the notebook will slowly come together. And before you know it, it will be all yours.
 
@@ -1559,6 +1559,19 @@ story_event_currency_material_093_desc,"Eden may have everything, but if everyon
 Where to use: Event Shop
 
 * When the event ends, each remaining Eden Point will be exchanged for 200 Credits."
+story_event_ticket_material_095,Yarn Ball
+story_event_ticket_material_095_desc,"In the cold of winter, someone who isn't good with words quietly knits something that can bring warmth, one stitch at a time. Let's be patient and see what she'll create.
+
+Where to use: Event Stage Entry
+
+* Up to 5 Yarn Balls are automatically replenished daily at 05:00 (UTC+9).
+* Yarn Balls will not be replenished if you already have 5 or more."
+story_event_currency_material_095,Blank Ticket
+story_event_currency_material_095_desc,"This ticket is given as a token of gratitude for your warmth. Since its destination is left blank, it will take you wherever you wish to go.
+
+Where to use: Event Shop
+
+* When the event ends, each remaining Blank Ticket will be exchanged for 200 Credits."
 story_event_currency_material_1003,Heart Clock
 story_event_currency_material_1003_desc,"The time in Snowfield Hot Spring will begin to elapse when you use this.
 Time cannot be reversed, so please make your choice carefully.
@@ -3066,6 +3079,8 @@ This chain will surely become a force to overcome all misfortunes and hardships 
 story_event_ticket_material_059_desc_archive,"You don't need much to become a phantom thief. All it takes is a righteous heart, a cape that flutters in the wind, and a mask to hide your true identity. Now, wait for the night to fall."
 story_event_currency_material_059_desc_archive,"Take out the calling card prepared in advance and make your declaration to the villains. Tonight, we will take back that which made others cry.
 Oh, remember to check the spelling before throwing the calling card out."
+story_event_ticket_material_060_desc_archive,"Feel the thrill of your muscles growing as the weights get heavier. Before you know it, you'll build a strong, healthy body."
+story_event_currency_material_060_desc_archive,This is the protein shake that must be taken after a workout. Make sure to take it post-exercise if you want to speed up muscle recovery.
 story_event_ticket_material_1001_desc_archive,"A hard drive containing recordings of Snow White's daily search efforts.
 By recording the present, there may be a chance of resurrecting long-forgotten memories from the past."
 story_event_currency_material_1001_desc_archive,"The data chip Snow White uses to record the items she collected.

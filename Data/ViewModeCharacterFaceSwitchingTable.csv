@@ -303,3 +303,6 @@ id,name_localkey,animation_name,switching_character_name_code/0/name,switching_c
 302,Locale_System:CHARACTER_FACE_ANIMATION_LIST_GOOD_01,special,switching_character_name_code,5157.0,,,,,,,,
 303,Locale_System:CHARACTER_FACE_ANIMATION_LIST_SERIOUS_01,void,switching_character_name_code,5157.0,,,,,,,,
 304,Locale_System:CHARACTER_FACE_ANIMATION_LIST_SLEEP_01,special,switching_character_name_code,5156.0,,,,,,,,
+305,Locale_System:CHARACTER_FACE_ANIMATION_LIST_GOOD_01,delight,switching_character_name_code,5158.0,,,,,,,,
+306,Locale_System:CHARACTER_FACE_ANIMATION_LIST_SHY_02,pain,switching_character_name_code,5158.0,,,,,,,,
+307,Locale_System:CHARACTER_FACE_ANIMATION_LIST_GOOD_01,shy_02,,,switching_costume_id,30054.0,,,,,,

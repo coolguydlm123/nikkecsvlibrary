@@ -53,6 +53,7 @@ id,event_system_type,has_arcade_shortcut_without_field,arcade_manager_id,event_s
 40075,StoryEvent,False,0,0,40075,1,Locale_System:PROGRESS_STORY_TYPE_02,0,0,82000
 40076,StoryEvent,False,0,0,40076,2,Locale_System:PROGRESS_STORY_TYPE_03,0,0,82000
 40059,StoryEvent,False,0,0,40059,1,Locale_System:PROGRESS_STORY_TYPE_01,2018572288,488769920,0
+40060,StoryEvent,False,0,0,40060,1,Locale_System:PROGRESS_STORY_TYPE_01,-904300544,-2045476480,0
 80500,DiceEvent,False,0,0,80500,0,,1241628672,1260882304,40002
 1080300,FieldHubEvent,False,0,50001,80300,0,,1241628672,1260882304,0
 1080305,TextAdventure,False,0,60001,80305,0,,0,0,1080300

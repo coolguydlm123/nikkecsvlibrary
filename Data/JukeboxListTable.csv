@@ -54,7 +54,7 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 9908006,900,bgm_story_saveus,False,94,save us,7,Cosmograph,False,FieldItem,55003206
 9908007,900,bgm_story_gshangri-la,False,94,Garden of Shangri-la,8,Cosmograph,False,FieldItem,55003207
 9908008,900,bgm_story_signal,True,74,signal,9,Cosmograph,False,FieldItem,55003208
-9908009,900,event_bgm_spot_goddessofvictory_b,True,94,Goddess of Victory,10,Cosmograph (feat. Penelle),False,FieldItem,55003209
+9908009,900,event_bgm_spot_goddessofvictory_b,True,94,Goddess of Victory,10,Cosmograph (feat. Pernelle),False,FieldItem,55003209
 9908010,900,event_bgm_satellites,False,235,Satellites,1,NieN (feat. AmaLee),False,FieldItem,55003210
 9908011,900,event_bgm_satellitespiano,False,74,Satellites (Piano Ver.),11,NieN Arranged by Cosmograph,False,FieldItem,55003211
 9908012,900,bgm_story_thepilgrimacv,True,65,The Pilgrim (Acoustic Ver.),12,Cosmograph Arranged by NieN,False,FieldItem,55003212
@@ -277,7 +277,7 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 9170009,917,event_bgm_goddessfall_heap,True,77,Heap,9,Cosmograph,False,FieldItem,55027029
 9170010,917,event_bgm_goddessfall_kingdom,True,114,Kingdom,10,Nauts,False,FieldItem,55027030
 9170011,917,event_bgm_goddessfall_purpose,True,128,Purpose,11,Nauts,False,FieldItem,55027031
-9170012,917,event_bgm_goddessfall_control,True,115,Control,12,Nauts,False,FieldItem,55027032
+9170012,917,event_bgm_goddessfall_control,True,115,Control,12,DoubleTO,False,FieldItem,55027032
 9170013,917,event_bgm_goddessfall_rose,True,130,Rose,13,Nauts,False,FieldItem,55027033
 9170014,917,event_bgm_goddessfall_anothermirror,True,123,Another Mirror,14,Cosmograph,False,FieldItem,55027017
 9170015,917,event_bgm_goddessfall_crowner,True,123,Crowner,15,Cosmograph,False,FieldItem,55027018
@@ -443,6 +443,7 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 4063,4,event_bgm_rapiredhood_costumes,True,196,"Yes, My Commander!",64,NieN (feat. CielA),False,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_REDHOOD_SPECIAL
 4064,4,event_bgm_intothefire,False,231,Into the Fire,65,Cosmograph (feat. Victor Borba),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 4065,4,event_bgm_intothefire_inst,False,89,Into the Fire (OP Ver.),66,Cosmograph (feat. Victor Borba),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
+4066,4,event_bgm_blankticket,False,178,BLANK TICKET,67,Shofin,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5001,5,bgm_prologue,True,45,Between life and Death,1,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5002,5,bgm_spot_encounter,True,83,ENCOUNTER,2,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5003,5,bgm_spot_counterattack,True,84,Counter Attack,3,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM

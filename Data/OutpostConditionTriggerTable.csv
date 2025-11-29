@@ -260,3 +260,6 @@ id,event_type,tid,resource_id,name_localkey,enter_scenario_id,exit_scenario_id,s
 1150109,Outpost,11501,5154,Locale_SuddenStory:d_ex_mysteryclub_09_title,d_ex_mysteryclub_09,,1,3000003,ObtainCharacter,5154,1,ObtainCharacter,5122,1,None,0,0,None,0,0,None,0,0,None,0,0
 1020111,Outpost,10201,5154,Locale_SuddenStory:d_ex_police_11_title,d_ex_police_11,,1,3000003,ObtainCharacter,5154,1,ObtainCharacter,5037,1,None,0,0,None,0,0,None,0,0,None,0,0
 1130112,Outpost,11301,5154,Locale_SuddenStory:d_ex_cafe_12_title,d_ex_cafe_12,,1,3000003,ObtainCharacter,5154,1,ObtainCharacter,5028,1,ObtainCharacter,5010,1,None,0,0,None,0,0,None,0,0
+1130111,Outpost,11301,5158,Locale_SuddenStory:d_ex_cafe_11_title,d_ex_cafe_11,,1,3000003,ObtainCharacter,5158,1,ObtainCharacter,5010,1,None,0,0,None,0,0,None,0,0,None,0,0
+1220110,Outpost,12201,5158,Locale_SuddenStory:d_ex_wingofvictory_10_title,d_ex_wingofvictory_10,,1,3000003,ObtainCharacter,5158,1,ObtainCharacter,5136,1,None,0,0,None,0,0,None,0,0,None,0,0
+1180112,Outpost,11801,5158,Locale_SuddenStory:d_ex_clothingstore_12_title,d_ex_clothingstore_12,,1,3000003,ObtainCharacter,5158,1,ObtainCharacter,5077,1,None,0,0,None,0,0,None,0,0,None,0,0

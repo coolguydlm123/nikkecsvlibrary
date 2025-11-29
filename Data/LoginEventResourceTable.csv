@@ -64,6 +64,7 @@ id,event_id,character_id,costume_id,set_character_anim,logo_resource_table,logo_
 10063,10063,201601,30050,idle,,,attendance_event_rapiredhoodspecial,False,0,0
 10064,10064,502301,0,idle,,,attendance_event_goninjathief,False,0,0
 10065,10065,433101,0,idle,,,attendance_event_anniversary_03,False,0,0
+10066,10066,207401,0,idle,,,attendance_event_blankticket,False,0,0
 80103,80103,112101,0,idle,,,attendance_event_miraclesnow,False,0,0
 80201,80201,112101,0,idle,,,attendance_event_ce_01_02,False,0,0
 80301,80301,112101,0,idle,,,attendance_event_overzone,False,0,0

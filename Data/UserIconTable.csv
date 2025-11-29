@@ -316,3 +316,4 @@ id,resource_id,costume_index,name_code,name_localkey,order
 506502,330,2,5065,Locale_Profile:usericon_name_506502,513702
 513702,513,2,5137,Locale_Profile:usericon_name_513702,514102
 551501,223,1,5155,Locale_Profile:usericon_name_551501,514301
+102001,111,1,1020,Locale_Profile:usericon_name_102001,505201

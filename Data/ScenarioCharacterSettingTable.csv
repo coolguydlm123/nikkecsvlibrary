@@ -1197,3 +1197,6 @@ despairnikke,Locale_Character:npc_600_name,999,default,None,spine/standing/c999/
 dyingnikke,Locale_Character:npc_601_name,999,default,None,spine/standing/c999/00_HD,
 impassionednikke,Locale_Character:npc_602_name,999,default,None,spine/standing/c999/00_HD,
 determinednikke,Locale_Character:npc_603_name,999,default,None,spine/standing/c999/00_HD,
+nora,Locale_Character:npc_604_name,9002,default,None,spine/standing/c9002/00_HD,
+soline_w,Locale_Character:71_name,74,default,None,spine/standing/c074/00_HD,c074_00_var
+blankticket_event,Locale_Character:10_name,10,default,None,spine/events/EventScene_blankticket_01,

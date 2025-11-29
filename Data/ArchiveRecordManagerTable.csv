@@ -39,6 +39,7 @@ id,record_type,record_title_locale,record_main_archive_event_id,record_list_orde
 3800,StoryEvent,Locale_System:RECORD_EVENT_TITLE_38,81300,38,7120001,1,3800,0,0,0,3800,event_archive_goldencoinrush,,,event_archive_goldencoinrush
 3900,StoryEvent,Locale_System:RECORD_EVENT_TITLE_39,82000,39,7120001,1,3900,0,0,0,3900,event_archive_unbreakablesphere,,,event_archive_unbreakablesphere
 4000,StoryEvent,Locale_System:RECORD_EVENT_TITLE_40,40059,40,7120001,1,4000,0,0,40059,4000,event_archive_phantomthiefvsdetective,,,event_archive_phantomthiefvsdetective
+4100,StoryEvent,Locale_System:RECORD_EVENT_TITLE_41,40060,41,7120001,1,4100,0,0,40060,4100,event_archive_lifeagain,,,event_archive_lifeagain
 1000100,EventQuest,Locale_Event:EVENT_QUEST_FIRSTAFFECTION,130002,10001,7120001,1,0,6000011,0,0,1000100,event_archive_firstaffection,perm_eventquest,EVENT_BANNER_FIRSTAFFECTION,event_archive_firstaffection
 1000200,EventQuest,Locale_Event:EVENT_QUEST_FOOLSDAY,130001,10002,7120001,1,0,6000001,0,130001,1000200,event_archive_fullfoolday,perm_eventquest,EVENT_BANNER_FULLFOOLDAY,event_archive_fullfoolday
 1000300,EventQuest,Locale_Event:EVENT_QUEST_LIAR'SEND,130004,10003,7120001,1,0,6000031,0,130004,1000300,event_archive_liarsend,perm_eventquest,EVENT_BANNER_LIARSEND,event_archive_liarsend

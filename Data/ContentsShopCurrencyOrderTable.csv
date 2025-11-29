@@ -87,3 +87,5 @@ id,group,order,price_type,price_id
 20642,2064,2,Item,7060092
 20651,2065,1,Currency,99
 20652,2065,2,Item,7060093
+20661,2066,1,Currency,99
+20662,2066,2,Item,7060095

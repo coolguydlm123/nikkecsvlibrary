@@ -1521,7 +1521,7 @@ MISSION_CHAPTER_PROGRESS,Chapter Progress
 MISSION_LOCKED_MISSION,Mission is locked.
 MISSION_LOCKED_CHAPTER,Chapter is locked.
 MISSION_LOCKED_CHAPTER_INFO,Please clear all the missions in the previous chapter.
-MISSION_ALL_CLEAR,You have cleared all Missions! Next Mission Update:
+MISSION_ALL_CLEAR,You have cleared all missions! Next mission update:
 MISSION_ALL_CLEAR_2,All missions completed!
 MISSION_NOW_DAILY_RESET,Unable to claim the reward. Date information has changed.
 MAIN_MISSION_QUEST_TITLE,Main
@@ -1810,6 +1810,7 @@ SHOP_EVENT_STORY_88_SHOP_TAB,AGENT SUPPLIES
 SHOP_EVENT_STORY_90_SHOP_TAB,ITEM BOX
 SHOP_EVENT_STORY_92_SHOP_TAB,Inside Ninja's Ceiling
 SHOP_EVENT_STORY_93_SHOP_TAB,Eden Store
+SHOP_EVENT_STORY_95_SHOP_TAB,IN-TRAIN SALES
 SHOP_NEXT_ITEM_ENTRY_LEFT_TIME,Restock Time
 SHOP_ITEM_PRICE,Price
 SHOP_NAME_NORMAL,You can purchase items you need at any time.
@@ -6890,6 +6891,7 @@ ITEM_EXCHANGE_10088_MAIL_DESC,Each Intel List has been exchanged for 200 Credits
 ITEM_EXCHANGE_10090_MAIL_DESC,Each Mixed Herb has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10092_MAIL_DESC,Each Ninja Thief's Shuriken has been exchanged for 200 Credits.
 ITEM_EXCHANGE_10093_MAIL_DESC,Each Eden Point has been exchanged for 200 Credits.
+ITEM_EXCHANGE_10095_MAIL_DESC,Each Blank Ticket has been exchanged for 200 Credits.
 ITEM_EXCHANGE_11001_MAIL_TITLE,Costume Ticket Exchange
 ITEM_EXCHANGE_11001_MAIL_DESC,Each Bunny Costume Ticket has been exchanged for 120 free Gems.
 ITEM_EXCHANGE_11002_MAIL_TITLE,Costume Ticket Exchange
@@ -7672,6 +7674,7 @@ INAPP_SHOP_SUB_CATEGORY_COINSINRUSH_FUNCTION,COINS IN RUSH
 INAPP_SHOP_SUB_CATEGORY_CE007_FUNCTION,REBORN EVIL
 INAPP_SHOP_SUB_CATEGORY_GONINJATHIEF_FUNCTION,GO! NINJA THIEF!
 INAPP_SHOP_SUB_CATEGORY_GODDESSFALL_FUNCTION,GODDESS FALL
+INAPP_SHOP_SUB_CATEGORY_BLANKTICKET_FUNCTION,BLANK TICKET
 INAPP_SHOP_STEPUP_CANNOT_BUY,You need to buy the package for the previous Step.
 CASH_SHOP_CUSTOM_PACKAGE_EDIT_TITLE,Edit Custom Package
 CASH_SHOP_CUSTOM_PACKAGE_EDIT_DESC,"Please select the items you want.
@@ -8364,7 +8367,8 @@ RECORD_EVENT_TITLE_36,BEAUTY FULL SHOT
 RECORD_EVENT_TITLE_37,JINX PLAYER
 RECORD_EVENT_TITLE_38,GOLDEN COIN RUSH
 RECORD_EVENT_TITLE_39,UNBREAKABLE SPHERE
-RECORD_EVENT_TITLE_40,Phantom Thief vs Detective
+RECORD_EVENT_TITLE_40,PHANTOM THIEF VS DETECTIVE
+RECORD_EVENT_TITLE_41,LIFE AGAIN
 RECORD_COLLABO_TITLE_1,YOU CAN (NOT) EVADE
 RECORD_REWARD_INFO_1,NO CALLER ID NORMAL
 RECORD_REWARD_INFO_2,NO CALLER ID HARD
@@ -9519,10 +9523,12 @@ USERTITLE_NAME_NIKKE_5151,Ade: Agent Bunny's Exclusive Title
 USERTITLE_NAME_JOFFTOUR,Traveler of the Millennium City
 USERTITLE_NAME_GONINJATHIEF,GO! NINJA THIEF! Special Title
 USERTITLE_NAME_NIKKE_5154,Delta: Ninja Thief's Exclusive Title
-USERTITLE_NAME_GODDESSFALL,Goddess Fall Special Title
+USERTITLE_NAME_GODDESSFALL,GODDESS FALL Special Title
 USERTITLE_NAME_NIKKE_5155,Nayuta's Exclusive Title
 USERTITLE_NAME_NIKKE_5156,Liberalio's Exclusive Title
 USERTITLE_NAME_NIKKE_5157,Chime's Exclusive Title
+USERTITLE_NAME_BLANKTICKET,Blank Ticket Special Title
+USERTITLE_NAME_NIKKE_5158,Soline: Frost Ticket's Exclusive Title
 USERTITLE_DESCRIPTION_DEFAULTTITLE,"Title for New Face.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_INFRACORELV_20,"Title for Ready to Strike.
@@ -9921,13 +9927,17 @@ USERTITLE_DESCRIPTION_GONINJATHIEF,"Special title for GO! NINJA THIEF!
 Can be used on the profile."
 USERTITLE_DESCRIPTION_NIKKE_5154,"Exclusive title for Delta: Ninja Thief.
 Can be used on the profile."
-USERTITLE_DESCRIPTION_GODDESSFALL,"Special title for Goddess Fall.
+USERTITLE_DESCRIPTION_GODDESSFALL,"Special title for GODDESS FALL.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_NIKKE_5155,"Exclusive title for Nayuta.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_NIKKE_5156,"Exclusive title for Liberalio.
 Can be used on the profile."
 USERTITLE_DESCRIPTION_NIKKE_5157,"Exclusive title for Chime.
+Can be used on the profile."
+USERTITLE_DESCRIPTION_BLANKTICKET,"Special title for Blank Ticket.
+Can be used on the profile."
+USERTITLE_DESCRIPTION_NIKKE_5158,"Exclusive title for Soline: Frost Ticket.
 Can be used on the profile."
 USERTITLE_CONTENTS_DESC_DEFAULTTITLE,Default Title
 USERTITLE_CONDITION_INFRACORELV,Upgrade Infrastructure Core Activity to Lv. 20
@@ -9986,7 +9996,8 @@ USERTITLE_CONTENTS_DESC_ABSOLUTE,Can be obtained from the shop in the story even
 USERTITLE_CONTENTS_DESC_COINSINRUSH,Can be obtained from the shop in the story event COINS IN RUSH.
 USERTITLE_CONTENTS_DESC_JOFFTOUR,Obtain by progressing through Journey to the Millennium City
 USERTITLE_CONTENTS_DESC_GONINJATHIEF,Can be obtained from the shop in the story event GO! NINJA THIEF!.
-USERTITLE_CONTENTS_DESC_GODDESSFALL,Can be obtained from the shop in the story event Goddess Fall.
+USERTITLE_CONTENTS_DESC_GODDESSFALL,Can be obtained from the shop in the story event GODDESS FALL.
+USERTITLE_CONTENTS_DESC_BLANKTICKET,Can be obtained from the shop in the story event BLANK TICKET.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1007,Watch all of D's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1010,Watch all of Laplace's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_1012,Watch all of Sakura's episodes in Advise.
@@ -10359,6 +10370,7 @@ USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5154,Watch all of Delta: Ninja T
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5155,Watch all of Nayuta's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5156,Watch all of Liberalio's episodes in Advise.
 USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5157,Watch all of Chime's episodes in Advise.
+USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_5158,Watch all of Soline: Frost Ticket's episodes in Advise.
 USERTITLE_CONDITION_MAXATTRACTIVE_3004,Reach the maximum Bond Level with Rumani.
 USERTITLE_CONDITION_MAXATTRACTIVE_5123,Reach the maximum Bond Level with Rapunzel: Pure Grace.
 USERTITLE_CONDITION_MAXATTRACTIVE_5124,Reach the maximum Bond Level with Cinderella.
@@ -10390,6 +10402,7 @@ USERTITLE_CONDITION_MAXATTRACTIVE_5154,Reach the maximum Bond Level with Delta: 
 USERTITLE_CONDITION_MAXATTRACTIVE_5155,Reach the maximum Bond Level with Nayuta.
 USERTITLE_CONDITION_MAXATTRACTIVE_5156,Reach the maximum Bond Level with Liberalio.
 USERTITLE_CONDITION_MAXATTRACTIVE_5157,Reach the maximum Bond Level with Chime.
+USERTITLE_CONDITION_MAXATTRACTIVE_5158,Reach the maximum Bond Level with Soline: Frost Ticket.
 USERTITLE_CONDITION_4OVERLOAD_3004,Complete Rumani's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5123,Complete Rapunzel: Pure Grace's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5124,Complete Cinderella's Equipment Modification.
@@ -10421,6 +10434,7 @@ USERTITLE_CONDITION_4OVERLOAD_5154,Complete Delta: Ninja Thief's Equipment Modif
 USERTITLE_CONDITION_4OVERLOAD_5155,Complete Nayuta's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5156,Complete Liberalio's Equipment Modification.
 USERTITLE_CONDITION_4OVERLOAD_5157,Complete Chime's Equipment Modification.
+USERTITLE_CONDITION_4OVERLOAD_5158,Complete Soline: Frost Ticket's Equipment Modification.
 USERTITLE_CONDITION_SIMULATIONROOMOVERCLOCK50,Clear the Simulation Room Overclock with a ratio higher than 50.
 USERTITLE_CONDITION_SIMULATIONROOMOVERCLOCKINFINITEOPTION_1,Clear Simulation Room Overclock with the Code Match: H.S.T.A. option.
 USERTITLE_CONDITION_SIMULATIONROOMOVERCLOCKINFINITEOPTION_2,Clear Simulation Room Overclock with the Code Match: P.S.I.D. option.
@@ -10586,6 +10600,7 @@ USERTITLE_ASSEMBLY_NIKKE_5154,Delta's Commander
 USERTITLE_ASSEMBLY_NIKKE_5155,Nayuta's Great Hero
 USERTITLE_ASSEMBLY_NIKKE_5156,Liberalio's Human
 USERTITLE_ASSEMBLY_NIKKE_5157,Chime's Rapscallion
+USERTITLE_ASSEMBLY_NIKKE_5158,Soline's Commander
 TOAST_AUTO_SELECT_NOT_ENOUGH_ITEM,No items available.
 TOAST_AUTO_SELECT_NOT_ENOUGH_CREDIT,Not enough currency. Unable to select materials.
 TOGGLE_TEXT_CORP_TIER_9,Display Manufacturer Tier 9
@@ -10780,7 +10795,7 @@ TOAST_DESC_ARCHIVE_RECORD_UNLOCK,Event Quest unlocked.
 TOAST_DESC_ARCHIVE_EVENT_QUEST_DEACTIVATE,Event Quest disabled.
 TAB_ARCHIVE_STORY_EVENT,Story Event
 TAB_ARCHIVE_EVENT_QUEST,Event Quest
-ACTIVE_ARCHIVE_EVENT_QUEST,In progress
+ACTIVE_ARCHIVE_EVENT_QUEST,In Progress
 EMPTY_ARCHIVE_EVENT_QUEST,No ongoing Archives Event Quests.
 HAS_ACTIVE_LIMITED_EVENT_QUEST,No ongoing Limited-Time Event Quests.
 MISSION_DESC_ARCHIVE_EVENT_QUEST,Complete all the Event Quests to obtain rewards

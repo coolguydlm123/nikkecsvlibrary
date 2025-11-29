@@ -31,11 +31,11 @@ id,mission_data_group_id,touch_control,start_delay_time,trigger,trigger_value,cl
 100506,1005,False,0,StartLookAtTrigger,1004,0,100507,False,10501
 100507,1005,True,0,SetMissionLocale,5,0,100508,False,10501
 100508,1005,False,0,OffFieldBlocker,1002,0,100509,False,10501
-100509,1005,True,0,ActivateButtonTrigger,1001,520,0,False,10501
-100601,1006,True,0,StartDialogGroup,surface_tutorial_mission_06_01,0,100602,True,10601
-100602,1006,False,0,OffFieldBlocker,1002,0,100603,False,10601
-100603,1006,False,0,OffSpotLight,1002,0,100604,False,10601
-100604,1006,False,0,OnFieldBlocker,1003,0,100605,False,10601
+100509,1005,True,0,ActivateButtonTrigger,1001,450,0,False,10501
+100601,1006,False,0,OffFieldBlocker,1002,0,100602,False,10601
+100602,1006,False,0,OnFieldBlocker,1003,0,100603,False,10601
+100603,1006,True,0,StartDialogGroup,surface_tutorial_mission_06_01,0,100604,True,10601
+100604,1006,False,0,OffSpotLight,1002,0,100605,False,10601
 100605,1006,False,0,SetMissionLocale,6,0,100606,False,10601
 100606,1006,False,0,CameraFocusSelectedSquad,0,0,100607,False,10601
 100607,1006,True,0,MoveToSpecificTile,1003,100,0,False,10601
@@ -126,7 +126,7 @@ id,mission_data_group_id,touch_control,start_delay_time,trigger,trigger_value,cl
 101601,1016,False,0,CameraFocusSelectedSquad,0,0,101602,False,11601
 101602,1016,True,0,StartDialogGroup,surface_tutorial_mission_16_01,0,101603,True,11601
 101603,1016,False,0,SetMissionLocale,16,0,101604,False,11601
-101604,1016,True,0,ActivateButtonTrigger,1003,520,0,False,11601
+101604,1016,True,0,ActivateButtonTrigger,1003,450,0,False,11601
 101701,1017,True,0,StartDialogGroup,surface_tutorial_mission_17_01,0,101702,True,11701
 101702,1017,False,0,SetMissionLocale,17,0,101703,False,11701
 101703,1017,False,0,CameraFocusSelectedSquad,0,0,101704,False,11701
@@ -179,7 +179,7 @@ id,mission_data_group_id,touch_control,start_delay_time,trigger,trigger_value,cl
 102111,1021,True,0,StartDialogGroup,surface_tutorial_mission_21_03,0,102112,True,12101
 102112,1021,False,0,StartLookAtTrigger,1025,0,102113,False,12101
 102113,1021,False,0,SetMissionLocale,21,0,102114,False,12101
-102114,1021,True,0,ActivateButtonTrigger,1004,520,0,False,12101
+102114,1021,True,0,ActivateButtonTrigger,1004,450,0,False,12101
 102201,1022,False,0,OffFieldBlocker,1014,0,102202,False,12201
 102202,1022,False,0,OnFieldBlocker,1015,0,102203,False,12201
 102203,1022,False,0,OffSpotLight,1009,0,102204,False,12201
