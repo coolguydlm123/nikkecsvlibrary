@@ -96,6 +96,7 @@ id,group_id,prefab_id
 10095,10095,rebuildeden_popup_guide
 10096,10096,rebuildeden_popup_guide
 10097,10097,rebuildeden_popup_guide
+10098,10098,servicetime_popup_guide_terminusticket
 20001,20001,View - ContentGuidePopupMiniGame
 20002,20002,View - ContentGuidePopupMiniGame
 20003,20003,View - ContentGuidePopupMiniGame
@@ -110,3 +111,4 @@ id,group_id,prefab_id
 20012,20012,View - ContentGuidePopupMiniGame
 20013,20013,View - ContentGuidePopupMiniGame
 20014,20014,View - ContentGuidePopupMiniGame
+20015,20015,View - ContentGuidePopupMiniGame

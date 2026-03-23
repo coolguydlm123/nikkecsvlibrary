@@ -167,6 +167,7 @@ id,resource_id,mon_prefab,grade,size,dissolve_type,attribute,move_type,category_
 342007,165,mcg007,Centurion,Big,Big,Metal,Walk,Attacker,None,None,Attacker
 352001,39,mbg001,Boss,Huge,Huge,Metal,Walk,Defender,None,None,Defender
 352011,133,mbg001_psid,Boss,Huge,Huge,Metal,Walk,Defender,None,None,Defender
+352021,193,mbg001_anmi_singleraid,Boss,Huge,Huge,Metal,Walk,Defender,None,None,Defender
 352002,61,mbg002,Boss,Huge,Huge,Metal,Fly,Supporter,None,None,Supporter
 352012,149,mbg002_raid,Boss,Huge,Huge,Metal,Fly,Supporter,None,None,Supporter
 352004,64,mbg004,Boss,Huge,Huge,Metal,Fly,Air_Defender,None,None,Defender

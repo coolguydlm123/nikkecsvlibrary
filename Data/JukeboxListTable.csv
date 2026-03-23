@@ -301,6 +301,14 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 9170033,917,event_bgm_rebuildeden_storm,True,139,Thunderbyte,33,steelplus,False,FieldItem,55027006
 9170034,917,event_bgm_rebuildeden_heat,True,133,Solar,34,steelplus,False,FieldItem,55027007
 9170035,917,event_bgm_rebuildeden_snow,True,128,Glacier Program,35,steelplus,False,FieldItem,55027008
+9180001,918,event_bgm_terminus_terminus,True,186,Terminus Ticket,1,Nauts,False,FieldItem,55028005
+9180002,918,event_bgm_terminus_desert,True,117,Melody of Desert,2,Nauts,False,FieldItem,55028007
+9180003,918,event_bgm_terminus_snowland,True,117,Melody of Snow,3,DoubleTO,False,FieldItem,55028009
+9180004,918,event_bgm_terminus_flowercamp,True,171,Time of Flower,4,Cosmograph,False,FieldItem,55028011
+9180008,918,event_bgm_terminus_christmastravel,True,116,Christmas Travel,5,Nauts,False,FieldItem,55028012
+9180005,918,event_bgm_azxservicetime_title,True,104,AZX: Service Time,6,K.Shiraki,False,FieldItem,55028006
+9180006,918,event_bgm_azxservicetime_play_1,True,109,Puzzle Travel,7,K.Shiraki,False,FieldItem,55028008
+9180007,918,event_bgm_azxservicetime_play_2,True,119,Strawberry Candy,8,K.Shiraki,False,FieldItem,55028010
 9999901,999,event_bgm_tungsten,False,174,TuNGSTeN,1,Hiroyuki SAWANO (feat. mizuki),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 1,1,bgm_title_godnessfall,False,112,The Godness Fall,1,Cosmograph,False,FieldItem,50003201
 2,1,bgm_menu_lobby,True,64,Good Day Commander,2,Cosmograph,False,FieldItem,50004203
@@ -444,6 +452,7 @@ id,theme,bgm,is_loop,play_time,name,order,artist,is_default_bgm,get_info_type,ge
 4064,4,event_bgm_intothefire,False,231,Into the Fire,65,Cosmograph (feat. Victor Borba),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 4065,4,event_bgm_intothefire_inst,False,89,Into the Fire (OP Ver.),66,Cosmograph (feat. Victor Borba),True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 4066,4,event_bgm_blankticket,False,178,BLANK TICKET,67,Shofin,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
+4067,4,bgm_boss_mbg001_amni,True,125,The Moving Fortress (Desert Storm Remix),68,Zekk remixed by NieN,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5001,5,bgm_prologue,True,45,Between life and Death,1,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5002,5,bgm_spot_encounter,True,83,ENCOUNTER,2,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM
 5003,5,bgm_spot_counterattack,True,84,Counter Attack,3,Cosmograph,True,Locale,MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM

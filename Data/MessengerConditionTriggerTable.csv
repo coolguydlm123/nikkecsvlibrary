@@ -481,6 +481,12 @@ id,event_id,message_type,tid,resource_id,name_localkey,enter_scenario_id,exit_sc
 2012901,0,Message,m_ex_soline_frostticket_01,0,,,,0,0,ObtainCharacter,5158,1,MessageClear,2002601,1,None,0,0,None,0,0,None,0,0,None,0,0
 2012902,0,RandomMessage,m_ex_soline_frostticket_02,0,,,,0,0,ObtainCharacter,5158,1,MessageClear,2012901,1,None,0,0,None,0,0,None,0,0,None,0,0
 2012903,0,RandomMessage,m_ex_soline_frostticket_03,0,,,,0,0,ObtainCharacter,5158,1,MessageClear,2012901,1,None,0,0,None,0,0,None,0,0,None,0,0
+2013001,0,Message,m_ex_diesel_wintersweets_01,0,,,,0,0,ObtainCharacter,5159,1,MessageClear,2002701,1,None,0,0,None,0,0,None,0,0,None,0,0
+2013002,0,RandomMessage,m_ex_diesel_wintersweets_02,0,,,,0,0,ObtainCharacter,5159,1,MessageClear,2013001,1,None,0,0,None,0,0,None,0,0,None,0,0
+2013003,0,RandomMessage,m_ex_diesel_wintersweets_03,0,,,,0,0,ObtainCharacter,5159,1,MessageClear,2013001,1,None,0,0,None,0,0,None,0,0,None,0,0
+2013101,0,Message,m_ex_brid_silenttrack_01,0,,,,0,0,ObtainCharacter,5160,1,MessageClear,2002501,1,None,0,0,None,0,0,None,0,0,None,0,0
+2013102,0,RandomMessage,m_ex_brid_silenttrack_02,0,,,,0,0,ObtainCharacter,5160,1,MessageClear,2013101,1,None,0,0,None,0,0,None,0,0,None,0,0
+2013103,0,RandomMessage,m_ex_brid_silenttrack_03,0,,,,0,0,ObtainCharacter,5160,1,MessageClear,2013101,1,None,0,0,None,0,0,None,0,0,None,0,0
 3000101,0,RandomMessage,m_ex_counters_01,0,,,,0,0,ObtainCharacter,3001,1,ObtainCharacter,3002,1,ObtainCharacter,3005,1,MainQuestClear,25,1,MessageClear,9000201,1,None,0,0
 3000102,0,RandomMessage,m_ex_counters_02,0,,,,0,0,ObtainCharacter,3001,1,ObtainCharacter,3002,1,ObtainCharacter,3005,1,MainQuestClear,25,1,MessageClear,9000201,1,None,0,0
 3000202,0,RandomMessage,m_ex_absolut_02,0,,,,0,0,ObtainCharacter,5023,1,ObtainCharacter,5022,1,ObtainCharacter,5005,1,MainQuestClear,49,1,MessageClear,9000402,1,None,0,0
@@ -609,6 +615,8 @@ id,event_id,message_type,tid,resource_id,name_localkey,enter_scenario_id,exit_sc
 3003902,0,RandomMessage,m_ex_absolut_07,0,,,,0,0,ObtainCharacter,5149,1,ObtainCharacter,5147,1,ObtainCharacter,5148,1,MainQuestClear,25,1,None,0,0,None,0,0
 3001606,0,RandomMessage,m_ex_scouting_06,0,,,,0,0,ObtainCharacter,5154,1,ObtainCharacter,5015,1,None,0,0,MainQuestClear,25,1,None,0,0,None,0,0
 3001607,0,RandomMessage,m_ex_scouting_07,0,,,,0,0,ObtainCharacter,5154,1,ObtainCharacter,5015,1,None,0,0,MainQuestClear,25,1,MessageClear,3001606,1,None,0,0
+3000703,0,RandomMessage,m_ex_infinityrail_03,0,,,,0,0,ObtainCharacter,5159,1,ObtainCharacter,5160,1,None,0,0,MainQuestClear,25,1,None,0,0,None,0,0
+3000704,0,RandomMessage,m_ex_infinityrail_04,0,,,,0,0,ObtainCharacter,5159,1,ObtainCharacter,5160,1,None,0,0,MainQuestClear,25,1,MessageClear,3000703,1,None,0,0
 9000101,0,Message,m_mainafter_01_01,0,,,,0,0,MainQuestClear,11,1,None,0,0,None,0,0,None,0,0,None,0,0,None,0,0
 9000201,0,Message,m_mainafter_02_01,0,,,,0,0,MainQuestClear,20,1,None,0,0,None,0,0,None,0,0,None,0,0,None,0,0
 9000202,0,Message,m_mainafter_02_02,0,,,,0,0,MainQuestClear,25,1,None,0,0,None,0,0,None,0,0,None,0,0,None,0,0

@@ -263,3 +263,7 @@ id,event_type,tid,resource_id,name_localkey,enter_scenario_id,exit_scenario_id,s
 1130111,Outpost,11301,5158,Locale_SuddenStory:d_ex_cafe_11_title,d_ex_cafe_11,,1,3000003,ObtainCharacter,5158,1,ObtainCharacter,5010,1,None,0,0,None,0,0,None,0,0,None,0,0
 1220110,Outpost,12201,5158,Locale_SuddenStory:d_ex_wingofvictory_10_title,d_ex_wingofvictory_10,,1,3000003,ObtainCharacter,5158,1,ObtainCharacter,5136,1,None,0,0,None,0,0,None,0,0,None,0,0
 1180112,Outpost,11801,5158,Locale_SuddenStory:d_ex_clothingstore_12_title,d_ex_clothingstore_12,,1,3000003,ObtainCharacter,5158,1,ObtainCharacter,5077,1,None,0,0,None,0,0,None,0,0,None,0,0
+2350106,Outpost,23501,5159,Locale_SuddenStory:d_ex_flowerpark_06_title,d_ex_flowerpark_06,,1,3000003,ObtainCharacter,5159,1,ObtainCharacter,5126,1,None,0,0,None,0,0,None,0,0,None,0,0
+1060110,Outpost,10601,5159,Locale_SuddenStory:d_ex_trainstation_10_title,d_ex_trainstation_10,,1,3000003,ObtainCharacter,5159,1,ObtainCharacter,5158,1,ObtainCharacter,5160,1,None,0,0,None,0,0,None,0,0
+1040113,Outpost,10401,5160,Locale_SuddenStory:d_ex_maidcafe_13_title,d_ex_maidcafe_13,,1,3000003,ObtainCharacter,5160,1,ObtainCharacter,5159,1,ObtainCharacter,5046,1,None,0,0,None,0,0,None,0,0
+1050112,Outpost,10501,5160,Locale_SuddenStory:d_ex_toyshop_12_title,d_ex_toyshop_12,,1,3000003,ObtainCharacter,5160,1,ObtainCharacter,3007,1,ObtainCharacter,3008,1,None,0,0,None,0,0,None,0,0

@@ -247,3 +247,11 @@ id,preset_group_id,difficulty_type,quick_battle_type,character_lv,wave_open_cond
 10031006,10031,Common,StageClear,0,10031005,6,6703101,185,0,184,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641306,3641206
 10031007,10031,Common,StageClear,0,10031006,7,6703101,200,0,195,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,3641307,3641207
 10031008,10031,Trial,StageClear,400,10031007,8,6703102,390,904,400,1,True,Locale_System:xba002_dmtr_name,Locale_System:xba002_dmtr_description,si_xba002_dmtr,full_xba002_dmtr,0,0
+10032001,10032,Common,StageClear,0,0,1,6703201,45,0,54,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641301,3641201
+10032002,10032,Common,StageClear,0,10032001,2,6703201,85,0,92,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641302,3641202
+10032003,10032,Common,StageClear,0,10032002,3,6703201,120,0,125,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641303,3641203
+10032004,10032,Common,StageClear,0,10032003,4,6703201,145,0,142,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641304,3641204
+10032005,10032,Common,StageClear,0,10032004,5,6703201,175,0,169,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641305,3641205
+10032006,10032,Common,StageClear,0,10032005,6,6703201,185,0,184,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641306,3641206
+10032007,10032,Common,StageClear,0,10032006,7,6703201,200,0,195,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,3641307,3641207
+10032008,10032,Trial,StageClear,400,10032007,8,6703202,390,904,400,1,True,Locale_System:mbg001_anmi_name,Locale_System:mbg001_anmi_description,si_mbg001,full_mbg001,0,0

@@ -89,6 +89,8 @@ id,event_id,part_type,prologue_scenario,auto_charge_id,event_item_type,event_ite
 10093,40093,OnePart,,10093,Item,7060093,93,0,1093,0,0,0,goddessfall_part1,,
 10094,40094,OnePart,,10093,Item,7060093,94,0,1094,0,0,0,goddessfall_part2,,
 10095,40095,OnePart,event_blankticket_prologue,10095,Item,7060095,95,0,1095,95,9009501,0,blankticket,,
+10096,40096,OnePart,,10096,Item,7060096,96,0,1096,0,0,0,terminusticket_part1,,
+10097,40097,OnePart,,10096,Item,7060096,97,0,1097,0,0,0,terminusticket_part2,,
 40001,60001,OnePart,,40001,None,0,15,0,0,0,0,0,,,full_eba001
 40002,60002,OnePart,,40002,None,0,1002,0,0,0,0,0,,,full_mbg002
 40003,60003,OnePart,,40003,None,0,1003,0,0,0,0,0,,,full_mbg004
@@ -145,3 +147,4 @@ id,event_id,part_type,prologue_scenario,auto_charge_id,event_item_type,event_ite
 40092,60092,OnePart,,40092,None,0,1092,0,0,0,0,0,,,full_bbg003
 40093,60093,OnePart,,40093,None,0,1093,0,0,0,0,0,,,full_ebg002
 40095,60095,OnePart,,40095,None,0,1095,0,0,0,0,0,,,full_bbg001
+40096,60096,OnePart,,40096,None,0,1096,0,0,0,0,0,,,full_bbg002

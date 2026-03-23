@@ -205,3 +205,4 @@ id,qte_prefab,random_preset,time_limit,first_col_anim_time,element_id,group_id/0
 10210,QTEPrefab_bbg009_bh,False,2000,100,200001,group_id,281,,,,,,,monster_id,1510190121,monster_id,1510190125.0,,,,,,,,,monster_id,1510190128.0,,,,,,,,,,,,,,
 10211,QTEPrefab_Queen,False,1200,100,500001,group_id,282,,,,,,,monster_id,215052855,monster_id,215052859.0,,,,,,,,,monster_id,215052862.0,,,,,,,,,,,,,,
 10212,QTEPrefab_OnlyOne,False,2000,100,100001,group_id,283,group_id,284.0,group_id,285.0,,,monster_id,225062815,,,,,,,,,,,,,,,,,,,,,,,,,,
+10213,QTEPrefab_AltEizen,False,1800,100,300001,group_id,286,group_id,287.0,group_id,288.0,,,monster_id,-774757161,monster_id,-774757158.0,,,,,,,,,,,,,,,,,,,,,,,,

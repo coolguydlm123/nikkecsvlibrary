@@ -88,3 +88,5 @@ id,group,order,name,description,mission_list_group,point_resource,init_type
 9301,93,1,Locale_System:DAILY_MISSION,Locale_System:DAILY_MISSION_INFO,9301,None,Daily
 9303,93,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,9303,None,None
 9503,95,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,9503,None,None
+9601,96,1,Locale_System:DAILY_MISSION,Locale_System:DAILY_MISSION_INFO,9601,None,Daily
+9603,96,3,Locale_System:CHALLENGE_MISSION,Locale_System:CHALLENGE_MISSION_INFO,9603,None,None

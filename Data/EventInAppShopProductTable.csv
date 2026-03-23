@@ -121,3 +121,7 @@ id,group,order,package_group_id,buy_limit_type,buy_limit_count,is_free,midas_pro
 2803,28,4,283,Account,7,False,90002803
 2804,28,5,284,Account,5,False,90002804
 2805,28,1,285,Account,1,True,90002805
+2901,29,1,291,Account,36,False,90002901
+2902,29,2,292,Account,18,False,90002902
+2903,29,3,293,Account,9,False,90002903
+2904,29,4,294,Account,6,False,90002904

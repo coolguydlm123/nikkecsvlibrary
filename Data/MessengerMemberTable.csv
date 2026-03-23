@@ -155,6 +155,8 @@ eunhwa_t,Nikke,Locale_Character:92_name,Locale_Character:95_intro,si_c095_00_s,s
 ade_b,Nikke,Locale_Character:310_name,Locale_Character:315_intro,si_c315_00_s,sns_bg_default
 milk_b,Nikke,Locale_Character:141_name,Locale_Character:143_intro,si_c143_00_s,sns_bg_default
 delta_n,Nikke,Locale_Character:20_name,Locale_Character:23_intro,si_c023_00_s,sns_bg_default
+diesel_w,Nikke,Locale_Character:72_name,Locale_Character:75_intro,si_c075_00_s,sns_bg_default
+brid_w,Nikke,Locale_Character:70_name,Locale_Character:73_intro,si_c073_00_s,sns_bg_default
 andersen,NPC,Locale_Character:903_name,Locale_Character:903_intro,si_c903_00_s,sns_bg_default
 syuen,NPC,Locale_Character:901_name,Locale_Character:901_intro,si_c901_00_s,sns_bg_default
 mustang,NPC,Locale_Character:902_name,Locale_Character:902_intro,si_c902_00_s,sns_bg_default

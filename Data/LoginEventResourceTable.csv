@@ -88,3 +88,4 @@ id,event_id,character_id,costume_id,set_character_anim,logo_resource_table,logo_
 82503,82503,112101,0,idle,,,attendance_event_coinsinrush,False,0,0
 82603,82603,112101,0,idle,,,attendance_event_ce007,False,0,0
 82703,82703,112101,0,idle,,,attendance_event_goddessfall,False,0,0
+82803,82803,112101,0,idle,,,attendance_event_terminusticket,False,0,0

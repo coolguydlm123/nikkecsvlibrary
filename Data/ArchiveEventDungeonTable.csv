@@ -54,3 +54,5 @@ id,part_name,difficult_group
 76,Locale_System:STORY_EVENT_PART_02_NAME,1076
 59,,1059
 60,,1060
+64,Locale_System:STORY_EVENT_PART_01_NAME,1064
+65,Locale_System:STORY_EVENT_PART_02_NAME,1065

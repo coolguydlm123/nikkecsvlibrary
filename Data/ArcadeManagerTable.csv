@@ -7,3 +7,4 @@ id,time_reference_id_for_activate,order,has_union_ranking,game_button_resource_i
 1006,10004,6,False,arcade_game_thumbnail_inthemirror,arcade_game_image_inthemirror,,Locale_System:ARCADE_GAME_TITLE_06,Mvg,2
 1007,10005,7,True,arcade_game_thumbnail_letsplaysoda,arcade_game_image_letsplaysoda,,Locale_System:ARCADE_GAME_TITLE_07,PlaySoda,3
 1008,10006,8,True,arcade_game_thumbnail_bubblemarch,arcade_game_image_bubblemarch,,Locale_System:ARCADE_GAME_TITLE_08,BubbleMarch,102
+1009,10007,9,True,arcade_game_thumbnail_dragondungeonrun,arcade_game_image_dragondungeonrun,,Locale_System:ARCADE_GAME_TITLE_09,,2

@@ -92,6 +92,8 @@ id,part_name,bonus_reward_character_group,bonus_reward_id,difficult_group
 93,Locale_System:STORY_EVENT_PART_01_NAME,93,7100093,1093
 94,Locale_System:STORY_EVENT_PART_02_NAME,94,7100094,1094
 95,,95,7100095,1095
+96,Locale_System:STORY_EVENT_PART_01_NAME,96,7100096,1096
+97,Locale_System:STORY_EVENT_PART_02_NAME,97,7100097,1097
 1002,,0,0,2002
 1003,,0,0,2003
 1020,,0,0,2020
@@ -147,3 +149,4 @@ id,part_name,bonus_reward_character_group,bonus_reward_id,difficult_group
 1092,,0,0,2092
 1093,,0,0,2093
 1095,,0,0,2095
+1096,,0,0,2096

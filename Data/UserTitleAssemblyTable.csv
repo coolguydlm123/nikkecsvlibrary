@@ -159,3 +159,5 @@ id,assembly_type,icon_id,bg_deco_id,title_locale_key,bg_color_rgb,title_stroke_c
 5156,Character,si_c262_00_s,si_c262_00_s,Locale_System:USERTITLE_ASSEMBLY_NIKKE_5156,0,0,5156
 5157,Character,si_c331_00_s,si_c331_00_s,Locale_System:USERTITLE_ASSEMBLY_NIKKE_5157,0,0,5157
 5158,Character,si_c074_00_s,si_c074_00_s,Locale_System:USERTITLE_ASSEMBLY_NIKKE_5158,0,0,5158
+5159,Character,si_c075_00_s,si_c075_00_s,Locale_System:USERTITLE_ASSEMBLY_NIKKE_5159,0,0,5159
+5160,Character,si_c073_00_s,si_c073_00_s,Locale_System:USERTITLE_ASSEMBLY_NIKKE_5160,0,0,5160

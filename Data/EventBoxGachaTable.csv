@@ -27,3 +27,4 @@ id,event_id,name,description,on_info,info_description,event_item_type,free_ticke
 26,160026,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,0,7061034,26,1,26,26,base_gacha_type_costume_c043_02,base_gacha_type_costume_c043_02,F6F6F6
 27,160027,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,7061036,7061035,27,1,27,27,base_gacha_type_costume_c470_02,base_gacha_type_costume_c470_02,FF934C
 28,160028,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,7061038,7061037,28,1,28,28,base_gacha_type_costume_c223_01,base_gacha_type_costume_c223_01,E7DFFF
+29,160029,Locale_System:EVENT_BOX_GACHA_NAME_2,Locale_System:EVENT_BOX_GACHA_DESC_2,False,,Item,0,7061039,29,1,29,29,base_gacha_type_costume_c270_03,base_gacha_type_costume_c270_03,DFDAD7

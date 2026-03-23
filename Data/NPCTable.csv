@@ -192,6 +192,15 @@ id,name_localkey,npc_prefab,interaction_distance,chapter_mod,short_cut,quest_typ
 7027003,Locale_Character:929_name,c5141_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
 7027004,Locale_Character:890_name,c5142_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
 7027005,Locale_Character:223_name,c5139_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028001,Locale_Character:71_name,c5143_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028002,Locale_Character:npc_604_name,c5144_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028003,Locale_Character:72_name,c5145_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028004,Locale_Character:70_name,c5146_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028005,Locale_Character:380_name,c5147_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028006,Locale_Character:22_name,c5148_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028007,Locale_Character:150_name,c5149_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028008,Locale_Character:130_name,c5150_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
+7028009,Locale_Character:npc_608_name,c5151_00_var,200,Normal,1,None,0,0,0,None,,None,None,,,None,0,None
 9900001,Locale_Character:quest_npc_9900001_name,c170_00_var,200,Normal,1,None,0,0,0,None,,None,None,,d_balloon_01_a,None,3,Talk
 9900002,Locale_Character:quest_npc_9900002_name,c170_00_var,200,Normal,1,None,0,0,0,FieldTalk,3,Always,None,,,None,0,None
 9900003,Locale_Character:quest_npc_9900003_name,c091_00_var,200,Normal,1,None,0,0,0,Dialog,d_main_01_07_s,Always,FieldTalk,1,,None,0,None

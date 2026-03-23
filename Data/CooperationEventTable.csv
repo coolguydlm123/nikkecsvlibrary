@@ -80,6 +80,8 @@ id,event_id,thumbnail,contents_type,contents_value,cooperation_daily_group,ui_pr
 10079,30079,None,MultiRaid,79,302,common_dmtr,currency_id,8000,currency_id,8100.0
 10080,30080,None,MultiRaid,80,304,common_hsta,currency_id,8000,currency_id,8100.0
 10081,30081,None,MultiRaid,81,302,common_psid,currency_id,8000,currency_id,8100.0
+10082,30082,None,MultiRaid,82,302,common_dmtr,currency_id,8000,currency_id,8100.0
+10083,30083,None,MultiRaid,83,302,common_hsta,currency_id,8000,currency_id,8100.0
 100101,300101,None,MultiRaid,101,201,eba003_hsta,currency_id,8000,,
 100102,300102,None,MultiRaid,102,201,eba003,currency_id,8000,,
 100103,300103,None,MultiRaid,103,201,eba003_dmtr,currency_id,8000,,

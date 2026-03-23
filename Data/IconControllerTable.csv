@@ -177,6 +177,8 @@ id,condition_type,condition_value,icon_id
 515600,GetCharacter,5156,515600
 515700,GetCharacter,5157,515700
 515800,GetCharacter,5158,515800
+515900,GetCharacter,5159,515900
+516000,GetCharacter,5160,516000
 301013001,GetCostume,20001,30101
 302013002,GetCostume,30001,30201
 516015016,GetCostume,30002,51601
@@ -317,3 +319,5 @@ id,condition_type,condition_value,icon_id
 513702,GetCostume,30053,513702
 551501,GetCostume,120003,551501
 102001,GetCostume,30054,102001
+500803,GetCostume,30055,500803
+513501,GetCostume,30056,513501
